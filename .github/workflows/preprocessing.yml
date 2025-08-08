@@ -22,7 +22,7 @@ jobs:
 
     - name: Install dependencies
       run: |
-        pip install pandas pydrive2 nbconvert iipykernel
+        pip install pandas pydrive2 nbconvert ipykernel
 
     - name: Register Python kernel
       run: |
