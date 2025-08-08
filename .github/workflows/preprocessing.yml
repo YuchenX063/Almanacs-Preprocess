@@ -1,0 +1,45 @@
+name: Almanacs Preprocessing
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'almanacs_preprocess.ipynb'
+  workflow_dispatch:
+
+jobs:
+  preprocess:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v3
+
+    - name: Set up Python
+      uses: actions/setup-python@v4
+      with:
+        python-version: '3.10'
+
+    - name: Install dependencies
+      run: |
+        pip install pandas pydrive2 nbconvert
+
+    - name: Write Google service account key
+      run: |
+        echo "${{ secrets.GOOGLE_SERVICE_ACCOUNT_KEY }}" > service_account.json
+    
+    - name: Run preprocessing script
+      run: |
+        jupyter nbconvert --to notebook --execute almanacs_preprocess.ipynb --output almanacs_preprocessed.ipynb
+
+
+    - name: Configure Git
+      run: |
+        git config --global user.name "github-actions"
+        git config --global user.email "github-actions@github.com"
+      
+    - name: Commit and push changes
+      run: |
+        git add processed/
+        git commit -m "Update preprocessed almanacs data" || echo "No changes to commit"
+        git push
