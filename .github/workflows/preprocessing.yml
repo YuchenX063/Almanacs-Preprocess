@@ -22,7 +22,11 @@ jobs:
 
     - name: Install dependencies
       run: |
-        pip install pandas pydrive2 nbconvert
+        pip install pandas pydrive2 nbconvert iipykernel
+
+    - name: Register Python kernel
+      run: |
+        python -m ipykernel install --user --name python3
 
     - name: Write Google service account key
       run: |
