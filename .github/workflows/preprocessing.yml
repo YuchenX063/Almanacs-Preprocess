@@ -30,7 +30,7 @@ jobs:
 
     - name: Write Google service account key
       run: |
-        echo "${{ secrets.GOOGLE_SERVICE_ACCOUNT_KEY }}" > service_account.json
+        echo "${{ secrets.GOOGLE_SERVICE_ACCOUNT_KEY_B64 }}" | base64 --decode > service_account.json
     
     - name: Run preprocessing script
       run: |
