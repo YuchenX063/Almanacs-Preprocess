@@ -2,7 +2,7 @@ name: Almanacs Preprocessing
 
 on:
   push:
-    branches: [main]
+    branches: [master]
     paths:
       - 'almanacs_preprocess.ipynb'
   workflow_dispatch:
