@@ -1,0 +1,13 @@
+﻿instID,church_type,instName,language,instNote,placeName,region,county_orig,county_reg,city_orig,city_reg,state_orig,state_reg,latitude,longitude,attendingInstID,attendingChurch,attendingChurchFrequency,persID,persTitle,persName,persSuffix,persRole,persNote,memberType,member,affiliated,year,NOTES,courses,attendingPersID,attendingChurchNote,order,diocese,diocese_reg
+﻿mob.al.0001,﻿cathedral,not recorded,English,,,,,﻿Mobile County,﻿Mobile,﻿Mobile,﻿AL,﻿AL,30.6901203,-88.0458984,,,,,﻿Right Rev.,﻿Michael Portier,﻿D.D.,,,,,,﻿1838,﻿Mobile,,﻿,﻿,﻿,1835.0,Mobile
+﻿mob.al.0001,﻿cathedral,not recorded,English,,,,,﻿Mobile County,﻿Mobile,﻿Mobile,﻿AL,,30.6901203,-88.0458984,,,,,﻿Very Rev.,﻿M. Loras,﻿D.D.,,,,,,﻿1838,,,﻿,﻿,﻿,1835.0,Mobile
+﻿mob.al.0001,﻿cathedral,not recorded,English,,,,,﻿Mobile County,﻿Mobile,﻿Mobile,﻿AL,,30.6901203,-88.0458984,,,,,﻿Rev.,﻿James Lesne,,,,,,,﻿1838,,,﻿,﻿,﻿,1835.0,Mobile
+﻿mob.al.9001,﻿church,﻿St. Joseph's,English,,,,,,﻿Springhill,﻿Mobile,﻿AL,﻿AL,30.6901203,-88.0458984,,,,,﻿Rev.,﻿J. Bazin,,,,,,,﻿1838,,,﻿,﻿,﻿,1835.0,Mobile
+﻿mob.al.0022,﻿church,﻿St. Peter's,English,,,,,﻿Montgomery County,﻿Montgomery,﻿Montgomery,﻿AL,﻿AL,32.3754699,-86.3058448,,,,,﻿Rev.,﻿G. Chalon,,,,,,,﻿1838,,,﻿,﻿,﻿,1835.0,Mobile
+﻿mob.al.9002,﻿church,not recorded,English,,,,,,﻿Moulton,﻿Moulton,﻿AL,﻿AL,32.3754699,-86.3058448,,,,,﻿Rev.,﻿P. Mauvernay,,,,,,,﻿1838,,,﻿,﻿,﻿,1835.0,Mobile
+﻿mob.al.9003,﻿church,not recorded,English,,,,,,﻿Mount Vernon,﻿Mount Vernon,﻿AL,﻿AL,31.08636548,-88.00993023,,,﻿visited by Rev. M. Loras,,﻿Rev.,﻿M. Loras,,,,,,,﻿1838,,"﻿https://en.wikipedia.org/wiki/Mount_Vernon,_Alabama",﻿,﻿,﻿,1835.0,Mobile
+﻿mob.al.9004,﻿church,not recorded,English,,,,,,﻿Rayou Battery,﻿Bayou La Batre,﻿AL,﻿AL,30.40428461,-88.24811635,,,﻿visited by Rev. M. Loras,,﻿Rev.,﻿M. Loras,,,,,,,﻿1838,,"﻿https://en.wikipedia.org/wiki/Bayou_La_Batre,_Alabama",﻿,﻿,﻿,1835.0,Mobile
+﻿mob.al.9005,﻿academy,not recorded,English,,,,,,﻿Summerville,﻿Somerville,﻿AL,﻿AL,34.47,-86.798889,,,,,﻿Rev.,﻿J. Lesne,,,,,,,﻿1838,,,﻿,﻿,﻿,1835.0,Mobile
+﻿sta.fl.0001,﻿academy,not recorded,English,,,,,﻿St. Johns County,﻿St. Augustine,﻿St. Augustine,﻿FL,﻿FL,29.8931024,-81.31244863,,,,,,,,,,,,,﻿1838,,,﻿,﻿,﻿,1835.0,Mobile
+﻿mob.al.9000,﻿academy,not recorded,English,﻿A new Church,,,,﻿Escambia County,﻿Pensacola,﻿Pensacola,﻿FL,﻿FL,30.41378766,-87.21627056,,,,,﻿Rev.,﻿S. Guinand,,,,,,,﻿1838,,﻿https://stmichaelbasilica.com/our-history,﻿,﻿,﻿,1835.0,Mobile
+﻿sta.fl.0006,﻿academy,not recorded,English,,,,,﻿Nassau County,﻿Fernandina,﻿Fernandina Beach,﻿FL,﻿FL,30.67379678,-81.46152823,,,,,,,,,,,,,﻿1838,,﻿https://www.ameliaisland.com/places-of-worship/,﻿,﻿,﻿,1835.0,Mobile
