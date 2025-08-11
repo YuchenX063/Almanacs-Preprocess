@@ -36,7 +36,7 @@ jobs:
       run: jupyter nbconvert --to script almanacs_preprocess.ipynb
     
     - name: Run script
-      run: python almanacs_preprocess.py
+      run: python -u almanacs_preprocess.py
 
 
     - name: Configure Git
