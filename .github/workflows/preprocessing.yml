@@ -32,9 +32,11 @@ jobs:
       run: |
         echo "${{ secrets.GOOGLE_SERVICE_ACCOUNT_KEY_B64 }}" | base64 --decode > service_account.json
     
-    - name: Run preprocessing script
-      run: |
-        jupyter nbconvert --to notebook --execute almanacs_preprocess.ipynb --output almanacs_preprocessed.ipynb
+    - name: Convert notebook to script
+      run: jupyter nbconvert --to script almanacs_preprocess.ipynb
+    
+    - name: Run script
+      run: python almanacs_preprocess.py
 
 
     - name: Configure Git
