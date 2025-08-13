@@ -126,7 +126,7 @@
 ﻿san.nm.0237,﻿chapel,not recorded,English,,,,,,﻿Valverde,﻿Val Verde,﻿NM,,34.15803003,-106.9160721,﻿san.nm.0133,﻿Attended from Socorro,,,,,,,,,,,,1865.0,﻿,﻿,﻿SantaFé,SantaFe
 ﻿san.nm.0140,﻿chapel,not recorded,English,,,,,,﻿San Antonio,﻿San Antonio,﻿NM,,34.15803003,-106.9160721,﻿san.nm.0133,﻿Attended from Socorro,,,,,,,,,,,,1865.0,﻿,﻿,﻿SantaFé,SantaFe
 ﻿san.nm.0141,﻿church,﻿San Fernando,English,,,﻿Taos,,,﻿Taos,﻿Taos,﻿NM,,36.4072134,-105.5733788,,,,﻿gab_ussel_001,﻿Rev.,﻿Gabriel Ussel,,,,,,,,1865.0,﻿,﻿,﻿SantaFé,SantaFe
-﻿san.nm.0141,﻿church,﻿San Fernando,English,,,﻿Taos,,,﻿Taos,﻿Taos,﻿NM,,36.4072134,-105.5733788,,,,,﻿Rev.,﻿R. Rodriguez,,,,,,,,1865.0,﻿,﻿,﻿SantaFé,SantaFe
+﻿san.nm.0141,﻿church,﻿San Fernando,English,,,﻿Taos,,,﻿Taos,﻿Taos,﻿NM,,36.4072134,-105.5733788,,,,﻿r_rodriguez_001,﻿Rev.,﻿R. Rodriguez,,,,,,,,1865.0,﻿,﻿,﻿SantaFé,SantaFe
 ﻿san.nm.0144,﻿chapel,﻿San Hieronimo,English,,﻿Indian Pueblo,﻿Taos,,,,,﻿NM,,36.4384861,-105.5459997,﻿san.nm.0141,﻿attended from Taos,,,,,,,,,,,,1865.0,﻿,﻿,﻿SantaFé,SantaFe
 ﻿san.nm.0145,﻿chapel,﻿San Francisco,English,,,﻿Taos,,,﻿El Rancho,﻿Ranchos de Taos,﻿NM,,35.889192,-106.0797459,﻿san.nm.0141,﻿attended from Taos,,,,,,,,,,,,1865.0,﻿,﻿,﻿SantaFé,SantaFe
 ﻿san.nm.0147,﻿chapel,not recorded,English,,,﻿Taos,,,﻿El Ronchito,,﻿NM,,35.9972579,-105.884813,﻿san.nm.0141,﻿attended from Taos,,,,,,,,,,,,1865.0,﻿,﻿,﻿SantaFé,SantaFe
@@ -136,10 +136,10 @@
 ﻿san.nm.0156,﻿chapel,﻿Sangre de Cristo,English,,,﻿Tome,,,﻿Valencia,﻿Valencia,﻿NM,,34.9727305,-105.0323635,﻿san.nm.0155,﻿Attended from Tome,,,,,,,,,,,,1865.0,﻿,﻿,﻿SantaFé,SantaFe
 ﻿san.nm.0158,﻿chapel,not recorded,English,,,﻿Tome,,,﻿Casa Colorada,﻿Casa Colorada,﻿NM,,34.5739503,-105.9370856,﻿san.nm.0155,﻿Attended from Tome,,,,,,,,,,,,1865.0,﻿,﻿,﻿SantaFé,SantaFe
 ﻿san.nm.0239,﻿chapel,not recorded,English,,,﻿Tome,,,﻿La. Peralta,﻿Peralta,﻿NM,,34.5739503,-105.9370856,﻿san.nm.0155,﻿Attended from Tome,,,,,,,,,,,,1865.0,﻿,﻿,﻿SantaFé,SantaFe
-﻿san.nm.0215,﻿chapel,not recorded,English,,,,,,﻿Las Cruces,﻿Las Cruces,﻿AZ,,34.5739503,-105.9370856,,,,,﻿Rev.,﻿J.J. Vaca,,,,,,,,1865.0,﻿,﻿,﻿SantaFé,SantaFe
-﻿den.co.0001,﻿church,﻿Church of the Immaculate Conception,English,,,,,﻿City and County of Denver,﻿Denver City,﻿Denver,﻿CO,,34.5739503,-105.9370856,,,,,﻿Very Rev.,﻿J.P. Macheboeuf,﻿Pastor,﻿V.G.,,,,,,1865.0,﻿,﻿,﻿SantaFé,SantaFe
-﻿den.co.0001,﻿church,﻿Church of the Immaculate Conception,English,,,,,﻿City and County of Denver,﻿Denver City,﻿Denver,﻿CO,,34.5739503,-105.9370856,,,,,﻿Rev.,﻿J.B. Raverdy,﻿Assistant,,,,,,,1865.0,﻿,﻿,﻿SantaFé,SantaFe
-﻿den.co.0016,﻿church,﻿St. Patrick's,English,,,,,﻿Gilpin County,﻿Central City,﻿Central City,﻿CO,,34.5739503,-105.9370856,,,,,﻿Rev.,﻿Thomas A. Smith,,,,,,,,1865.0,﻿,﻿,﻿SantaFé,SantaFe
+﻿san.nm.0215,﻿chapel,not recorded,English,,,,,,﻿Las Cruces,﻿Las Cruces,﻿AZ,,34.5739503,-105.9370856,,,,﻿jj_vaca_001,﻿Rev.,﻿J.J. Vaca,,,,,,,,1865.0,﻿,﻿,﻿SantaFé,SantaFe
+﻿den.co.0001,﻿church,﻿Church of the Immaculate Conception,English,,,,,﻿City and County of Denver,﻿Denver City,﻿Denver,﻿CO,,34.5739503,-105.9370856,,,,﻿jp_macheboeuf_002,﻿Very Rev.,﻿J.P. Macheboeuf,﻿Pastor,﻿V.G.,,,,,,1865.0,﻿,﻿,﻿SantaFé,SantaFe
+﻿den.co.0001,﻿church,﻿Church of the Immaculate Conception,English,,,,,﻿City and County of Denver,﻿Denver City,﻿Denver,﻿CO,,34.5739503,-105.9370856,,,,﻿jb_raverdy_002,﻿Rev.,﻿J.B. Raverdy,﻿Assistant,,,,,,,1865.0,﻿,﻿,﻿SantaFé,SantaFe
+﻿den.co.0016,﻿church,﻿St. Patrick's,English,,,,,﻿Gilpin County,﻿Central City,﻿Central City,﻿CO,,34.5739503,-105.9370856,,,,﻿tho_a_smith_001,﻿Rev.,﻿Thomas A. Smith,,,,,,,,1865.0,﻿,﻿,﻿SantaFé,SantaFe
 ﻿den.co.0041,﻿church,not recorded,English,﻿Mexican population,﻿church building on a beautiful farm given to the church,,﻿Huerfano Co.,﻿Huerfano County,,,,,34.5739503,-105.9370856,,﻿Attended from Denver,,,,,,,,,,,,1865.0,﻿,﻿,﻿SantaFé,SantaFe
 ﻿den.co.0037,﻿chapel,﻿Chapel of the Holy Trinity,English,﻿Mexican population,,,﻿Las Animas Co.,﻿Las Animas County,﻿Trinidad,﻿Trinidad,﻿CO,,34.5739503,-105.9370856,,﻿Attended from Mora,,,,,,,,,,,,1865.0,﻿,﻿,﻿SantaFé,SantaFe
 ﻿den.co.0012,﻿chapel,﻿Chapel of St. Joseph,English,,,,,﻿Jefferson County,﻿Golden City,﻿Golden,﻿CO,,34.5739503,-105.9370856,,﻿Attended from Denver,,,,,,,,,,,,1865.0,﻿,﻿,﻿SantaFé,SantaFe
@@ -151,27 +151,17 @@
 ﻿den.co.0023,﻿chapel,not recorded,English,,,,,﻿Gilpin County,﻿Nevada City,﻿Nevadaville,,﻿CO,34.5739503,-105.9370856,,﻿Attended from Central City,,,,,,,,,,,,1865.0,﻿,﻿,﻿SantaFé,SantaFe
 ﻿den.co.0020,﻿chapel,not recorded,English,,,,,﻿Clear Creek County,﻿Idaho,﻿Idaho Springs,,,34.5739503,-105.9370856,,﻿Attended from Central City,,,,,,,,,,,,1865.0,﻿,﻿,﻿SantaFé,SantaFe
 ﻿den.co.0019,﻿chapel,not recorded,English,,,,,﻿Clear Creek County,﻿Empire City,﻿Empire,﻿CO,,34.5739503,-105.9370856,,﻿Attended from Central City,,,,,,,,,,,,1865.0,﻿,﻿,﻿SantaFé,SantaFe
-﻿san.nm.0224,﻿church,﻿San Agusten,English,,,,,,﻿Tucson,﻿Tucson,﻿AZ,,34.5739503,-105.9370856,,,,,﻿Rev.,﻿L. Bosco,,﻿S.J.,,,,,,1865.0,﻿,﻿,﻿SantaFé,SantaFe
+﻿san.nm.0224,﻿church,﻿San Agusten,English,,,,,,﻿Tucson,﻿Tucson,﻿AZ,,34.5739503,-105.9370856,,,,﻿l_bosco_002,﻿Rev.,﻿L. Bosco,,﻿S.J.,,,,,,1865.0,﻿,﻿,﻿SantaFé,SantaFe
 ﻿san.nm.0222,﻿church,﻿San Xavier del Bac,English,"﻿attended by several hundred Catholic Indian families, called Papagos, of the Pima tribe",,,,,,,,,34.5739503,-105.9370856,,,,,﻿Rev.,﻿C. Messea,,﻿S.J.,,,,,,1865.0,﻿,﻿,﻿SantaFé,SantaFe
 ﻿tuc.az.0001,﻿church,not recorded,English,,,,,,﻿La Paz,﻿La Paz,﻿AZ,,34.5739503,-105.9370856,,﻿Attended from Tucson,,,,,,,,,,,,1865.0,﻿,﻿,﻿SantaFé,SantaFe
-﻿san.nm.0242,﻿mission,﻿Navajo Mission,English,,,,,,﻿Bosque Redondo,﻿Bosque Redondo,﻿NM,,34.5739503,-105.9370856,,,,,﻿Rev.,﻿M. Fleurant,,,,,,,,1865.0,﻿,﻿,﻿SantaFé,SantaFe
-﻿san.nm.0242,﻿mission,﻿Navajo Mission,English,,,,,,﻿Bosque Redondo,﻿Bosque Redondo,﻿NM,,34.5739503,-105.9370856,,,,,,,,,,﻿Navajo,,,,1865.0,﻿,﻿,﻿SantaFé,SantaFe
-﻿san.nm.0242,﻿mission,﻿Navajo Mission,English,,,,,,﻿Bosque Redondo,﻿Bosque Redondo,﻿NM,,34.5739503,-105.9370856,,,,,,,,,,﻿Navajo,﻿8000 Navajo,,,1865.0,﻿,﻿,﻿SantaFé,SantaFe
-﻿san.nm.0242,﻿mission,﻿Navajo Mission,English,,,,,,﻿Bosque Redondo,﻿Bosque Redondo,﻿NM,,34.5739503,-105.9370856,,,,,,,,,,﻿Mescalero Apache,﻿8000 Navajo,,,1865.0,﻿,﻿,﻿SantaFé,SantaFe
+﻿san.nm.0242,﻿mission,﻿Navajo Mission,English,,,,,,﻿Bosque Redondo,﻿Bosque Redondo,﻿NM,,34.5739503,-105.9370856,,,,,﻿Rev.,﻿M. Fleurant,,,,﻿Navajo,﻿8000 Navajo,,,1865.0,﻿,﻿,﻿SantaFé,SantaFe
 ﻿san.nm.0242,﻿mission,﻿Navajo Mission,English,,,,,,﻿Bosque Redondo,﻿Bosque Redondo,﻿NM,,34.5739503,-105.9370856,,,,,,,,,,﻿Mescalero Apache,﻿400 Mescalero Apaches,,,1865.0,﻿,﻿,﻿SantaFé,SantaFe
-﻿san.nm.0231,﻿seminary,﻿Preparatory Seminary of San Francisco,English,,,,,,,,,,34.5739503,-105.9370856,,,,,,,,,,﻿seminarian,,,,1865.0,﻿,﻿,﻿SantaFé,SantaFe
 ﻿san.nm.0231,﻿seminary,﻿Preparatory Seminary of San Francisco,English,,,,,,,,,,34.5739503,-105.9370856,,,,,,,,,,﻿seminarian,﻿5 seminarians,,,1865.0,﻿,﻿,﻿SantaFé,SantaFe
-﻿san.nm.0159,﻿college,﻿San Miguel College,English,,,,,,,,,,34.5739503,-105.9370856,,,,,﻿Brother,﻿Hilarien,﻿Director,,,﻿pupils,,﻿under the direction of six Brothers of the Christian Doctrine,,1865.0,﻿,﻿,﻿SantaFé,SantaFe
-﻿san.nm.0159,﻿college,﻿San Miguel College,English,,,,,,,,,,34.5739503,-105.9370856,,,,,,,,,,﻿pupils,﻿130 pupils,﻿under the direction of six Brothers of the Christian Doctrine,,1865.0,﻿,﻿,﻿SantaFé,SantaFe
-﻿san.nm.0159,﻿college,﻿San Miguel College,English,,,,,,,,,,34.5739503,-105.9370856,,,,,,,,,,﻿brother,﻿130 pupils,﻿under the direction of six Brothers of the Christian Doctrine,,1865.0,﻿,﻿,﻿SantaFé,SantaFe
+﻿san.nm.0159,﻿college,﻿San Miguel College,English,,,,,,,,,,34.5739503,-105.9370856,,,,,﻿Brother,﻿Hilarien,﻿Director,,,﻿pupils,﻿130 pupils,﻿under the direction of six Brothers of the Christian Doctrine,,1865.0,﻿,﻿,﻿SantaFé,SantaFe
 ﻿san.nm.0159,﻿college,﻿San Miguel College,English,,,,,,,,,,34.5739503,-105.9370856,,,,,,,,,,﻿brother,﻿6 brothers,﻿under the direction of six Brothers of the Christian Doctrine,,1865.0,﻿,﻿,﻿SantaFé,SantaFe
-﻿san.nm.0241,﻿school,not recorded,English,,,,,,﻿Santa Fe,﻿Santa Fe,﻿NM,,34.5739503,-105.9370856,,,,,,,,,,﻿children,,,,1865.0,﻿,﻿,﻿SantaFé,SantaFe
 ﻿san.nm.0241,﻿school,not recorded,English,,,,,,﻿Santa Fe,﻿Santa Fe,﻿NM,,34.5739503,-105.9370856,,,,,,,,,,﻿children,﻿500 children,,,1865.0,﻿,﻿,﻿SantaFé,SantaFe
-﻿san.nm.0160_01,﻿convent,﻿Convent of our Lady of Light,English,,,,,,﻿Santa Fe,﻿Santa Fe,﻿NM,,34.5739503,-105.9370856,,,,,﻿Mother,﻿Mary Magdalen Hayden,﻿Superior,,,﻿boarder,,﻿under the direction of the Sisters of Loretto,,1865.0,﻿,﻿,﻿SantaFé,SantaFe
-﻿san.nm.0160_01,﻿convent,﻿Convent of our Lady of Light,English,,,,,,﻿Santa Fe,﻿Santa Fe,﻿NM,,34.5739503,-105.9370856,,,,,,,,,,﻿boarder,﻿40 boarders,﻿under the direction of the Sisters of Loretto,,1865.0,﻿,﻿,﻿SantaFé,SantaFe
-﻿san.nm.0160_01,﻿convent,﻿Convent of our Lady of Light,English,,,,,,﻿Santa Fe,﻿Santa Fe,﻿NM,,34.5739503,-105.9370856,,,,,,,,,,﻿extern,﻿40 boarders,﻿under the direction of the Sisters of Loretto,,1865.0,﻿,﻿,﻿SantaFé,SantaFe
+﻿san.nm.0160_01,﻿convent,﻿Convent of our Lady of Light,English,,,,,,﻿Santa Fe,﻿Santa Fe,﻿NM,,34.5739503,-105.9370856,,,,,﻿Mother,﻿Mary Magdalen Hayden,﻿Superior,,,﻿boarder,﻿40 boarders,﻿under the direction of the Sisters of Loretto,,1865.0,﻿,﻿,﻿SantaFé,SantaFe
 ﻿san.nm.0160_01,﻿convent,﻿Convent of our Lady of Light,English,,,,,,﻿Santa Fe,﻿Santa Fe,﻿NM,,34.5739503,-105.9370856,,,,,,,,,,﻿extern,﻿100 externs,﻿under the direction of the Sisters of Loretto,,1865.0,﻿,﻿,﻿SantaFé,SantaFe
-﻿san.nm.0163,﻿convent,﻿Convent and School of the Sisters of Loretto,English,,,,,,﻿Mora,﻿Mora,﻿NM,,34.5739503,-105.9370856,,,,,,,,,,﻿pupil,,,,1865.0,﻿,﻿,﻿SantaFé,SantaFe
 ﻿san.nm.0163,﻿convent,﻿Convent and School of the Sisters of Loretto,English,,,,,,﻿Mora,﻿Mora,﻿NM,,34.5739503,-105.9370856,,,,,,,,,,﻿pupil,﻿100 pupils,,,1865.0,﻿,﻿,﻿SantaFé,SantaFe
 ﻿den.co.0054,﻿convent,﻿St. Mary's Convent and Academy,English,,,,,,﻿Denver,﻿Denver,﻿CO,,34.5739503,-105.9370856,,,,,,,,,,,,﻿Sisters of Loretto,,1865.0,﻿,﻿,﻿SantaFé,SantaFe
 ﻿den.co.0064,﻿school,﻿St. Patrick's Boys School,English,,,,,,﻿Central City,﻿Central City,﻿CO,,34.5739503,-105.9370856,,,,,,,,,,,,,,1865.0,﻿,﻿,﻿SantaFé,SantaFe

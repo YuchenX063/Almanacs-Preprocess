@@ -132,7 +132,7 @@
 ﻿roc.ny.0008,﻿church,﻿St. Mary's,﻿French,,,,﻿Monroe,,﻿Rochester,,﻿NY,,43.1590313,-77.6089505,,,,﻿h_de-regge_002,﻿Rev.,﻿de Reggie,,,,,,,,1864.0,﻿,﻿,﻿Buffalo,Buffalo
 ﻿roc.ny.0004,﻿church,﻿Immaculate Conception,English,,,,﻿Monroe,,﻿Rochester,,﻿NY,,43.1621325,-77.6230577,,,,﻿pet_bede_001,﻿Rev.,﻿Peter Bede,,,,,,,,1864.0,﻿,﻿,﻿Buffalo,Buffalo
 ﻿roc.ny.0005,﻿church,﻿St. Bridget's,English,,,,﻿Monroe,,﻿Rochester,,﻿NY,,43.1662079,-77.6123066,,,,﻿f_payne_001,﻿Rev.,﻿F. Payne,,,,,,,,1864.0,﻿,﻿,﻿Buffalo,Buffalo
-﻿buf.ny.0196,﻿Chapel,﻿Sacred Heart Chapel,English,,,,﻿Monroe,,﻿Rochester,,﻿NY,,43.1662079,-77.6123066,﻿roc.ny.0008,﻿Attended from St. Mary's (French),,,,,,,,,,,,1864.0,﻿,﻿,﻿Buffalo,Buffalo
+﻿buf.ny.0196,﻿chapel,﻿Sacred Heart Chapel,English,,,,﻿Monroe,,﻿Rochester,,﻿NY,,43.1662079,-77.6123066,﻿roc.ny.0008,﻿Attended from St. Mary's (French),,,,,,,,,,,,1864.0,﻿,﻿,﻿Buffalo,Buffalo
 ﻿roc.ny.0068,﻿chapel,﻿Chapel of St. Mary's Hospital,English,,,,﻿Monroe,,﻿Rochester,,﻿NY,,43.1662079,-77.6123066,,,,,,,,,,,,,,1864.0,﻿,﻿,﻿Buffalo,Buffalo
 ﻿buf.ny.0197,﻿chapel,﻿Convent of Mercy,English,,,,﻿Monroe,,﻿Rochester,,﻿NY,,43.1662079,-77.6123066,﻿roc.ny.0002,﻿Attended from St. Joseph's,,,,,,,,,,,,1864.0,﻿,﻿,﻿Buffalo,Buffalo
 ﻿buf.ny.0189,﻿church,not recorded,English,,,,﻿Allegany County,,﻿Rushford,,﻿NY,,43.1662079,-77.6123066,﻿buf.ny.0118,﻿Attended from Portageville,,,,,,,,,,,,1864.0,﻿,﻿,﻿Buffalo,Buffalo
@@ -193,8 +193,8 @@
 ﻿buf.ny.0198,﻿retreat,﻿St. Mary's Retreat (Passionist),English,﻿with lay brothers,,,,,﻿Dunkirk,,﻿NY,,43.1594407,-77.6064884,,,,﻿cha_lang_002,﻿Rev.,﻿Charles Lang,,,,,,,,1864.0,﻿,﻿,﻿Buffalo,Buffalo
 ﻿buf.ny.0198,﻿retreat,﻿St. Mary's Retreat (Passionist),English,﻿with lay brothers,,,,,﻿Dunkirk,,﻿NY,,43.1594407,-77.6064884,,,,﻿wil_geagan_001,﻿Rev.,﻿William Geagan,,,,,,,,1864.0,﻿,﻿,﻿Buffalo,Buffalo
 ﻿buf.ny.0198,﻿retreat,﻿St. Mary's Retreat (Passionist),English,﻿with lay brothers,,,,,﻿Dunkirk,,﻿NY,,43.1594407,-77.6064884,,,,﻿bas_keating_003,﻿Rev.,﻿Basil Keating,,,,,,,,1864.0,﻿,﻿,﻿Buffalo,Buffalo
-﻿buf.ny.0005_02,﻿Community,﻿Community of the Missionary Oblates of Mary Immaculate,English,,"﻿Church of the Holy Angels, Buffalo",,﻿Erie County,,﻿Buffalo,,﻿NY,,43.1594407,-77.6064884,,,,﻿a_garrin_001,﻿Rev.,﻿A. Garrin,,﻿Superior,,,,,,1864.0,﻿,﻿,﻿Buffalo,Buffalo
-﻿buf.ny.0200,﻿Academy,﻿Academy of St. Patrick,English,,,,,,﻿Rochester,,﻿NY,,43.1594407,-77.6064884,,,,,﻿Brother,﻿Rudolphus,,﻿Superior,,﻿Pupil,﻿200 Pupils,﻿Under the charge of the Brothers of the Christian Schools,,1864.0,﻿,﻿,﻿Buffalo,Buffalo
+﻿buf.ny.0005_02,﻿community,﻿Community of the Missionary Oblates of Mary Immaculate,English,,"﻿Church of the Holy Angels, Buffalo",,﻿Erie County,,﻿Buffalo,,﻿NY,,43.1594407,-77.6064884,,,,﻿a_garrin_001,﻿Rev.,﻿A. Garrin,,﻿Superior,,,,,,1864.0,﻿,﻿,﻿Buffalo,Buffalo
+﻿buf.ny.0200,﻿academy,﻿Academy of St. Patrick,English,,,,,,﻿Rochester,,﻿NY,,43.1594407,-77.6064884,,,,,﻿Brother,﻿Rudolphus,,﻿Superior,,﻿Pupil,﻿200 Pupils,﻿Under the charge of the Brothers of the Christian Schools,,1864.0,﻿,﻿,﻿Buffalo,Buffalo
 ﻿roc.ny.0066,﻿academy,﻿Academy of the Sacred Heart,English,,,,,,﻿Rochester,,﻿NY,,43.1594407,-77.6064884,,,,,﻿Madam,﻿Kennedy,,﻿Superior,﻿assisted by 6 others,﻿Pupil,﻿60 Pupils,,,1864.0,﻿,﻿,﻿Buffalo,Buffalo
 ﻿roc.ny.0067,﻿academy,﻿Academy of the Immaculate Conception of Our Lady of Mercy,English,"﻿Attached to this convent is a house of mercy, where young girls of good character, out of situations, recieve instruction.",,,﻿Monroe,,﻿Rochester,,﻿NY,,43.1477633,-77.5365707,,,,,﻿Mother,﻿Mary Baptista Coleman,,﻿Superior,,﻿professed sister,﻿4 professed sisters,,,1864.0,﻿,﻿,﻿Buffalo,Buffalo
 ﻿roc.ny.0067,﻿academy,﻿Academy of the Immaculate Conception of Our Lady of Mercy,English,"﻿Attached to this convent is a house of mercy, where young girls of good character, out of situations, recieve instruction.",,,﻿Monroe,,﻿Rochester,,﻿NY,,43.1477633,-77.5365707,,,,,,,,,,﻿choir novice,﻿1 choir novice,,,1864.0,﻿,﻿,﻿Buffalo,Buffalo

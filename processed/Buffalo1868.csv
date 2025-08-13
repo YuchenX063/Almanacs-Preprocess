@@ -160,7 +160,7 @@
 ﻿roc.ny.0004,﻿church,﻿Immaculate Conception,English,,,,﻿Monroe,,﻿Rochester,,﻿NY,,43.1621325,-77.6230577,,,,﻿pat_byrnes_003,﻿Rev.,﻿Patrick Byrnes,,,,,,,,1868.0,﻿,﻿,﻿Buffalo,Buffalo
 ﻿roc.ny.0005,﻿church,﻿St. Bridget's,English,,,,﻿Monroe,,﻿Rochester,,﻿NY,,43.1662079,-77.6123066,,,,﻿nic_byrne_002,﻿Rev.,﻿Nicholas Byrne,,,,,,,,1868.0,﻿,﻿,﻿Buffalo,Buffalo
 ﻿roc.ny.0009,﻿church,﻿Holy Family,English,,,,﻿Monroe,,﻿Rochester,,﻿NY,,43.1565779,-77.6088465,,,,﻿leo_hoffschneider_002,﻿Rev.,﻿Leopold Hoffschneider,,,,,,,,1868.0,﻿,﻿,﻿Buffalo,Buffalo
-﻿buf.ny.0196,﻿Chapel,﻿Sacred Heart Chapel,English,,,,﻿Monroe,,﻿Rochester,,﻿NY,,43.1565779,-77.6088465,﻿roc.ny.0008,﻿Attended from St. Mary's (French),,,,,,,,,,,,1868.0,﻿,﻿,﻿Buffalo,Buffalo
+﻿buf.ny.0196,﻿chapel,﻿Sacred Heart Chapel,English,,,,﻿Monroe,,﻿Rochester,,﻿NY,,43.1565779,-77.6088465,﻿roc.ny.0008,﻿Attended from St. Mary's (French),,,,,,,,,,,,1868.0,﻿,﻿,﻿Buffalo,Buffalo
 ﻿buf.ny.0197,﻿chapel,﻿Convent of Mercy,English,,,,﻿Monroe,,﻿Rochester,,﻿NY,,43.1565779,-77.6088465,﻿roc.ny.0002,﻿Attended from St. Joseph's,,,,,,,,,,,,1868.0,﻿,﻿,﻿Buffalo,Buffalo
 ﻿roc.ny.0068,﻿chapel,﻿Chapel of St. Mary's Hospital,English,,,,﻿Monroe,,﻿Rochester,,﻿NY,,43.1565779,-77.6088465,﻿buf.ny.0118,﻿Attended from Portagville,,﻿p_boadley_001,﻿Rev.,﻿P. Boadley,,,,,,,,1868.0,﻿,﻿,﻿Buffalo,Buffalo
 ﻿buf.ny.0189,﻿church,not recorded,English,,,,﻿Allegany County,,﻿Rushford,,﻿NY,,43.1565779,-77.6088465,﻿buf.ny.0118,﻿Attended from Portageville,,,,,,,,,,,,1868.0,﻿,﻿,﻿Buffalo,Buffalo
@@ -229,8 +229,8 @@
 ﻿buf.ny.0198,﻿retreat,﻿St. Mary's Retreat (Passionist),English,,,,,,﻿Dunkirk,,﻿NY,,43.1594407,-77.6064884,,,,﻿and_mcgurgan_001,﻿Rev.,﻿Andrew McGurgan,,,,﻿lay brother,﻿5 lay brothers,,,1868.0,﻿,﻿,﻿Buffalo,Buffalo
 ﻿buf.ny.0198,﻿retreat,﻿St. Mary's Retreat (Passionist),English,,,,,,﻿Dunkirk,,﻿NY,,43.1594407,-77.6064884,,,,﻿hen_e_henry egler _001,﻿Rev.,﻿Henry Egler,,,,﻿lay brother,﻿5 lay brothers,,,1868.0,﻿,﻿,﻿Buffalo,Buffalo
 ﻿buf.ny.0198,﻿retreat,﻿St. Mary's Retreat (Passionist),English,,,,,,﻿Dunkirk,,﻿NY,,43.1594407,-77.6064884,,,,﻿wil_geagan_001,﻿Rev.,﻿William Geagan,,,,﻿lay brother,﻿5 lay brothers,,,1868.0,﻿,﻿,﻿Buffalo,Buffalo
-﻿buf.ny.0005_02,﻿Community,﻿Community of the Missionary Oblates of Mary Immaculate,English,,"﻿Church of the Holy Angels, Buffalo",,﻿Erie County,,﻿Buffalo,,﻿NY,,43.1594407,-77.6064884,,,,﻿j_pallier_001,﻿Rev.,﻿J. Pallier,,﻿Superior,,,,,,1868.0,﻿,﻿,﻿Buffalo,Buffalo
-﻿buf.ny.0200,﻿Academy,﻿Academy of St. Patrick,English,,,,,,﻿Rochester,,﻿NY,,43.1594407,-77.6064884,,,,,﻿Brother,﻿Rudolphus,,﻿Superior,,﻿student,﻿300 Pupils,﻿Under the charge of the Brothers of the Christian Schools,,1868.0,﻿,﻿,﻿Buffalo,Buffalo
+﻿buf.ny.0005_02,﻿community,﻿Community of the Missionary Oblates of Mary Immaculate,English,,"﻿Church of the Holy Angels, Buffalo",,﻿Erie County,,﻿Buffalo,,﻿NY,,43.1594407,-77.6064884,,,,﻿j_pallier_001,﻿Rev.,﻿J. Pallier,,﻿Superior,,,,,,1868.0,﻿,﻿,﻿Buffalo,Buffalo
+﻿buf.ny.0200,﻿academy,﻿Academy of St. Patrick,English,,,,,,﻿Rochester,,﻿NY,,43.1594407,-77.6064884,,,,,﻿Brother,﻿Rudolphus,,﻿Superior,,﻿student,﻿300 Pupils,﻿Under the charge of the Brothers of the Christian Schools,,1868.0,﻿,﻿,﻿Buffalo,Buffalo
 ﻿roc.ny.0066,﻿academy,﻿Academy of the Sacred Heart,English,,,,,,﻿Rochester,,﻿NY,,43.1594407,-77.6064884,,,,,﻿Madam,﻿Cornelius,,﻿Superior,﻿assisted by 6 others,﻿student,﻿60 Pupils,,,1868.0,﻿,﻿,﻿Buffalo,Buffalo
 ﻿buf.ny.0201,﻿convent,﻿St. Gabriel's Convent,English,,,,﻿Niagara County,,﻿Niagra City,,﻿NY,,43.1594407,-77.6064884,,,,,,,,,,,,﻿Under the nuns of the visitation,,1868.0,﻿,﻿,﻿Buffalo,Buffalo
 ﻿buf.ny.0126,﻿convent,﻿Convent of St. Clare,English,,,,,,﻿Buffalo,,﻿NY,,42.86854647,-78.84693979,,,,,﻿Mother,﻿Mary Anne,,﻿Superioress,,﻿female,﻿school attended by 180 females,﻿under care of the Sisters of the Third Order of St. Francis.,,1868.0,﻿,﻿,﻿Buffalo,Buffalo
@@ -293,7 +293,7 @@
 ﻿buf.ny.0208_03,﻿school,﻿St. Peter's Male,English,﻿under secular teachers,,,,,,,,,43.15950691,-77.60659865,,,,,,,,,,﻿student,"﻿pupils, 200",,,1868.0,﻿,﻿,﻿Buffalo,Buffalo
 ﻿buf.ny.0210,﻿school,not recorded,English,﻿under a secular teacher,,,﻿Seneca,,﻿Seneca Falls,,﻿NY,,43.15950691,-77.60659865,,,,,,,,,,﻿student,"﻿Pupils, 100",,,1868.0,﻿,﻿,﻿Buffalo,Buffalo
 ﻿buf.ny.0158,﻿school,not recorded,English,,,,,,﻿Perkinsville,,﻿NY,,42.5397896,-77.6283257,,,,,,,,,,﻿student,"﻿Pupils, 170",﻿under Sisters of Notre Dame,,1868.0,﻿,﻿,﻿Buffalo,Buffalo
-﻿buf.ny.0211,﻿school for boys and girls,not recorded,English,,,,,,﻿West-Seneca,,﻿NY,,42.5397896,-77.6283257,,,,,,,,,,﻿student,"﻿pupils, 75 to 100",,,1868.0,﻿,﻿,﻿Buffalo,Buffalo
+﻿buf.ny.0211,﻿school for boys and girl,not recorded,English,,,,,,﻿West-Seneca,,﻿NY,,42.5397896,-77.6283257,,,,,,,,,,﻿student,"﻿pupils, 75 to 100",,,1868.0,﻿,﻿,﻿Buffalo,Buffalo
 ﻿buf.ny.0160,﻿asylum,﻿St. Joseph's Boys' Orphan Asylum,English,"﻿is situated on a large farm, near the city boundaries, purchaed by the Rt. Rev. Bishop.",,,,,﻿Buffalo,,﻿NY,,42.8864468,-78.8783689,,,,﻿tho_hynes_001,﻿Rev.,﻿Thomas Hynes,,﻿Director,,﻿sister,"﻿Sisters of St. Joseph, 8",﻿The Sisters of St. Joseph,,1868.0,﻿,﻿,﻿Buffalo,Buffalo
 ﻿buf.ny.0160,﻿asylum,﻿St. Joseph's Boys' Orphan Asylum,English,"﻿is situated on a large farm, near the city boundaries, purchaed by the Rt. Rev. Bishop.",,,,,﻿Buffalo,,﻿NY,,42.8864468,-78.8783689,,,,,,,,,,﻿recieved,"﻿received, 200",﻿The Sisters of St. Joseph,,1868.0,﻿,﻿,﻿Buffalo,Buffalo
 ﻿buf.ny.0160,﻿asylum,﻿St. Joseph's Boys' Orphan Asylum,English,"﻿is situated on a large farm, near the city boundaries, purchaed by the Rt. Rev. Bishop.",,,,,﻿Buffalo,,﻿NY,,42.8864468,-78.8783689,,,,,,,,,,﻿average recieved,"﻿average recieved, 190",﻿The Sisters of St. Joseph,,1868.0,﻿,﻿,﻿Buffalo,Buffalo
