@@ -30,8 +30,8 @@
 ﻿lac.wi.0101,﻿church,﻿St. Joseph's,English,﻿(Indian),,,﻿La Pointe County,,﻿La Pointe,,,,43.3408176,-90.2817921,﻿lac.wi.0004,﻿attended from Bayfield,,,,,,,,,,,,1869.0,﻿,﻿,﻿LaCrosse,LaCrosse
 ﻿lac.wi.0102,﻿church,﻿St. James',English,,,,﻿Bad Axe County,,﻿Liberty Pole,,,,43.3408176,-90.2817921,﻿lac.wi.0113,﻿attended from Utica,,,,,,,,,,,,1869.0,﻿,﻿,﻿LaCrosse,LaCrosse
 ﻿lac.wi.0103,﻿church,﻿St. Michael's,English,,,,﻿Juneau County,,﻿Lindina,,,,43.3408176,-90.2817921,﻿lac.wi.0018,﻿attended from Mauston,,,,,,,,,,,,1869.0,﻿,﻿,﻿LaCrosse,LaCrosse
-﻿lac.wi.0016,﻿church,﻿St. Mary's,English,,,,﻿Juneau County,﻿Juneau County,﻿Lindon,﻿Lyndon,﻿WI,,43.6662501,-89.8785765,﻿lac.wi.0100,﻿attended from Kildare,,,,,,,,,,,,1869.0,﻿,﻿,﻿LaCrosse,LaCrosse
-﻿lac.wi.0104,﻿church,﻿St. Paul's,English,,,,﻿Juneau County,,﻿Lisbon,,,,43.6662501,-89.8785765,﻿lac.wi.0018,﻿attended from Mauston,,,,,,,,,,,,1869.0,﻿,﻿,﻿LaCrosse,LaCrosse
+﻿lac.wi.0016,﻿church,﻿St. Mary's,English,,,,﻿Juneau County,﻿Juneau County,﻿Lindon,﻿Lyndon,﻿WI,,43.66625,-89.878576,﻿lac.wi.0100,﻿attended from Kildare,,,,,,,,,,,,1869.0,﻿,﻿,﻿LaCrosse,LaCrosse
+﻿lac.wi.0104,﻿church,﻿St. Paul's,English,,,,﻿Juneau County,,﻿Lisbon,,,,43.66625,-89.878576,﻿lac.wi.0018,﻿attended from Mauston,,,,,,,,,,,,1869.0,﻿,﻿,﻿LaCrosse,LaCrosse
 ﻿lac.wi.0017,﻿church,﻿St. Mary's Nativity,English,,,,﻿Marathon County,﻿Marathon County,﻿Marathon,﻿Marathon,﻿WI,,44.9304719,-89.8402105,,,,﻿t_hengen_001,﻿Rev.,﻿T. Hengen,,,,,,,,1869.0,﻿,﻿,﻿LaCrosse,LaCrosse
 ﻿lac.wi.0105,﻿church,﻿Immaculate Conception,English,,,,﻿Dunn County,,﻿Menomenee,,,,44.9304719,-89.8402105,,,,,,,,,,,,,,1869.0,﻿,﻿,﻿LaCrosse,LaCrosse
 ﻿lac.wi.0018,﻿church,﻿St. Patrick's,English,,,,﻿Juneau County,﻿Juneau County,﻿Mauston,﻿Mauston,﻿WI,,43.7969551,-90.0731712,,,,﻿p_lavin_001,﻿Rev.,﻿Peter Lavin,,,,,,,,1869.0,﻿,﻿,﻿LaCrosse,LaCrosse
@@ -47,13 +47,13 @@
 ﻿lac.wi.0112,﻿church,﻿St. Teresa's,English,,,,﻿Juneau County,,﻿Union Centre,,,,44.0055185,-91.4420883,﻿lac.wi.0018,﻿attended from Mauston,,,,,,,,,,,,1869.0,﻿,﻿,﻿LaCrosse,LaCrosse
 ﻿lac.wi.0113,﻿church,﻿St. James',English,﻿vacant,,,﻿Crawford County,,﻿Utica,,,,44.0055185,-91.4420883,,,,,,,,,,,,,,1869.0,﻿,﻿,﻿LaCrosse,LaCrosse
 ﻿lac.wi.0114,﻿church,﻿St. Alphonsus',English,,,,﻿Sauk County,,﻿Westfield,,,,44.0055185,-91.4420883,﻿lac.wi.0021,﻿attended from Sauk City,,,,,,,,,,,,1869.0,﻿,﻿,﻿LaCrosse,LaCrosse
-﻿lac.wi.0023,﻿church,﻿St. Boniface's,English,﻿with pastoral residence vacant,,,﻿Buffalo County,﻿Buffalo County,﻿Waumandee,﻿Waumandee,﻿WI,,44.3014726,-91.706169,﻿lac.wi.0012,﻿visited from Fountain City,﻿monthly,﻿l_lay_001,﻿Rev.,﻿L. Lay,,,,,,,,1869.0,﻿,﻿,﻿LaCrosse,LaCrosse
-﻿lac.wi.0115,﻿station,not recorded,English,,,,﻿Adams County,,﻿Neery,,,,44.3014726,-91.706169,,,,,,,,,,,,,,1869.0,﻿,﻿,﻿LaCrosse,LaCrosse
-﻿lac.wi.0116,﻿station,not recorded,English,,,,﻿Adams County,,﻿Praire,,,,44.3014726,-91.706169,,,,,,,,,,,,,,1869.0,﻿,﻿,﻿LaCrosse,LaCrosse
-﻿lac.wi.0117,﻿station,not recorded,English,,,,﻿Adams County,,﻿Quincy,,,,44.3014726,-91.706169,,,,,,,,,,,,,,1869.0,﻿,﻿,﻿LaCrosse,LaCrosse
-﻿lac.wi.0118,﻿station,not recorded,English,,,,﻿Adams County,,﻿Wardelah,,,,44.3014726,-91.706169,,,,,,,,,,,,,,1869.0,﻿,﻿,﻿LaCrosse,LaCrosse
-﻿lac.wi.0119,﻿station,not recorded,English,,,,﻿Bad Axe County,,﻿Morriston,,,,44.3014726,-91.706169,,,,,,,,,,,,,,1869.0,﻿,﻿,﻿LaCrosse,LaCrosse
-﻿lac.wi.0120,﻿station,not recorded,English,,,,﻿Bad Axe County,,﻿Wrightstown,,,,44.3014726,-91.706169,,,,,,,,,,,,,,1869.0,﻿,﻿,﻿LaCrosse,LaCrosse
+﻿lac.wi.0023,﻿church,﻿St. Boniface's,English,﻿with pastoral residence vacant,,,﻿Buffalo County,﻿Buffalo County,﻿Waumandee,﻿Waumandee,﻿WI,,44.301473,-91.706169,﻿lac.wi.0012,﻿visited from Fountain City,﻿monthly,﻿l_lay_001,﻿Rev.,﻿L. Lay,,,,,,,,1869.0,﻿,﻿,﻿LaCrosse,LaCrosse
+﻿lac.wi.0115,﻿station,not recorded,English,,,,﻿Adams County,,﻿Neery,,,,44.301473,-91.706169,,,,,,,,,,,,,,1869.0,﻿,﻿,﻿LaCrosse,LaCrosse
+﻿lac.wi.0116,﻿station,not recorded,English,,,,﻿Adams County,,﻿Praire,,,,44.301473,-91.706169,,,,,,,,,,,,,,1869.0,﻿,﻿,﻿LaCrosse,LaCrosse
+﻿lac.wi.0117,﻿station,not recorded,English,,,,﻿Adams County,,﻿Quincy,,,,44.301473,-91.706169,,,,,,,,,,,,,,1869.0,﻿,﻿,﻿LaCrosse,LaCrosse
+﻿lac.wi.0118,﻿station,not recorded,English,,,,﻿Adams County,,﻿Wardelah,,,,44.301473,-91.706169,,,,,,,,,,,,,,1869.0,﻿,﻿,﻿LaCrosse,LaCrosse
+﻿lac.wi.0119,﻿station,not recorded,English,,,,﻿Bad Axe County,,﻿Morriston,,,,44.301473,-91.706169,,,,,,,,,,,,,,1869.0,﻿,﻿,﻿LaCrosse,LaCrosse
+﻿lac.wi.0120,﻿station,not recorded,English,,,,﻿Bad Axe County,,﻿Wrightstown,,,,44.301473,-91.706169,,,,,,,,,,,,,,1869.0,﻿,﻿,﻿LaCrosse,LaCrosse
 ﻿lac.wi.0025,﻿station,not recorded,English,,,,﻿Buffalo County,,﻿Buffalo City,﻿Buffalo City,﻿WI,,44.2305638,-91.863468,,,,,,,,,,,,,,1869.0,﻿,﻿,﻿LaCrosse,LaCrosse
 ﻿lac.wi.0121,﻿station,not recorded,English,,,,﻿Buffalo County,,﻿Nelson,,,,44.2305638,-91.863468,,,,,,,,,,,,,,1869.0,﻿,﻿,﻿LaCrosse,LaCrosse
 ﻿lac.wi.0122,﻿station,not recorded,English,,,,﻿Buffalo County,,﻿Little Waumadee,,,,44.2305638,-91.863468,,,,,,,,,,,,,,1869.0,﻿,﻿,﻿LaCrosse,LaCrosse

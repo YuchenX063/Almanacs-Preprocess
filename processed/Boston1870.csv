@@ -320,8 +320,8 @@
 ﻿bos.ma.0002_03,﻿school,﻿St. Mary's Parochial School for Girls,English,,,,,,,,﻿MA,,42.4072107,-71.3824374,,,,,,,,,,﻿pupil,﻿650 pupils,﻿under the charge of 10 Sisters of Notre Dame,,1870.0,﻿,﻿,﻿Boston,Boston
 ﻿bos.ma.0005_02,﻿school,﻿German Catholic School for Boys,English,,﻿Church of the Holy Trinity,,,,﻿Boston,﻿Boston,﻿MA,,42.3600825,-71.0588801,,,,,,,,,,﻿teacher,﻿3 teachers,,,1870.0,﻿,﻿,﻿Boston,Boston
 ﻿bos.ma.0005_02,﻿school,﻿German Catholic School for Boys,English,,﻿Church of the Holy Trinity,,,,﻿Boston,﻿Boston,﻿MA,,42.3600825,-71.0588801,,,,,,,,,,﻿pupil,﻿230 pupils,,,1870.0,﻿,﻿,﻿Boston,Boston
-﻿bos.ma.0005_03,﻿school,﻿German Catholic School for Girls,English,,,,,,,,﻿MA,,42.3600825,-71.0588801,,,,,,,,,,﻿sister,﻿3 Sisters of Notre Dame,﻿Sisters of Notre Dame,,1870.0,﻿,﻿,﻿Boston,Boston
-﻿bos.ma.0005_03,﻿school,﻿German Catholic School for Girls,English,,,,,,,,﻿MA,,42.3600825,-71.0588801,,,,,,,,,,﻿pupil,﻿220 pupils,﻿Sisters of Notre Dame,,1870.0,﻿,﻿,﻿Boston,Boston
+﻿bos.ma.0225,﻿school,﻿German Catholic School for Girls,English,,,,,,,,﻿MA,,42.3600825,-71.0588801,,,,,,,,,,﻿sister,﻿3 Sisters of Notre Dame,﻿Sisters of Notre Dame,,1870.0,﻿,﻿,﻿Boston,Boston
+﻿bos.ma.0225,﻿school,﻿German Catholic School for Girls,English,,,,,,,,﻿MA,,42.3600825,-71.0588801,,,,,,,,,,﻿pupil,﻿220 pupils,﻿Sisters of Notre Dame,,1870.0,﻿,﻿,﻿Boston,Boston
 ﻿bos.ma.0226,﻿school,not recorded,English,﻿Parochial School for Girls,﻿South Boston,,,,﻿Boston,﻿Boston,﻿MA,,42.3354829,-71.0456735,,,,,,,,,,﻿sister,﻿23 Sisters of Notre Dame,﻿Sisters of Notre Dame,,1870.0,﻿,﻿,﻿Boston,Boston
 ﻿bos.ma.0226,﻿school,not recorded,English,﻿Parochial School for Girls,﻿South Boston,,,,﻿Boston,﻿Boston,﻿MA,,42.3354829,-71.0456735,,,,,,,,,,﻿pupil,﻿1000 pupils,﻿Sisters of Notre Dame,,1870.0,﻿,﻿,﻿Boston,Boston
 ﻿bos.ma.0227,﻿school,not recorded,English,﻿Parochial School for Girls,﻿East Boston,,,,﻿Boston,﻿Boston,﻿MA,,42.3800079,-71.0254241,,,,,,,,,,﻿sister,﻿12 Sisters of Notre Dame,﻿Sisters of Notre Dame,,1870.0,﻿,﻿,﻿Boston,Boston
@@ -337,7 +337,7 @@
 ﻿bos.ma.0102_02,﻿school,not recorded,English,﻿Parochial School for Girls,﻿St. Mary's Church,,,,﻿Lawrence,﻿Lawrence,﻿MA,,42.7070354,-71.1631137,,,,,,,,,,﻿day-scholar,﻿500 day-scholars,﻿Sisters of Notre Dame,,1870.0,﻿,﻿,﻿Boston,Boston
 ﻿bos.ma.0102_02,﻿school,not recorded,English,﻿Parochial School for Girls,﻿St. Mary's Church,,,,﻿Lawrence,﻿Lawrence,﻿MA,,42.7070354,-71.1631137,,,,,,,,,,﻿pupil,﻿100 pupils of the evening school,﻿Sisters of Notre Dame,,1870.0,﻿,﻿,﻿Boston,Boston
 ﻿bos.ma.0102_02,﻿school,not recorded,English,﻿Parochial School for Girls,﻿St. Mary's Church,,,,﻿Lawrence,﻿Lawrence,﻿MA,,42.7070354,-71.1631137,,,,,,,,,,﻿pupil,"﻿Day-school for boys, 200 pupils",﻿Sisters of Notre Dame,,1870.0,﻿,﻿,﻿Boston,Boston
-﻿bos.ma.0011_02,﻿school,not recorded,English,﻿Parochial School for Girls,"﻿City Point, South Boston",,,,﻿Boston,﻿Boston,﻿MA,,42.33854,-71.03118,,,,,,,,,,﻿pupil,﻿235 pupils,﻿Sisters of Notre Dame,,1870.0,﻿,﻿,﻿Boston,Boston
-﻿bos.ma.0060_02,﻿school,not recorded,English,﻿Parochial School for Girls,,,,,﻿Chicopee,﻿Chicopee,﻿MA,,42.1487043,-72.6078672,,,,,,,,,,﻿pupil,﻿350 pupils,﻿Sisters of Notre Dame,,1870.0,﻿,﻿,﻿Boston,Boston
+﻿bos.ma.0233,﻿school,not recorded,English,﻿Parochial School for Girls,"﻿City Point, South Boston",,,,﻿Boston,﻿Boston,﻿MA,,42.33854,-71.03118,,,,,,,,,,﻿pupil,﻿235 pupils,﻿Sisters of Notre Dame,,1870.0,﻿,﻿,﻿Boston,Boston
+﻿bos.ma.0234,﻿school,not recorded,English,﻿Parochial School for Girls,,,,,﻿Chicopee,﻿Chicopee,﻿MA,,42.1487043,-72.6078672,,,,,,,,,,﻿pupil,﻿350 pupils,﻿Sisters of Notre Dame,,1870.0,﻿,﻿,﻿Boston,Boston
 ﻿bos.ma.0235,﻿school,not recorded,English,﻿Parochial School for Girls,,,,,﻿Holyoke,﻿Holyoke,﻿MA,,42.2042586,-72.6162009,,,,,,,,,,﻿sister,﻿5 Sisters of Notre Dame,﻿Sisters of Notre Dame,,1870.0,﻿,﻿,﻿Boston,Boston
 ﻿bos.ma.0235,﻿school,not recorded,English,﻿Parochial School for Girls,,,,,﻿Holyoke,﻿Holyoke,﻿MA,,42.2042586,-72.6162009,,,,,,,,,,﻿pupil,﻿300 pupils,﻿Sisters of Notre Dame,,1870.0,﻿,﻿,﻿Boston,Boston
