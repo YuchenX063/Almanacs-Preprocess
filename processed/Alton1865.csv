@@ -1,7 +1,7 @@
 ﻿instID,church_type,instName,language,instNote,placeName,region,county_orig,county_reg,city_orig,city_reg,state_orig,state_reg,latitude,longitude,attendingInstID,attendingChurch,attendingChurchFrequency,persID,persTitle,persName,persSuffix,persRole,persNote,memberType,member,affiliated,order,year,attendingPersID,attendingChurchNote,diocese,diocese_reg
 ﻿alt.il.0001,﻿cathedral,﻿Cathedral of SS. Peter and Paul,English,,,,﻿Madison County,﻿Madison County,﻿Alton,﻿Alton,﻿IL,,38.8953847,-90.1902021,,,,﻿h_d_juncker_001,﻿Rt. Rev.,﻿H. D. Juncker,,,,,,,,1865,﻿,﻿,﻿Alton,Alton
 ﻿alt.il.0001,﻿cathedral,﻿Cathedral of SS. Peter and Paul,English,,,,﻿Madison County,﻿Madison County,﻿Alton,﻿Alton,﻿IL,,38.8953847,-90.1902021,,,,﻿th_f_mangan_001,﻿Rev.,﻿Th. Fr. Mangan,,,,,,,,1865,﻿,﻿,﻿Alton,Alton
-﻿alt.il.0001,﻿cathedral,﻿Cathedral of SS. Peter and Paul,English,,,,﻿Madison County,﻿Madison County,﻿Alton,﻿Alton,﻿IL,,38.8953847,-90.1902021,,,,﻿ab_rinckes_001,﻿Rev.,﻿B. Rinckes,,,,,,,,1865,﻿,﻿,﻿Alton,Alton
+﻿alt.il.0001,﻿cathedral,﻿Cathedral of SS. Peter and Paul,English,,,,﻿Madison County,﻿Madison County,﻿Alton,﻿Alton,﻿IL,,38.8953847,-90.1902021,,,,﻿a_b_rinckes_001,﻿Rev.,﻿B. Rinckes,,,,,,,,1865,﻿,﻿,﻿Alton,Alton
 ﻿alt.il.0001,﻿cathedral,﻿Cathedral of SS. Peter and Paul,English,,,,﻿Madison County,﻿Madison County,﻿Alton,﻿Alton,﻿IL,,38.8953847,-90.1902021,,,,﻿j_janssen_001,﻿Rev.,﻿J. Janssen,,﻿Chaplain of the Convent,,,,,,1865,﻿,﻿,﻿Alton,Alton
 ﻿alt.il.0002,﻿church,﻿St. Mary's,English,﻿German,,,﻿Madison County,﻿Madison County,﻿Alton,﻿Alton,﻿IL,,38.8911797,-90.1782179,,,,﻿f_ostrop_001,﻿Rev.,﻿F. Ostrop,,,,,,,,1865,﻿,﻿,﻿Alton,Alton
 ﻿alt.il.0004,﻿church,not recorded,English,﻿vacant,,,﻿Union County,﻿Union County,﻿Anna,﻿Anna,﻿IL,,37.4571319,-89.2483621,,,,,,,,,,,,,,1865,﻿,﻿,﻿Alton,Alton
