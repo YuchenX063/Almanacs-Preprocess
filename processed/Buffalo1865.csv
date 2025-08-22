@@ -15,7 +15,7 @@
 ﻿buf.ny.0009,﻿church,﻿St. Michael's,﻿German,﻿There are schools attatched to all the German and most of the other churches in the diocese,,,﻿Erie County,,﻿Buffalo,﻿Buffalo,﻿NY,,42.8864468,-78.8783689,,,,﻿c_benys_001,﻿Rev.,﻿C. Benys,﻿S.J.,,,,,,,1865,﻿,﻿,﻿Buffalo,Buffalo
 ﻿buf.ny.0002,﻿church,﻿St. Bridget's,English,,,,﻿Erie County,,﻿Buffalo,﻿Buffalo,﻿NY,,42.8647859,-78.86443,,,,﻿mar_oconnor_001,﻿Rev.,﻿Martin O'Connor,,,,,,,,1865,﻿,﻿,﻿Buffalo,Buffalo
 ﻿buf.ny.0002,﻿church,﻿St. Bridget's,English,,,,﻿Erie County,,﻿Buffalo,﻿Buffalo,﻿NY,,42.8647859,-78.86443,,,,﻿f_glennon_001,﻿Rev.,﻿F. Glennon,,﻿Assistant,,,,,,1865,﻿,﻿,﻿Buffalo,Buffalo
-﻿buf.ny.0005,﻿church,﻿Holy Angels,English,,,,﻿Erie County,,﻿Buffalo,﻿Buffalo,﻿NY,,42.9034422,-78.8893034,,,,﻿a_garin_001,﻿Rev.,﻿A. Garin,﻿O.M.I.,,,,,,,1865,﻿,﻿,﻿Buffalo,Buffalo
+﻿buf.ny.0005,﻿church,﻿Holy Angels,English,,,,﻿Erie County,,﻿Buffalo,﻿Buffalo,﻿NY,,42.9034422,-78.8893034,,,,﻿a_garin_001,﻿Rev.,﻿A. Garin,﻿O.M.I.,﻿Superior,,,,,﻿Community of the Missionary Oblates of Mary Immaculate,1865,﻿,﻿,﻿Buffalo,Buffalo
 ﻿buf.ny.0005,﻿church,﻿Holy Angels,English,,,,﻿Erie County,,﻿Buffalo,﻿Buffalo,﻿NY,,42.9034422,-78.8893034,,,,﻿p_coopman_001,﻿Rev.,﻿P. Coopman,﻿O.M.I.,,,,,,,1865,﻿,﻿,﻿Buffalo,Buffalo
 ﻿buf.ny.0003,﻿church,﻿St. Patrick's,English,,,,﻿Erie County,,﻿Buffalo,﻿Buffalo,﻿NY,,42.8864468,-78.8783689,,,,﻿f_s_da-gagliano_001,﻿Rev.,﻿F. Sisto da Gagliano,﻿O.S.F.,,﻿Custos,,,,,1865,﻿,﻿,﻿Buffalo,Buffalo
 ﻿buf.ny.0003,﻿church,﻿St. Patrick's,English,,,,﻿Erie County,,﻿Buffalo,﻿Buffalo,﻿NY,,42.8864468,-78.8783689,,,,﻿f_celso_001,﻿Rev.,﻿F. Celso,﻿O.S.F.,,,,,,,1865,﻿,﻿,﻿Buffalo,Buffalo
@@ -199,7 +199,6 @@
 ﻿buf.ny.0198,﻿retreat,﻿St. Mary's Retreat (Passionist),English,﻿with several clerics and lay brothers,,,,,﻿Dunkirk,,﻿NY,,43.1594407,-77.6064884,,,,﻿fre_lang_002,﻿Rev.,﻿Frederick Lang,,,,,,,,1865,﻿,﻿,﻿Buffalo,Buffalo
 ﻿buf.ny.0198,﻿retreat,﻿St. Mary's Retreat (Passionist),English,﻿with several clerics and lay brothers,,,,,﻿Dunkirk,,﻿NY,,43.1594407,-77.6064884,,,,﻿cha_lang_002,﻿Rev.,﻿Charles Lang,,,,,,,,1865,﻿,﻿,﻿Buffalo,Buffalo
 ﻿buf.ny.0198,﻿retreat,﻿St. Mary's Retreat (Passionist),English,﻿with several clerics and lay brothers,,,,,﻿Dunkirk,,﻿NY,,43.1594407,-77.6064884,,,,﻿wil_geagan_001,﻿Rev.,﻿William Geagan,,,,,,,,1865,﻿,﻿,﻿Buffalo,Buffalo
-﻿buf.ny.0005_02,﻿community,﻿Community of the Missionary Oblates of Mary Immaculate,English,,"﻿Church of the Holy Angels, Buffalo",,﻿Erie County,,﻿Buffalo,,﻿NY,,43.1594407,-77.6064884,,,,﻿a_garrin_001,﻿Rev.,﻿A. Garrin,,﻿Superior,,,,,,1865,﻿,﻿,﻿Buffalo,Buffalo
 ﻿buf.ny.0200,﻿academy,﻿Academy of St. Patrick,English,,,,,,﻿Rochester,,﻿NY,,43.1594407,-77.6064884,,,,,﻿Brother,﻿Rudolphus,,﻿Superior,,﻿Pupil,﻿200 Pupils,﻿Under the charge of the Brothers of the Christian Schools,,1865,﻿,﻿,﻿Buffalo,Buffalo
 ﻿roc.ny.0066,﻿academy,﻿Academy of the Sacred Heart,English,,,,,,﻿Rochester,,﻿NY,,43.1594407,-77.6064884,,,,,﻿Madam,﻿-----,,﻿Superior,﻿assisted by 6 others,﻿Pupil,﻿60 Pupils,,,1865,﻿,﻿,﻿Buffalo,Buffalo
 ﻿roc.ny.0067,﻿academy,﻿Academy of the Immaculate Conception of Our Lady of Mercy,English,"﻿Attached to this convent is a house of mercy, where young girls of good character, out of situations, recieve instruction.",,,﻿Monroe,,﻿Rochester,,﻿NY,,43.1477633,-77.5365707,,,,,﻿Mother,﻿Mary Baptista Coleman,,﻿Superior,,﻿professed sister,﻿4 professed choir sisters,,,1865,﻿,﻿,﻿Buffalo,Buffalo
@@ -228,7 +227,7 @@
 ﻿buf.ny.0011_02,﻿school,﻿St. Peter's,﻿French,"﻿Male, under a secular teacher",,,,,﻿Buffalo,,﻿NY,,42.9721211,-78.8154749,,,,,,,,,,﻿pupil,"﻿Pupils, 100",,,1865,﻿,﻿,﻿Buffalo,Buffalo
 ﻿buf.ny.0010_02,﻿school,﻿St. Ann's,﻿German,"﻿Male, under a secular teacher",,,,,﻿Buffalo,,﻿NY,,42.8822131,-78.8493334,,,,,,,,,,﻿pupil,"﻿Pupils, 180",,,1865,﻿,﻿,﻿Buffalo,Buffalo
 ﻿buf.ny.0002_02,﻿school,﻿St. Bridget's,English,,,,,,﻿Buffalo,,﻿NY,,42.8864468,-78.8783689,,,,,,,,,,﻿pupil,"﻿Pupils, 200",﻿under the Sisters of Mercy,,1865,﻿,﻿,﻿Buffalo,Buffalo
-﻿buf.ny.0005_02,﻿school,﻿Holy Angels',English,,"﻿Church of the Holy Angels, Buffalo",,﻿Erie County,,﻿Buffalo,,﻿NY,,42.9034422,-78.8893034,,,,,,,,,,﻿pupil,"﻿Pupils, 150",﻿under the Gray Sisters,,1865,﻿,﻿,﻿Buffalo,Buffalo
+﻿buf.ny.0005_03,﻿school,﻿Holy Angels',English,,,,,,﻿Buffalo,,﻿NY,,42.9034422,-78.8893034,,,,,,,,,,﻿pupil,"﻿Pupils, 150",﻿under the Gray Sisters,,1865,﻿,﻿,﻿Buffalo,Buffalo
 ﻿buf.ny.0003_02,﻿school,﻿St. Patrick's,English,﻿Female,,,,,﻿Buffalo,,﻿NY,,42.8840642,-78.8288968,,,,,﻿Madame,﻿Norton,,,,﻿pupil,"﻿Pupils, 60",,,1865,﻿,﻿,﻿Buffalo,Buffalo
 ﻿buf.ny.0003_03,﻿school,﻿St. Patrick's,English,"﻿Male, secular teacher",,,,,﻿Buffalo,,﻿NY,,42.8840642,-78.8288968,,,,,,,,,,﻿pupil,"﻿Pupils, 70",,,1865,﻿,﻿,﻿Buffalo,Buffalo
 ﻿buf.ny.0213_02,﻿school,﻿St. Francis Xavier's,﻿German,"﻿Male, under a secular teacher",,,,,﻿Blackrock,﻿Buffalo,﻿NY,,42.93065347,-78.89829546,,,,,,,,,,﻿pupil,"﻿Pupils, 100",,,1865,﻿,﻿,﻿Buffalo,Buffalo

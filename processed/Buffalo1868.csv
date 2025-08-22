@@ -14,7 +14,7 @@
 ﻿buf.ny.0009,﻿church,﻿St. Michael's,﻿German,﻿There are schools attatched to all the German and most of the other churches in the diocese,,,﻿Erie County,,﻿Buffalo,﻿Buffalo,﻿NY,,42.8864468,-78.8783689,,,,﻿c_kottman_001,﻿Rev.,﻿C. Kottmann,﻿S.J.,,,,,,,1868,﻿,﻿,﻿Buffalo,Buffalo
 ﻿buf.ny.0002,﻿church,﻿St. Bridget's,English,,,,﻿Erie County,,﻿Buffalo,﻿Buffalo,﻿NY,,42.8647859,-78.86443,,,,﻿mar_oconnor_001,﻿Rev.,﻿Martin O'Connor,,,,,,,,1868,﻿,﻿,﻿Buffalo,Buffalo
 ﻿buf.ny.0002,﻿church,﻿St. Bridget's,English,,,,﻿Erie County,,﻿Buffalo,﻿Buffalo,﻿NY,,42.8647859,-78.86443,,,,﻿p_glennon_001,﻿Rev.,﻿P. Glennon,,﻿Assistant,,,,,,1868,﻿,﻿,﻿Buffalo,Buffalo
-﻿buf.ny.0005,﻿church,﻿Holy Angels,English,,,,﻿Erie County,,﻿Buffalo,﻿Buffalo,﻿NY,,42.9034422,-78.8893034,,,,﻿j_pallier_001,﻿Rev.,﻿J. Pallier,﻿O.M.I.,﻿Superior,,,,,,1868,﻿,﻿,﻿Buffalo,Buffalo
+﻿buf.ny.0005,﻿church,﻿Holy Angels,English,,,,﻿Erie County,,﻿Buffalo,﻿Buffalo,﻿NY,,42.9034422,-78.8893034,,,,﻿j_pallier_001,﻿Rev.,﻿J. Pallier,﻿O.M.I.,﻿Superior,,,,,﻿Community of the Missionary Oblates of Mary Immaculate,1868,﻿,﻿,﻿Buffalo,Buffalo
 ﻿buf.ny.0003,﻿church,﻿St. Patrick's,English,,,,﻿Erie County,,﻿Buffalo,﻿Buffalo,﻿NY,,42.8864468,-78.8783689,,,,﻿jam_titta_001,﻿Rev.,﻿James Tilta,﻿O.S.F.,﻿Superior,,,,,,1868,﻿,﻿,﻿Buffalo,Buffalo
 ﻿buf.ny.0003,﻿church,﻿St. Patrick's,English,,,,﻿Erie County,,﻿Buffalo,﻿Buffalo,﻿NY,,42.8864468,-78.8783689,,,,﻿massimo_001,﻿Rev. Fr.,﻿Massimo,﻿O.S.F.,,,,,,,1868,﻿,﻿,﻿Buffalo,Buffalo
 ﻿buf.ny.0003,﻿church,﻿St. Patrick's,English,,,,﻿Erie County,,﻿Buffalo,﻿Buffalo,﻿NY,,42.8864468,-78.8783689,,,,﻿jer_collins_002,﻿Rev. Father,﻿Jerome Collins,﻿O.S.F.,,,,,,,1868,﻿,﻿,﻿Buffalo,Buffalo
@@ -229,7 +229,6 @@
 ﻿buf.ny.0198,﻿retreat,﻿St. Mary's Retreat (Passionist),English,,,,,,﻿Dunkirk,,﻿NY,,43.1594407,-77.6064884,,,,﻿and_mcgurgan_001,﻿Rev.,﻿Andrew McGurgan,,,,﻿lay brother,﻿5 lay brothers,,,1868,﻿,﻿,﻿Buffalo,Buffalo
 ﻿buf.ny.0198,﻿retreat,﻿St. Mary's Retreat (Passionist),English,,,,,,﻿Dunkirk,,﻿NY,,43.1594407,-77.6064884,,,,﻿hen_e_henry egler _001,﻿Rev.,﻿Henry Egler,,,,﻿lay brother,﻿5 lay brothers,,,1868,﻿,﻿,﻿Buffalo,Buffalo
 ﻿buf.ny.0198,﻿retreat,﻿St. Mary's Retreat (Passionist),English,,,,,,﻿Dunkirk,,﻿NY,,43.1594407,-77.6064884,,,,﻿wil_geagan_001,﻿Rev.,﻿William Geagan,,,,﻿lay brother,﻿5 lay brothers,,,1868,﻿,﻿,﻿Buffalo,Buffalo
-﻿buf.ny.0005_02,﻿community,﻿Community of the Missionary Oblates of Mary Immaculate,English,,"﻿Church of the Holy Angels, Buffalo",,﻿Erie County,,﻿Buffalo,,﻿NY,,43.1594407,-77.6064884,,,,﻿j_pallier_001,﻿Rev.,﻿J. Pallier,,﻿Superior,,,,,,1868,﻿,﻿,﻿Buffalo,Buffalo
 ﻿buf.ny.0200,﻿academy,﻿Academy of St. Patrick,English,,,,,,﻿Rochester,,﻿NY,,43.1594407,-77.6064884,,,,,﻿Brother,﻿Rudolphus,,﻿Superior,,﻿student,﻿300 Pupils,﻿Under the charge of the Brothers of the Christian Schools,,1868,﻿,﻿,﻿Buffalo,Buffalo
 ﻿roc.ny.0066,﻿academy,﻿Academy of the Sacred Heart,English,,,,,,﻿Rochester,,﻿NY,,43.1594407,-77.6064884,,,,,﻿Madam,﻿Cornelius,,﻿Superior,﻿assisted by 6 others,﻿student,﻿60 Pupils,,,1868,﻿,﻿,﻿Buffalo,Buffalo
 ﻿buf.ny.0201,﻿convent,﻿St. Gabriel's Convent,English,,,,﻿Niagara County,,﻿Niagra City,,﻿NY,,43.1594407,-77.6064884,,,,,,,,,,,,﻿Under the nuns of the visitation,,1868,﻿,﻿,﻿Buffalo,Buffalo
@@ -293,7 +292,7 @@
 ﻿buf.ny.0208_03,﻿school,﻿St. Peter's Male,English,﻿under secular teachers,,,,,,,,,43.15950691,-77.60659865,,,,,,,,,,﻿student,"﻿pupils, 200",,,1868,﻿,﻿,﻿Buffalo,Buffalo
 ﻿buf.ny.0210,﻿school,not recorded,English,﻿under a secular teacher,,,﻿Seneca,,﻿Seneca Falls,,﻿NY,,43.15950691,-77.60659865,,,,,,,,,,﻿student,"﻿Pupils, 100",,,1868,﻿,﻿,﻿Buffalo,Buffalo
 ﻿buf.ny.0158,﻿school,not recorded,English,,,,,,﻿Perkinsville,,﻿NY,,42.5397896,-77.6283257,,,,,,,,,,﻿student,"﻿Pupils, 170",﻿under Sisters of Notre Dame,,1868,﻿,﻿,﻿Buffalo,Buffalo
-﻿buf.ny.0211,﻿school for boys and girl,not recorded,English,,,,,,﻿West-Seneca,,﻿NY,,42.5397896,-77.6283257,,,,,,,,,,﻿student,"﻿pupils, 75 to 100",,,1868,﻿,﻿,﻿Buffalo,Buffalo
+﻿buf.ny.0211,﻿school for boys and girls,not recorded,English,,,,,,﻿West-Seneca,,﻿NY,,42.5397896,-77.6283257,,,,,,,,,,﻿student,"﻿pupils, 75 to 100",,,1868,﻿,﻿,﻿Buffalo,Buffalo
 ﻿buf.ny.0160,﻿asylum,﻿St. Joseph's Boys' Orphan Asylum,English,"﻿is situated on a large farm, near the city boundaries, purchaed by the Rt. Rev. Bishop.",,,,,﻿Buffalo,,﻿NY,,42.8864468,-78.8783689,,,,﻿tho_hynes_001,﻿Rev.,﻿Thomas Hynes,,﻿Director,,﻿sister,"﻿Sisters of St. Joseph, 8",﻿The Sisters of St. Joseph,,1868,﻿,﻿,﻿Buffalo,Buffalo
 ﻿buf.ny.0160,﻿asylum,﻿St. Joseph's Boys' Orphan Asylum,English,"﻿is situated on a large farm, near the city boundaries, purchaed by the Rt. Rev. Bishop.",,,,,﻿Buffalo,,﻿NY,,42.8864468,-78.8783689,,,,,,,,,,﻿recieved,"﻿received, 200",﻿The Sisters of St. Joseph,,1868,﻿,﻿,﻿Buffalo,Buffalo
 ﻿buf.ny.0160,﻿asylum,﻿St. Joseph's Boys' Orphan Asylum,English,"﻿is situated on a large farm, near the city boundaries, purchaed by the Rt. Rev. Bishop.",,,,,﻿Buffalo,,﻿NY,,42.8864468,-78.8783689,,,,,,,,,,﻿average recieved,"﻿average recieved, 190",﻿The Sisters of St. Joseph,,1868,﻿,﻿,﻿Buffalo,Buffalo
