@@ -16,7 +16,7 @@
 ﻿alt.il.0013,﻿church,﻿St. John Baptist,English,,,,﻿Madison County,﻿St. Louis County,﻿Black Jack,﻿Black Jack,﻿IL,﻿MO,38.90414,-89.925323,﻿alt.il.0244,﻿Attended from Collinsville,,,,,,,,,,,,1869,﻿,﻿,﻿Alton,Alton
 ﻿alt.il.0014,﻿church,﻿St. Joseph's,English,,﻿Fowler Station P.O.,,﻿Adams County,﻿Adams County,﻿Bloomfield,﻿Ellington Township,﻿IL,,39.972492,-91.226486,,,,﻿t_cusack_001,﻿Rev.,﻿T. Cusack,,,,,,,,1869,﻿,﻿,﻿Alton,Alton
 ﻿alt.il.0015,﻿church,﻿St. Boniface's,English,,,,﻿Clinton County,﻿Clinton County,﻿Blue Mound,﻿St Rose,﻿IL,,38.680725,-89.552541,,,﻿Vacant,,,,,,,,,,,1869,﻿,﻿,﻿Alton,Alton
-﻿alt.il.0016,﻿church,not recorded,English,,﻿Church building,,﻿Washington County,﻿Washington County,﻿Bridgeport,﻿Okawville,﻿IL,,38.398887,-89.322695,,,,,,,,,,,,,,1869,﻿,﻿,﻿Alton,Alton
+﻿alt.il.0016,﻿church,not recorded,English,﻿Church building,,,﻿Washington County,﻿Washington County,﻿Bridgeport,﻿Okawville,﻿IL,,38.398887,-89.322695,,,,,,,,,,,,,,1869,﻿,﻿,﻿Alton,Alton
 ﻿alt.il.0017,﻿church,﻿St. Alohonsus,English,,,,﻿Macoupin County,﻿Macoupin County,﻿Brighton,﻿Brighton,﻿IL,,39.048333,-90.141667,,,﻿Vacant,,,,,,,,,,,1869,﻿,﻿,﻿Alton,Alton
 ﻿alt.il.0018,﻿church,﻿Immaculate Conception,English,,﻿News P.O.,,﻿Calhoun County,﻿Calhoun County,﻿Brussels,﻿Brussels,﻿IL,,38.948953,-90.587926,,,,﻿p_rustemeyer_001,﻿Rev.,﻿Peter Rustemeyer,,,,,,,,1869,﻿,﻿,﻿Alton,Alton
 ﻿alt.il.0019,﻿church,﻿Annunciation of the Blessed Virgin Mary,English,,,,﻿Macoupin County,﻿Macoupin County,﻿Bunker Hill,﻿Bunker Hill,﻿IL,,39.042824,-89.951769,,,,﻿p_j_ohalloran_001,﻿Rev.,﻿P. I. O'Halloran,,,,,,,,1869,﻿,﻿,﻿Alton,Alton
@@ -55,7 +55,7 @@
 ﻿alt.il.0052,﻿church,not recorded,English,,,,﻿Pike County,﻿Pike County,﻿Griggsville,﻿Griggsville,﻿IL,,39.708936,-90.724572,﻿alt.il.0089,﻿Attended from Pittsfield,,,,,,,,,,,,1869,﻿,﻿,﻿Alton,Alton
 ﻿alt.il.0053,﻿church,﻿St. Francis,English,,,,﻿Monroe County,﻿Monroe County,﻿Harrisonville,﻿Harrisonville,﻿IL,,38.286709,-90.34952,﻿alt.il.0261,﻿Attended from Madonnaville,,,,,,,,,,,,1869,﻿,﻿,﻿Alton,Alton
 ﻿alt.il.0054,﻿church,﻿St. Paul's,English,,,,﻿Madison County,﻿Madison County,﻿Highland,﻿Highland,﻿IL,,38.741069,-89.67365,,,,﻿p_peters_001,﻿Rev.,﻿P. Peters,,,,,,,,1869,﻿,﻿,﻿Alton,Alton
-﻿alt.il.0055,﻿church,not recorded,English,,﻿Church building,,﻿Montgomery County,﻿Montgomery County,﻿Hillsbboro,﻿Hillsbboro,﻿IL,,39.154703,-89.492011,,,,,,,,,,,,,,1869,﻿,﻿,﻿Alton,Alton
+﻿alt.il.0055,﻿church,not recorded,English,﻿Church building,,,﻿Montgomery County,﻿Montgomery County,﻿Hillsbboro,﻿Hillsbboro,﻿IL,,39.154703,-89.492011,,,,,,,,,,,,,,1869,﻿,﻿,﻿Alton,Alton
 ﻿alt.il.0056,﻿church,﻿Visitation of the Blessed Virgin Mary,English,,,,﻿Sangamon County,﻿Sangamon County,﻿Illiopolis,﻿Illiopolis,﻿IL,,39.853654,-89.242029,﻿alt.il.0034,﻿Attended from Decatur,,,,,,,,,,,,1869,﻿,﻿,﻿Alton,Alton
 ﻿alt.il.0057,﻿church,﻿Church of our Saviour,English,,,,﻿Morgan County,﻿Morgan County,﻿Jacksonville,﻿Jacksonville,﻿IL,,39.73458,-90.221274,,,,﻿jos_costa_001,﻿Rev.,﻿Joseph Costa,﻿O.C.,,,,,,,1869,﻿,﻿,﻿Alton,Alton
 ﻿alt.il.0058,﻿church,﻿St. Francis Xavier,English,,,,﻿Jersey County,﻿Jersey County,﻿Jerseyville,﻿Jerseyville,﻿IL,,39.115982,-90.325421,,,,﻿jam_harty_001,﻿Rev.,﻿James Harty,,,,,,,,1869,﻿,﻿,﻿Alton,Alton
@@ -150,7 +150,7 @@
 ﻿alt.il.0150,﻿station,not recorded,English,,,,﻿Clay County,﻿Clay County,﻿Clay City,﻿Clay City,﻿IL,,38.688659,-88.354212,,,,,,,,,,,,,,1869,﻿,﻿,﻿Alton,Alton
 ﻿alt.il.0151,﻿station,not recorded,English,,,,﻿Clay County,﻿Clay County,﻿Xenia,﻿Xenia,﻿IL,,38.635881,-88.634774,,,,,,,,,,,,,,1869,﻿,﻿,﻿Alton,Alton
 ﻿alt.il.0152,﻿station,not recorded,English,,,,﻿Coles County,﻿Coles County,﻿Ashmore,﻿Ashmore,﻿IL,,39.533091,-88.022258,,,,,,,,,,,,,,1869,﻿,﻿,﻿Alton,Alton
-﻿alt.il.0153,﻿station,not recorded,English,,﻿Dudley,,﻿Edgar County,﻿Edgar County,﻿Dudley,﻿Grandview Township,﻿IL,,39.713122,-87.776333,,,,,,,,,,,,,,1869,﻿,﻿,﻿Alton,Alton
+﻿alt.il.0153,﻿station,not recorded,English,,,,﻿Edgar County,﻿Edgar County,﻿Dudley,﻿Grandview Township,﻿IL,,39.713122,-87.776333,,,,,,,,,,,,,,1869,﻿,﻿,﻿Alton,Alton
 ﻿alt.il.0154,﻿station,not recorded,English,,,,﻿Effingham County,﻿Effingham County,﻿Watson,﻿Watson,﻿IL,,39.025321,-88.569772,,,,,,,,,,,,,,1869,﻿,﻿,﻿Alton,Alton
 ﻿alt.il.0155,﻿station,not recorded,English,,,,﻿Fayette County,﻿Fayette County,﻿Farina,﻿Farina,﻿IL,,38.834213,-88.772276,,,,,,,,,,,,,,1869,﻿,﻿,﻿Alton,Alton
 ﻿alt.il.0156,﻿station,not recorded,English,,,,﻿Fayette County,﻿Marion County,﻿Kinmundy,﻿Kinmundy,﻿IL,,38.773381,-88.846722,,,,,,,,,,,,,,1869,﻿,﻿,﻿Alton,Alton
