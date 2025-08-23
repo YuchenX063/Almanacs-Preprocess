@@ -37,8 +37,8 @@
 ﻿stl.mo.0017,﻿church,﻿Annunciation,English,﻿residence adjoining,"﻿Sixth street, near Chouteau avenue",,,,﻿St. Louis,﻿St. Louis,﻿MO,,38.6237125,-90.2257213,,,,﻿p_j_ryan_001,﻿Rev.,﻿P. J. Ryan,,,,,,,,1864,﻿,﻿,﻿StLouis,StLouis
 ﻿stl.mo.0017,﻿church,﻿Annunciation,English,﻿residence adjoining,"﻿Sixth street, near Chouteau avenue",,,,﻿St. Louis,﻿St. Louis,﻿MO,,38.6237125,-90.2257213,,,,﻿m_welby_001,﻿Rev.,﻿M. Welby,,,,,,,,1864,﻿,﻿,﻿StLouis,StLouis
 ﻿stl.mo.0018,﻿church,﻿Assumption,English,﻿residence adjoining,"﻿Sydney street, near Seventh street",,,,﻿St. Louis,﻿St. Louis,﻿MO,,38.6040286,-90.2190133,,,,﻿m_riordan_003,﻿Rev.,﻿M. Riordan,,,,,,,,1864,﻿,﻿,﻿StLouis,StLouis
-﻿stl.mo.0225,﻿cemetery?,﻿Calvary Cemetery,English,,,,,,﻿St. Louis,﻿St. Louis,﻿MO,,38.70250326,-90.23728699,,,,﻿e_saulnier_001,﻿Rev.,﻿E. Saulnier,,,,,,,,1864,﻿,﻿,﻿StLouis,StLouis
-﻿stl.mo.0226,﻿church,﻿Church of Holy Cross,English,﻿in course of erection,﻿near Calvalry Cemetery,,,,﻿St. Louis,﻿St. Louis,﻿MO,,38.69821657,-90.23296674,,,,,,,,,,,,,,1864,﻿,﻿,﻿StLouis,StLouis
+﻿stl.mo.0243,﻿cemetery,﻿Calvary Cemetery,English,,,,,,﻿St. Louis,﻿St. Louis,﻿MO,,38.70250326,-90.23728699,,,,﻿e_saulnier_001,﻿Rev.,﻿E. Saulnier,,,,,,,,1864,﻿,﻿,﻿StLouis,StLouis
+﻿stl.mo.0226,﻿church,﻿Church of Holy Cross,English,﻿in course of erection,﻿near Calvary Cemetery,,,,﻿St. Louis,﻿St. Louis,﻿MO,,38.69821657,-90.23296674,,,,,,,,,,,,,,1864,﻿,﻿,﻿StLouis,StLouis
 ﻿stl.mo.0037,﻿church,﻿St. Joseph's,English,,,,﻿Cape Girardeau County,﻿Perry County,﻿Apple Creek,﻿Apple Creek,﻿MO,,37.6128292,-89.7509351,,,,﻿j_becker_001,﻿Rev.,﻿J. Becker,,,,,,,,1864,﻿,﻿,﻿StLouis,StLouis
 ﻿stl.mo.0038,﻿church,﻿St. Patrick's,English,,,,﻿Franklin County,,﻿Armagh,﻿Armagh,﻿MO,,37.9642529,-91.8318334,,,,﻿f_p_gallagher_001,﻿Rev.,﻿F. P. Gallagher,,,,,,,,1864,﻿,﻿,﻿StLouis,StLouis
 ﻿stl.mo.0041,﻿church,﻿St. Mary's,English,,,,﻿Perry County,,﻿Barrens,﻿Barrens,﻿MO,,37.723555,-89.7755338,,,,﻿p_mcmenomy_002,﻿Rev.,﻿P. McMenomy,﻿C.M.,,﻿and other priests of the congregation,,,,,1864,﻿,﻿,﻿StLouis,StLouis
@@ -58,7 +58,7 @@
 ﻿stl.mo.0057,﻿church,not recorded,English,,,,﻿St. Charles County,,﻿Dog and Allen Prairies,﻿Dog Prairie,﻿MO,,38.7338885,-90.8294002,,,,﻿c_tintrup_001,﻿Rev.,﻿C. Tintrop,,,,,,,,1864,﻿,﻿,﻿StLouis,StLouis
 ﻿stl.mo.0058,﻿church,﻿St. Columbkille,English,,,,﻿Franklin County,,﻿Downpatrick,﻿Downpatrick,﻿MO,,38.3953601,-91.135302,﻿stl.mo.0038,﻿Attended from Armagh,,,,,,,,,,,,1864,﻿,﻿,﻿StLouis,StLouis
 ﻿stl.mo.0207,﻿church,﻿St. Joseph's,English,,,,﻿Knox County,,﻿Edina,﻿Edina,﻿MO,,40.16739062,-92.17260586,,,,﻿b_mcmenomy_001,﻿Rev.,﻿B. McMenomy,,,,,,,,1864,﻿,﻿,﻿StLouis,StLouis
-﻿stl.mo.0225,﻿church,not recorded,English,,,,﻿Holt County,,﻿English Grove,﻿St. Louis,﻿MO,,37.84710029,-92.15816565,﻿stl.mo.0207,﻿visited from St. Joseph's,,,,,,,,,,,,1864,﻿,﻿,﻿StLouis,StLouis
+﻿stl.mo.0225,﻿church,not recorded,English,,,,﻿Holt County,,﻿English Grove,,﻿MO,,37.84710029,-92.15816565,﻿stl.mo.0207,﻿visited from St. Joseph's,,,,,,,,,,,,1864,﻿,﻿,﻿StLouis,StLouis
 ﻿stl.mo.0198,﻿church,﻿St. Ann's,English,,,,﻿St. Louis County,,﻿Florissant Road,﻿Florissant,﻿MO,,37.84710029,-92.15816565,,,,﻿a_van-hulst_001,﻿Rev.,﻿A. Van Hulst,﻿S.J.,,,,,,,1864,﻿,﻿,﻿StLouis,StLouis
 ﻿stl.mo.0066,﻿church,﻿St. Michael's,English,,,,﻿Madison County,,﻿Fredericktown,﻿Fredericktown,﻿MO,,37.5597754,-90.2940069,,,,﻿l_tucker_001,﻿Rev.,﻿L. Tucker,,,,,,,,1864,﻿,﻿,﻿StLouis,StLouis
 ﻿stl.mo.0068,﻿church,﻿Sacred Heart,English,,,,﻿Gasconade County,,﻿Gasconade,﻿Gasconade,﻿MO,,38.669489,-91.5601667,﻿stl.mo.0200,﻿Visited from Westphalia,,,,,,,,,,,,1864,﻿,﻿,﻿StLouis,StLouis
