@@ -12,8 +12,8 @@
 ﻿bal.md.0012,﻿church,﻿St. James',English,,,,,﻿Baltimore County,﻿Baltimore,,﻿MD,﻿MD,39.301579,-76.602041,,,,,﻿Rev.,﻿John Gildea,,,,,,,,1838,,,,,﻿,﻿,﻿Baltimore,Baltimore
 ﻿bal.md.0016,﻿church,﻿St. Mary's,English,,,,,﻿Baltimore County,﻿Baltimore,﻿Baltimore,﻿MD,﻿MD,39.295821,-76.622867,,,,,﻿Very Rev.,﻿Lewis Deluol,﻿D. D.,,,,,,,1838,,,,,﻿,﻿,﻿Baltimore,Baltimore
 ﻿bal.md.0017,﻿chapel,﻿Carmelite Chapel,English,,,,,﻿Baltimore County,﻿Baltimore,,﻿MD,,39.305333,-76.602235,,,,,,,,,,,,,,1838,,,,,﻿,﻿,﻿Baltimore,Baltimore
-﻿bal.md.0021,﻿chapel,﻿St. Frances' Chapel,English,,,,,﻿Baltimore County,﻿Baltimore,,﻿MD,,39.652442,-78.767163,,,,,﻿Rev.,﻿Hector Joubert,,,,,,,,1838,,,,,﻿,﻿,﻿Baltimore,Baltimore
-﻿bal.md.0036,﻿church,not recorded,English,,,,,﻿Anne Arundel County,﻿Annapolis,,﻿MD,,39.652442,-78.767163,,,﻿once a month,,﻿Rev.,﻿Robert D. Woodley,,,,,,,,1838,,,,,﻿,﻿,﻿Baltimore,Baltimore
+﻿bal.md.0021,﻿chapel,﻿St. Frances' Chapel,English,,,,,﻿Baltimore County,﻿Baltimore,,﻿MD,,39.305333,-76.602235,,,,,﻿Rev.,﻿Hector Joubert,,,,,,,,1838,,,,,﻿,﻿,﻿Baltimore,Baltimore
+﻿bal.md.0036,﻿church,not recorded,English,,,,,﻿Anne Arundel County,﻿Annapolis,,﻿MD,,39.305333,-76.602235,,,﻿once a month,,﻿Rev.,﻿Robert D. Woodley,,,,,,,,1838,,,,,﻿,﻿,﻿Baltimore,Baltimore
 ﻿bal.md.9010,﻿church,not recorded,English,,,,﻿Alleghany County,﻿Anne Arundel County,﻿Arnold Settlement,﻿Mount Savage,﻿MD,﻿MD,39.697778,-78.873889,,,,,﻿Rev.,﻿Henry Myers,,,,,,,,1838,"﻿Fairly certain, since MSM was founded in 1808, that this entry refers to the chapel that was set up at the same time as the seminary: https://seminary.msmary.edu/about/history.html",,,,﻿,﻿,﻿Baltimore,Baltimore
 ﻿bal.md.0091,﻿church,not recorded,English,,,,﻿Montgomery County,﻿Montgomery County,﻿Barnsville,﻿Barnesville,﻿MD,﻿MD,39.220668,-77.380777,,,﻿every three weeks,,﻿Rev.,﻿Silvester Piot,,,,,,,,1838,,,,,﻿,﻿,﻿Baltimore,Baltimore
 ﻿bal.md.0028,﻿church,not recorded,English,,,,﻿Alleghany County,﻿Garrett County,﻿Blooming Rose Settlement,﻿Friendsville,﻿MD,﻿MD,39.656667,-79.439167,,,﻿once a month,,﻿Rev.,﻿Henry Myers,,,,,,,,1838,,,,,﻿,﻿,﻿Baltimore,Baltimore
@@ -76,11 +76,11 @@
 ﻿ric.va.0012,﻿church,not recorded,English,,,,,,﻿Winchester,,﻿VA,,39.18566,-78.163334,,,,,﻿Rev.,﻿James Strain,,,,,,,,1838,,,,,﻿,﻿,﻿Baltimore,Baltimore
 ﻿ric.va.0009,﻿church,not recorded,English,,,,,﻿Berkeley County,﻿Martinsburg,﻿Martinsburg,﻿VA,﻿WV,39.455404,-77.964527,,,﻿4th Sund.,,﻿Rev.,﻿Richd. Whelan,,,,,,,,1838,"﻿https://en.wikipedia.org/wiki/Martinsburg,_West_Virginia#:~:text=The%20city%20of%20Martinsburg%20was,Legislature%20on%20March%2030%2C%201868.&text=Martinsburg%20became%20a%20center%20of%20the%20railroad%20industry%20and%20its%20workers. ; https://stjosephwv.org/",,,,﻿,﻿,﻿Baltimore,Baltimore
 ﻿ric.va.0009,﻿church,not recorded,English,,,,,﻿Berkeley County,﻿Martinsburg,﻿Martinsburg,﻿VA,,39.455404,-77.964527,,,,,﻿Rev.,﻿James Strain,,,,,,,,1838,,,,,﻿,﻿,﻿Baltimore,Baltimore
-﻿ric.va.0010,﻿church,not recorded,English,,,,,,﻿Bath,,﻿VA,,17.0,11.0,,,﻿every third Sunday,,﻿Rev.,﻿Richd. Whelan,,,,,,,,1838,,,,,﻿,﻿,﻿Baltimore,Baltimore
-﻿ric.va.0010,﻿church,not recorded,English,,,,,,﻿Bath,,﻿VA,,17.0,11.0,,,,,﻿Rev.,﻿James Strain,,,,,,,,1838,,,,,﻿,﻿,﻿Baltimore,Baltimore
-﻿bal.md.9014,﻿station,not recorded,English,,,,,﻿Hampshire County,﻿Romney,﻿Romney,﻿VA,﻿WV,17.0,11.0,,,﻿fifth Sunday,,﻿Rev.,﻿H. Myers,,,,,,,,1838,,,,,﻿,﻿,﻿Baltimore,Baltimore
-﻿bal.md.9014,﻿church,not recorded,English,,,,,﻿Hampshire County,﻿Moorfield,﻿Romney,﻿VA,,17.0,11.0,,,﻿occasionally,,﻿Rev.,﻿H. Myers,,,,,,,,1838,,,,,﻿,﻿,﻿Baltimore,Baltimore
-﻿bal.md.9013,﻿station,not recorded,English,,,,,,﻿Waterford,,﻿VA,,17.0,11.0,,,﻿visited occasionally,,﻿Rev.,﻿R. Whelan,,,,,,,,1838,,,,,﻿,﻿,﻿Baltimore,Baltimore
+﻿ric.va.0010,﻿church,not recorded,English,,,,,,﻿Bath,,﻿VA,,39.455404,-77.964527,,,﻿every third Sunday,,﻿Rev.,﻿Richd. Whelan,,,,,,,,1838,,,,,﻿,﻿,﻿Baltimore,Baltimore
+﻿ric.va.0010,﻿church,not recorded,English,,,,,,﻿Bath,,﻿VA,,39.455404,-77.964527,,,,,﻿Rev.,﻿James Strain,,,,,,,,1838,,,,,﻿,﻿,﻿Baltimore,Baltimore
+﻿bal.md.9014,﻿station,not recorded,English,,,,,﻿Hampshire County,﻿Romney,﻿Romney,﻿VA,﻿WV,39.455404,-77.964527,,,﻿fifth Sunday,,﻿Rev.,﻿H. Myers,,,,,,,,1838,,,,,﻿,﻿,﻿Baltimore,Baltimore
+﻿bal.md.9014,﻿church,not recorded,English,,,,,﻿Hampshire County,﻿Moorfield,﻿Romney,﻿VA,,39.455404,-77.964527,,,﻿occasionally,,﻿Rev.,﻿H. Myers,,,,,,,,1838,,,,,﻿,﻿,﻿Baltimore,Baltimore
+﻿bal.md.9013,﻿station,not recorded,English,,,,,,﻿Waterford,,﻿VA,,39.455404,-77.964527,,,﻿visited occasionally,,﻿Rev.,﻿R. Whelan,,,,,,,,1838,,,,,﻿,﻿,﻿Baltimore,Baltimore
 ﻿whe.va.9000,﻿station,not recorded,English,,,,,﻿Jefferson County,﻿Shepherdstown,﻿Shepherdstown,﻿VA,﻿WV,39.429774,-77.808135,,,﻿visited occasionally,,﻿Rev.,﻿R. Whelan,,,,,,,,1838,﻿https://stagnesshepherdstown.org/our-history/,,,,﻿,﻿,﻿Baltimore,Baltimore
 ﻿whe.va.0001,﻿church,not recorded,English,,,,,﻿Ohio County,﻿Wheeling,﻿Wheeling,﻿VA,﻿WV,40.066459,-80.719532,,,,,﻿Rev.,﻿James Haerner,,,,,,,,1838,﻿https://saintjosephcathedral.com/our-history/,,,,﻿,﻿,﻿Baltimore,Baltimore
 ﻿bal.md.0114,﻿church,﻿St. Patrick's,English,,,,,,﻿Washington,﻿Washington,﻿DC,﻿DC,38.897909,-77.025806,,,,,﻿Very Rev.,﻿Wm. Matthews,,,,,,,,1838,﻿https://saintpatrickdc.org/our-history,,,,﻿,﻿,﻿Baltimore,Baltimore
