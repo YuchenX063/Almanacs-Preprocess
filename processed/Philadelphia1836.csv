@@ -26,9 +26,9 @@
 ﻿phi.pa.9000,﻿church,﻿St. Peter's,English,,,,,﻿Franklin County,﻿Chambersburg,﻿Chambersburg,﻿PA,﻿PA,41.57188219,-75.5011599,,,﻿twice a month,﻿tho_heyden_901,﻿Rev.,﻿Thomas Heyden,,,,,,,,1836,﻿,﻿,﻿Philadelphia,Philadelphia
 ﻿erie.pa.0015,﻿church,﻿St. Francis of Assissium,English,,,,,﻿Clearfield County,﻿Clearfield,﻿Clearfield,﻿PA,﻿PA,41.01913824,-78.43912405,,,﻿occasionally,﻿p_lemke_901,﻿Rev.,﻿P. Lemke,,,,,,,,1836,﻿,﻿,﻿Philadelphia,Philadelphia
 ﻿har.pa.0010,﻿church,﻿St. Peter's,English,,,,,﻿Lancaster County,﻿Columbia,﻿Columbia,﻿PA,﻿PA,40.02957203,-76.50186656,,,﻿twice a month,﻿b_keenan_901,﻿Rev.,﻿B. Keenan,,,﻿Dw. at Lancaster,,,,,1836,﻿,﻿,﻿Philadelphia,Philadelphia
-﻿har.pa.0023,﻿church,﻿Sacred Heart,English,,,,,﻿Adams County,﻿Conewago,﻿Edgegrove,﻿PA,﻿PA,39.81875756,-77.03791245,,,,﻿mat_lekeu_901,﻿Rev.,﻿Matthew Lekeu,﻿S.J.,,,,,,,1836,﻿,﻿,﻿Philadelphia,Philadelphia
-﻿har.pa.0023,﻿church,﻿Sacred Heart,English,,,,,﻿Adams County,﻿Conewago,﻿Edgegrove,﻿PA,,39.81875756,-77.03791245,,,,﻿mic_dougherty_901,﻿Rev.,﻿Michael Dougherty,﻿S. J.,,,,,,,1836,﻿,﻿,﻿Philadelphia,Philadelphia
-﻿har.pa.0023,﻿church,﻿Sacred Heart,English,,,,,﻿Adams County,﻿Conewago,﻿Edgegrove,﻿PA,,39.81875756,-77.03791245,,,,﻿vir_barber_902,﻿Rev.,﻿Virgil Barber,﻿S. J.,,,,,,,1836,﻿,﻿,﻿Philadelphia,Philadelphia
+﻿har.pa.0023,﻿church,﻿Sacred Heart,English,,,,,﻿Adams County,﻿Conewago,﻿Conewago,﻿PA,﻿PA,39.81875756,-77.03791245,,,,﻿mat_lekeu_901,﻿Rev.,﻿Matthew Lekeu,﻿S.J.,,,,,,,1836,﻿,﻿,﻿Philadelphia,Philadelphia
+﻿har.pa.0023,﻿church,﻿Sacred Heart,English,,,,,﻿Adams County,﻿Conewago,﻿Conewago,﻿PA,,39.81875756,-77.03791245,,,,﻿mic_dougherty_901,﻿Rev.,﻿Michael Dougherty,﻿S. J.,,,,,,,1836,﻿,﻿,﻿Philadelphia,Philadelphia
+﻿har.pa.0023,﻿church,﻿Sacred Heart,English,,,,,﻿Adams County,﻿Conewago,﻿Conewago,﻿PA,,39.81875756,-77.03791245,,,,﻿vir_barber_902,﻿Rev.,﻿Virgil Barber,﻿S. J.,,,,,,,1836,﻿,﻿,﻿Philadelphia,Philadelphia
 ﻿pit.pa.9007,﻿church,not recorded,English,,﻿Cussowago Creek,,﻿Crawford County,,,,﻿PA,,39.81875756,-77.03791245,,,﻿occasionally,﻿p_masquelet_901,﻿Rev.,﻿P. Masquelet,,,,,,,,1836,﻿,﻿,﻿Philadelphia,Philadelphia
 ﻿phi.pa.9001,﻿church,﻿Mount Carmel,English,,,,﻿Westmoreland County,,﻿Derry Township,,﻿PA,,39.81875756,-77.03791245,,,﻿occasionally,﻿jam_a_stillinger_901,﻿Rev.,﻿James A. Stillinger,,,﻿Dw. at Blairsville,,,,,1836,﻿,﻿,﻿Philadelphia,Philadelphia
 ﻿phi.pa.0110,﻿church,not recorded,English,﻿Church not dedicated,,,,,﻿Easton,,﻿PA,,39.81875756,-77.03791245,,,﻿twice a month,﻿h_herzog_901,﻿Rev.,﻿H. Herzog,,,,,,,,1836,﻿,﻿,﻿Philadelphia,Philadelphia
@@ -86,6 +86,6 @@
 ﻿phi.pa.0005_92,﻿school,﻿St. Michael's Free School,English,,,,,,﻿Philadelphia,,﻿PA,,40.19908625,-74.7582005,,,,,,,,,,﻿sisters,﻿3 sisters,﻿Sisters of Charity,,1836,﻿,﻿,﻿Philadelphia,Philadelphia
 ﻿wil.de.0001_92,﻿asylum,﻿St. Peter's Asylum,English,,,,,,﻿Wilmington,,﻿DE,,40.19908625,-74.7582005,,,,,,,,,,﻿sisters,﻿3 sisters,﻿Sisters of Charity,,1836,﻿,﻿,﻿Philadelphia,Philadelphia
 ﻿wil.de.0001_93,﻿day school,﻿St. Peter's Day School,English,,,,,,﻿Wilmington,,﻿DE,,40.19908625,-74.7582005,,,,,,,,,,﻿sisters,﻿4 sisters,﻿Sisters of Charity,,1836,﻿,﻿,﻿Philadelphia,Philadelphia
-﻿wil.de.0001_93,﻿?,﻿St. John's Baptist,English,,﻿McSherrystown,,,,﻿Conewago,,﻿DE,,40.19908625,-74.7582005,,,,,,,,,,﻿sisters,﻿2 sisters,﻿Sisters of Charity,,1836,﻿,﻿,﻿Philadelphia,Philadelphia
-﻿wil.de.0001_93,﻿school,﻿St. John's Baptist,English,,﻿McSherrystown,,,,﻿Pittsburg,,﻿PA,,40.19908625,-74.7582005,,,,,,,,,,﻿sisters,﻿4 sisters,﻿Sisters of Charity,,1836,﻿,﻿,﻿Philadelphia,Philadelphia
-﻿wil.de.0001_93,﻿academy,﻿Young Ladies' Academy,English,,﻿McSherrystown,,,,﻿Wilmington,,﻿DE,,40.19908625,-74.7582005,,,,,,,,,,﻿sisters,﻿4 sisters,﻿Sisters of Charity,,1836,﻿,﻿,﻿Philadelphia,Philadelphia
+﻿wil.de.0001_93,﻿school,﻿St. John's Baptist,English,,﻿McSherrystown,,,,﻿Conewago,﻿Conewago,﻿DE,,40.19908625,-74.7582005,,,,,,,,,,﻿sisters,﻿2 sisters,﻿Sisters of Charity,,1836,﻿,﻿,﻿Philadelphia,Philadelphia
+﻿wil.de.0001_93,﻿school,﻿St. John's Baptist,English,,﻿McSherrystown,,,,﻿Pittsburg,﻿Conewago,﻿PA,,40.19908625,-74.7582005,,,,,,,,,,﻿sisters,﻿4 sisters,﻿Sisters of Charity,,1836,﻿,﻿,﻿Philadelphia,Philadelphia
+﻿wil.de.0001_93,﻿academy,﻿Young Ladies' Academy,English,,﻿McSherrystown,,,,﻿Wilmington,﻿Conewago,﻿DE,,40.19908625,-74.7582005,,,,,,,,,,﻿sisters,﻿4 sisters,﻿Sisters of Charity,,1836,﻿,﻿,﻿Philadelphia,Philadelphia

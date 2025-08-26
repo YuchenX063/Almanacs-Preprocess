@@ -26,9 +26,9 @@
 ﻿phi.pa.9000,﻿church,﻿St. Peter's,English,,,,,﻿Franklin County,﻿Chambersburg,﻿Chambersburg,﻿PA,﻿PA,41.57188219,-75.5011599,,,﻿twice a month,,﻿p_rafferty_901,﻿Rev.,﻿P. Rafferty,,,,,,,1838,﻿,﻿,﻿Philadelphia,Philadelphia
 ﻿erie.pa.0015,﻿church,﻿St. Francis of Assissium,English,,,,,﻿Clearfield County,﻿Clearfield,﻿Clearfield,﻿PA,﻿PA,41.01913824,-78.43912405,,,﻿once a month,,﻿oth_borgess_901,﻿Rev.,﻿Otho Borgess,,,﻿dwelling at Bellefonte,,,,1838,﻿,﻿,﻿Philadelphia,Philadelphia
 ﻿har.pa.0010,﻿church,﻿St. Peter's,English,,,,,﻿Lancaster County,﻿Columbia,﻿Columbia,﻿PA,﻿PA,40.02957203,-76.50186656,,,﻿twice a month,,﻿b_keenan_901,﻿Rev.,﻿B. Keenan,,,﻿dwelling at Lancaster,,,,1838,﻿,﻿,﻿Philadelphia,Philadelphia
-﻿har.pa.0023,﻿church,﻿Sacred Heart,English,,,,,﻿Adams County,﻿Conewago,﻿Edgegrove,﻿PA,﻿PA,39.81875756,-77.03791245,,,,,﻿mat_lekeu_901,﻿Rev.,﻿Matthew Lekeu,﻿S.J.,,,,,,1838,﻿,﻿,﻿Philadelphia,Philadelphia
-﻿har.pa.0023,﻿church,﻿Sacred Heart,English,,,,,﻿Adams County,﻿Conewago,﻿Edgegrove,﻿PA,,39.81875756,-77.03791245,,,,,﻿mic_dougherty_901,﻿Rev.,﻿Michael Dougherty,﻿S. J.,,,,,,1838,﻿,﻿,﻿Philadelphia,Philadelphia
-﻿har.pa.0023,﻿church,﻿Sacred Heart,English,,,,,﻿Adams County,﻿Conewago,﻿Edgegrove,﻿PA,,39.81875756,-77.03791245,,,,,﻿vir_barber_902,﻿Rev.,﻿Virgil Barber,﻿S. J.,,,,,,1838,﻿,﻿,﻿Philadelphia,Philadelphia
+﻿har.pa.0023,﻿church,﻿Sacred Heart,English,,,,,﻿Adams County,﻿Conewago,﻿Conewago,﻿PA,﻿PA,39.81875756,-77.03791245,,,,,﻿mat_lekeu_901,﻿Rev.,﻿Matthew Lekeu,﻿S.J.,,,,,,1838,﻿,﻿,﻿Philadelphia,Philadelphia
+﻿har.pa.0023,﻿church,﻿Sacred Heart,English,,,,,﻿Adams County,﻿Conewago,﻿Conewago,﻿PA,,39.81875756,-77.03791245,,,,,﻿mic_dougherty_901,﻿Rev.,﻿Michael Dougherty,﻿S. J.,,,,,,1838,﻿,﻿,﻿Philadelphia,Philadelphia
+﻿har.pa.0023,﻿church,﻿Sacred Heart,English,,,,,﻿Adams County,﻿Conewago,﻿Conewago,﻿PA,,39.81875756,-77.03791245,,,,,﻿vir_barber_902,﻿Rev.,﻿Virgil Barber,﻿S. J.,,,,,,1838,﻿,﻿,﻿Philadelphia,Philadelphia
 ﻿pit.pa.9007,﻿church,﻿St. Philip Beniti,English,,﻿Cussewago Creek,,﻿Crawford County,,,,﻿PA,,39.81875756,-77.03791245,,,﻿once in two months,,﻿wil_loughran_901,﻿Rev.,﻿William Loughran,,,,,,,1838,﻿,﻿,﻿Philadelphia,Philadelphia
 ﻿phi.pa.9001,﻿church,﻿Mount Carmel,English,,,,﻿Westmoreland County,,﻿Derry Township,,﻿PA,,39.81875756,-77.03791245,,,﻿occasionally,,﻿jam_a_stillinger_901,﻿Rev.,﻿James A. Stillinger,,,,,,,1838,﻿,﻿,﻿Philadelphia,Philadelphia
 ﻿phi.pa.0110,﻿church,﻿St. Bernard's,English,,,,,,﻿Easton,,﻿PA,,39.81875756,-77.03791245,,,﻿once a month,,﻿j_moloney_901,﻿Rev.,﻿J. Moloney,,,,,,,1838,﻿,﻿,﻿Philadelphia,Philadelphia
@@ -91,6 +91,6 @@
 ﻿phi.pa.0004_93,﻿day school,﻿St. John's Day School,English,,,,,,﻿Philadelphia,,﻿PA,,40.19908625,-74.7582005,,,,,,,,,,,﻿boys,﻿45 boys,﻿Sisters of Charity,1838,﻿,﻿,﻿Philadelphia,Philadelphia
 ﻿phi.pa.0004_93,﻿school,﻿St. Mary's Day School,English,,,,,,﻿Philadelphia,,﻿PA,,40.19908625,-74.7582005,,,,,,,,,,,﻿children,﻿180 children,﻿Sisters of Charity,1838,﻿,﻿,﻿Philadelphia,Philadelphia
 ﻿phi.pa.0004_93,﻿school,﻿St. Mary's Day School,English,,,,,,﻿Pittsburg,,﻿PA,,40.19908625,-74.7582005,,,,,,,,,,,﻿sisters,﻿4 sisters,﻿Sisters of Charity,1838,﻿,﻿,﻿Philadelphia,Philadelphia
-﻿phi.pa.0004_93,﻿?,﻿St. John's Baptist,English,,﻿M'Sherrystown,,,,﻿Conew.,,﻿PA,,40.19908625,-74.7582005,,,,,,,,,,,﻿sisters,﻿2 sisters,﻿Sisters of Charity,1838,﻿,﻿,﻿Philadelphia,Philadelphia
-﻿phi.pa.0004_93,﻿school,﻿St. John's Baptist,English,,﻿M'Sherrystown,,,,﻿Pottsville,,﻿PA,,40.19908625,-74.7582005,,,,,,,,,,,﻿sisters,﻿2 sisters,﻿Sisters of Charity,1838,﻿,﻿,﻿Philadelphia,Philadelphia
+﻿phi.pa.0004_93,﻿school,﻿St. John's Baptist,English,,﻿M'Sherrystown,,,,﻿Conew.,﻿Conewago,﻿PA,,40.19908625,-74.7582005,,,,,,,,,,,﻿sisters,﻿2 sisters,﻿Sisters of Charity,1838,﻿,﻿,﻿Philadelphia,Philadelphia
+﻿phi.pa.0004_93,﻿school,﻿St. John's Baptist,English,,﻿M'Sherrystown,,,,﻿Pottsville,﻿Conewago,﻿PA,,40.19908625,-74.7582005,,,,,,,,,,,﻿sisters,﻿2 sisters,﻿Sisters of Charity,1838,﻿,﻿,﻿Philadelphia,Philadelphia
 ﻿phi.pa.0010_02,﻿school,﻿St. Michael's Free School,English,,,,,,﻿Philadelphia,,﻿PA,,40.19908625,-74.7582005,,,,,,,,,,,,,,1838,﻿,﻿,﻿Philadelphia,Philadelphia
