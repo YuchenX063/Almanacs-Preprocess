@@ -2,7 +2,7 @@
 ﻿alt.il.0001,﻿cathedral,﻿Cathedral of SS. Peter and Paul,English,,,,﻿Madison County,﻿Madison County,﻿Alton,﻿Alton,﻿IL,,38.8953847,-90.1902021,,,,﻿h_d_juncker_001,﻿Rt. Rev.,﻿H. D. Juncker,,,,,,,,1864,﻿,﻿,﻿Alton,Alton
 ﻿alt.il.0001,﻿cathedral,﻿Cathedral of SS. Peter and Paul,English,,,,﻿Madison County,﻿Madison County,﻿Alton,﻿Alton,﻿IL,,38.8953847,-90.1902021,,,,﻿j_janssen_001,﻿Rev.,﻿J. Janssen,,,,,,,,1864,﻿,﻿,﻿Alton,Alton
 ﻿alt.il.0001,﻿cathedral,﻿Cathedral of SS. Peter and Paul,English,,,,﻿Madison County,﻿Madison County,﻿Alton,﻿Alton,﻿IL,,38.8953847,-90.1902021,,,,﻿j_vahey_001,﻿Rev.,﻿J. Vahey,,,,,,,,1864,﻿,﻿,﻿Alton,Alton
-﻿alt.il.0002,﻿church,﻿St. Mary's of the Immaculate Conception,English,﻿German,,,﻿Madison County,﻿Madison County,﻿Alton,﻿Alton,﻿IL,,38.8911797,-90.1782179,,,,﻿f_ostrop_001,﻿Rev.,﻿F. Ostrop,,,,,,,,1864,﻿,﻿,﻿Alton,Alton
+﻿alt.il.0002,﻿church,﻿St. Mary's of the Immaculate Conception,﻿German,,,,﻿Madison County,﻿Madison County,﻿Alton,﻿Alton,﻿IL,,38.8911797,-90.1782179,,,,﻿f_ostrop_001,﻿Rev.,﻿Fr. Ostrop,,,,,,,,1864,﻿,﻿,﻿Alton,Alton
 ﻿alt.il.0007,﻿church,not recorded,English,,,,﻿Christian County,﻿Christian County,﻿Assumption,﻿Assumption,﻿IL,,39.5034741,-89.0752499,,,,﻿f_dutour_001,﻿Rev.,﻿F. Dutour,,,,,,,,1864,﻿,﻿,﻿Alton,Alton
 ﻿alt.il.0007,﻿church,﻿St. Aloysius',English,,,,﻿Cass County,﻿Cass County,﻿Baldwinsville,﻿Baldwinsville,﻿IL,,39.5034741,-89.0752499,﻿alt.il.0067,﻿Attended from Marshall,,,,,,,,,,,,1864,﻿,﻿,﻿Alton,Alton
 ﻿alt.il.0009,﻿church,﻿St. Alexius',English,,,,﻿Cass County,﻿Cass County,﻿Beardstown,﻿Beardstown,﻿IL,,40.0138223,-90.4339146,,,,﻿r_heimerling_001,﻿Rev.,﻿R. Heimerling,,,,,,,,1864,﻿,﻿,﻿Alton,Alton
@@ -11,7 +11,7 @@
 ﻿alt.il.0011,﻿church,not recorded,English,,,,﻿Madison County,﻿Madison County,﻿Bethalto,﻿Bethalto,﻿IL,,38.8955217,-90.0314525,﻿alt.il.0222,﻿Attended from Alton,,,,,,,,,,,,1864,﻿,﻿,﻿Alton,Alton
 ﻿alt.il.0013,﻿church,not recorded,English,,,,﻿Madison County,﻿St. Louis County,﻿Black Jack,﻿Black Jack,﻿IL,﻿MO,38.9041402,-89.9253233,﻿alt.il.0031,﻿Attended from Collinsville,,,,,,,,,,,,1864,﻿,﻿,﻿Alton,Alton
 ﻿alt.il.0014,﻿church,not recorded,English,,,,﻿Adams County,﻿Adams County,﻿Bloomfield,﻿Ellington Township,﻿IL,,39.9724918,-91.226486,﻿alt.il.0093,﻿Attended from Quincy,,,,,,,,,,,,1864,﻿,﻿,﻿Alton,Alton
-﻿alt.il.0118,﻿church,﻿St. Dominic's,English,﻿P.O.,,,﻿Clinton County,﻿Clinton County,﻿Shoal Creek Station,﻿Breese,﻿IL,,39.9724918,-91.226486,,,,﻿aug_reinecke_001,﻿Rev.,﻿Aug. Reinecke,,,,,,,,1864,﻿,﻿,﻿Alton,Alton
+﻿alt.il.0118,﻿church,﻿St. Dominic's,English,,"﻿Shoal Creek Station, P.O.",,﻿Clinton County,﻿Clinton County,﻿Breese,﻿Breese,﻿IL,,39.9724918,-91.226486,,,,﻿aug_reinecke_001,﻿Rev.,﻿Aug. Reinecke,,,,,,,,1864,﻿,﻿,﻿Alton,Alton
 ﻿alt.il.0018,﻿church,﻿Immaculate Conception,English,,﻿News P.O.,,﻿Calhoun County,﻿Calhoun County,﻿Brussels,﻿Brussels,﻿IL,,38.9489532,-90.5879265,,,,﻿c_raphael_001,﻿Rev.,﻿C. Raphael,,,,,,,,1864,﻿,﻿,﻿Alton,Alton
 ﻿alt.il.0021,﻿church,﻿St. Patrick's,English,,,,﻿Alexander County,﻿Alexander County,﻿Cairo,﻿Cairo,﻿IL,,36.9997738,-89.1686826,,,,﻿l_j_lambert_001,﻿Rev.,﻿L. Lambert,,,,,,,,1864,﻿,﻿,﻿Alton,Alton
 ﻿alt.il.0020,﻿church,﻿Holy Family,English,,,,﻿St. Clair County,﻿St. Clair County,﻿Cahokia,﻿Cahokia Heights,﻿IL,,38.5700824,-90.1892805,,,,﻿p_doutreluigne_001,﻿Rev.,﻿P. Doutreligne,﻿C.M.,,,,,,,1864,﻿,﻿,﻿Alton,Alton

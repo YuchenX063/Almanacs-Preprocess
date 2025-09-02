@@ -1,20 +1,20 @@
 ﻿instID,church_type,instName,language,instNote,placeName,region,county_orig,county_reg,city_orig,city_reg,state_orig,state_reg,latitude,longitude,attendingInstID,attendingChurch,attendingChurchFrequency,persID,persTitle,persName,persSuffix,persRole,persNote,memberType,member,affiliated,order,year,Unnamed: 30,attendingPersID,attendingChurchNote,diocese,diocese_reg
-﻿vinc.in.0001,﻿cathederal,﻿Cathderal of St. Frances Xavier,English,,,,,﻿Knox County,﻿Vincennes,,﻿IN,,,,,,,﻿sim_g_bruté_901,﻿Rt. Rev.,﻿Simon G. Bruté,﻿D. D.,,,,,,,1838,﻿https://en.wikipedia.org/wiki/St._Francis_Xavier_Cathedral_and_Library,﻿,﻿,﻿Vincennes,Vincennes
-﻿vinc.in.0001,﻿cathederal,﻿Cathderal of St. Frances Xavier,English,,,,,﻿Knox County,﻿Vincennes,,﻿IN,,,,,,,,﻿Rev.,﻿Celestin de la Hailandiere,,,,,,,,1838,,﻿,﻿,﻿Vincennes,Vincennes
-﻿vinc.in.0001,﻿cathederal,﻿Cathderal of St. Frances Xavier,English,,,,,﻿Knox County,﻿Vincennes,,﻿IN,,,,,,,,﻿Rev.,﻿N. O'Meara,,,,,,,,1838,,﻿,﻿,﻿Vincennes,Vincennes
-﻿vinc.in.0001,﻿cathederal,﻿Cathderal of St. Frances Xavier,English,,,,,﻿Knox County,﻿Vincennes,,﻿IN,,,,,,,,﻿Rev.,﻿A. Deydier,,,,,,,,1838,,﻿,﻿,﻿Vincennes,Vincennes
-﻿vinc.in.0001,﻿church,﻿Cathderal of St. Frances Xavier,English,,﻿Duchee River,,,﻿Knox County,﻿Vincennes,,﻿IN,,,,,﻿attended from Vincennes,,,,,,,,,,,,1838,,﻿,﻿,﻿Vincennes,Vincennes
-﻿vinc.in.0001,﻿church,﻿Cathderal of St. Frances Xavier,English,,﻿Duchee River,,,﻿Knox County,﻿Carlisle,,﻿IN,,,,,﻿attended from Vincennes,,,,,,,,,,,,1838,,﻿,﻿,﻿Vincennes,Vincennes
-﻿vinc.in.0001,﻿church,﻿Cathderal of St. Frances Xavier,English,,﻿Duchee River,,,﻿Knox County,﻿Merom,,﻿IN,,,,,﻿attended from Vincennes,,,,,,,,,,,,1838,,﻿,﻿,﻿Vincennes,Vincennes
-﻿vinc.in.0001,﻿church,﻿Cathderal of St. Frances Xavier,English,,﻿Duchee River,,,﻿Knox County,﻿Shaker's Prairie,,﻿IN,,,,,﻿attended from Vincennes,,,,,,,,,,,,1838,,﻿,﻿,﻿Vincennes,Vincennes
-﻿vinc.in.0001,﻿church,﻿Cathderal of St. Frances Xavier,English,,﻿Duchee River,,,﻿Knox County,﻿Lawrenceville,,﻿IL,,,,,﻿attended from Vincennes,,,,,,,,,,,,1838,,﻿,﻿,﻿Vincennes,Vincennes
-﻿vinc.in.0001,﻿church,﻿St. Patrick's,English,,﻿Duchee River,,﻿Davies County,﻿Knox County,﻿Lawrenceville,﻿Montgomery,﻿IN,,,,,,,﻿mau_s_palais_901,﻿Rev.,﻿Maurice St. Palais,,,,,,,,1838,﻿https://stpetermontgomery.org/church-history/st-peters-history/,﻿,﻿,﻿Vincennes,Vincennes
-﻿vinc.in.0001,﻿church,﻿St. Patrick's,English,,﻿Duchee River,,﻿Davies County,﻿Knox County,﻿Lawrenceville,﻿Montgomery,﻿IN,,,,,,,,﻿Rev.,﻿Vincent Baquelin,,,,,,,,1838,,﻿,﻿,﻿Vincennes,Vincennes
-﻿vinc.in.0001,﻿church,﻿St. Mary's,English,,﻿Duchee River,,﻿Davies County,﻿Knox County,﻿Lawrenceville,﻿Montgomery,﻿IN,,,,,,,﻿mau_s_palais_901,﻿Rev.,﻿Maurice St. Palais,,,,,,,,1838,,﻿,﻿,﻿Vincennes,Vincennes
-﻿vinc.in.0001,﻿church,﻿St. Mary's,English,,﻿Duchee River,,﻿Davies County,﻿Knox County,﻿Lawrenceville,﻿Montgomery,﻿IN,,,,,,,,﻿Rev.,﻿Vincent Baquelin,,,,,,,,1838,,﻿,﻿,﻿Vincennes,Vincennes
-﻿vinc.in.0001,﻿church,﻿St. Mary's,English,,﻿Duchee River,,﻿Davies County,﻿Knox County,﻿Washington,﻿Montgomery,﻿IN,,,,,,,﻿sim_lalumiere_901,﻿Rev.,﻿Simon Lalumiere,,,,,,,,1838,,﻿,﻿,﻿Vincennes,Vincennes
-﻿vinc.in.0001,﻿station,﻿St. Mary's,English,,﻿Duchee River,,﻿Davies County,﻿Knox County,﻿Mount Pleasant,﻿Montgomery,﻿IN,,,,,,﻿occasionally visited,,,,,,,,,,,1838,"﻿https://en.wikipedia.org/wiki/Mount_Pleasant_Township,_Delaware_County,_Indiana",﻿,﻿,﻿Vincennes,Vincennes
-﻿vinc.in.0001,﻿station,﻿St. Mary's,English,,﻿Duchee River,,﻿Davies County,﻿Knox County,﻿Jasper,﻿Montgomery,﻿IN,,,,,,﻿occasionally visited,,,,,,,,,,,1838,,﻿,﻿,﻿Vincennes,Vincennes
+﻿vin.in.0001,﻿cathederal,﻿Cathderal of St. Frances Xavier,English,,,,,﻿Knox County,﻿Vincennes,,﻿IN,,,,,,,﻿sim_g_bruté_901,﻿Rt. Rev.,﻿Simon G. Bruté,﻿D. D.,,,,,,,1838,﻿https://en.wikipedia.org/wiki/St._Francis_Xavier_Cathedral_and_Library,﻿,﻿,﻿Vincennes,Vincennes
+﻿vin.in.0001,﻿cathederal,﻿Cathderal of St. Frances Xavier,English,,,,,﻿Knox County,﻿Vincennes,,﻿IN,,,,,,,,﻿Rev.,﻿Celestin de la Hailandiere,,,,,,,,1838,,﻿,﻿,﻿Vincennes,Vincennes
+﻿vin.in.0001,﻿cathederal,﻿Cathderal of St. Frances Xavier,English,,,,,﻿Knox County,﻿Vincennes,,﻿IN,,,,,,,,﻿Rev.,﻿N. O'Meara,,,,,,,,1838,,﻿,﻿,﻿Vincennes,Vincennes
+﻿vin.in.0001,﻿cathederal,﻿Cathderal of St. Frances Xavier,English,,,,,﻿Knox County,﻿Vincennes,,﻿IN,,,,,,,,﻿Rev.,﻿A. Deydier,,,,,,,,1838,,﻿,﻿,﻿Vincennes,Vincennes
+﻿vin.in.0001,﻿church,﻿Cathderal of St. Frances Xavier,English,,﻿Duchee River,,,﻿Knox County,﻿Vincennes,,﻿IN,,,,,﻿attended from Vincennes,,,,,,,,,,,,1838,,﻿,﻿,﻿Vincennes,Vincennes
+﻿vin.in.0001,﻿church,﻿Cathderal of St. Frances Xavier,English,,﻿Duchee River,,,﻿Knox County,﻿Carlisle,,﻿IN,,,,,﻿attended from Vincennes,,,,,,,,,,,,1838,,﻿,﻿,﻿Vincennes,Vincennes
+﻿vin.in.0001,﻿church,﻿Cathderal of St. Frances Xavier,English,,﻿Duchee River,,,﻿Knox County,﻿Merom,,﻿IN,,,,,﻿attended from Vincennes,,,,,,,,,,,,1838,,﻿,﻿,﻿Vincennes,Vincennes
+﻿vin.in.0001,﻿church,﻿Cathderal of St. Frances Xavier,English,,﻿Duchee River,,,﻿Knox County,﻿Shaker's Prairie,,﻿IN,,,,,﻿attended from Vincennes,,,,,,,,,,,,1838,,﻿,﻿,﻿Vincennes,Vincennes
+﻿vin.in.0001,﻿church,﻿Cathderal of St. Frances Xavier,English,,﻿Duchee River,,,﻿Knox County,﻿Lawrenceville,,﻿IL,,,,,﻿attended from Vincennes,,,,,,,,,,,,1838,,﻿,﻿,﻿Vincennes,Vincennes
+﻿vin.in.0001,﻿church,﻿St. Patrick's,English,,﻿Duchee River,,﻿Davies County,﻿Knox County,﻿Lawrenceville,﻿Montgomery,﻿IN,,,,,,,﻿mau_s_palais_901,﻿Rev.,﻿Maurice St. Palais,,,,,,,,1838,﻿https://stpetermontgomery.org/church-history/st-peters-history/,﻿,﻿,﻿Vincennes,Vincennes
+﻿vin.in.0001,﻿church,﻿St. Patrick's,English,,﻿Duchee River,,﻿Davies County,﻿Knox County,﻿Lawrenceville,﻿Montgomery,﻿IN,,,,,,,,﻿Rev.,﻿Vincent Baquelin,,,,,,,,1838,,﻿,﻿,﻿Vincennes,Vincennes
+﻿vin.in.0001,﻿church,﻿St. Mary's,English,,﻿Duchee River,,﻿Davies County,﻿Knox County,﻿Lawrenceville,﻿Montgomery,﻿IN,,,,,,,﻿mau_s_palais_901,﻿Rev.,﻿Maurice St. Palais,,,,,,,,1838,,﻿,﻿,﻿Vincennes,Vincennes
+﻿vin.in.0001,﻿church,﻿St. Mary's,English,,﻿Duchee River,,﻿Davies County,﻿Knox County,﻿Lawrenceville,﻿Montgomery,﻿IN,,,,,,,,﻿Rev.,﻿Vincent Baquelin,,,,,,,,1838,,﻿,﻿,﻿Vincennes,Vincennes
+﻿vin.in.0001,﻿church,﻿St. Mary's,English,,﻿Duchee River,,﻿Davies County,﻿Knox County,﻿Washington,﻿Montgomery,﻿IN,,,,,,,﻿sim_lalumiere_901,﻿Rev.,﻿Simon Lalumiere,,,,,,,,1838,,﻿,﻿,﻿Vincennes,Vincennes
+﻿vin.in.0001,﻿station,﻿St. Mary's,English,,﻿Duchee River,,﻿Davies County,﻿Knox County,﻿Mount Pleasant,﻿Montgomery,﻿IN,,,,,,﻿occasionally visited,,,,,,,,,,,1838,"﻿https://en.wikipedia.org/wiki/Mount_Pleasant_Township,_Delaware_County,_Indiana",﻿,﻿,﻿Vincennes,Vincennes
+﻿vin.in.0001,﻿station,﻿St. Mary's,English,,﻿Duchee River,,﻿Davies County,﻿Knox County,﻿Jasper,﻿Montgomery,﻿IN,,,,,,﻿occasionally visited,,,,,,,,,,,1838,,﻿,﻿,﻿Vincennes,Vincennes
 ﻿for.in.0081,﻿church,not recorded,English,,,,,,﻿Logansport,,﻿IN,,,,,,,﻿cla_francois_901,﻿Rev.,﻿Claude Francois,,,,,,,,1838,,﻿,﻿,﻿Vincennes,Vincennes
 ﻿for.in.0081,﻿church,not recorded,English,,,,,,﻿Lafayette,,﻿IN,,,,,,,﻿cla_francois_901,﻿Rev.,﻿Claude Francois,,,,,,,,1838,,﻿,﻿,﻿Vincennes,Vincennes
 ﻿for.in.0081,﻿church,not recorded,English,,,,,,﻿Peru,,﻿IN,,,,,,,﻿cla_francois_901,﻿Rev.,﻿Claude Francois,,,,,,,,1838,,﻿,﻿,﻿Vincennes,Vincennes
