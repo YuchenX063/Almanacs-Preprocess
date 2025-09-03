@@ -77,4 +77,26 @@
 ﻿chi.il.0098,﻿church,not recorded,﻿German,,,,﻿La Salle County,,﻿Peru,﻿Peru,﻿IL,,41.32832687,-89.13152025,,,,﻿pet_fassbender_001,﻿Rev.,﻿Peter Fassbender,,,,,,,,1865,﻿,﻿,﻿Chicago,Chicago
 ﻿chi.il.0098,﻿church,﻿St. George's,﻿German,,,,﻿Kankakee County,,﻿Petites Isles,﻿Peru,﻿IL,,41.32832687,-89.13152025,,,,﻿pet_parradis_001,﻿Rev.,﻿Peter Parradis,,,,,,,,1865,﻿,﻿,﻿Chicago,Chicago
 ﻿chi.il.0103,﻿church,﻿St. James',English,,,,﻿Winnebago County,,﻿Rockford,﻿Rockford,﻿IL,,42.27124179,-89.08502852,,,,﻿joh_p_donnelan_001,﻿Rev.,﻿John P. Donnelan,,,,,,,,1865,﻿,﻿,﻿Chicago,Chicago
-﻿PG 166,﻿church,not recorded,English,,,,,,,,,,42.27124179,-89.08502852,,,,,,,,,,,,,,1865,﻿,﻿,﻿Chicago,Chicago
+﻿chi.il.0104,﻿church,﻿St. Mary's,English,,,,﻿Rock Island County,﻿Rock Island County,﻿Rock Island,﻿Rock Island,﻿IL,,41.50861017,-90.56889602,,,,﻿p_t_mcelhearn_001,﻿Rev.,﻿P. T. McElhearn,,,,,,,,1865,﻿,﻿,﻿Chicago,Chicago
+﻿chi.il.0109,﻿church,﻿St. Patrick's,English,,,,﻿Kane County,,﻿St. Charles,﻿St. Charles,﻿IL,,41.91407319,-88.31845068,,,,,﻿Rev.,﻿Thomas McGivern,,,,,,,,1865,﻿,﻿,﻿Chicago,Chicago
+﻿chi.il.0110,﻿church,﻿St. Mary's,English,,,,﻿Iroquois County,,﻿St. Marie,﻿Beaverville,﻿IL,,40.95287115,-87.65358583,,,,﻿alf_mareschal_001,﻿Rev.,﻿Mr. Mareschal,,,,,,,,1865,﻿,﻿,﻿Chicago,Chicago
+﻿chi.il.0110,﻿church,﻿St. Patrick's,English,,,,﻿Iroquois County,,﻿Sterling,﻿Beaverville,﻿IL,,40.95287115,-87.65358583,,,,,﻿Rev.,﻿John Daly,,,,,,,,1865,﻿,﻿,﻿Chicago,Chicago
+﻿chi.il.0113,﻿church,﻿Immaculate Conception,English,,,,﻿Lake County,,﻿Waukegan,﻿Waukegan,﻿IL,,42.35820769,-87.83267301,,,,﻿mic_donahoe_001,﻿Rev.,﻿Michael Donahue,,,,,,,,1865,﻿,﻿,﻿Chicago,Chicago
+﻿chi.il.0115,﻿church,﻿St. Rose of Lima,English,,,,﻿Will County,,﻿Wilmington,﻿Wilmington,﻿IL,,41.30407584,-88.14340099,,,,﻿bar_lonergan_001,﻿Rev.,﻿Barth. Lonergan,,,,,,,,1865,﻿,﻿,﻿Chicago,Chicago
+﻿chi.il.0340,﻿station,﻿St. Patrick's,English,,,,﻿Cook County,,﻿Athens,,,,41.30407584,-88.14340099,﻿chi.il.0075,﻿Lockport,,,,,,,,,,,,1865,﻿,﻿,﻿Chicago,Chicago
+﻿chi.il.0340,﻿station,﻿St. Patrick's,English,,,,﻿Cook County,,﻿Arlington,,,,41.30407584,-88.14340099,,﻿Attended from Mendota,﻿regularly,,,,,,,,,,,1865,﻿,﻿,﻿Chicago,Chicago
+﻿chi.il.0340,﻿station,﻿St. Patrick's,English,,,,﻿Cook County,,﻿Ainsworth Station,,,,41.30407584,-88.14340099,,"﻿Attended from St. James', Chicago",﻿regularly,,,,,,,,,,,1865,﻿,﻿,﻿Chicago,Chicago
+﻿chi.il.0122,﻿station,﻿Immaculate Conception,English,,,,﻿Du Page County,,﻿Babcock's Grove,﻿Lombard,﻿IL,,41.88435611,-88.03518729,﻿chi.il.0109,﻿From St. Charles.,,,,,,,,,,,,1865,﻿,﻿,﻿Chicago,Chicago
+﻿chi.il.0122,﻿station,﻿St. Patrick's,English,,,,﻿Boone County,,﻿Belvidere,﻿Lombard,﻿IL,,41.88435611,-88.03518729,,﻿Attended from Rockford,﻿twice a month,,,,,,,,,,,1865,﻿,﻿,﻿Chicago,Chicago
+﻿chi.il.0125,﻿station,﻿Holy Cross,English,,,,﻿Kane County,,﻿Batavia,﻿Batavia,﻿IL,,41.85029535,-88.30290973,﻿chi.il.0029,﻿Attended from Aurora,﻿regularly,,,,,,,,,,,1865,﻿,﻿,﻿Chicago,Chicago
+﻿chi.il.0123,﻿station,﻿St. Mary's,English,,,,﻿Kane County,,﻿Barrens,﻿Rutland Township,﻿IL,,42.08204986,-88.37009648,﻿chi.il.0045,﻿Attended from Elgin,﻿twice a month,,,,,,,,,,,1865,﻿,﻿,﻿Chicago,Chicago
+﻿chi.il.0123,﻿station,﻿St. Mary's,English,,,,﻿Cook County,,﻿Blue Island,﻿Rutland Township,﻿IL,,42.08204986,-88.37009648,,"﻿Attended from St. Michael's, Chicago",,,,,,,,,,,,1865,﻿,﻿,﻿Chicago,Chicago
+﻿chi.il.0341,﻿station,﻿St. Joseph's,English,,,,﻿Peoria County,,﻿Bromfield,,,,42.08204986,-88.37009648,﻿chi.il.0174,﻿Attended from Kickapoo,,,,,,,,,,,,1865,﻿,﻿,﻿Chicago,Chicago
+﻿chi.il.0341,﻿station,﻿St. Joseph's,English,,,,﻿Peoria County,,﻿Bristol Station,,,,42.08204986,-88.37009648,﻿chi.il.0029,﻿Attended from Aurora,﻿occasionally,,,,,,,,,,,1865,﻿,﻿,﻿Chicago,Chicago
+﻿chi.il.0348,﻿station,﻿Immaculate Conception,English,,,,﻿Lake County,,﻿Buffalo Grove,,,,42.08204986,-88.37009648,﻿chi.il.0078,﻿Attended from McHenry,,,,,,,,,,,,1865,﻿,﻿,﻿Chicago,Chicago
+﻿chi.il.0136,﻿station,not recorded,English,,,,﻿Jo Daviess County,,﻿Council Hill,﻿Council Hill,﻿IL,,42.48921796,-90.35213035,﻿chi.il.0052,﻿Attended from Galena,﻿occasionally,,,,,,,,,,,1865,﻿,﻿,﻿Chicago,Chicago
+﻿chi.il.0135,﻿station,﻿St. Patrick's,English,,,,﻿Du Page County,,﻿Cass,﻿Darien,﻿IL,,41.74788121,-87.97450348,﻿chi.il.0087,﻿Attended from Naperville,,,,,,,,,,,,1865,﻿,﻿,﻿Chicago,Chicago
+﻿chi.il.0137,﻿station,not recorded,English,,,,﻿Winnebago County,,﻿Cherry Valley,﻿Cherry Valley,﻿IL,,42.2359747,-88.95472789,﻿chi.il.0103,﻿Attended from Rockford,﻿regularly,,,,,,,,,,,1865,﻿,﻿,﻿Chicago,Chicago
+﻿chi.il.0133,﻿station,not recorded,English,,,,﻿Winnebago County,﻿Boone County,﻿Caledonia,﻿Caledonia,﻿IL,,42.36751527,-88.893422,,﻿Attended from Rockford,﻿occasionally,,,,,,,,,,,1865,﻿,﻿,﻿Chicago,Chicago
+﻿chi.il.0141,﻿station,﻿St. Joseph's,English,,,,﻿McHenry County,,﻿Crystal Lake,﻿Crystal Lake,﻿IL,,42.24842634,-88.40397601,,﻿Attended from Hartland,,,,,,,,,,,,1865,﻿,﻿,﻿Chicago,Chicago
+﻿chi.il.0139,﻿station,not recorded,English,,,,﻿McHenry County,﻿Marshall,﻿Camping Grove,﻿Saratoga,﻿IL,,41.08988021,-89.55674777,﻿chi.il.0078,﻿from McHenry,,,,,,,,,,,,1865,﻿,﻿,﻿Chicago,Chicago
