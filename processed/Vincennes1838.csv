@@ -1,8 +1,8 @@
 ﻿instID,church_type,instName,language,instNote,placeName,region,county_orig,county_reg,city_orig,city_reg,state_orig,state_reg,latitude,longitude,attendingInstID,attendingChurch,attendingChurchFrequency,persID,persTitle,persName,persSuffix,persRole,persNote,memberType,member,affiliated,order,year,Unnamed: 30,attendingPersID,attendingChurchNote,diocese,diocese_reg
-﻿vin.in.0001,﻿cathederal,﻿Cathderal of St. Frances Xavier,English,,,,,﻿Knox County,﻿Vincennes,,﻿IN,,,,,,,﻿sim_g_bruté_901,﻿Rt. Rev.,﻿Simon G. Bruté,﻿D. D.,,,,,,,1838,﻿https://en.wikipedia.org/wiki/St._Francis_Xavier_Cathedral_and_Library,﻿,﻿,﻿Vincennes,Vincennes
-﻿vin.in.0001,﻿cathederal,﻿Cathderal of St. Frances Xavier,English,,,,,﻿Knox County,﻿Vincennes,,﻿IN,,,,,,,,﻿Rev.,﻿Celestin de la Hailandiere,,,,,,,,1838,,﻿,﻿,﻿Vincennes,Vincennes
-﻿vin.in.0001,﻿cathederal,﻿Cathderal of St. Frances Xavier,English,,,,,﻿Knox County,﻿Vincennes,,﻿IN,,,,,,,,﻿Rev.,﻿N. O'Meara,,,,,,,,1838,,﻿,﻿,﻿Vincennes,Vincennes
-﻿vin.in.0001,﻿cathederal,﻿Cathderal of St. Frances Xavier,English,,,,,﻿Knox County,﻿Vincennes,,﻿IN,,,,,,,,﻿Rev.,﻿A. Deydier,,,,,,,,1838,,﻿,﻿,﻿Vincennes,Vincennes
+﻿vin.in.0001,﻿cathedral,﻿Cathderal of St. Frances Xavier,English,,,,,﻿Knox County,﻿Vincennes,,﻿IN,,,,,,,﻿sim_g_bruté_901,﻿Rt. Rev.,﻿Simon G. Bruté,﻿D. D.,,,,,,,1838,﻿https://en.wikipedia.org/wiki/St._Francis_Xavier_Cathedral_and_Library,﻿,﻿,﻿Vincennes,Vincennes
+﻿vin.in.0001,﻿cathedral,﻿Cathderal of St. Frances Xavier,English,,,,,﻿Knox County,﻿Vincennes,,﻿IN,,,,,,,,﻿Rev.,﻿Celestin de la Hailandiere,,,,,,,,1838,,﻿,﻿,﻿Vincennes,Vincennes
+﻿vin.in.0001,﻿cathedral,﻿Cathderal of St. Frances Xavier,English,,,,,﻿Knox County,﻿Vincennes,,﻿IN,,,,,,,,﻿Rev.,﻿N. O'Meara,,,,,,,,1838,,﻿,﻿,﻿Vincennes,Vincennes
+﻿vin.in.0001,﻿cathedral,﻿Cathderal of St. Frances Xavier,English,,,,,﻿Knox County,﻿Vincennes,,﻿IN,,,,,,,,﻿Rev.,﻿A. Deydier,,,,,,,,1838,,﻿,﻿,﻿Vincennes,Vincennes
 ﻿vin.in.0001,﻿church,﻿Cathderal of St. Frances Xavier,English,,﻿Duchee River,,,﻿Knox County,﻿Vincennes,,﻿IN,,,,,﻿attended from Vincennes,,,,,,,,,,,,1838,,﻿,﻿,﻿Vincennes,Vincennes
 ﻿vin.in.0001,﻿church,﻿Cathderal of St. Frances Xavier,English,,﻿Duchee River,,,﻿Knox County,﻿Carlisle,,﻿IN,,,,,﻿attended from Vincennes,,,,,,,,,,,,1838,,﻿,﻿,﻿Vincennes,Vincennes
 ﻿vin.in.0001,﻿church,﻿Cathderal of St. Frances Xavier,English,,﻿Duchee River,,,﻿Knox County,﻿Merom,,﻿IN,,,,,﻿attended from Vincennes,,,,,,,,,,,,1838,,﻿,﻿,﻿Vincennes,Vincennes
