@@ -83,9 +83,9 @@
 ﻿stl.mo.0045,﻿church,not recorded,English,,,,﻿Lewis County,,﻿Canton,﻿Canton,﻿MO,,40.129412,﻿-91.5186737,﻿stl.mo.0110,﻿Attended from Palmyra,,,,,,,,,,,,1870,﻿,﻿,﻿StLouis,StLouis
 ﻿stl.mo.0046,﻿church,﻿St. Vincent's,English,,,,﻿Cape Girardeau County,,﻿Cape Girardeau,﻿Cape Girardeau,﻿MO,,37.3148432,﻿-89.5456724,﻿stl.mo.0147,﻿Attended by the Fathers of the Seminary,,,,,,,,,,,,1870,﻿,﻿,﻿StLouis,StLouis
 ﻿stl.mo.0047,﻿church,﻿St. Mary's,﻿German,,,,﻿Cape Girardeau County,,﻿Cape Girardeau,﻿Cape Girardeau,﻿MO,,37.3006256,﻿-89.5266629,,,,﻿jul_herde_001,﻿Rev.,﻿Jul Herde,,,,,,,,1870,﻿,﻿,﻿StLouis,StLouis
-﻿stl.mo.0048,﻿church,﻿St. Mary's,English,,,,﻿St. Louis County,,﻿Carondelet,﻿Carondelet,﻿MO,,38.6321029,﻿-90.3109674,,,,﻿e_mcfaul_001,﻿Rev.,﻿E. McFaul,,,,,,,,1870,﻿,﻿,﻿StLouis,StLouis
+﻿stl.mo.0048,﻿church,﻿St. Mary's,English,,,,﻿St. Louis County,,﻿Carondelet,﻿Carondelet,﻿MO,,38.55757751,﻿-90.24909676,,,,﻿e_mcfaul_001,﻿Rev.,﻿E. McFaul,,,,,,,,1870,﻿,﻿,﻿StLouis,StLouis
 ﻿stl.mo.0049,﻿church,﻿St. Boniface's,English,,,,﻿St. Louis County,,﻿Carondelet,﻿Carondelet,﻿MO,,38.5550387,﻿-90.255974,,,,﻿e_schindel_001,﻿Rev.,﻿E. Schindel,,,,,,,,1870,﻿,﻿,﻿StLouis,StLouis
-﻿stl.mo.0050,﻿chapel,﻿Chapel of the Sisters of St. Joseph,English,,,,﻿St. Louis County,,﻿Carondelet,﻿Carondelet,﻿MO,,38.5550387,﻿-90.255974,,,,﻿j_m_cyr_001,﻿Rev.,﻿J. M. J. St. Cyr.,,,,,,,,1870,﻿,﻿,﻿StLouis,StLouis
+﻿stl.mo.0050,﻿chapel,﻿Chapel of the Sisters of St. Joseph,English,,,,﻿St. Louis County,,﻿Carondelet,﻿Carondelet,﻿MO,,38.55693356,﻿-90.25000618,,,,﻿j_m_cyr_001,﻿Rev.,﻿J. M. J. St. Cyr.,,,,,,,,1870,﻿,﻿,﻿StLouis,StLouis
 ﻿stl.mo.0051,﻿church,﻿St. James',English,,,,﻿St. Louis County,,﻿Cheltenham,﻿Cheltenham,﻿MO,,38.6103023,﻿-90.4125181,,,,﻿th_manning_001,﻿Rev.,﻿Th. Manning,,,,,,,,1870,﻿,﻿,﻿StLouis,StLouis
 ﻿stl.mo.0052,﻿church,﻿Annunciation,English,,,,﻿Moniteau County,,﻿California,﻿California,﻿MO,,38.6275278,﻿-92.5665786,﻿stl.mo.0141,﻿Attended from Tipton,﻿once a month,,,,,,,,,,,1870,﻿,﻿,﻿StLouis,StLouis
 ﻿stl.mo.0053,﻿church,﻿St. Martin's,English,,,,﻿St. Louis County,,﻿Central Township,﻿Central Township,﻿MO,,38.6041898,﻿-90.5786264,,,,﻿jm_jackson_001,﻿Rev.,﻿J.M. Jackson,,,,,,,,1870,﻿,﻿,﻿StLouis,StLouis
@@ -226,9 +226,9 @@
 ﻿stl.mo.0150,"﻿convent, academy",﻿Convent and Academy of the Sacred Heart,English,,,,,,﻿St. Louis,﻿St. Louis,﻿MO,,38.6270025,﻿-90.1994042,,,,,﻿Madame,﻿M.J. Gallwey,,﻿Superior,,﻿pupil,"﻿Number of pupils, 140",,,1870,﻿,﻿,﻿StLouis,StLouis
 ﻿stl.mo.0150,"﻿convent, academy",﻿Convent and Academy of the Sacred Heart,English,,,,,,﻿St. Louis,﻿St. Louis,﻿MO,,38.6270025,﻿-90.1994042,,,,,,,,,,﻿pupil,"﻿Community, 52",,,1870,﻿,﻿,﻿StLouis,StLouis
 ﻿stl.mo.0150,"﻿convent, academy",﻿Convent and Academy of the Sacred Heart,English,,,,,,﻿St. Louis,﻿St. Louis,﻿MO,,38.6270025,﻿-90.1994042,,,,,,,,,,﻿pupil,"﻿Pupils in the parish school, 140",,,1870,﻿,﻿,﻿StLouis,StLouis
-﻿stl.mo.0151,"﻿convent, academy",﻿Convent and Academy of the Sacred Heart,English,,,,,,﻿St. Charles,﻿St. Charles,﻿MO,,38.7866299,﻿-90.4817194,,,,,﻿Madame,﻿Miller,,﻿Superior,,,,,,1870,﻿,﻿,﻿StLouis,StLouis
-﻿stl.mo.0152,"﻿convent, academy",﻿Convent and Academy of the Visitation,English,,,,,,﻿St. Louis,﻿St. Louis,﻿MO,,38.6367193,﻿-90.4417857,,,,,﻿Mother,﻿Vincentia Marotte,,﻿Superior,,﻿boarder,"﻿Number of boarders in Academy, 107",,,1870,﻿,﻿,﻿StLouis,StLouis
-﻿stl.mo.0152,"﻿convent, academy",﻿Convent and Academy of the Visitation,English,,,,,,﻿St. Louis,﻿St. Louis,﻿MO,,38.6367193,﻿-90.4417857,,,,,,,,,,﻿boarder,"﻿Community, 64",,,1870,﻿,﻿,﻿StLouis,StLouis
+﻿stl.mo.0151,"﻿convent, academy",﻿Convent and Academy of the Sacred Heart,English,,,,,,﻿St. Charles,﻿St. Charles,﻿MO,,38.78676633,﻿-90.48145169,,,,,﻿Madame,﻿Miller,,﻿Superior,,,,,,1870,﻿,﻿,﻿StLouis,StLouis
+﻿stl.mo.0152,"﻿convent, academy",﻿Convent and Academy of the Visitation,English,,,,,,﻿St. Louis,﻿St. Louis,﻿MO,,38.64328429,﻿-90.20571071,,,,,﻿Mother,﻿Vincentia Marotte,,﻿Superior,,﻿boarder,"﻿Number of boarders in Academy, 107",,,1870,﻿,﻿,﻿StLouis,StLouis
+﻿stl.mo.0152,"﻿convent, academy",﻿Convent and Academy of the Visitation,English,,,,,,﻿St. Louis,﻿St. Louis,﻿MO,,38.64328429,﻿-90.20571071,,,,,,,,,,﻿boarder,"﻿Community, 64",,,1870,﻿,﻿,﻿StLouis,StLouis
 ﻿stl.mo.0062_02&_03,"﻿convent, academy",﻿Convent and Academy of Loretto,English,,,,,,﻿Florissant,﻿Florissant,﻿MO,,38.7905559,﻿-90.3136682,,,,,﻿Mother,﻿Philomena,,﻿Superior,,,,,,1870,﻿,﻿,﻿StLouis,StLouis
 ﻿stl.mo.0154,"﻿convent, academy",﻿Convent and Academy of Loretto,English,,,,,,﻿Cape Girardeau,﻿Cape Girardeau,﻿MO,,37.3058839,﻿-89.5181476,,,,,﻿Mother,﻿Rosa Monarch,,﻿Superior,,,,,,1870,﻿,﻿,﻿StLouis,StLouis
 ﻿stl.mo.0155,"﻿convent, academy",﻿Ursuline Convent and Academy,English,,,,,,﻿St. Louis,﻿St. Louis,﻿MO,,38.6552974,﻿-90.2690466,,,,,﻿Mother,﻿Aloysia Winkler,,﻿Superior,,﻿candidate,"﻿candidates, 5",,,1870,﻿,﻿,﻿StLouis,StLouis
@@ -276,28 +276,28 @@
 ﻿stl.mo.0176,﻿asylum,﻿Deaf and Dumb Asylum,English,,,,,,﻿St. Louis,﻿St. Louis,﻿MO,,38.6270025,﻿-90.1994042,,,,,﻿Mother,﻿M. Justine,,﻿Superior,,,,,,1870,﻿,﻿,﻿StLouis,StLouis
 ﻿stl.mo.0177,﻿academy,﻿Academy of St. Joseph,English,,,,,,﻿Hannibal,﻿Hannibal,﻿MO,,39.7674578,﻿-94.846681,,,,,﻿Sister,﻿Gabriel,,﻿Superior,,﻿pupil,﻿250 pupils,,,1870,﻿,﻿,﻿StLouis,StLouis
 ﻿stl.mo.0178,﻿academy,﻿Academy of the Sisters of Loretto,English,,,,,,﻿Edina,﻿Edina,﻿MO,,40.1675386,﻿-92.1726821,,,,,,,,,,,,,,1870,﻿,﻿,﻿StLouis,StLouis
-﻿stl.mo.0179,﻿school,﻿Cathedral Schools,English,,,,,,,,﻿MO,,37.9642529,﻿-91.8318334,,,,,,,,,,﻿pupil,﻿400 pupils,﻿Conducted by Christian Brothers. Sisters of Charity.,,1870,﻿,﻿,﻿StLouis,StLouis
-﻿stl.mo.0180,﻿school,﻿St. Patrick's,English,,,,,,,﻿St. Louis,﻿MO,,38.6378004,﻿-90.1969904,,,,,,,,,,﻿pupil,﻿800 pupils,﻿Conducted by Christian Brothers. Sisters of Charity.,,1870,﻿,﻿,﻿StLouis,StLouis
-﻿stl.mo.0181,﻿school,﻿St. Vincent's,English,,,,,,,﻿St. Louis,﻿MO,,38.6270025,﻿-90.1994042,,,,,,,,,,﻿pupil,﻿350 pupils,﻿conducted by Christian Brothers,,1870,﻿,﻿,﻿StLouis,StLouis
-﻿stl.mo.0181,﻿school,﻿St. Vincent's,English,,,,,,,﻿St. Louis,﻿MO,,38.6270025,﻿-90.1994042,,,,,,,,,,﻿pupil,﻿250,﻿conducted by Sisters of St. Joseph,,1870,﻿,﻿,﻿StLouis,StLouis
-﻿stl.mo.0182,﻿school,﻿St. Mary's,English,,,,,,,﻿St. Louis,﻿MO,,38.6270025,﻿-90.1994042,,,,,,,,,,﻿pupil,﻿500 pupils,,,1870,﻿,﻿,﻿StLouis,StLouis
-﻿stl.mo.0182,﻿school,﻿St. Mary's,English,,,,,,,﻿St. Louis,﻿MO,,38.6270025,﻿-90.1994042,,,,,,,,,,﻿pupil,﻿conducted by 2 secular teachers and 4 Sisters of Notre Dame,﻿Sisters of Notre Dame,,1870,﻿,﻿,﻿StLouis,StLouis
-﻿stl.mo.0183,﻿school,﻿St. Lawrence's,English,,,,,,,﻿St. Louis,﻿MO,,38.6388094,﻿-90.1965561,,,,,,,,,,﻿pupil,﻿350,﻿conducted by Christian Brothers,,1870,﻿,﻿,﻿StLouis,StLouis
-﻿stl.mo.0183,﻿school,﻿St. Lawrence's,English,,,,,,,﻿St. Louis,﻿MO,,38.6388094,﻿-90.1965561,,,,,,,,,,﻿pupil,﻿300 pupils,﻿conducted by Sisters of St. Joseph,,1870,﻿,﻿,﻿StLouis,StLouis
-﻿stl.mo.0184,﻿school,﻿St. Francis Xavier's,English,,,,,,,﻿St. Louis,﻿MO,,38.63168764,﻿-90.19243435,,,,,,,,,,﻿pupil,﻿410 pupils,﻿conducted teachers under the direction of the Jesuit Fathers,,1870,﻿,﻿,﻿StLouis,StLouis
-﻿stl.mo.0184,﻿school,﻿St. Francis Xavier's,English,,,,,,,﻿St. Louis,﻿MO,,38.63168764,﻿-90.19243435,,,,,,,,,,﻿girl,﻿150 girls,﻿under Sisters of St. Joseph,,1870,﻿,﻿,﻿StLouis,StLouis
-﻿stl.mo.0185,﻿school,﻿SS. Peter and Paul,English,,,,,,,﻿St. Louis,﻿MO,,38.607361,﻿-90.2027368,,,,,,,,,,﻿pupil,﻿1000 pupils,﻿conducted by Brothers and 8 Sisters of Notre Dame,,1870,﻿,﻿,﻿StLouis,StLouis
-﻿stl.mo.0186,﻿school,﻿St. Joseph's,English,,,,,,,﻿St. Louis,﻿MO,,38.6378004,﻿-90.1969904,,,,,,,,,,﻿pupil,﻿800 pupils,﻿conducted by secular teachers and Sisters of Notre Dame,,1870,﻿,﻿,﻿StLouis,StLouis
-﻿stl.mo.0187,﻿school,﻿St. John's,English,,,,,,,﻿St. Louis,﻿MO,,38.628813,﻿-90.2013043,,,,,,,,,,﻿pupil,﻿415 pupils,﻿conducted by Christian Brothers and Sisters of St. Joseph,,1870,﻿,﻿,﻿StLouis,StLouis
-﻿stl.mo.0188,﻿school,﻿St. Bridget's,English,,,,,,,﻿St. Louis,﻿MO,,38.6399842,﻿-90.2231008,,,,,,,,,,﻿pupil,﻿480 pupils,﻿conducted by secular teachers and Sisters of St. Joseph,,1870,﻿,﻿,﻿StLouis,StLouis
-﻿stl.mo.0188,﻿school,﻿St. Bridget's,English,,,,,,,﻿St. Louis,﻿MO,,38.6399842,﻿-90.2231008,,,,,,,,,,﻿pupil,﻿480 pupils,﻿Sisters of St. Joseph,,1870,﻿,﻿,﻿StLouis,StLouis
-﻿stl.mo.0189,﻿school,﻿St. Michael's,English,﻿conducted by secular teachers,,,,,,﻿St. Louis,﻿MO,,38.7882539,﻿-90.3306515,,,,,,,,,,﻿pupil,﻿165 pupils,,,1870,﻿,﻿,﻿StLouis,StLouis
-﻿stl.mo.0190,﻿school,﻿St. Liborius',English,,,,,,,﻿St. Louis,﻿MO,,38.6494069,﻿-90.2176862,,,,,,,,,,﻿pupil,﻿300 pupils,﻿conducted by secular teachers and Sisters of Notre Dame,,1870,﻿,﻿,﻿StLouis,StLouis
-﻿stl.mo.0191,﻿school,﻿Holy Trinity,English,,,,,,,﻿St. Louis,﻿MO,,38.6630835,﻿-90.2013781,,,,,,,,,,﻿pupil,﻿400 pupils,﻿conducted by secular teachers and Sisters of St. Francis,,1870,﻿,﻿,﻿StLouis,StLouis
-﻿stl.mo.0192,﻿school,﻿Assumption Schools,English,,,,,,,﻿St. Louis,﻿MO,,38.6040286,﻿-90.2190133,,,,,,,,,,﻿pupil,﻿350 pupils,﻿by Sisters of St. Joseph and secular teachers,,1870,﻿,﻿,﻿StLouis,StLouis
-﻿stl.mo.0193,﻿school,﻿St. Malachy Schools,English,,,,,,,﻿St. Louis,﻿MO,,38.7120004,﻿-90.2479784,,,,,,,,,,﻿boy,﻿100 boys,,,1870,﻿,﻿,﻿StLouis,StLouis
-﻿stl.mo.0194,﻿school,﻿Annunciation School,English,﻿for girls,,,,,,﻿St. Louis,﻿MO,,38.6237125,﻿-90.2257213,,,,,,,,,,﻿girl,﻿100,﻿Sisters of Sacred Heart,,1870,﻿,﻿,﻿StLouis,StLouis
-﻿stl.mo.0195,﻿school,﻿Annunciation School,English,﻿for boys,,,,,,﻿St. Louis,﻿MO,,38.6237125,﻿-90.2257213,,,,,,,,,,﻿boy,﻿200,﻿Christian Brothers,,1870,﻿,﻿,﻿StLouis,StLouis
-﻿stl.mo.0196,﻿school,﻿Bohemian School,English,,,,,,,﻿St. Louis,﻿MO,,38.6104333,﻿-90.204319,,,,,,,,,,﻿pupil,﻿200 pupils,﻿conducted by secular teachers and Sisters of Notre Dame,,1870,﻿,﻿,﻿StLouis,StLouis
-﻿stl.mo.0197,﻿school,﻿St. Mary's School,English,,,,,,﻿Carondelet,﻿St. Louis,﻿MO,,38.6321029,﻿-90.3109674,,,,,,,,,,﻿pupil,﻿300 pupils,﻿Christian Brothers,,1870,﻿,﻿,﻿StLouis,StLouis
-﻿stl.mo.0197,﻿school,﻿St. Mary's School,English,,,,,,﻿Carondelet,﻿St. Louis,﻿MO,,38.6321029,﻿-90.3109674,,,,,,,,,,﻿pupil,﻿300 pupils,﻿Sisters of St. Joseph,,1870,﻿,﻿,﻿StLouis,StLouis
+﻿stl.mo.0001_02,﻿school,﻿Cathedral Schools,English,,,,,,,,﻿MO,,38.62416814,﻿-90.18726023,,,,,,,,,,﻿pupil,﻿400 pupils,﻿Conducted by Christian Brothers. Sisters of Charity.,,1870,﻿,﻿,﻿StLouis,StLouis
+﻿stl.mo.0004_02,﻿school,﻿St. Patrick's,English,,,,,,,﻿St. Louis,﻿MO,,38.63591176,﻿-90.18730932,,,,,,,,,,﻿pupil,﻿800 pupils,﻿Conducted by Christian Brothers. Sisters of Charity.,,1870,﻿,﻿,﻿StLouis,StLouis
+﻿stl.mo.0007_02,﻿school,﻿St. Vincent's,English,,,,,,,﻿St. Louis,﻿MO,,38.61330838,﻿-90.20059674,,,,,,,,,,﻿pupil,﻿350 pupils,﻿conducted by Christian Brothers,,1870,﻿,﻿,﻿StLouis,StLouis
+﻿stl.mo.0007_02,﻿school,﻿St. Vincent's,English,,,,,,,﻿St. Louis,﻿MO,,38.61330838,﻿-90.20059674,,,,,,,,,,﻿pupil,﻿250,﻿conducted by Sisters of St. Joseph,,1870,﻿,﻿,﻿StLouis,StLouis
+﻿stl.mo.0002_02,﻿school,﻿St. Mary's,English,,,,,,,﻿St. Louis,﻿MO,,38.6180533,﻿-90.19058867,,,,,,,,,,﻿pupil,﻿500 pupils,,,1870,﻿,﻿,﻿StLouis,StLouis
+﻿stl.mo.0002_02,﻿school,﻿St. Mary's,English,,,,,,,﻿St. Louis,﻿MO,,38.6180533,﻿-90.19058867,,,,,,,,,,﻿pupil,﻿conducted by 2 secular teachers and 4 Sisters of Notre Dame,﻿Sisters of Notre Dame,,1870,﻿,﻿,﻿StLouis,StLouis
+﻿stl.mo.0012_02,﻿school,﻿St. Lawrence's,English,,,,,,,﻿St. Louis,﻿MO,,38.6388094,﻿-90.1965561,,,,,,,,,,﻿pupil,﻿350,﻿conducted by Christian Brothers,,1870,﻿,﻿,﻿StLouis,StLouis
+﻿stl.mo.0012_02,﻿school,﻿St. Lawrence's,English,,,,,,,﻿St. Louis,﻿MO,,38.6388094,﻿-90.1965561,,,,,,,,,,﻿pupil,﻿300 pupils,﻿conducted by Sisters of St. Joseph,,1870,﻿,﻿,﻿StLouis,StLouis
+﻿stl.mo.0003_02,﻿school,﻿St. Francis Xavier's,English,,,,,,,﻿St. Louis,﻿MO,,38.63168764,﻿-90.19243435,,,,,,,,,,﻿pupil,﻿410 pupils,﻿conducted teachers under the direction of the Jesuit Fathers,,1870,﻿,﻿,﻿StLouis,StLouis
+﻿stl.mo.0003_02,﻿school,﻿St. Francis Xavier's,English,,,,,,,﻿St. Louis,﻿MO,,38.63168764,﻿-90.19243435,,,,,,,,,,﻿girl,﻿150 girls,﻿under Sisters of St. Joseph,,1870,﻿,﻿,﻿StLouis,StLouis
+﻿stl.mo.0009_02,﻿school,﻿SS. Peter and Paul,English,,,,,,,﻿St. Louis,﻿MO,,38.60734362,﻿-90.20274894,,,,,,,,,,﻿pupil,﻿1000 pupils,﻿conducted by Brothers and 8 Sisters of Notre Dame,,1870,﻿,﻿,﻿StLouis,StLouis
+﻿stl.mo.0011_02,﻿school,﻿St. Joseph's,English,,,,,,,﻿St. Louis,﻿MO,,38.63744538,﻿-90.19262225,,,,,,,,,,﻿pupil,﻿800 pupils,﻿conducted by secular teachers and Sisters of Notre Dame,,1870,﻿,﻿,﻿StLouis,StLouis
+﻿stl.mo.0008_02,﻿school,﻿St. John's,English,,,,,,,﻿St. Louis,﻿MO,,38.62955627,﻿-90.20341103,,,,,,,,,,﻿pupil,﻿415 pupils,﻿conducted by Christian Brothers and Sisters of St. Joseph,,1870,﻿,﻿,﻿StLouis,StLouis
+﻿stl.mo.0010_02,﻿school,﻿St. Bridget's,English,,,,,,,﻿St. Louis,﻿MO,,38.64020787,﻿-90.21194671,,,,,,,,,,﻿pupil,﻿480 pupils,﻿conducted by secular teachers and Sisters of St. Joseph,,1870,﻿,﻿,﻿StLouis,StLouis
+﻿stl.mo.0010_02,﻿school,﻿St. Bridget's,English,,,,,,,﻿St. Louis,﻿MO,,38.64020787,﻿-90.21194671,,,,,,,,,,﻿pupil,﻿480 pupils,﻿Sisters of St. Joseph,,1870,﻿,﻿,﻿StLouis,StLouis
+﻿stl.mo.0005_02,﻿school,﻿St. Michael's,English,﻿conducted by secular teachers,,,,,,﻿St. Louis,﻿MO,,38.6475359,﻿-90.19127548,,,,,,,,,,﻿pupil,﻿165 pupils,,,1870,﻿,﻿,﻿StLouis,StLouis
+﻿stl.mo.0014_02,﻿school,﻿St. Liborius',English,,,,,,,﻿St. Louis,﻿MO,,38.64737359,﻿-90.19841424,,,,,,,,,,﻿pupil,﻿300 pupils,﻿conducted by secular teachers and Sisters of Notre Dame,,1870,﻿,﻿,﻿StLouis,StLouis
+﻿stl.mo.0006_02,﻿school,﻿Holy Trinity,English,,,,,,,﻿St. Louis,﻿MO,,38.6601303,﻿-90.19846076,,,,,,,,,,﻿pupil,﻿400 pupils,﻿conducted by secular teachers and Sisters of St. Francis,,1870,﻿,﻿,﻿StLouis,StLouis
+﻿stl.mo.0018_02,﻿school,﻿Assumption Schools,English,,,,,,,﻿St. Louis,﻿MO,,38.60141904,﻿-90.20862377,,,,,,,,,,﻿pupil,﻿350 pupils,﻿by Sisters of St. Joseph and secular teachers,,1870,﻿,﻿,﻿StLouis,StLouis
+﻿stl.mo.0016_02,﻿school,﻿St. Malachy Schools,English,,,,,,,﻿St. Louis,﻿MO,,38.62960152,﻿-90.22180164,,,,,,,,,,﻿boy,﻿100 boys,,,1870,﻿,﻿,﻿StLouis,StLouis
+﻿stl.mo.0017_02,﻿school,﻿Annunciation School,English,﻿for girls,,,,,,﻿St. Louis,﻿MO,,38.61710718,﻿-90.19499772,,,,,,,,,,﻿girl,﻿100,﻿Sisters of Sacred Heart,,1870,﻿,﻿,﻿StLouis,StLouis
+﻿stl.mo.0017_03,﻿school,﻿Annunciation School,English,﻿for boys,,,,,,﻿St. Louis,﻿MO,,38.61710718,﻿-90.19499772,,,,,,,,,,﻿boy,﻿200,﻿Christian Brothers,,1870,﻿,﻿,﻿StLouis,StLouis
+﻿stl.mo.0015_02,﻿school,﻿Bohemian School,English,,,,,,,﻿St. Louis,﻿MO,,38.6104333,﻿-90.204319,,,,,,,,,,﻿pupil,﻿200 pupils,﻿conducted by secular teachers and Sisters of Notre Dame,,1870,﻿,﻿,﻿StLouis,StLouis
+﻿stl.mo.0048_02,﻿school,﻿St. Mary's School,English,,,,,,﻿Carondelet,﻿St. Louis,﻿MO,,38.55757751,﻿-90.24909676,,,,,,,,,,﻿pupil,﻿300 pupils,﻿Christian Brothers,,1870,﻿,﻿,﻿StLouis,StLouis
+﻿stl.mo.0048_02,﻿school,﻿St. Mary's School,English,,,,,,﻿Carondelet,﻿St. Louis,﻿MO,,38.55757751,﻿-90.24909676,,,,,,,,,,﻿pupil,﻿300 pupils,﻿Sisters of St. Joseph,,1870,﻿,﻿,﻿StLouis,StLouis
