@@ -9,7 +9,7 @@
 ﻿bos.ma.0001,﻿cathedral,﻿Cathedral Chapel of the Holy Cross,English,﻿(new cathedral building),,,,,﻿Boston,﻿Boston,﻿MA,,﻿42.360083,﻿-71.05888,,,,﻿p_j_power_001,﻿Rev.,﻿P. J. Power,,,﻿At present in the University of Louvain,,,,,1869,﻿,﻿,﻿Boston,Boston
 ﻿bos.ma.0002,﻿church,﻿St. Mary's,English,,﻿Endicott street,,,,﻿Boston,﻿Boston,﻿MA,,﻿42.365307,﻿-71.057407,,,,﻿den_okane_001,﻿Rev.,﻿Dennis C. Kane,﻿S.J.,,,,,,,1869,﻿,﻿,﻿Boston,Boston
 ﻿bos.ma.0002,﻿church,﻿St. Mary's,English,,﻿Endicott street,,,,﻿Boston,﻿Boston,﻿MA,,﻿42.365307,﻿-71.057407,,,,﻿j_prendergast_001,﻿Rev.,﻿J. Prendergast,﻿S.J.,,,,,,,1869,﻿,﻿,﻿Boston,Boston
-﻿bos.ma.0002,﻿church,﻿St. Mary's,English,,﻿Endicott street,,,,﻿Boston,﻿Boston,﻿MA,,﻿42.365307,﻿-71.057407,,,,﻿jam_t_tehan_001,﻿Rev.,﻿James T. Teehau,﻿S.J.,,,,,,,1869,﻿,﻿,﻿Boston,Boston
+﻿bos.ma.0002,﻿church,﻿St. Mary's,English,,﻿Endicott street,,,,﻿Boston,﻿Boston,﻿MA,,﻿42.365307,﻿-71.057407,,,,﻿jam_j_tehan_001,﻿Rev.,﻿James T. Teehau,﻿S.J.,,,,,,,1869,﻿,﻿,﻿Boston,Boston
 ﻿bos.ma.0002,﻿church,﻿St. Mary's,English,,﻿Endicott street,,,,﻿Boston,﻿Boston,﻿MA,,﻿42.365307,﻿-71.057407,,,,﻿dompieri_001,﻿Rev. Fr.,﻿Dompieri,﻿S.J.,,,,,,,1869,﻿,﻿,﻿Boston,Boston
 ﻿bos.ma.0003,﻿church,﻿St. Patrick's,English,,,,,,﻿Boston,﻿Boston,﻿MA,,﻿42.360083,﻿-71.05888,,,,﻿tho_lynch_001,﻿Rev.,﻿Thomas Lynch,,,,,,,,1869,﻿,﻿,﻿Boston,Boston
 ﻿bos.ma.0003,﻿church,﻿St. Patrick's,English,,,,,,﻿Boston,﻿Boston,﻿MA,,﻿42.360083,﻿-71.05888,,,,﻿r_j_donovan_001,﻿Rev.,﻿R. J. Donovan,,,,,,,,1869,﻿,﻿,﻿Boston,Boston
@@ -73,7 +73,7 @@
 ﻿bos.ma.0052,﻿church,﻿St. John's,English,,﻿East Cambridge,,,,﻿Cambridge,﻿Cambridge,﻿MA,,﻿42.368604,﻿-71.077394,,,,﻿m_oreilly_001,﻿Rev.,﻿M. O'Reilly,,,,,,,,1869,﻿,﻿,﻿Boston,Boston
 ﻿bos.ma.0053,﻿church,﻿St. Mary's,English,,﻿Cambridgeport,,,,﻿Cambridge,﻿Cambridge,﻿MA,,﻿#NUM!,﻿#NUM!,,,,﻿tho_scully_001,﻿Rev.,﻿Thos. Scully,,,,,,,,1869,﻿,﻿,﻿Boston,Boston
 ﻿bos.ma.0053,﻿church,﻿St. Mary's,English,,﻿Cambridgeport,,,,﻿Cambridge,﻿Cambridge,﻿MA,,﻿#NUM!,﻿#NUM!,,,,﻿tim_brosnahan_001,﻿Rev.,﻿Timothy Brosnahan,,,,,,,,1869,﻿,﻿,﻿Boston,Boston
-﻿bos.ma.0054,﻿church,﻿St. Mary's,English,,,,,,﻿Canton,﻿Canton,﻿MA,,﻿42.158432,﻿-71.144773,,,,﻿joh_flattelly_001,﻿Rev.,﻿John Flattelly,,,,,,,,1869,﻿,﻿,﻿Boston,Boston
+﻿bos.ma.0054,﻿church,﻿St. Mary's,English,,,,,,﻿Canton,﻿Canton,﻿MA,,﻿42.158432,﻿-71.144773,,,,﻿joh_flattely_001,﻿Rev.,﻿John Flattelly,,,,,,,,1869,﻿,﻿,﻿Boston,Boston
 ﻿bos.ma.0055,﻿church,﻿St. Mary's,English,,,,,,﻿Charlestown,﻿Charlestown,﻿MA,,﻿42.373967,﻿-71.061543,,,,﻿geo_a_hamilton_002,﻿Rev.,﻿G. A. Hamilton,,,,,,,,1869,﻿,﻿,﻿Boston,Boston
 ﻿bos.ma.0055,﻿church,﻿St. Mary's,English,,,,,,﻿Charlestown,﻿Charlestown,﻿MA,,﻿42.373967,﻿-71.061543,,,,﻿joh_obrien_001,﻿Rev.,﻿John O'Brien,,,,,,,,1869,﻿,﻿,﻿Boston,Boston
 ﻿bos.ma.0056,﻿church,﻿St. Francis de Sales,English,,,,,,﻿Charlestown,﻿Charlestown,﻿MA,,﻿42.381253,﻿-71.066537,,,,﻿mic_supple_001,﻿Rev.,﻿Michael Supple,,,,,,,,1869,﻿,﻿,﻿Boston,Boston
