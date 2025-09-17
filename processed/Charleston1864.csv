@@ -8,7 +8,7 @@
 ﻿cha.sc.0002,﻿church,﻿St. Mary's,English,,,,,,﻿Charleston,﻿Charleston,﻿SC,,﻿32.7817998,﻿-79.9328247,,,,﻿p_ryan_002,﻿Rev.,﻿P. Bryan,﻿D.D.,,,,,,,1864,﻿,﻿,﻿Charleston,Charleston
 ﻿cha.sc.0003,﻿church,﻿St. Patrick's,English,,,,,,﻿Charleston,﻿Charleston,﻿SC,,﻿32.7882253,﻿-79.9403921,,,,﻿p_oneill_002,﻿Rev.,﻿P. O'Neill,﻿D.D.,,,,,,,1864,﻿,﻿,﻿Charleston,Charleston
 ﻿cha.sc.0049,﻿church,not recorded,English,,,,,,﻿Abbeville,﻿Abbeville,﻿SC,,﻿34.17763527,﻿-82.38039933,﻿sav.ga.0003,"﻿Attended from Augusta, Ga.",,,,,,,﻿1870 includes middle initial O.,,,,,1864,﻿,﻿,﻿Charleston,Charleston
-﻿cha.sc.0044,﻿church,﻿St. Andrew's,English,,,,,,﻿Bairnewall,﻿Barnwell,﻿SC,,﻿33.23984907,﻿-81.35997588,,,,﻿t_bermingham_001,﻿Rev.,﻿T. Bermingham,,,,,,,,1864,﻿,﻿,﻿Charleston,Charleston
+﻿cha.sc.0044,﻿church,﻿St. Andrew's,English,,,,,,﻿Bairnewall,﻿Barnwell,﻿SC,,﻿33.23984907,﻿-81.35997588,,,,﻿tim_bermingham_001,﻿Rev.,﻿T. Bermingham,,,,,,,,1864,﻿,﻿,﻿Charleston,Charleston
 ﻿cha.sc.0023,﻿church,﻿St. Peter's,English,,,,,,﻿Beaufort,﻿Beaufort,﻿SC,,﻿32.439429,﻿-80.670543,﻿cha.sc.0001,﻿Attended from the Cathedral,,,,,,,,,,,,1864,﻿,﻿,﻿Charleston,Charleston
 ﻿cha.sc.0050,﻿church,not recorded,English,,,,,,﻿Camden,,﻿SC,,﻿34.24499751,﻿-80.61164573,﻿cha.sc.0025,"﻿Attended from Columbia, S.C.",,,,,,,,,,,,1864,﻿,﻿,﻿Charleston,Charleston
 ﻿cha.sc.0035,﻿church,﻿St. Peter's,English,,,,,,﻿Cheraw,﻿Cheraw,﻿SC,,﻿34.6933706,﻿-79.89188,,,,﻿j_cullinane_001,﻿Rev.,﻿J. Cullinane,,,﻿John Cullinane in 1869,,,,,1864,﻿,﻿,﻿Charleston,Charleston
@@ -16,21 +16,21 @@
 ﻿cha.sc.0025,﻿church,﻿St. Joseph's,English,,,,,,﻿Columbia,﻿Columbia,﻿SC,,﻿34.0056068,﻿-81.0380069,,,,﻿j_j_oconnell_001,﻿Rev.,﻿J. J. O'Connell,,,"﻿referred to as ""J. J. O'Connell"" 1869-70",,,,,1864,﻿,﻿,﻿Charleston,Charleston
 ﻿cha.sc.0025,﻿church,﻿St. Joseph's,English,,,,,,﻿Columbia,﻿Columbia,﻿SC,,﻿34.0056068,﻿-81.0380069,,,,﻿l_j_oconnell_001,,﻿L. J. O'Connell,,,,,,,,1864,﻿,﻿,﻿Charleston,Charleston
 ﻿cha.sc.0025,﻿church,﻿St. Joseph's,English,,,,,,﻿Columbia,﻿Columbia,﻿SC,,﻿34.0056068,﻿-81.0380069,,,,﻿j_p_oconnell_001,,﻿Joseph P. O'Connell,﻿D.D.,,,,,,,1864,﻿,﻿,﻿Charleston,Charleston
-﻿cha.sc.0021,﻿church,not recorded,English,,,,,,﻿Edgefield,﻿Edgefield,﻿SC,,﻿33.7904312,﻿-81.9303567,,,,﻿t_bermingham_001,﻿Rev.,﻿Timothy Bermingham,,,,,,,,1864,﻿,﻿,﻿Charleston,Charleston
+﻿cha.sc.0021,﻿church,not recorded,English,,,,,,﻿Edgefield,﻿Edgefield,﻿SC,,﻿33.7904312,﻿-81.9303567,,,,﻿tim_bermingham_001,﻿Rev.,﻿Timothy Bermingham,,,,,,,,1864,﻿,﻿,﻿Charleston,Charleston
 ﻿cha.sc.0052,﻿church,not recorded,English,,,,,,﻿Port Johnson,﻿Fort Johnson,﻿SC,,﻿32.75575594,﻿-79.89731276,﻿cha.sc.0001,﻿Attended from the Cathedral,,,,,,,,,,,,1864,﻿,﻿,﻿Charleston,Charleston
 ﻿cha.sc.0076,﻿church,not recorded,English,,,,,,﻿Fort Sumter,,﻿SC,,﻿32.75575594,﻿-79.89731276,﻿cha.sc.0001,﻿Attended from the Cathedral,,,,,,,,,,,,1864,﻿,﻿,﻿Charleston,Charleston
 ﻿cha.sc.0046,﻿church,not recorded,English,,,,,,﻿Greenville,﻿Greenville,﻿SC,,﻿34.85659376,﻿-82.40193592,﻿cha.sc.0025,﻿Attended from Columbia,,,,,,,,,,,,1864,﻿,﻿,﻿Charleston,Charleston
-﻿cha.sc.0053,﻿church,not recorded,English,,,,,,﻿Graniteville,,﻿SC,,﻿33.56218422,﻿-81.81058695,,,,﻿t_bermingham_001,﻿Rev.,﻿T. Bermingham,,,,,,,,1864,﻿,﻿,﻿Charleston,Charleston
+﻿cha.sc.0053,﻿church,not recorded,English,,,,,,﻿Graniteville,,﻿SC,,﻿33.56218422,﻿-81.81058695,,,,﻿tim_bermingham_001,﻿Rev.,﻿T. Bermingham,,,,,,,,1864,﻿,﻿,﻿Charleston,Charleston
 ﻿cha.sc.0054,﻿church,not recorded,English,,,,,,﻿Hutchinson's Island,,﻿SC,,﻿32.52953114,﻿-80.45233455,﻿cha.sc.0001,﻿Attended from Charleston,,,,,,,,,,,,1864,﻿,﻿,﻿Charleston,Charleston
 ﻿cha.sc.0055,﻿church,not recorded,English,,,,,,﻿Lancaster,﻿Lancaster,﻿SC,,﻿34.72085097,﻿-80.77340709,﻿cha.sc.0051,﻿attended from Chester,,,,,,,,,,,,1864,﻿,﻿,﻿Charleston,Charleston
 ﻿cha.sc.0007,﻿church,﻿St. John Baptist,English,,﻿Moultrieville,,,,﻿Sullivan's Island,﻿Sullivan's Island,﻿SC,,﻿32.7607326,﻿-79.8584923,,,,﻿j_a_corcoran_001,﻿Rev.,﻿J. A. Corcoran,﻿D.D.,,,,,,,1864,﻿,﻿,﻿Charleston,Charleston
 ﻿cha.sc.0045,﻿church,not recorded,English,,,,,,﻿Newberry,﻿Newberry,﻿SC,,﻿34.27912665,﻿-81.61912703,﻿cha.sc.0025,﻿Attended from Columbia,,,,,,,,,,,,1864,﻿,﻿,﻿Charleston,Charleston
-﻿cha.sc.0056,﻿church,not recorded,English,,,,,,﻿Orangeburgh,﻿Orangeburg,﻿SC,,﻿33.49295739,﻿-80.85993212,,,,﻿t_bermingham_001,﻿Rev.,﻿T. Bermingham,,,,,,,,1864,﻿,﻿,﻿Charleston,Charleston
+﻿cha.sc.0056,﻿church,not recorded,English,,,,,,﻿Orangeburgh,﻿Orangeburg,﻿SC,,﻿33.49295739,﻿-80.85993212,,,,﻿tim_bermingham_001,﻿Rev.,﻿T. Bermingham,,,,,,,,1864,﻿,﻿,﻿Charleston,Charleston
 ﻿cha.sc.0057,﻿church,not recorded,English,,,,,,﻿Ridgeville,﻿Ridgeville,﻿SC,,﻿33.09638915,﻿-80.31547027,﻿cha.sc.0001,"﻿Attended from Charleston, S.C.",,,,,,,,,,,,1864,﻿,﻿,﻿Charleston,Charleston
 ﻿cha.sc.0058,﻿church,not recorded,English,,﻿Charlestown Dist.,,,,﻿Summerville,﻿Summerville,﻿SC,,﻿33.02088965,﻿-80.18267286,﻿cha.sc.0001,"﻿Attended from Charleston, S.C.",,,,,,,,,,,,1864,﻿,﻿,﻿Charleston,Charleston
 ﻿cha.sc.0059,﻿church,﻿St. Lawrence,English,,﻿Charlestown Dist.,,,,﻿Sumterville,﻿Sumter,﻿SC,,﻿33.92137862,﻿-80.34392274,﻿cha.sc.0025,﻿Attended from Columbia,,,,,,,,,,,,1864,﻿,﻿,﻿Charleston,Charleston
 ﻿cha.sc.0071,﻿church,not recorded,English,,,,,,﻿Unionville,﻿Union,﻿SC,,﻿34.7157058,﻿-81.6268158,﻿cha.sc.0051,﻿Attended from Chester,,,,,,,,,,,,1864,﻿,﻿,﻿Charleston,Charleston
-﻿cha.sc.0072,﻿church,not recorded,English,,,,,,﻿Vancluse,﻿Vancluse,﻿SC,,﻿33.61320663,﻿-81.80961836,,,,﻿t_bermingham_001,﻿Rev.,﻿T. Bermingham,,,,,,,,1864,﻿,﻿,﻿Charleston,Charleston
+﻿cha.sc.0072,﻿church,not recorded,English,,,,,,﻿Vancluse,﻿Vancluse,﻿SC,,﻿33.61320663,﻿-81.80961836,,,,﻿tim_bermingham_001,﻿Rev.,﻿T. Bermingham,,,,,,,,1864,﻿,﻿,﻿Charleston,Charleston
 ﻿cha.sc.0060,﻿church,﻿St. Philip's,English,,,,,,﻿Walterboro,﻿Walterboro,﻿SC,,﻿32.904167,﻿-80.666111,,,,﻿f_j_carr_001,﻿Rev.,﻿F. J. Carr,,,,,,,,1864,﻿,﻿,﻿Charleston,Charleston
 ﻿cha.sc.0073,﻿church,not recorded,English,,,,,,﻿Winnsboro,,﻿SC,,﻿34.38056331,﻿-81.08576541,﻿cha.sc.0025,﻿attended from Columbia,,,,,,,,,,,,1864,﻿,﻿,﻿Charleston,Charleston
 ﻿cha.sc.0074,﻿church,not recorded,English,,,,,,﻿Yorkville,,﻿SC,,﻿34.99355653,﻿-81.24177701,﻿cha.sc.0025,﻿attended from Columbia,,,,,,,,,,,,1864,﻿,﻿,﻿Charleston,Charleston
