@@ -177,7 +177,7 @@
 ﻿chi.il.0162,﻿station,not recorded,English,,,,﻿Iroquois County,﻿Iroquois County,﻿Gilman,﻿Gilman,﻿IL,,﻿40.76951178,-87.99919543,﻿chi.il.0048,﻿Attended from L'Erable,,,,,,,,,,,,1869,﻿,﻿,﻿Chicago,Chicago
 ﻿chi.il.0163,﻿station,﻿St. Mathias',English,,,,,﻿Will,﻿Gooding's Grove,﻿Homer Glen,﻿IL,,﻿41.61542267,-87.91041597,,"﻿Attended from St. Joseph's, Chicago",﻿monthly,,,,,,,,,,,1869,﻿,﻿,﻿Chicago,Chicago
 ﻿chi.il.0164,﻿station,not recorded,English,,,,﻿Hancock County,,﻿Hamilton,﻿Hamilton,﻿IL,,﻿40.4007668,-91.35029777,﻿chi.il.0077,﻿Attended from Macomb,,,,,,,,,,,,1869,﻿,﻿,﻿Chicago,Chicago
-﻿chi.il.0164,﻿station,not recorded,English,,,,﻿Rock Island County,,﻿Hampton,﻿Hamilton,﻿IL,,﻿40.4007668,-91.35029777,,﻿Attended from Rock Island,﻿Monthly,,,,,,,,,,,1869,﻿,﻿,﻿Chicago,Chicago
+﻿chi.il.0349,﻿station,not recorded,English,,,,﻿Rock Island County,,﻿Hampton,,,,﻿40.4007668,-91.35029777,,﻿Attended from Rock Island,﻿Monthly,,,,,,,,,,,1869,﻿,﻿,﻿Chicago,Chicago
 ﻿chi.il.0165,﻿station,﻿St. Thomas',English,,,,﻿Cook County,,﻿Harlem,﻿Forest Park,﻿IL,,﻿41.8794758,-87.81367,,"﻿Attended from St. Columbkille's, Chicago",,,,,,,,,,,,1869,﻿,﻿,﻿Chicago,Chicago
 ﻿chi.il.0166,﻿station,﻿St. Mary's,English,,,,,,﻿Havana,﻿Havana,﻿IL,,﻿40.29671243,-90.06343134,﻿chi.il.0096,﻿Attended from Pekin,﻿monthly,,,,,,,,,,,1869,﻿,﻿,﻿Chicago,Chicago
 ﻿chi.il.0167,﻿station,not recorded,English,,,,,,﻿Highland Park,﻿Highland Park,﻿IL,,﻿42.17598798,-87.79752585,﻿chi.il.0056,﻿Attended from Gross Point,,,,,,,,,,,,1869,﻿,﻿,﻿Chicago,Chicago
@@ -186,10 +186,10 @@
 ﻿chi.il.0170,﻿station,﻿St. Patrick's,English,,,,﻿Stephenson County,,﻿Irish Grove,﻿Davis,﻿IL,,﻿42.37999688,-89.40774626,﻿chi.il.0049,﻿Attended from Freeport,,,,,,,,,,,,1869,﻿,﻿,﻿Chicago,Chicago
 ﻿chi.il.0171,﻿station,not recorded,English,,,,﻿McHenry County,,﻿Island,﻿Island Lake,﻿IL,,﻿42.27619421,-88.19483841,﻿chi.il.0336,﻿Attended from Belvidere,﻿monthly,,,,,,,,,,,1869,﻿,﻿,﻿Chicago,Chicago
 ﻿chi.il.0172,﻿station,not recorded,English,,,,,,﻿Jovestown,,﻿IL,,﻿40.6331249,-89.3985283,﻿chi.il.0049,﻿Attended from Freeport,,,,,,,,,,,,1869,﻿,﻿,﻿Chicago,Chicago
-﻿chi.il.0172,﻿station,﻿St. Mary's,English,,,,﻿Henry County,,﻿Kewanee,,﻿IL,,﻿40.6331249,-89.3985283,,,,﻿j_m_ryan_001,﻿Rev.,﻿J. M. Ryan,,,,,,,,1869,﻿,﻿,﻿Chicago,Chicago
+﻿chi.il.0350,﻿station,﻿St. Mary's,English,,,,﻿Henry County,,﻿Kewanee,,,,﻿40.6331249,-89.3985283,,,,﻿j_m_ryan_001,﻿Rev.,﻿J. M. Ryan,,,,,,,,1869,﻿,﻿,﻿Chicago,Chicago
 ﻿chi.il.0173,﻿station,﻿St. William's,English,,,,,,﻿Kingston,﻿Kingston Mines,﻿IL,,﻿40.55747107,-89.77226798,﻿chi.il.0096,﻿Attended from Pekin,﻿monthly (week days),,,,,,,,,,,1869,﻿,﻿,﻿Chicago,Chicago
 ﻿chi.il.0174,﻿station,﻿St. Patrick's,English,,,,,,﻿Kickapoo,﻿Kickapoo,﻿IL,,﻿40.7904957,-89.75639196,﻿chi.il.0033,﻿Attended from Brimfield,﻿monthly,,,,,,,,,,,1869,﻿,﻿,﻿Chicago,Chicago
-﻿chi.il.0174,﻿station,﻿St. Patrick's,English,,,,﻿Ogle County,,﻿Lane,﻿Kickapoo,﻿IL,,﻿40.7904957,-89.75639196,,﻿Attended from Dixon,﻿monthly,,,,,,,,,,,1869,﻿,﻿,﻿Chicago,Chicago
+﻿chi.il.0351,﻿station,﻿St. Patrick's,English,,,,﻿Ogle County,,﻿Lane,,,,﻿40.7904957,-89.75639196,,﻿Attended from Dixon,﻿monthly,,,,,,,,,,,1869,﻿,﻿,﻿Chicago,Chicago
 ﻿chi.il.0175,﻿station,﻿St. Patrick's,English,,,,﻿Fulton County,,﻿Lewistown,﻿Lewistown,﻿IL,,﻿40.40130785,-90.15150418,﻿chi.il.0036,﻿Attended from Canton,﻿monthly,,,,,,,,,,,1869,﻿,﻿,﻿Chicago,Chicago
 ﻿chi.il.0176,﻿station,﻿St. Mary's,English,,,,﻿Kane County,,﻿Lodi,﻿Maple Park,﻿IL,,﻿41.90772249,-88.60192494,﻿chi.il.0040,﻿Attended from De Kalb,﻿every third Sunday,,,,,,,,,,,1869,﻿,﻿,﻿Chicago,Chicago
 ﻿chi.il.0177,﻿station,﻿St. Joseph's,English,,,,﻿Kankakee County,,﻿Labend,﻿Bradley,﻿IL,,﻿41.14459402,-87.86958662,﻿chi.il.0066,﻿Attended from Kankakee,,,,,,,,,,,,1869,﻿,﻿,﻿Chicago,Chicago
@@ -208,14 +208,14 @@
 ﻿chi.il.0190,﻿station,﻿St. Mary's,English,,,,﻿Lee County,,﻿Maytown,﻿Maytown,﻿IL,,﻿41.59977635,-89.30446398,﻿chi.il.0027,﻿Attended from Amboy,,,,,,,,,,,,1869,﻿,﻿,﻿Chicago,Chicago
 ﻿chi.il.0191,﻿station,not recorded,English,,,,﻿Iroquois County,,﻿Middleport,﻿Middleport Township,﻿IL,,﻿40.79273264,-87.76803134,﻿chi.il.0072,﻿Attended from L'Erable,,,,,,,,,,,,1869,﻿,﻿,﻿Chicago,Chicago
 ﻿chi.il.0192,﻿station,﻿St. Patrick's,English,,,,﻿Woodford County,,﻿Minonk,﻿Minonk,﻿IL,,﻿40.90110753,-89.02480208,﻿chi.il.0046,﻿Attended from El Paso,,,,,,,,,,,,1869,﻿,﻿,﻿Chicago,Chicago
-﻿chi.il.0192,﻿station,﻿St. Patrick's,English,,,,﻿Grundy County,,﻿Minooka,﻿Minonk,﻿IL,,﻿40.90110753,-89.02480208,,﻿Attended from Morris,,,,,,,,,,,,1869,﻿,﻿,﻿Chicago,Chicago
+﻿chi.il.0352,﻿station,﻿St. Patrick's,English,,,,﻿Grundy County,,﻿Minooka,,,,﻿40.90110753,-89.02480208,,﻿Attended from Morris,,,,,,,,,,,,1869,﻿,﻿,﻿Chicago,Chicago
 ﻿chi.il.0193,﻿station,﻿St. Stephen's,English,,,,﻿Du Page County,,﻿Milton,﻿Milton Township,﻿IL,,﻿41.89908491,-88.11093111,﻿chi.il.0087,"﻿Attended from St. Joseph's, Chicago",﻿twice a month,,,,,,,,,,,1869,﻿,﻿,﻿Chicago,Chicago
 ﻿chi.il.0194,﻿station,not recorded,English,,,,﻿McHenry County,,﻿Marengo,﻿Marengo,﻿IL,,﻿42.25798945,-88.60954979,﻿chi.il.0336,﻿Attended from Belvidere,,,,,,,,,,,,1869,﻿,﻿,﻿Chicago,Chicago
 ﻿chi.il.0195,﻿station,﻿St. Patrick's,English,,,,﻿Kankakee County,,﻿Momence,﻿Momence,﻿IL,,﻿41.16385173,-87.6678462,﻿chi.il.0100,﻿Attended from Petites Isles,,,,,,,,,,,,1869,﻿,﻿,﻿Chicago,Chicago
 ﻿chi.il.0196,﻿station,not recorded,English,,,,﻿McHenry County,,﻿Murray's Settlement,﻿Hartland,﻿IL,,﻿42.37228386,-88.50174087,﻿chi.il.0078,﻿Attended from McHenry,﻿twice a month,,,,,,,,,,,1869,﻿,﻿,﻿Chicago,Chicago
 ﻿chi.il.0197,﻿station,﻿St. Mary's,English,,,,﻿Rock Island,﻿Rock Island County,﻿Moline,﻿Moline,﻿IL,,﻿41.50529973,-90.5236122,﻿chi.il.0104,﻿Attended from Rock Island,,,,,,,,,,,,1869,﻿,﻿,﻿Chicago,Chicago
-﻿chi.il.0197,﻿station,﻿St. Michael's,English,,,,﻿Lake County,﻿Rock Island County,﻿Mill Creek,﻿Moline,﻿IL,,﻿41.50529973,-90.5236122,,﻿Attended from Waukeegan,,,,,,,,,,,,1869,﻿,﻿,﻿Chicago,Chicago
-﻿chi.il.0197,﻿station,﻿St. Michael's,English,,,,﻿Lake County,﻿Rock Island County,﻿New-Strasburgh,﻿Moline,﻿IL,,﻿41.50529973,-90.5236122,,﻿Attended from St. Michael's,,,,,,,,,,,,1869,﻿,﻿,﻿Chicago,Chicago
+﻿chi.il.0353,﻿station,﻿St. Michael's,English,,,,﻿Lake County,,﻿Mill Creek,,,,﻿41.50529973,-90.5236122,,﻿Attended from Waukeegan,,,,,,,,,,,,1869,﻿,﻿,﻿Chicago,Chicago
+﻿chi.il.0354,﻿station,not recorded,English,,,,,,﻿New-Strasburgh,,,,﻿41.50529973,-90.5236122,,﻿Attended from St. Michael's,,,,,,,,,,,,1869,﻿,﻿,﻿Chicago,Chicago
 ﻿chi.il.0198,﻿station,﻿St. Henry's,English,,,,﻿Cook County,,﻿New Trier,﻿New Trier Township,﻿IL,,﻿40.6331249,-89.3985283,﻿chi.il.0056,﻿Attended from Chicago,,,,,,,,,,,,1869,﻿,﻿,﻿Chicago,Chicago
 ﻿chi.il.0199,﻿station,not recorded,English,,,,,,﻿Niles,﻿Niles,﻿IL,,﻿42.00668852,-87.79652325,,﻿Attended from Gross Point,,,,,,,,,,,,1869,﻿,﻿,﻿Chicago,Chicago
 ﻿chi.il.0200,﻿station,not recorded,English,,,,﻿Ogle County,﻿Ogle County,﻿Oregon,﻿Oregon,﻿IL,,﻿42.00819355,-89.33128338,﻿chi.il.0041,﻿Attended from Dixon,,,,,,,,,,,,1869,﻿,﻿,﻿Chicago,Chicago
@@ -223,7 +223,7 @@
 ﻿chi.il.0202,﻿station,not recorded,English,,,,﻿Knox County,﻿Knox County,﻿Oneida,﻿Oneida,﻿IL,,﻿41.07386717,-90.22488572,﻿chi.il.0054,﻿Attended from Galesburg,,,,,,,,,,,,1869,﻿,﻿,﻿Chicago,Chicago
 ﻿chi.il.0203,﻿station,not recorded,English,,,,,,﻿Palatine,﻿Palatine,﻿IL,,﻿42.11075666,-88.03386379,﻿chi.il.0060,﻿Attended from Hennepin,,,,,,,,,,,,1869,﻿,﻿,﻿Chicago,Chicago
 ﻿chi.il.0204,﻿station,not recorded,English,,,,﻿Ford County,﻿Ford County,﻿Paxton,﻿Paxton,﻿IL,,﻿40.46008555,-88.09553304,﻿chi.il.0037,﻿Attended from Champaign City,,,,,,,,,,,,1869,﻿,﻿,﻿Chicago,Chicago
-﻿chi.il.0204,﻿station,not recorded,English,,,,﻿Tazewell County,﻿Ford County,﻿Pekin,﻿Paxton,﻿IL,,﻿40.46008555,-88.09553304,,,,,,,,,,,,,,1869,﻿,﻿,﻿Chicago,Chicago
+﻿chi.il.0354,﻿station,not recorded,English,,,,﻿Tazewell County,,﻿Pekin,,,,﻿40.46008555,-88.09553304,,,,,,,,,,,,,,1869,﻿,﻿,﻿Chicago,Chicago
 ﻿chi.il.0205,﻿station,not recorded,English,,,,﻿Ogle County,﻿Ogle County,﻿Polo,﻿Polo,﻿IL,,﻿41.98585728,-89.57819337,﻿chi.il.0041,﻿Attended from Dixon,,,,,,,,,,,,1869,﻿,﻿,﻿Chicago,Chicago
 ﻿chi.il.0206,﻿station,not recorded,English,,,,﻿Rock Island County,﻿Rock Island County,﻿Port Byron,﻿Port Byron,﻿IL,,﻿41.60660611,-90.33557961,﻿chi.il.0104,﻿Attended from Rock Island,,,,,,,,,,,,1869,﻿,﻿,﻿Chicago,Chicago
 ﻿chi.il.0207,﻿station,﻿St. Joseph's,English,,,,﻿Bureau County,,﻿Princetown,﻿Princeton,﻿IL,,﻿41.36850963,-89.47315572,﻿chi.il.0081,﻿Attended from Mendota,,,,,,,,,,,,1869,﻿,﻿,﻿Chicago,Chicago
@@ -235,7 +235,7 @@
 ﻿chi.il.0213,﻿station,not recorded,English,,,,﻿Cook County,,﻿Sagganah and Summit,﻿Summit,﻿IL,,﻿41.78717663,-87.81242211,﻿chi.il.0075,﻿Attended from Lockport,,,,,,,,,,,,1869,﻿,﻿,﻿Chicago,Chicago
 ﻿chi.il.0214,﻿station,not recorded,English,,,,﻿Jo Daviess County,﻿Jo Daviess County,﻿Scales Mound,﻿Scales Mound,﻿IL,,﻿42.47644006,-90.25230315,﻿chi.il.0052,﻿Attended from (German church) Galena,,,,,,,,,,,,1869,﻿,﻿,﻿Chicago,Chicago
 ﻿chi.il.0215,﻿station,not recorded,English,,,,﻿Bureau County,﻿Bureau County,﻿Sheffield,﻿Sheffield,﻿IL,,"﻿41.358292006572924, -89.7384978598952",-89.7373226,﻿chi.il.0080,﻿Attended from Mendota,,,,,,,,,,,,1869,﻿,﻿,﻿Chicago,Chicago
-﻿chi.il.0215,﻿station,not recorded,English,,,,﻿La Salle County,﻿Bureau County,﻿Seneca,﻿Sheffield,﻿IL,,"﻿41.358292006572924, -89.7384978598952",-89.7373226,,﻿Attended from Morris,,,,,,,,,,,,1869,﻿,﻿,﻿Chicago,Chicago
+﻿chi.il.0355,﻿station,not recorded,English,,,,﻿La Salle County,,﻿Seneca,,,,"﻿41.358292006572924, -89.7384978598952",-89.7373226,,﻿Attended from Morris,,,,,,,,,,,,1869,﻿,﻿,﻿Chicago,Chicago
 ﻿chi.il.0216,﻿station,﻿St. Mary's,English,,,,﻿De Kalb County,﻿DeKalb County,﻿Sycamore,﻿Sycamore,﻿IL,,﻿41.983563,-88.68889456,﻿chi.il.0040,﻿Attended from De Kalb,,,,,,,,,,,,1869,﻿,﻿,﻿Chicago,Chicago
 ﻿chi.il.0217,﻿station,﻿St. Patrick's,English,,,,﻿Lee County,﻿Lee County,﻿Sublette,﻿Sublette,﻿IL,,﻿41.64380395,-89.23093779,﻿chi.il.0097,﻿Attended from Perkins' Grove,,,,,,,,,,,,1869,﻿,﻿,﻿Chicago,Chicago
 ﻿chi.il.0218,﻿station,not recorded,English,,,,﻿Fulton County,,﻿St. Augustine,﻿St Augustine,﻿IL,,﻿40.71668877,-90.41123891,﻿chi.il.0077,﻿Attended from Macomb,,,,,,,,,,,,1869,﻿,﻿,﻿Chicago,Chicago
@@ -252,8 +252,8 @@
 ﻿chi.il.0229,﻿station,﻿St. Patrick's,English,,,,﻿De Witt County,﻿De Witt County,﻿Waupela,﻿Wapella,﻿IL,,﻿40.21711,-88.95986702,﻿chi.il.0046,﻿Attended from El Paso,,,,,,,,,,,,1869,﻿,﻿,﻿Chicago,Chicago
 ﻿chi.il.0230,﻿station,not recorded,English,,,,﻿Lee County,﻿Lee County,﻿Willow Creek,﻿Twelvemile Corner,﻿IL,,﻿41.79528215,-88.94393024,﻿chi.il.0098,﻿Attended from Peru,,,,,,,,,,,,1869,﻿,﻿,﻿Chicago,Chicago
 ﻿chi.il.0231,﻿station,not recorded,English,,,,﻿Winnebago County,,﻿Winnebago,,﻿IL,,﻿42.26644993,-89.2397529,﻿chi.il.0103,﻿Attended from Rockford,,,,,,,,,,,,1869,﻿,﻿,﻿Chicago,Chicago
-﻿chi.il.0231,﻿station,not recorded,English,,,,﻿Winnebago County,,﻿Winfield,,﻿IL,,﻿42.26644993,-89.2397529,,"﻿Attended from St. Joseph's, Chicago",,,,,,,,,,,,1869,﻿,﻿,﻿Chicago,Chicago
-﻿chi.il.0231,﻿station,﻿Jesuit Fathers,English,﻿corner of Twelfth and May streets,,,﻿Winnebago County,,﻿Winfield,,﻿IL,,﻿42.26644993,-89.2397529,,,,﻿arn_damen_001,﻿Rev.,﻿A. Damen,﻿S.J.,﻿Superior,,,,,,1869,﻿,﻿,﻿Chicago,Chicago
+﻿chi.il.0356,﻿station,not recorded,English,,,,,,﻿Winfield,,,,﻿42.26644993,-89.2397529,,"﻿Attended from St. Joseph's, Chicago",,,,,,,,,,,,1869,﻿,﻿,﻿Chicago,Chicago
+﻿chi.il.0356,﻿station,﻿Jesuit Fathers,English,﻿corner of Twelfth and May streets,,,,,﻿Winfield,,,,﻿42.26644993,-89.2397529,,,,﻿arn_damen_001,﻿Rev.,﻿A. Damen,﻿S.J.,﻿Superior,,,,,,1869,﻿,﻿,﻿Chicago,Chicago
 ﻿chi.il.0233,﻿college,﻿St. Viateur's College,English,,,,﻿Kankakee County,﻿Kankakee County,﻿Bourbonnais,﻿Bourbonnais,﻿IL,,﻿41.15507063,-87.87014516,,,,﻿roy_001,﻿Rev. Fr.,﻿Roy,,﻿Director,,,,,,1869,﻿,﻿,﻿Chicago,Chicago
 ﻿chi.il.0234,﻿academy,﻿La Salle Academy,English,,,,﻿La Salle County,,﻿La Salle,﻿La Salle,﻿IL,,﻿41.3621503,-89.0418249,,,,,,,,,,,,﻿Conducted by the Brothers of the Christian Schools,,1869,﻿,﻿,﻿Chicago,Chicago
 ﻿chi.il.0232,﻿college,﻿St. Ignatius' College,English,"﻿now under erection at a cost of two hundred thousand dollars, will be ready for the reception of students first Monday in September, 1869.",﻿Corner of Twelfth and May streets,,,,﻿Chicago,﻿Chicago,﻿IL,,﻿41.86737613,-87.65414607,,,,,,,,,,,,﻿Under the direction of the Jesuit Fathers,,1869,﻿,﻿,﻿Chicago,Chicago
@@ -304,18 +304,18 @@
 ﻿chi.il.0264,﻿convent,﻿St. Joseph's Convent of the Sisters of Mercy,English,,,,,,﻿Ottawa,﻿Chicago,﻿IL,,﻿41.89671205,-87.62555666,,,,,﻿Mother,﻿Mary Paula,,﻿Superior,,﻿Professed Sisters,﻿9 professed sisters,,,1869,﻿,﻿,﻿Chicago,Chicago
 ﻿chi.il.0264,﻿convent,﻿St. Joseph's Convent of the Sisters of Mercy,English,,,,,,﻿Ottawa,﻿Chicago,﻿IL,,﻿41.89671205,-87.62555666,,,,,,,,,,﻿Novices,﻿6 novices,,,1869,﻿,﻿,﻿Chicago,Chicago
 ﻿chi.il.0264,﻿convent,﻿St. Joseph's Convent of the Sisters of Mercy,English,,,,,,﻿Ottawa,﻿Chicago,﻿IL,,﻿41.89671205,-87.62555666,,,,,,,,,,﻿Postulants,﻿3 postulants,,,1869,﻿,﻿,﻿Chicago,Chicago
-﻿chi.il.0264,﻿convent,﻿Convent of the Sisters of St. Joseph,English,,,,,,﻿Peoria,﻿Chicago,﻿IL,,﻿41.89671205,-87.62555666,,,,,,,,,,﻿Professed Sisters,﻿7 professed sisters,,,1869,﻿,﻿,﻿Chicago,Chicago
-﻿chi.il.0264,﻿convent,﻿Convent of the Sisters of St. Francis,English,,,,,,﻿Kickapoo,﻿Chicago,﻿IL,,﻿41.89671205,-87.62555666,,,,,,,,,,﻿Professed Sisters,﻿7 professed sisters,,,1869,﻿,﻿,﻿Chicago,Chicago
+﻿chi.il.0357,﻿convent,﻿Convent of the Sisters of St. Joseph,English,,,,,,﻿Peoria,,,,﻿41.89671205,-87.62555666,,,,,,,,,,﻿Professed Sisters,﻿7 professed sisters,,,1869,﻿,﻿,﻿Chicago,Chicago
+﻿chi.il.0358,﻿convent,﻿Convent of the Sisters of St. Francis,English,,,,,,﻿Kickapoo,,,,﻿41.89671205,-87.62555666,,,,,,,,,,,,,,1869,﻿,﻿,﻿Chicago,Chicago
 ﻿chi.il.0273,﻿convent,﻿Convent of the Sisters of St. Francis Assisium,English,,﻿at St. Boniface's,,,,﻿Chicago,﻿Chicago,﻿IL,,﻿41.89095906,-87.6695875,,,,,﻿Sister,﻿Frances,,﻿Superior,,﻿Professed Sisters,﻿2 professed sisters,,,1869,﻿,﻿,﻿Chicago,Chicago
 ﻿chi.il.0273,﻿convent,﻿Convent of the Sisters of St. Francis Assisium,English,,﻿at St. Boniface's,,,,﻿Chicago,﻿Chicago,﻿IL,,﻿41.89095906,-87.6695875,,,,,,,,,,﻿Postulants,﻿2 postulants,,,1869,﻿,﻿,﻿Chicago,Chicago
 ﻿chi.il.0265,﻿convent,﻿Sisters of Charity,English,,,,,,﻿La Salle,﻿Chicago,﻿IL,,﻿41.87942649,-87.6443372,,,,,﻿Sister,﻿Pacifica,,﻿Superior,,,,,,1869,﻿,﻿,﻿Chicago,Chicago
 ﻿chi.il.0266,﻿convent,﻿Convent of the Sisters of Charity of the Blessed Virgin Mary,English,,﻿Halstead and Kramer streets,,,,﻿Chicago,﻿Chicago,﻿IL,,﻿41.87761658,-87.81431939,,,,,﻿Sister,﻿Agatha,,﻿Superior,,﻿Professed Sisters,﻿8 professed sisters,,,1869,﻿,﻿,﻿Chicago,Chicago
 ﻿chi.il.0267,﻿convent,﻿St. Columba's Convent,English,,﻿178 Paulina street,,,,﻿Chicago,﻿Chicago,﻿IL,,﻿41.88289691,-87.65204781,,,,,﻿Sister,﻿M. Barbara,,﻿Superior,,﻿Professed Sisters,﻿6 professed sisters,﻿Sisters of Charity,,1869,﻿,﻿,﻿Chicago,Chicago
-﻿chi.il.0267,﻿convent,﻿Sisters of St. Francis,English,,﻿178 Paulina street,,,,﻿Mendota,﻿Chicago,﻿IL,,﻿41.88289691,-87.65204781,,,,,﻿Sister,﻿M. Alberta,,﻿Superior,,﻿Professed Sisters,﻿2 professed sisters,﻿Sisters of Charity,,1869,﻿,﻿,﻿Chicago,Chicago
-﻿chi.il.0267,﻿convent,﻿Sisters of St. Francis,English,,﻿178 Paulina street,,,,﻿Mendota,﻿Chicago,﻿IL,,﻿41.88289691,-87.65204781,,,,,,,,,,﻿Novices,﻿1 novice,﻿Sisters of Charity,,1869,﻿,﻿,﻿Chicago,Chicago
-﻿chi.il.0267,﻿convent,﻿Sisters of St. Francis,English,,﻿178 Paulina street,,,,﻿Mendota,﻿Chicago,﻿IL,,﻿41.88289691,-87.65204781,,,,,,,,,,﻿Postulants,﻿2 postulants,﻿Sisters of Charity,,1869,﻿,﻿,﻿Chicago,Chicago
-﻿chi.il.0267,﻿convent,﻿Sisters of St. Francis,English,,﻿178 Paulina street,,,,﻿Joliet,﻿Chicago,﻿IL,,﻿41.88289691,-87.65204781,,,,,﻿Sister,﻿Alfred,,﻿Superior,,﻿Professed Sisters,﻿4 professed sisters,﻿Sisters of Charity,,1869,﻿,﻿,﻿Chicago,Chicago
-﻿chi.il.0267,﻿convent,﻿Sisters of St. Francis,English,,﻿178 Paulina street,,,,﻿Joliet,﻿Chicago,﻿IL,,﻿41.88289691,-87.65204781,,,,,,,,,,﻿Novices,﻿1 novice,﻿Sisters of Charity,,1869,﻿,﻿,﻿Chicago,Chicago
+﻿chi.il.0359,﻿convent,﻿Sisters of St. Francis,English,,,,,,﻿Mendota,,,,﻿41.88289691,-87.65204781,,,,,﻿Sister,﻿M. Alberta,,﻿Superior,,﻿Professed Sisters,﻿2 professed sisters,,,1869,﻿,﻿,﻿Chicago,Chicago
+﻿chi.il.0359,﻿convent,﻿Sisters of St. Francis,English,,,,,,﻿Mendota,,,,﻿41.88289691,-87.65204781,,,,,,,,,,﻿Novices,﻿1 novice,,,1869,﻿,﻿,﻿Chicago,Chicago
+﻿chi.il.0359,﻿convent,﻿Sisters of St. Francis,English,,,,,,﻿Mendota,,,,﻿41.88289691,-87.65204781,,,,,,,,,,﻿Postulants,﻿2 postulants,,,1869,﻿,﻿,﻿Chicago,Chicago
+﻿chi.il.0359,﻿convent,﻿Sisters of St. Francis,English,,,,,,﻿Joliet,,,,﻿41.88289691,-87.65204781,,,,,﻿Sister,﻿Alfred,,﻿Superior,,﻿Professed Sisters,﻿4 professed sisters,,,1869,﻿,﻿,﻿Chicago,Chicago
+﻿chi.il.0359,﻿convent,﻿Sisters of St. Francis,English,,,,,,﻿Joliet,,,,﻿41.88289691,-87.65204781,,,,,,,,,,﻿Novices,﻿1 novice,,,1869,﻿,﻿,﻿Chicago,Chicago
 ﻿chi.il.0005_02,﻿convent,﻿Sisters of Notre Dame,English,﻿at St. Peter's Church,,,,,,,,,﻿41.88289691,-87.65204781,,,,,,,,,,﻿Professed Sisters,﻿5 professed sisters,,,1869,﻿,﻿,﻿Chicago,Chicago
 ﻿chi.il.0005_02,﻿convent,﻿Sisters of Notre Dame,English,﻿at St. Peter's Church,,,,,,,,,﻿41.88289691,-87.65204781,,,,,,,,,,﻿Postulants,﻿3 postulants,,,1869,﻿,﻿,﻿Chicago,Chicago
 ﻿chi.il.0272,﻿convent,﻿Sisters of St. Francis,English,﻿at St. Francis' Church,,,,,﻿Chicago,﻿Chicago,﻿IL,,﻿41.89673178,-87.62555666,,,,,,,,,,,,,,1869,﻿,﻿,﻿Chicago,Chicago
