@@ -48,8 +48,8 @@
 ﻿nyc.ny.0186,﻿church,not recorded,English,,﻿Sing Sing,,,,,,﻿NY,,43.25270989,-77.65895257,,,,,,﻿Rev.,﻿Francis Marshall,,,,,,,1838,,,﻿,﻿,﻿NewYork,NewYorkCity
 ﻿nyc.ny.0186,﻿church,﻿Ogdensburg Church,English,,﻿Sing Sing,,,,﻿Ogdensburg,,﻿NY,,43.25270989,-77.65895257,,,﻿alternately,,﻿foley_901,﻿Rev. Mr.,﻿Foley,,,,,,,1838,,,﻿,﻿,﻿NewYork,NewYorkCity
 ﻿alb.ny.0302,﻿church,﻿Waddington Church,English,,,,,,﻿Waddington,,﻿NY,,44.8644999,-75.2041019,,,﻿alternately,,﻿foley_901,﻿Rev. Mr.,﻿Foley,,,,,,,1838,,,﻿,﻿,﻿NewYork,NewYorkCity
-﻿alb.ny.9005,﻿church,﻿Oswego Church,English,,,,,,﻿Oswego,,﻿NY,,44.8644999,-75.2041019,,,,,﻿rogers_901,﻿Rev. Mr.,﻿Rogers,,,,,,,1838,,,﻿,﻿,﻿NewYork,NewYorkCity
-﻿alb.ny.9004,﻿church,﻿Geneva Church,English,,,,,,﻿Geneva,,﻿NY,,44.8644999,-75.2041019,,,,,﻿rogers_901,﻿Rev. Mr.,﻿Rogers,,,,,,,1838,,,﻿,﻿,﻿NewYork,NewYorkCity
+﻿alb.ny.9005,﻿church,﻿Oswego Church,English,,,,,,﻿Oswego,,﻿NY,,44.8644999,-75.2041019,,,,,﻿rog_rogers_901,﻿Rev. Mr.,﻿Rogers,,,,,,,1838,,,﻿,﻿,﻿NewYork,NewYorkCity
+﻿alb.ny.9004,﻿church,﻿Geneva Church,English,,,,,,﻿Geneva,,﻿NY,,44.8644999,-75.2041019,,,,,﻿rog_rogers_901,﻿Rev. Mr.,﻿Rogers,,,,,,,1838,,,﻿,﻿,﻿NewYork,NewYorkCity
 ﻿roc.ny.0045,﻿church,﻿Seneca Falls Church,English,,,,,,﻿Seneca Falls,,﻿NY,,44.8644999,-75.2041019,,,,,,﻿Rev. Mr.,﻿Rogers,,,,,,,1838,,,﻿,﻿,﻿NewYork,NewYorkCity
 ﻿alb.ny.0223,﻿church,not recorded,English,,,,,﻿Clinton County,﻿Plattsburg,﻿Plattsburg,﻿NY,﻿NY,44.69951178,-73.45885685,,,,,﻿drummond_902,﻿Rev. Mr.,﻿Drummond,,,,,,,1838,,﻿https://holycrosspbg.org/,﻿,﻿,﻿NewYork,NewYorkCity
 ﻿roc.ny.0001,﻿church,not recorded,English,,,,,,﻿Rochester,,﻿NY,,44.69951178,-73.45885685,,,,,﻿ber_oreilly_901,﻿Rev.,﻿Bernard O'Reilly,,,,,,,1838,,,﻿,﻿,﻿NewYork,NewYorkCity
@@ -57,16 +57,16 @@
 ﻿alb.ny.0300,﻿church,not recorded,English,,,,,,﻿Verona,,﻿NY,,43.1381455,-75.5706945,,,,,﻿beauchamp_901,﻿Rev. Mr.,﻿Beauchamp,,,,,,,1838,,,﻿,﻿,﻿NewYork,NewYorkCity
 ﻿alb.ny.0277,﻿church,not recorded,English,,,,,,﻿Salina,﻿Salina,﻿NY,﻿NY,43.06872831,-76.15749361,,,,,﻿p_odonnell_901,﻿Rev.,﻿P. O'Donnell,,,,,,,1838,,"﻿This church is in what is today Syracuse; however, at the time, Salina appears to have had a further reach, meaning this church would've likely been part of Salina: https://www.stjohnthebaptist-holytrinity.com/about/",﻿,﻿,﻿NewYork,NewYorkCity
 ﻿alb.ny.0277,﻿church,not recorded,English,,,,,,﻿Syracuse,﻿Salina,﻿NY,,43.06872831,-76.15749361,,,,,,﻿Rev.,﻿P. O'Donnell,,,,,,,1838,,,﻿,﻿,﻿NewYork,NewYorkCity
-﻿alb.ny.9001,﻿church,not recorded,English,,,,,,﻿Troy,,﻿NY,,43.06872831,-76.15749361,,,,,﻿j_shanahan_901,﻿Rev.,﻿J. Shanahan,,,,,,,1838,,﻿Hard to identify which one - there are too many in Troy in later years,﻿,﻿,﻿NewYork,NewYorkCity
+﻿alb.ny.9001,﻿church,not recorded,English,,,,,,﻿Troy,,﻿NY,,43.06872831,-76.15749361,,,,,﻿joh_shanahan_901,﻿Rev.,﻿J. Shanahan,,,,,,,1838,,﻿Hard to identify which one - there are too many in Troy in later years,﻿,﻿,﻿NewYork,NewYorkCity
 ﻿alb.ny.9001,﻿church,not recorded,English,,,,,,﻿Troy,,﻿NY,,43.06872831,-76.15749361,,,,,,﻿Rev.,﻿J. Quinn,,,,,,,1838,,,﻿,﻿,﻿NewYork,NewYorkCity
-﻿alb.ny.9001,﻿church,not recorded,English,,,,,,﻿Utica,,﻿NY,,43.06872831,-76.15749361,,,,,﻿wal_quarters_901,﻿Rev.,﻿Walter Quarters,,,,,,,1838,,,﻿,﻿,﻿NewYork,NewYorkCity
+﻿alb.ny.9001,﻿church,not recorded,English,,,,,,﻿Utica,,﻿NY,,43.06872831,-76.15749361,,,,,﻿wal_j_quarters_901,﻿Rev.,﻿Walter Quarters,,,,,,,1838,,,﻿,﻿,﻿NewYork,NewYorkCity
 ﻿alb.ny.9010,﻿church,not recorded,English,,,,,,﻿Williamsville,,﻿NY,,43.06872831,-76.15749361,,,﻿alternately,,﻿lutgen_901,﻿Rev. Mr.,﻿Lutgen,,,,,,,1838,,,﻿,﻿,﻿NewYork,NewYorkCity
 ﻿buf.ny.0033,﻿church,not recorded,English,,,,,,﻿Lancaster,,﻿NY,,43.06872831,-76.15749361,,,﻿alternately,,,﻿Rev. Mr.,﻿Lutgen,,,,,,,1838,,,﻿,﻿,﻿NewYork,NewYorkCity
 ﻿new.nj.9001,﻿church,not recorded,English,,,,,,﻿Bottle Hill,,﻿NJ,,43.06872831,-76.15749361,,,,,﻿fra_guth_902,﻿Rev.,﻿Francis Guth,,,,,,,1838,,,﻿,﻿,﻿NewYork,NewYorkCity
 ﻿new.nj.0013,﻿church,not recorded,English,,,,,,﻿Belleville,,﻿NJ,,43.06872831,-76.15749361,,,,,,﻿Rev. Mr.,﻿Moran,,,,,,,1838,,,﻿,﻿,﻿NewYork,NewYorkCity
 ﻿new.nj.0003,﻿church,not recorded,English,,,,,,﻿Newark,,﻿NJ,,43.06872831,-76.15749361,,,,,﻿moran_901,﻿Rev. Mr.,﻿Moran,,,,,,,1838,,,﻿,﻿,﻿NewYork,NewYorkCity
 ﻿new.nj.0067,﻿church,﻿New Brunswick Church,English,,,,,,﻿New Brunswick,,﻿NJ,,40.4862157,-74.4518188,,,,,﻿mcardle_901,﻿Rev. Mr.,﻿McArdle,,,,,,,1838,,,﻿,﻿,﻿NewYork,NewYorkCity
-﻿new.nj.9002,﻿church,﻿Patterson Church,English,,,,,,﻿Patterson,,﻿NJ,,40.4862157,-74.4518188,,,,,﻿p_oreilly_901,﻿Rev.,﻿P. O'Reilly,,,,,,,1838,,,﻿,﻿,﻿NewYork,NewYorkCity
+﻿new.nj.9002,﻿church,﻿Patterson Church,English,,,,,,﻿Patterson,,﻿NJ,,40.4862157,-74.4518188,,,,,﻿pat_duffy_901,﻿Rev.,﻿P. O'Reilly,,,,,,,1838,,,﻿,﻿,﻿NewYork,NewYorkCity
 ﻿new.nj.9002,﻿school,﻿St. Mary's Select School for Young Ladies,English,,﻿No. 415 Grand Street,,,,﻿New York,,﻿NY,,40.4862157,-74.4518188,,,,,,,,,,,﻿sisters,﻿5 sisters,﻿Sisters of Charity,1838,,,﻿,﻿,﻿NewYork,NewYorkCity
 ﻿new.nj.9002,﻿school,﻿St. Mary's Select School for Young Ladies,English,,﻿No. 415 Grand Street,,,,﻿New York,,﻿NY,,40.4862157,-74.4518188,,,,,,,,,,,﻿young ladies,﻿about 60 young ladies,﻿Sisters of Charity,1838,,,﻿,﻿,﻿NewYork,NewYorkCity
 ﻿new.nj.9002,﻿school,﻿St. Mary's Select School for Young Ladies,English,,﻿No. 415 Grand Street,,,,﻿New York,,﻿NY,,40.4862157,-74.4518188,,,,,,,,,,,﻿poor children,﻿seldom less than 300 poor children,﻿Sisters of Charity,1838,,,﻿,﻿,﻿NewYork,NewYorkCity
