@@ -1,2 +1,88 @@
 ﻿instID,church_type,instName,language,instNote,placeName,region,county_orig,county_reg,city_orig,city_reg,state_orig,state_reg,latitude,longitude,attendingInstID,attendingChurch,attendingChurchFrequency,persID,persTitle,persName,persSuffix,persRole,persNote,memberType,member,affiliated,order,year,attendingPersID,attendingChurchNote,diocese,diocese_reg
-,﻿cathedral,﻿St. Peter's Cathedral,English,,,,,,,,,,,,,,,,,,,,,,,,,1869,﻿,﻿,Cincinnati,Cincinnati
+,﻿cathedral,﻿St. Peter's Cathedral,English,,,,,,,,,,,,,,,,﻿Most Rev.,﻿J. B. Purcell,﻿D.D.,,,,,,,1869,﻿,﻿,Cincinnati,Cincinnati
+,﻿cathedral,﻿St. Peter's Cathedral,English,,,,,,,,,,,,,,,,﻿Very Rev.,﻿E. Parcell,﻿V.G.,,,,,,,1869,﻿,﻿,Cincinnati,Cincinnati
+,﻿cathedral,﻿St. Peter's Cathedral,English,,,,,,,,,,,,,,,,﻿Rev.,﻿C. H. Borgess,,,,,,,,1869,﻿,﻿,Cincinnati,Cincinnati
+,﻿cathedral,﻿St. Peter's Cathedral,English,,,,,,,,,,,,,,,,﻿Rev.,﻿W. J. Hally,,,,,,,,1869,﻿,﻿,Cincinnati,Cincinnati
+,﻿cathedral,﻿St. Peter's Cathedral,English,,,,,,,,,,,,,,,,﻿Rev.,﻿Ae. Kirner,﻿D.D.,,,,,,,1869,﻿,﻿,Cincinnati,Cincinnati
+,﻿church,﻿St. Francis Xavier's,English,,,,,,,,,,,,,,,,﻿Rev.,﻿Chas. Driscoll,﻿S.J.,,,,,,,1869,﻿,﻿,Cincinnati,Cincinnati
+,﻿church,﻿St. Francis Xavier's,English,,,,,,,,,,,,,,,,﻿Rev.,﻿H. Baselmans,﻿S.J.,,,,,,,1869,﻿,﻿,Cincinnati,Cincinnati
+,﻿church,﻿St. Francis Xavier's,English,,,,,,,,,,,,,,,,﻿Rev.,﻿G. F. Boex,﻿S.J.,,,,,,,1869,﻿,﻿,Cincinnati,Cincinnati
+,﻿church,﻿St. Francis Xavier's,English,,,,,,,,,,,,,,,,﻿Rev.,﻿John Kuhlman,﻿S.J.,,,,,,,1869,﻿,﻿,Cincinnati,Cincinnati
+,﻿church,﻿St. Francis Xavier's,English,,,,,,,,,,,,,,,,﻿Rev.,﻿Thomas Chambers,﻿S.J.,,,,,,,1869,﻿,﻿,Cincinnati,Cincinnati
+,﻿church,﻿St. Thomas',English,,,,,,,,,,,,,﻿Attended from St. Xavier's,,,,,,,,,,,,1869,﻿,﻿,Cincinnati,Cincinnati
+,﻿church,﻿St. Patrick's,English,,,,,,,,,,,,,,,,﻿Rev.,﻿Peter McMahon,,,,,,,,1869,﻿,﻿,Cincinnati,Cincinnati
+,﻿church,﻿St. Patrick's,English,,,,,,,,,,,,,,,,﻿Rev.,﻿Robert Doyle,,,,,,,,1869,﻿,﻿,Cincinnati,Cincinnati
+,﻿church,﻿Holy Trinity,English,,,,,,,,,,,,,,,,﻿Rev.,﻿Bernard Hengehold,﻿D.D.,,,,,,,1869,﻿,﻿,Cincinnati,Cincinnati
+,﻿church,﻿Holy Trinity,English,,,,,,,,,,,,,,,,﻿Rev.,﻿Richard Bröring,,,,,,,,1869,﻿,﻿,Cincinnati,Cincinnati
+,﻿church,﻿Holy Trinity,English,,,,,,,,,,,,,,,,﻿Rev.,﻿J. H. Ridder,,,,,,,,1869,﻿,﻿,Cincinnati,Cincinnati
+,﻿church,﻿St. Mary's,English,,,,,,,,,,,,,,,,﻿Rev.,﻿Bernard Elkmann,,,,,,,,1869,﻿,﻿,Cincinnati,Cincinnati
+,﻿church,﻿St. Mary's,English,,,,,,,,,,,,,,,,﻿Rev.,﻿Henry Jacobs,,,,,,,,1869,﻿,﻿,Cincinnati,Cincinnati
+,﻿church,﻿St. John's,English,,,,,,,,,,,,,,,,﻿Rev.,"﻿Otto Jair, Custos",﻿O.S.F.,,,,,,,1869,﻿,﻿,Cincinnati,Cincinnati
+,﻿church,﻿St. John's,English,,,,,,,,,,,,,,,,﻿Rev.,﻿Francis de Paula Kolb,﻿O.S.F.,,,,,,,1869,﻿,﻿,Cincinnati,Cincinnati
+,﻿church,﻿St. John's,English,,,,,,,,,,,,,,,,﻿Rev.,﻿A. Beine,﻿O.S.F.,,,,,,,1869,﻿,﻿,Cincinnati,Cincinnati
+,﻿church,﻿St. Paul's,English,,,,,,,,,,,,,,,,﻿Very Rev.,﻿Joseph Ferneding,﻿V.G.,,,,,,,1869,﻿,﻿,Cincinnati,Cincinnati
+,﻿church,﻿St. Paul's,English,,,,,,,,,,,,,,,,﻿Rev.,﻿Herm. Ferneding,,,,,,,,1869,﻿,﻿,Cincinnati,Cincinnati
+,﻿church,﻿St. Paul's,English,,,,,,,,,,,,,,,,﻿Rev.,﻿A. Schwenniger,,,,,,,,1869,﻿,﻿,Cincinnati,Cincinnati
+,﻿church,﻿St. Paul's,English,,,,,,,,,,,,,,,,﻿Rev.,﻿August Meyer,,,,,,,,1869,﻿,﻿,Cincinnati,Cincinnati
+,﻿church,﻿St. Joseph's,English,,,,,,,,,,,,,,,,﻿Rev.,﻿Engb. Stehle,,,,,,,,1869,﻿,﻿,Cincinnati,Cincinnati
+,﻿church,﻿St. Joseph's,English,,,,,,,,,,,,,,,,﻿Rev.,﻿G. H. Schumacher,,,,,,,,1869,﻿,﻿,Cincinnati,Cincinnati
+,﻿church,﻿St. Philomena's,English,,,,,,,,,,,,,,,,﻿Rev.,﻿Aug. M. Többé,,,,,,,,1869,﻿,﻿,Cincinnati,Cincinnati
+,﻿church,﻿St. Philomena's,English,,,,,,,,,,,,,,,,﻿Rev.,﻿G. H. Kuhr,﻿D.D.,,,,,,,1869,﻿,﻿,Cincinnati,Cincinnati
+,﻿church,﻿St. Augustine's,English,,,,,,,,,,,,,,,,﻿Rev.,﻿Bern. M. J. Mengé,,,,,,,,1869,﻿,﻿,Cincinnati,Cincinnati
+,﻿church,﻿St. Augustine's,English,,,,,,,,,,,,,,,,﻿Rev.,﻿H. Kemper,,,,,,,,1869,﻿,﻿,Cincinnati,Cincinnati
+,﻿church,﻿St. Augustine's,English,,,,,,,,,,,,,,,,﻿Rev.,﻿J. Luhr,,,,,,,,1869,﻿,﻿,Cincinnati,Cincinnati
+,﻿church,﻿St. Francis',English,,,,,,,,,,,,,,,,﻿Rev.,﻿Ubaldus Webersinke,﻿O.S.F,,,,,,,1869,﻿,﻿,Cincinnati,Cincinnati
+,﻿church,﻿St. Francis',English,,,,,,,,,,,,,,,,﻿Rev.,﻿Apollinarius Hattler,﻿O.S.F,,,,,,,1869,﻿,﻿,Cincinnati,Cincinnati
+,﻿church,﻿St. Francis',English,,,,,,,,,,,,,,,,﻿Rev.,﻿Samuel Neuner,﻿O.S.F,,,,,,,1869,﻿,﻿,Cincinnati,Cincinnati
+,﻿church,﻿St. Francis',English,,,,,,,,,,,,,,,,﻿Rev.,﻿Stephen Sailer,﻿O.S.F,,,,,,,1869,﻿,﻿,Cincinnati,Cincinnati
+,﻿church,﻿St. Francis',English,,,,,,,,,,,,,,,,﻿Rev.,﻿Jacob Mencken,﻿O.S.F,,,,,,,1869,﻿,﻿,Cincinnati,Cincinnati
+,﻿church,﻿St. Anthony's,English,,,,,,,,,,,,,,,,﻿Rev.,﻿Gerhard Uhling,,,,,,,,1869,﻿,﻿,Cincinnati,Cincinnati
+,﻿church,﻿St. Anthony's,English,,,,,,,,,,,,,,,,﻿Rev.,﻿Anthony Ulrich,,,,,,,,1869,﻿,﻿,Cincinnati,Cincinnati
+,﻿church,﻿St. Edward's,English,,,,,,,,,,,,,,,,﻿Rev.,﻿Fred. Bender,,,,,,,,1869,﻿,﻿,Cincinnati,Cincinnati
+,﻿church,﻿St. Edward's,English,,,,,,,,,,,,,,,,﻿Rev.,﻿William Hawe,,,,,,,,1869,﻿,﻿,Cincinnati,Cincinnati
+,﻿church,﻿All Saints',English,,,,,,,,,,,,,,,,﻿Rev.,﻿James F. P. Callahan,,,,,,,,1869,﻿,﻿,Cincinnati,Cincinnati
+,﻿church,﻿Holy Angels',English,,,,,,,,,,,,,,,,﻿Rev.,﻿Michael O'Neil,,,,,,,,1869,﻿,﻿,Cincinnati,Cincinnati
+,﻿church,﻿St. Rosa's,English,,,,,,,,,,,,,,,,﻿Rev.,﻿Henry Ratté,,,,,,,,1869,﻿,﻿,Cincinnati,Cincinnati
+,﻿church,﻿St. Ann's,English,,,,,,,,,,,,,,,,﻿Rev.,﻿A. Hoeckens,﻿S.J.,,,,,,,1869,﻿,﻿,Cincinnati,Cincinnati
+,﻿church,﻿Immaculata,English,,,,,,,,,,,,,,,,﻿Rev.,﻿B. Gelss,,,,,,,,1869,﻿,﻿,Cincinnati,Cincinnati
+,﻿church,﻿St. Michael's,English,,,,,,,,,,,,,,,,﻿Rev.,﻿Math. Deselaers,,,,,,,,1869,﻿,﻿,Cincinnati,Cincinnati
+,﻿church,﻿St. Bonaventura's,English,,,,,,,,,,,,,,,,﻿Rev.,﻿Jacob Menken,﻿O.S.F.,,,,,,,1869,﻿,﻿,Cincinnati,Cincinnati
+,﻿church,﻿St. George's,English,,,,,,,,,,,,,,,,,,,,,,,,,1869,﻿,﻿,Cincinnati,Cincinnati
+,﻿church,﻿St. Francis of Sales,English,,,,,,,,,,,,,,,,﻿Rev.,﻿John J. Mengé,,,,,,,,1869,﻿,﻿,Cincinnati,Cincinnati
+,﻿church,﻿St. Heart,English,,,,,,,,,,,,,,,,﻿Rev.,﻿— Koering,,,,,,,,1869,﻿,﻿,Cincinnati,Cincinnati
+,﻿church,﻿St. Clement's,English,,,,,,,,,,,,,,,,﻿Rev.,﻿Louis Haverbeck,﻿O.S.F.,,,,,,,1869,﻿,﻿,Cincinnati,Cincinnati
+,﻿church,﻿St. Aloysius',English,,,,,,,,,,,,,,,,﻿Rev.,﻿David B. Walker,,,,,,,,1869,﻿,﻿,Cincinnati,Cincinnati
+,﻿church,﻿St. Boniface's,English,,,,,,,,,,,,,,,,﻿Rev.,﻿Bonifacius Godf. Topmöller,,,,,,,,1869,﻿,﻿,Cincinnati,Cincinnati
+,﻿church,﻿St. James',English,,,,,,,,,,,,,,,,﻿Rev.,﻿J. C. Krämer,,,,,,,,1869,﻿,﻿,Cincinnati,Cincinnati
+,﻿church,﻿St. John's,English,,,,,,,,,,,,,,,,﻿Rev.,﻿Gebhard Egger,,,,,,,,1869,﻿,﻿,Cincinnati,Cincinnati
+,﻿church,﻿Our Lady of Victories,English,,,,,,,,,,,,,,,,﻿Rev.,﻿Heribert Thien,,,,,,,,1869,﻿,﻿,Cincinnati,Cincinnati
+,﻿church,﻿St. Vincent of Paul's,English,,,,,,,,,,,,,,,,﻿Rev.,﻿Henry Koering,,,,,,,,1869,﻿,﻿,Cincinnati,Cincinnati
+,﻿church,﻿SS. Peter and Paul's,English,,,,,,,,,,,,,,,,﻿Rev.,﻿John C. Albrink,,,,,,,,1869,﻿,﻿,Cincinnati,Cincinnati
+,﻿church,﻿SS. Peter and Paul's,English,,,,,,,,,,,,,,,,﻿Rev.,﻿Henry Stukenborg,,,,,,,,1869,﻿,﻿,Cincinnati,Cincinnati
+,﻿church,﻿St. Gabriel's,English,,,,,,,,,,,,,,,,﻿Rev.,﻿William M. Carey,,,,,,,,1869,﻿,﻿,Cincinnati,Cincinnati
+,﻿church,﻿St. Mary's,English,,,,,,,,,,,,,,,,﻿Rev.,﻿Herman Johanning,,,,,,,,1869,﻿,﻿,Cincinnati,Cincinnati
+,﻿church,﻿St. Bernard's,English,,,,,,,,,,,,,,,,﻿Rev.,﻿George Jos. Veith,,,,,,,,1869,﻿,﻿,Cincinnati,Cincinnati
+,﻿church,﻿St. Aloysius',English,,,,,,,,,,,,,,,,﻿Rev.,﻿George Jos. Veith,,,,,,,,1869,﻿,﻿,Cincinnati,Cincinnati
+,﻿chapel,﻿St. John Baptist's Chapel,English,,,,,,,,,,,,,,,,,,,,,,,,,1869,﻿,﻿,Cincinnati,Cincinnati
+,﻿chapel,﻿Chapel of the Sisters of Charity,English,,,,,,,,,,,,,﻿Attended from Mt. St. Mary's Seminary,,,,,,,,,,,,1869,﻿,﻿,Cincinnati,Cincinnati
+,﻿chapel,﻿Chapel of the Sisters of Notre Dame,English,,,,,,,,,,,,,﻿Attended by a Jesuit Father,,,,,,,,,,,,1869,﻿,﻿,Cincinnati,Cincinnati
+,﻿chapel,﻿Chapel of the Sisters of Mercy,English,,,,,,,,,,,,,﻿Attended from the Cathedral,,,,,,,,,,,,1869,﻿,﻿,Cincinnati,Cincinnati
+,﻿chapel,﻿Chapel of St. Mary's Academy,English,,,,,,,,,,,,,﻿Attended from the Cathedral,,,,,,,,,,,,1869,﻿,﻿,Cincinnati,Cincinnati
+,﻿chapel,﻿Chapel of St. Mary's Hospital,English,,,,,,,,,,,,,﻿Attended by Rev. Jos. Sadler,,,,,,,,,,,,1869,﻿,﻿,Cincinnati,Cincinnati
+,﻿chapel,﻿Chapel of the Good Samaritan Hospital,English,,,,,,,,,,,,,﻿Attended from St. Xavier's,,,,,,,,,,,,1869,﻿,﻿,Cincinnati,Cincinnati
+,﻿chapel,﻿Chapel of the Protectory for Boys,English,,,,,,,,,,,,,,,,,,,,,,,,,1869,﻿,﻿,Cincinnati,Cincinnati
+,﻿chapel,﻿Chapel of the Sisters of St. Clare,English,,,,,,,,,,,,,﻿Attended from St. Xavier's and St. Philomena's,,,,,,,,,,,,1869,﻿,﻿,Cincinnati,Cincinnati
+,﻿chapel,﻿Chapel of the Female Prison,English,,,,,,,,,,,,,﻿Attended from All Saints' and St. Philomena's,,,,,,,,,,,,1869,﻿,﻿,Cincinnati,Cincinnati
+,﻿chapel,﻿Chapel of St. Peter's Orphan Asylum,English,,,,,,,,,,,,,﻿Attended by Rev. D. B. Walker,,,,,,,,,,,,1869,﻿,﻿,Cincinnati,Cincinnati
+,﻿chapel,﻿Chapel of St. Aloysius' Orphan Asylum,English,,,,,,,,,,,,,﻿Attended by Very Rev. J. Ferneding,,,,,,,,,,,,1869,﻿,﻿,Cincinnati,Cincinnati
+,﻿chapel,﻿Chapel of the Sacred Heart,English,,,,,,,,,,,,,,,,﻿Rev.,﻿Henry Koering,,,,,,,,1869,﻿,﻿,Cincinnati,Cincinnati
+,﻿chapel,﻿Chapel of the Guardian Angel,English,,,,,,,,,,,,,﻿Attended from St. Xavier's,,,,,,,,,,,,1869,﻿,﻿,Cincinnati,Cincinnati
+,﻿religious institution,﻿Chapel of the Guardian Angel,English,,,,,,,,,,,,,﻿Attended from Kenton,,,,,,,,,,,,1869,﻿,﻿,Cincinnati,Cincinnati
+,﻿church,﻿St. Mary's,English,,,,,,,,,,,,,﻿Attended from Ripley,,,,,,,,,,,,1869,﻿,﻿,Cincinnati,Cincinnati
+,﻿church,﻿St. Patrick's,English,,,,,,,,,,,,,,,,﻿Rev.,﻿John Coveney,,,,,,,,1869,﻿,﻿,Cincinnati,Cincinnati
+,﻿church,﻿St. Michael's,English,,,,,,,,,,,,,,,,﻿Rev.,﻿Marianton Meyer,,,﻿Loramie's P.O.,,,,,1869,﻿,﻿,Cincinnati,Cincinnati
+,﻿religious institution,﻿St. Michael's,English,,,,,,,,,,,,,﻿Attended from Hillsboro,,,,,,,,,,,,1869,﻿,﻿,Cincinnati,Cincinnati
+,﻿religious institution,﻿St. Michael's,English,,,,,,,,,,,,,﻿Attended from Urbana,,,,,,,,,,,,1869,﻿,﻿,Cincinnati,Cincinnati
+,﻿church,﻿Church of the Immaculate Conception,English,,,,,,,,,,,,,﻿Attended from Ripley,,,,,,,,,,,,1869,﻿,﻿,Cincinnati,Cincinnati
+,﻿religious institution,﻿Church of the Immaculate Conception,English,,,,,,,,,,,,,﻿Attended from Marion,,,,,,,,,,,,1869,﻿,﻿,Cincinnati,Cincinnati
+,﻿church,﻿St. Jerome's,English,,,,,,,,,,,,,﻿Attended from Columbia,,,,,,,,,,,,1869,﻿,﻿,Cincinnati,Cincinnati
