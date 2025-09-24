@@ -83,9 +83,9 @@
 ﻿stl.mo.0045,﻿church,not recorded,English,,,,﻿Lewis County,,﻿Canton,﻿Canton,﻿MO,,40.129412,﻿-91.5186737,﻿stl.mo.0110,﻿Attended from Palmyra,,,,,,,,,,,,1870,﻿,﻿,﻿StLouis,StLouis
 ﻿stl.mo.0046,﻿church,﻿St. Vincent's,English,,,,﻿Cape Girardeau County,,﻿Cape Girardeau,﻿Cape Girardeau,﻿MO,,37.3148432,﻿-89.5456724,﻿stl.mo.0147,﻿Attended by the Fathers of the Seminary,,,,,,,,,,,,1870,﻿,﻿,﻿StLouis,StLouis
 ﻿stl.mo.0047,﻿church,﻿St. Mary's,﻿German,,,,﻿Cape Girardeau County,,﻿Cape Girardeau,﻿Cape Girardeau,﻿MO,,37.3006256,﻿-89.5266629,,,,﻿jul_herde_001,﻿Rev.,﻿Jul Herde,,,,,,,,1870,﻿,﻿,﻿StLouis,StLouis
-﻿stl.mo.0048,﻿church,﻿St. Mary's,English,,,,﻿St. Louis County,,﻿Carondelet,﻿Carondelet,﻿MO,,38.55757751,﻿-90.24909676,,,,﻿e_mcfaul_001,﻿Rev.,﻿E. McFaul,,,,,,,,1870,﻿,﻿,﻿StLouis,StLouis
-﻿stl.mo.0049,﻿church,﻿St. Boniface's,English,,,,﻿St. Louis County,,﻿Carondelet,﻿Carondelet,﻿MO,,38.54859343,﻿-90.26126144,,,,﻿e_schindel_001,﻿Rev.,﻿E. Schindel,,,,,,,,1870,﻿,﻿,﻿StLouis,StLouis
-﻿stl.mo.0050,﻿chapel,﻿Chapel of the Sisters of St. Joseph,English,,,,﻿St. Louis County,,﻿Carondelet,﻿Carondelet,﻿MO,,38.55693356,﻿-90.25000618,,,,﻿j_m_cyr_001,﻿Rev.,﻿J. M. J. St. Cyr.,,,,,,,,1870,﻿,﻿,﻿StLouis,StLouis
+﻿stl.mo.0048,﻿church,﻿St. Mary's,English,,,,﻿St. Louis County,,﻿Carondelet,﻿St. Louis,﻿MO,,38.55757751,﻿-90.24909676,,,,﻿e_mcfaul_001,﻿Rev.,﻿E. McFaul,,,,,,,,1870,﻿,﻿,﻿StLouis,StLouis
+﻿stl.mo.0049,﻿church,﻿St. Boniface's,English,,,,﻿St. Louis County,,﻿Carondelet,﻿St. Louis,﻿MO,,38.54859343,﻿-90.26126144,,,,﻿e_schindel_001,﻿Rev.,﻿E. Schindel,,,,,,,,1870,﻿,﻿,﻿StLouis,StLouis
+﻿stl.mo.0050,﻿chapel,﻿Chapel of the Sisters of St. Joseph,English,,,,﻿St. Louis County,,﻿Carondelet,﻿St. Louis,﻿MO,,38.55693356,﻿-90.25000618,,,,﻿j_m_cyr_001,﻿Rev.,﻿J. M. J. St. Cyr.,,,,,,,,1870,﻿,﻿,﻿StLouis,StLouis
 ﻿stl.mo.0051,﻿church,﻿St. James',English,,,,﻿St. Louis County,,﻿Cheltenham,﻿Cheltenham,﻿MO,,38.6103023,﻿-90.4125181,,,,﻿th_manning_001,﻿Rev.,﻿Th. Manning,,,,,,,,1870,﻿,﻿,﻿StLouis,StLouis
 ﻿stl.mo.0052,﻿church,﻿Annunciation,English,,,,﻿Moniteau County,,﻿California,﻿California,﻿MO,,38.6275278,﻿-92.5665786,﻿stl.mo.0141,﻿Attended from Tipton,﻿once a month,,,,,,,,,,,1870,﻿,﻿,﻿StLouis,StLouis
 ﻿stl.mo.0053,﻿church,﻿St. Martin's,English,,,,﻿St. Louis County,,﻿Central Township,﻿Central Township,﻿MO,,38.6041898,﻿-90.5786264,,,,﻿jm_jackson_001,﻿Rev.,﻿J.M. Jackson,,,,,,,,1870,﻿,﻿,﻿StLouis,StLouis
@@ -234,14 +234,14 @@
 ﻿stl.mo.0155,"﻿convent, academy",﻿Ursuline Convent and Academy,English,,,,,,﻿St. Louis,﻿St. Louis,﻿MO,,38.60734997,﻿-90.20969962,,,,,﻿Mother,﻿Aloysia Winkler,,﻿Superior,,﻿candidate,"﻿candidates, 5",,,1870,﻿,﻿,﻿StLouis,StLouis
 ﻿stl.mo.0155,"﻿convent, academy",﻿Ursuline Convent and Academy,English,,,,,,﻿St. Louis,﻿St. Louis,﻿MO,,38.60734997,﻿-90.20969962,,,,,,,,,,﻿candidate,"﻿community, 47",,,1870,﻿,﻿,﻿StLouis,StLouis
 ﻿stl.mo.0155,"﻿convent, academy",﻿Ursuline Convent and Academy,English,,,,,,﻿St. Louis,﻿St. Louis,﻿MO,,38.60734997,﻿-90.20969962,,,,,,,,,,﻿boarder,"﻿number of boarders, 80",,,1870,﻿,﻿,﻿StLouis,StLouis
-﻿stl.mo.0156,"﻿house, academy",﻿Mother House and Academy of Sisters of St. Joseph,English,,,,,,﻿Carondelet,﻿Carondelet,﻿MO,,38.5568583,﻿-90.24997487,,,,,﻿Mother,﻿St. John,,﻿Superior,,﻿pupil,"﻿pupils, 125",,,1870,﻿,﻿,﻿StLouis,StLouis
-﻿stl.mo.0156,"﻿house, academy",﻿Mother House and Academy of Sisters of St. Joseph,English,,,,,,﻿Carondelet,﻿Carondelet,﻿MO,,38.5568583,﻿-90.24997487,,,,,,,,,,﻿pupil,"﻿community, 66",,,1870,﻿,﻿,﻿StLouis,StLouis
+﻿stl.mo.0156,"﻿house, academy",﻿Mother House and Academy of Sisters of St. Joseph,English,,,,,,﻿Carondelet,﻿St. Louis,﻿MO,,38.5568583,﻿-90.24997487,,,,,﻿Mother,﻿St. John,,﻿Superior,,﻿pupil,"﻿pupils, 125",,,1870,﻿,﻿,﻿StLouis,StLouis
+﻿stl.mo.0156,"﻿house, academy",﻿Mother House and Academy of Sisters of St. Joseph,English,,,,,,﻿Carondelet,﻿St. Louis,﻿MO,,38.5568583,﻿-90.24997487,,,,,,,,,,﻿pupil,"﻿community, 66",,,1870,﻿,﻿,﻿StLouis,StLouis
 ﻿stl.mo.0157,"﻿convent, academy",﻿Convent and Academy of Sisters of St. Joseph,English,,,,,,﻿St. Genevieve,﻿St. Genevieve,﻿MO,,37.97906737,﻿-90.04650852,,,,,﻿Mother,﻿Blanche,,﻿Superior,,﻿pupil,"﻿Pupils, 250",,,1870,﻿,﻿,﻿StLouis,StLouis
 ﻿stl.mo.0157,"﻿convent, academy",﻿Convent and Academy of Sisters of St. Joseph,English,,,,,,﻿St. Genevieve,﻿St. Genevieve,﻿MO,,37.97906737,﻿-90.04650852,,,,,,,,,,﻿colored pupil,"﻿number in schools for colored pupils, 50",,,1870,﻿,﻿,﻿StLouis,StLouis
 ﻿stl.mo.0158,﻿college,﻿College of the Christian Brothers,English,,,,,,﻿St. Louis,﻿St. Louis,﻿MO,,38.62080975,﻿-90.1953944,,,,,﻿Brother,﻿Edward,,﻿Director,,﻿brother,﻿40 brothers,,,1870,﻿,﻿,﻿StLouis,StLouis
 ﻿stl.mo.0158,﻿college,﻿College of the Christian Brothers,English,,,,,,﻿St. Louis,﻿St. Louis,﻿MO,,38.62080975,﻿-90.1953944,,,,,,,,,,﻿pupil,﻿500 pupils,,,1870,﻿,﻿,﻿StLouis,StLouis
-﻿stl.mo.0159,﻿convent,﻿Convent of the Franciscan Fathers,English,,,,,,,,﻿MO,,38.5800957,﻿-90.23952802,,,,﻿ser_altmicks_001,﻿Rev.,﻿Servatius Altmicks,﻿O.S.F.,,,,,,,1870,﻿,﻿,﻿StLouis,StLouis
-﻿stl.mo.0159,﻿convent,﻿Convent of the Franciscan Fathers,English,,,,,,,,﻿MO,,38.5800957,﻿-90.23952802,,,,﻿ray_dickneit_001,﻿Rev.,﻿Raynerius Dickneit,,,,,,,,1870,﻿,﻿,﻿StLouis,StLouis
+﻿stl.mo.0159,﻿convent,﻿Convent of the Franciscan Fathers,English,,﻿near Stringtown,,,,,﻿St. Louis,﻿MO,,38.5800957,﻿-90.23952802,,,,﻿ser_altmicks_001,﻿Rev.,﻿Servatius Altmicks,﻿O.S.F.,,,,,,,1870,﻿,﻿,﻿StLouis,StLouis
+﻿stl.mo.0159,﻿convent,﻿Convent of the Franciscan Fathers,English,,﻿near Stringtown,,,,,﻿St. Louis,﻿MO,,38.5800957,﻿-90.23952802,,,,﻿ray_dickneit_001,﻿Rev.,﻿Raynerius Dickneit,,,,,,,,1870,﻿,﻿,﻿StLouis,StLouis
 ﻿stl.mo.0160,﻿hospital,﻿St. Louis Hospital,English,,,,,,﻿St. Louis,﻿St. Louis,﻿MO,,38.62167878,﻿-90.18843964,,,,,﻿Sister,﻿Mary Alexius,,﻿Sister-Servant,,﻿patient,﻿400 patients,,,1870,﻿,﻿,﻿StLouis,StLouis
 ﻿stl.mo.0160,﻿hospital,﻿St. Louis Hospital,English,,,,,,﻿St. Louis,﻿St. Louis,﻿MO,,38.62167878,﻿-90.18843964,,,,,,,,,,﻿patient,"﻿Number in community, 28",﻿conducted by the Sisters of Charity.,,1870,﻿,﻿,﻿StLouis,StLouis
 ﻿stl.mo.0161,﻿hospital,﻿St. Joseph's Hospital,English,,,,,,﻿St. Louis,﻿St. Louis,﻿MO,,38.58362228,﻿-90.2286434,,,,,,,,,,,,﻿conducted by the Alexian Brothers,,1870,﻿,﻿,﻿StLouis,StLouis
@@ -252,7 +252,7 @@
 ﻿stl.mo.0164,"﻿asylum, hospital",﻿Biddle Infant Asylum and Lying-in Hospital,English,,,,,,﻿St. Louis,﻿St. Louis,﻿MO,,38.61353198,﻿-90.20332009,,,,,﻿Sister,﻿Catharine,,﻿Sister-Servant,,﻿woman,"﻿women in asylum, 20",,,1870,﻿,﻿,﻿StLouis,StLouis
 ﻿stl.mo.0164,"﻿asylum, hospital",﻿Biddle Infant Asylum and Lying-in Hospital,English,,,,,,﻿St. Louis,﻿St. Louis,﻿MO,,38.61353198,﻿-90.20332009,,,,,,,,,,﻿woman,"﻿Community, 13",﻿conducted by the Sisters of Charity.,,1870,﻿,﻿,﻿StLouis,StLouis
 ﻿stl.mo.0164,"﻿asylum, hospital",﻿Biddle Infant Asylum and Lying-in Hospital,English,,,,,,﻿St. Louis,﻿St. Louis,﻿MO,,38.61353198,﻿-90.20332009,,,,,,,,,,﻿infant,"﻿infants, 70",﻿conducted by the Sisters of Charity.,,1870,﻿,﻿,﻿StLouis,StLouis
-﻿stl.mo.0165,﻿house,﻿Widows' House,English,,,,,,,,﻿MO,,38.61353198,﻿-90.20332009,,,,,,,,,,﻿widow,"﻿Number of widows, 30",,,1870,﻿,﻿,﻿StLouis,StLouis
+﻿stl.mo.0165,﻿house,﻿Widows' House,English,,,,,,,﻿St. Louis,﻿MO,,38.61353198,﻿-90.20332009,,,,,,,,,,﻿widow,"﻿Number of widows, 30",,,1870,﻿,﻿,﻿StLouis,StLouis
 ﻿stl.mo.0166,﻿institute,﻿St. Vincent's Institute for the Insane,English,,,,,,﻿St. Louis,﻿St. Louis,﻿MO,,38.61237309,﻿-90.20111683,,,,,﻿Sister,﻿Julia,,﻿Sister-Servant,,﻿patient,﻿125 patients,,,1870,﻿,﻿,﻿StLouis,StLouis
 ﻿stl.mo.0166,﻿institute,﻿St. Vincent's Institute for the Insane,English,,,,,,﻿St. Louis,﻿St. Louis,﻿MO,,38.61237309,﻿-90.20111683,,,,,,,,,,﻿patient,"﻿Community, 17",﻿conducted by the Sisters of Charity.,,1870,﻿,﻿,﻿StLouis,StLouis
 ﻿stl.mo.0166,﻿institute,﻿St. Vincent's Institute for the Insane,English,,,,,,﻿St. Louis,﻿St. Louis,﻿MO,,38.61237309,﻿-90.20111683,,,,﻿boduy_001,﻿Dr.,﻿Boduy,,﻿attendant physician,,﻿patient,"﻿Community, 17",﻿conducted by the Sisters of Charity.,,1870,﻿,﻿,﻿StLouis,StLouis
@@ -272,11 +272,11 @@
 ﻿stl.mo.0173,﻿house,﻿House of the Good Shepherd,English,,,,,,﻿St. Louis,﻿St. Louis,﻿MO,,38.61300441,﻿-90.20115097,,,,,,,,,,﻿Magdalen,﻿36 Magdalens,,,1870,﻿,﻿,﻿StLouis,StLouis
 ﻿stl.mo.0174,﻿convent,﻿Convent of Sisters of Mercy,English,,,,,,﻿St. Louis,﻿St. Louis,﻿MO,,38.6270025,﻿-90.1994042,,,,,﻿Mother,﻿M.M. di Pazzi,,﻿Superior,,﻿girl,"﻿number of young girls supported and trained to useful employments in the House of Mercy--daily average, 45",,,1870,﻿,﻿,﻿StLouis,StLouis
 ﻿stl.mo.0174,﻿convent,﻿Convent of Sisters of Mercy,English,,,,,,﻿St. Louis,﻿St. Louis,﻿MO,,38.6270025,﻿-90.1994042,,,,,,,,,,﻿children,"﻿number of children attending schools attached to the convent, over 400",,,1870,﻿,﻿,﻿StLouis,StLouis
-﻿stl.mo.0175,﻿convent,﻿Convent of the Carmelite Nuns,English,,,,,,,,﻿MO,,38.69615816,﻿-90.23920273,,,,,﻿Rev. Mother,﻿Alberta,﻿of the Immaculate Conception,﻿Superior,,,,,,1870,﻿,﻿,﻿StLouis,StLouis
+﻿stl.mo.0175,﻿convent,﻿Convent of the Carmelite Nuns,English,,,,,,,﻿St. Louis,﻿MO,,38.69615816,﻿-90.23920273,,,,,﻿Rev. Mother,﻿Alberta,﻿of the Immaculate Conception,﻿Superior,,,,,,1870,﻿,﻿,﻿StLouis,StLouis
 ﻿stl.mo.0176,﻿asylum,﻿Deaf and Dumb Asylum,English,,,,,,﻿St. Louis,﻿St. Louis,﻿MO,,38.63639667,﻿-90.21545109,,,,,﻿Mother,﻿M. Justine,,﻿Superior,,,,,,1870,﻿,﻿,﻿StLouis,StLouis
 ﻿stl.mo.0177,﻿academy,﻿Academy of St. Joseph,English,,,,,,﻿Hannibal,﻿Hannibal,﻿MO,,39.70525329,﻿-91.36607329,,,,,﻿Sister,﻿Gabriel,,﻿Superior,,﻿pupil,﻿250 pupils,,,1870,﻿,﻿,﻿StLouis,StLouis
 ﻿stl.mo.0178,﻿academy,﻿Academy of the Sisters of Loretto,English,,,,,,﻿Edina,﻿Edina,﻿MO,,40.1675386,﻿-92.1726821,,,,,,,,,,,,,,1870,﻿,﻿,﻿StLouis,StLouis
-﻿stl.mo.0001_02,﻿school,﻿Cathedral Schools,English,,,,,,,,﻿MO,,38.62416814,﻿-90.18726023,,,,,,,,,,﻿pupil,﻿400 pupils,﻿Conducted by Christian Brothers. Sisters of Charity.,,1870,﻿,﻿,﻿StLouis,StLouis
+﻿stl.mo.0001_02,﻿school,﻿Cathedral Schools,English,,,,,,,﻿St. Louis,﻿MO,,38.62416814,﻿-90.18726023,,,,,,,,,,﻿pupil,﻿400 pupils,﻿Conducted by Christian Brothers. Sisters of Charity.,,1870,﻿,﻿,﻿StLouis,StLouis
 ﻿stl.mo.0004_02,﻿school,﻿St. Patrick's,English,,,,,,,﻿St. Louis,﻿MO,,38.63591176,﻿-90.18730932,,,,,,,,,,﻿pupil,﻿800 pupils,﻿Conducted by Christian Brothers. Sisters of Charity.,,1870,﻿,﻿,﻿StLouis,StLouis
 ﻿stl.mo.0007_02,﻿school,﻿St. Vincent's,English,,,,,,,﻿St. Louis,﻿MO,,38.61330838,﻿-90.20059674,,,,,,,,,,﻿pupil,﻿350 pupils,﻿conducted by Christian Brothers,,1870,﻿,﻿,﻿StLouis,StLouis
 ﻿stl.mo.0007_02,﻿school,﻿St. Vincent's,English,,,,,,,﻿St. Louis,﻿MO,,38.61330838,﻿-90.20059674,,,,,,,,,,﻿pupil,﻿250,﻿conducted by Sisters of St. Joseph,,1870,﻿,﻿,﻿StLouis,StLouis
@@ -296,8 +296,8 @@
 ﻿stl.mo.0006_02,﻿school,﻿Holy Trinity,English,,,,,,,﻿St. Louis,﻿MO,,38.6601303,﻿-90.19846076,,,,,,,,,,﻿pupil,﻿400 pupils,﻿conducted by secular teachers and Sisters of St. Francis,,1870,﻿,﻿,﻿StLouis,StLouis
 ﻿stl.mo.0018_02,﻿school,﻿Assumption Schools,English,,,,,,,﻿St. Louis,﻿MO,,38.60141904,﻿-90.20862377,,,,,,,,,,﻿pupil,﻿350 pupils,﻿by Sisters of St. Joseph and secular teachers,,1870,﻿,﻿,﻿StLouis,StLouis
 ﻿stl.mo.0016_02,﻿school,﻿St. Malachy Schools,English,,,,,,,﻿St. Louis,﻿MO,,38.62960152,﻿-90.22180164,,,,,,,,,,﻿boy,﻿100 boys,,,1870,﻿,﻿,﻿StLouis,StLouis
-﻿stl.mo.0017_02,﻿school,﻿Annunciation School,English,﻿for girls,,,,,,﻿St. Louis,﻿MO,,38.61710718,﻿-90.19499772,,,,,,,,,,﻿girl,﻿100,﻿Sisters of Sacred Heart,,1870,﻿,﻿,﻿StLouis,StLouis
-﻿stl.mo.0017_03,﻿school,﻿Annunciation School,English,﻿for boys,,,,,,﻿St. Louis,﻿MO,,38.61710718,﻿-90.19499772,,,,,,,,,,﻿boy,﻿200,﻿Christian Brothers,,1870,﻿,﻿,﻿StLouis,StLouis
+﻿stl.mo.0017_02,﻿school,﻿Annunciation School,English,﻿for girls,,﻿for girls,,,,﻿St. Louis,﻿MO,,38.61710718,﻿-90.19499772,,,,,,,,,,﻿girl,﻿100,﻿Sisters of Sacred Heart,,1870,﻿,﻿,﻿StLouis,StLouis
+﻿stl.mo.0017_03,﻿school,﻿Annunciation School,English,﻿for boys,,﻿for boys,,,,﻿St. Louis,﻿MO,,38.61710718,﻿-90.19499772,,,,,,,,,,﻿boy,﻿200,﻿Christian Brothers,,1870,﻿,﻿,﻿StLouis,StLouis
 ﻿stl.mo.0015_02,﻿school,﻿Bohemian School,English,,,,,,,﻿St. Louis,﻿MO,,38.6104333,﻿-90.204319,,,,,,,,,,﻿pupil,﻿200 pupils,﻿conducted by secular teachers and Sisters of Notre Dame,,1870,﻿,﻿,﻿StLouis,StLouis
 ﻿stl.mo.0048_02,﻿school,﻿St. Mary's School,English,,,,,,﻿Carondelet,﻿St. Louis,﻿MO,,38.55757751,﻿-90.24909676,,,,,,,,,,﻿pupil,﻿300 pupils,﻿Christian Brothers,,1870,﻿,﻿,﻿StLouis,StLouis
 ﻿stl.mo.0048_02,﻿school,﻿St. Mary's School,English,,,,,,﻿Carondelet,﻿St. Louis,﻿MO,,38.55757751,﻿-90.24909676,,,,,,,,,,﻿pupil,﻿300 pupils,﻿Sisters of St. Joseph,,1870,﻿,﻿,﻿StLouis,StLouis

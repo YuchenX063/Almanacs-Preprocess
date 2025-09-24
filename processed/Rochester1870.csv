@@ -22,7 +22,7 @@
 ﻿roc.ny.0017,﻿church,﻿Assumption,English,,,,﻿Monroe County,﻿Monroe County,﻿Scottsville,﻿Scottsville,﻿NY,,43.0258957,-77.7452826,,,,﻿tho_a_maher_001,﻿Rev.,﻿Thomas A. Maher,,,,,,,,1870,﻿,﻿,﻿Rochester,Rochester
 ﻿roc.ny.0018,﻿church,﻿St. Patrick's,English,,,,﻿Monroe County,﻿Monroe County,﻿Mumfordville,﻿Mumford,﻿NY,,42.9766534,-77.85577109,,,,﻿tho_a_maher_001,﻿Rev.,﻿Thomas A. Maher,,,,,,,,1870,﻿,﻿,﻿Rochester,Rochester
 ﻿roc.ny.0019,﻿church,﻿St. Fechan,English,,,,﻿Monroe County,﻿Monroe County,﻿Chili,﻿Chili,﻿NY,,43.1138701,-77.755043,,,,﻿mic_purcell_001,﻿Rev.,﻿Michael Purcell,,,,,,,,1870,﻿,﻿,﻿Rochester,Rochester
-﻿roc.ny.0020,﻿church,﻿St. Paul's,English,,,,﻿Monroe County,﻿Monroe County,﻿Honeoye Falls,﻿Honeoye Falls,﻿NY,,42.9522855,-77.5902759,﻿roc.ny.0024,﻿Attended from Lima,,,,,,,,,,,,1870,﻿,﻿,﻿Rochester,Rochester
+﻿roc.ny.0020,﻿church,﻿St. Paul's,English,,﻿Mendon (town),,﻿Monroe County,﻿Monroe County,﻿Honeoye Falls,﻿Honeoye Falls,﻿NY,,42.9522855,-77.5902759,﻿roc.ny.0024,﻿Attended from Lima,,,,,,,,,,,,1870,﻿,﻿,﻿Rochester,Rochester
 ﻿roc.ny.0021,﻿church,﻿Holy Trinity,﻿German,,,,﻿Monroe County,﻿Monroe County,﻿Webster,﻿Webster,﻿NY,,43.2122851,-77.4299939,,,,,,,,,,,,,,1870,﻿,﻿,﻿Rochester,Rochester
 ﻿roc.ny.0022,﻿church,﻿St. Agnes',English,,,,﻿Livingston County,﻿Livingston County,﻿Avon,﻿Avon,﻿NY,,42.9135097,-77.745194,,,,﻿joh_l_okeefe_001,﻿Rev.,﻿John L. O'Keefe,,,,,,,,1870,﻿,﻿,﻿Rochester,Rochester
 ﻿roc.ny.0023,﻿church,﻿St. Joseph's,English,,,,﻿Livingston County,﻿Monroe County,﻿Rush,﻿Rush,﻿NY,,42.1424234,-73.7779162,,,,﻿joh_l_okeefe_001,﻿Rev.,﻿John L. O'Keefe,,,,,,,,1870,﻿,﻿,﻿Rochester,Rochester
@@ -55,10 +55,10 @@
 ﻿roc.ny.0050,﻿church,﻿St. Mary's,English,,,,﻿Cayuga County,﻿Cayuga County,﻿Auburn,﻿Auburn,﻿NY,,42.931762,-76.5696575,,,,﻿m_j_laughlin_001,﻿Rev.,﻿M. J. Laughlin,﻿D.D.,,,,,,,1870,﻿,﻿,﻿Rochester,Rochester
 ﻿roc.ny.0051,﻿church,﻿St. Alphonsus',﻿German,,,,﻿Cayuga County,﻿Cayuga County,﻿Auburn,﻿Auburn,﻿NY,,42.9338909,-76.5555762,,,,﻿cha_vogl_001,﻿Rev.,﻿Charles Vogl,,,,,,,,1870,﻿,﻿,﻿Rochester,Rochester
 ﻿roc.ny.0052,﻿church,﻿St. Michael's,English,,,,﻿Cayuga County,﻿Cayuga County,﻿Union Springs,﻿Union Springs,﻿NY,,42.8420443,-76.6916689,,,,﻿b_mccool_001,﻿Rev.,﻿B. McCool,,,,,,,,1870,﻿,﻿,﻿Rochester,Rochester
-﻿roc.ny.0053,﻿church,﻿St. Patrick's,English,,,,﻿Cayuga County,﻿Cayuga County,﻿Aurora,﻿Aurora,﻿NY,,42.9189555,-76.7263397,,,,﻿b_mccool_001,﻿Rev.,﻿B. McCool,,,,,,,,1870,﻿,﻿,﻿Rochester,Rochester
+﻿roc.ny.0053,﻿church,﻿St. Patrick's,English,,"﻿Aurora-on-Cayuga, town of Ledyard",,﻿Cayuga County,﻿Cayuga County,﻿Aurora,﻿Aurora,﻿NY,,42.9189555,-76.7263397,,,,﻿b_mccool_001,﻿Rev.,﻿B. McCool,,,,,,,,1870,﻿,﻿,﻿Rochester,Rochester
 ﻿roc.ny.0054,﻿church,﻿St. Bernard's,English,,,,﻿Cayuga County,﻿Cayuga County,﻿Scipio,﻿Scipio,﻿NY,,42.9189555,-76.7263397,,,,﻿b_mccool_001,﻿Rev.,﻿B. McCool,,,,,,,,1870,﻿,﻿,﻿Rochester,Rochester
 ﻿roc.ny.0055,﻿church,﻿St. Mary's of the Lake,English,,,,﻿Cayuga County,﻿Cayuga County,﻿Northville,﻿King Ferry,﻿NY,,42.66515914,-76.62244067,,,,﻿b_mccool_001,﻿Rev.,﻿B. McCool,,,,,,,,1870,﻿,﻿,﻿Rochester,Rochester
-﻿roc.ny.0056,﻿church,﻿St. Joseph's,English,,,,﻿Cayuga County,﻿Cayuga County,﻿Weedsport,﻿Weedsport,﻿NY,,43.0448219,-76.5643336,,,,﻿ant_cassese_001,﻿Rev.,﻿Anthony Cassese,,,,,,,,1870,﻿,﻿,﻿Rochester,Rochester
+﻿roc.ny.0056,﻿church,﻿St. Joseph's,English,,﻿Genoa (town of),,﻿Cayuga County,﻿Cayuga County,﻿Weedsport,﻿Weedsport,﻿NY,,43.0448219,-76.5643336,,,,﻿ant_cassese_001,﻿Rev.,﻿Anthony Cassese,,,,,,,,1870,﻿,﻿,﻿Rochester,Rochester
 ﻿roc.ny.0057,﻿church,﻿St. John's,English,,,,﻿Cayuga County,﻿Cayuga County,﻿Port Byron,﻿Port Byron,﻿NY,,43.0348698,-76.6262903,,,,﻿ant_cassese_001,﻿Rev.,﻿Anthony Cassese,,,,,,,,1870,﻿,﻿,﻿Rochester,Rochester
 ﻿roc.ny.0058,﻿church,﻿St. Michael's,English,,,,﻿Cayuga County,﻿Cayuga County,﻿Montezuma,﻿Montezuma,﻿NY,,42.9189555,-76.7263397,,,,﻿ant_cassese_001,﻿Rev.,﻿Anthony Cassese,,,,,,,,1870,﻿,﻿,﻿Rochester,Rochester
 ﻿roc.ny.0059,﻿church,﻿St. Michael's,English,,,,﻿Yates County,﻿Yates County,﻿Penn Yan,﻿Penn Yan,﻿NY,,42.6611614,-77.0571732,,,,﻿edw_mcgowan_001,﻿Rev.,﻿Edward McGowan,,,,,,,,1870,﻿,﻿,﻿Rochester,Rochester
@@ -94,8 +94,8 @@
 ﻿roc.ny.0002_03,﻿school,﻿St. Joseph's Male School,English,,,,,﻿Monroe County,,﻿Rochester,﻿NY,,43.15946489,-77.60711638,,,,,,,,,,﻿student,﻿468 scholars,﻿Under the charge of the Brothers of Mary,,1870,﻿,﻿,﻿Rochester,Rochester
 ﻿roc.ny.0002_02,﻿school,﻿St. Joseph's Female School,English,,,,,﻿Monroe County,,﻿Rochester,﻿NY,,43.15941233,-77.60697226,,,,,,,,,,﻿student,﻿502 scholars,﻿Under the charge of the Sisters of Notre Dame,,1870,﻿,﻿,﻿Rochester,Rochester
 ﻿roc.ny.0010_02,﻿school,﻿Most Holy Redeemer's Schools,English,,,,,﻿Monroe County,,﻿Rochester,﻿NY,,43.17609002,-77.59835519,,,,,,,,,,﻿student,﻿250 scholars,﻿Under the charge of the Sisters of Notre Dame,,1870,﻿,﻿,﻿Rochester,Rochester
-﻿roc.ny.0003_02,﻿school,﻿St. Mary's School,English,﻿select school,,,,﻿Monroe County,,﻿Rochester,,,43.17609002,-77.59835519,,,,,,,,,,﻿student,﻿54 scholars,﻿Sisters of Mercy,,1870,﻿,﻿,﻿Rochester,Rochester
-﻿roc.ny.0003_03,﻿school,﻿St. Mary's School,English,﻿parochial school,,,,﻿Monroe County,,﻿Rochester,,,43.17609002,-77.59835519,,,,,,,,,,﻿student,﻿120 scholars,﻿Sisters of Mercy,,1870,﻿,﻿,﻿Rochester,Rochester
+﻿roc.ny.0003_02,﻿school,﻿St. Mary's School,English,﻿select school,,,,,,﻿Rochester,﻿NY,,43.17609002,-77.59835519,,,,,,,,,,﻿student,﻿54 scholars,﻿Sisters of Mercy,,1870,﻿,﻿,﻿Rochester,Rochester
+﻿roc.ny.0003_03,﻿school,﻿St. Mary's School,English,﻿parochial school,,,,,,﻿Rochester,﻿NY,,43.17609002,-77.59835519,,,,,,,,,,﻿student,﻿120 scholars,﻿Sisters of Mercy,,1870,﻿,﻿,﻿Rochester,Rochester
 ﻿roc.ny.0007_02,﻿school,﻿St. Boniface's Schools,English,,,,,﻿Monroe County,,﻿Rochester,﻿NY,,43.14256422,-77.60338203,,,,,,,,,,﻿sister,﻿2 Sisters of Notre Dame,﻿Under the charge of the Sisters of Notre Dame,,1870,﻿,﻿,﻿Rochester,Rochester
 ﻿roc.ny.0007_02,﻿school,﻿St. Boniface's Schools,English,,,,,﻿Monroe County,,﻿Rochester,﻿NY,,43.14256422,-77.60338203,,,,,,,,,,﻿boy,﻿110 boys,﻿Under the charge of the Sisters of Notre Dame,,1870,﻿,﻿,﻿Rochester,Rochester
 ﻿roc.ny.0007_02,﻿school,﻿St. Boniface's Schools,English,,,,,﻿Monroe County,,﻿Rochester,﻿NY,,43.14256422,-77.60338203,,,,,,,,,,﻿girl,﻿123 girls,﻿Under the charge of the Sisters of Notre Dame,,1870,﻿,﻿,﻿Rochester,Rochester

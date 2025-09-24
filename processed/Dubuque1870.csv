@@ -120,7 +120,7 @@
 ﻿dub.ia.0112,﻿church,﻿St. Peter's,English,,,,﻿Delaware County,﻿Delaware County,﻿Petersburg,﻿Petersburg,﻿IA,,42.5549923,-91.2131917,﻿dub.ia.0111,﻿attended from New Vienna,,,,,,,,,,,,1870,﻿,﻿,﻿Dubuque,Dubuque
 ﻿dub.ia.0113,﻿church,not recorded,English,,,,﻿Winneshiek County,﻿Winneshiek County,﻿Old Mission,,﻿IA,,43.12409736,-91.90216195,,,,﻿fre_hannach_001,﻿Rev.,﻿Frederick Hannach,,,,,,,,1870,﻿,﻿,﻿Dubuque,Dubuque
 ﻿dub.ia.0114,﻿church,﻿St. Mary's,English,,,,﻿Mahaska County,﻿Mahaska County,﻿Oscaloosa,﻿Oskaloosa,﻿IA,,41.29472039,-92.6418045,,,,﻿d_j_cogan_001,﻿Rev.,﻿D. J. Cogan,,,,,,,,1870,﻿,﻿,﻿Dubuque,Dubuque
-﻿dub.ia.0115,﻿station,not recorded,English,,,,,,,,﻿IA,,41.29472039,-92.6418045,﻿dub.ia.0114,﻿attended from Oscaloosa,,,,,,,,,,,,1870,﻿,﻿,﻿Dubuque,Dubuque
+﻿dub.ia.0115,﻿station,not recorded,English,,,,,,,,,,41.29472039,-92.6418045,﻿dub.ia.0114,﻿attended from Oscaloosa,,,,,,,,,,,,1870,﻿,﻿,﻿Dubuque,Dubuque
 ﻿dub.ia.0116,﻿station,﻿new church in process of erection,English,,,,﻿Jasper County,﻿Jasper County,﻿Monroe,﻿Monroe,﻿IA,,41.5208256,-93.1038129,﻿dub.ia.0114,﻿attended from Oscaloosa,,,,,,,,,,,,1870,﻿,﻿,﻿Dubuque,Dubuque
 ﻿dub.ia.0117,﻿church,﻿St. Boniface's,English,﻿new church in process of erection,,,,,,,﻿IA,,41.5208256,-93.1038129,﻿dub.ia.0114,﻿attended from Oscaloosa,,,,,,,,,,,,1870,﻿,﻿,﻿Dubuque,Dubuque
 ﻿dub.ia.0118,﻿station,﻿St. John's,English,,,,,﻿Mahaska County,﻿Eddyville,﻿Eddyville,﻿IA,,41.1605646,-92.6313031,﻿dub.ia.0114,﻿attended from Oscaloosa,,,,,,,,,,,,1870,﻿,﻿,﻿Dubuque,Dubuque
@@ -182,8 +182,8 @@
 ﻿dub.ia.0167,"﻿academy, school",﻿St. Joseph's Academy,English,﻿Select school for girls,,,,,﻿De Witt,﻿De Witt,﻿IA,,41.8198257,-90.5396182,,,,,,,,,,﻿pupil,"﻿pupils, 30",﻿by the Sisters of Mercy.,,1870,﻿,﻿,﻿Dubuque,Dubuque
 ﻿dub.ia.0168,﻿academy,﻿Academy of the Visitation,English,,,,,,﻿Ottumwa,﻿Ottumwa,﻿IA,,41.0160293,-92.4083022,,,,,,,,,,﻿boarder,"﻿Number of boarders, 100",,,1870,﻿,﻿,﻿Dubuque,Dubuque
 ﻿dub.ia.0169,﻿school,﻿St. Agatha's Select School,English,,,,,,﻿Iowa City,﻿Iowa City,﻿IA,,41.6578257,-91.5346169,,,,,,,,,,﻿pupil,"﻿number, about 500",﻿conducted by the Sisters of Charity of the B.V.M.,,1870,﻿,﻿,﻿Dubuque,Dubuque
-﻿dub.ia.0170,﻿school,not recorded,English,﻿A Select School.,,,,,﻿Des Moines,﻿Des Moines,﻿IA,,41.5868417,-93.6249522,,,,,,,,,,﻿pupil,"﻿Number of pupils, 300",﻿conducted by the Sisters of Charity of the B.V.M,,1870,﻿,﻿,﻿Dubuque,Dubuque
-﻿dub.ia.0171,﻿school,not recorded,English,﻿A Select School.,,,,,﻿Keokuk,﻿Keokuk,﻿IA,,40.4044731,-91.3963966,,,,,,,,,,﻿pupil,﻿Number of pupils about 60,﻿conducted by the Sisters of Charity of the B.V.M,,1870,﻿,﻿,﻿Dubuque,Dubuque
+﻿dub.ia.0170,﻿school,﻿Select School,English,﻿A Select School.,,,,,﻿Des Moines,﻿Des Moines,﻿IA,,41.5868417,-93.6249522,,,,,,,,,,﻿pupil,"﻿Number of pupils, 300",﻿conducted by the Sisters of Charity of the B.V.M,,1870,﻿,﻿,﻿Dubuque,Dubuque
+﻿dub.ia.0171,﻿school,﻿Select School,English,﻿A Select School.,,,,,﻿Keokuk,﻿Keokuk,﻿IA,,40.4044731,-91.3963966,,,,,,,,,,﻿pupil,﻿Number of pupils about 60,﻿conducted by the Sisters of Charity of the B.V.M,,1870,﻿,﻿,﻿Dubuque,Dubuque
 ﻿dub.ia.0172,﻿school,﻿St. Raphael's,English,"﻿Number of schools, 2;  pupils about 240; taught by the Sisters of Charity, and three lay teachers.",,,,,﻿Dubuque,﻿Dubuque,﻿IA,,42.4951947,-90.6668325,,,,,,,,,,﻿pupil,﻿about 240,﻿Taught by the Sisters of Charity,,1870,﻿,﻿,﻿Dubuque,Dubuque
 ﻿dub.ia.0174,﻿school,﻿St. Patrick's,English,﻿Conducted by two lay teachers,,,,,﻿Dubuque,﻿Dubuque,﻿IA,,42.506691,-90.6692977,,,,,,,,,,﻿pupil,"﻿Pupils, 100",,,1870,﻿,﻿,﻿Dubuque,Dubuque
 ﻿dub.ia.0175,﻿school,﻿St. Mary's,English,﻿Conducted by lay teachers,,,,,﻿Dubuque,﻿Dubuque,﻿IA,,42.4951674,-90.6683407,,,,,,,,,,﻿pupil,"﻿Pupils, about 400",,,1870,﻿,﻿,﻿Dubuque,Dubuque

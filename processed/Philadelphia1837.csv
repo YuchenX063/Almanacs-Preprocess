@@ -54,7 +54,7 @@
 ﻿pit.pa.9003,﻿church,﻿St. Ignatius,English,,,,,,﻿Mountain Church,,﻿PA,,41.02061259,-76.85129446,,,﻿4th Sunday,﻿mic_dougherty_901,﻿Rev.,﻿M. Dougherty,,,,,,,,1837,﻿,﻿,﻿Philadelphia,Philadelphia
 ﻿pit.pa.0078,﻿church,﻿St Patrick's,English,,,,,﻿Blair County,﻿Newry,﻿Newry,﻿PA,﻿PA,40.39262199,-78.43296699,,,﻿twice a month,﻿jam_bradley_901,﻿Rev.,﻿J. Bradley,,,,,,,,1837,﻿,﻿,﻿Philadelphia,Philadelphia
 ﻿erie.pa.0131,﻿church,﻿St. Stephen of Hung,English,,﻿Oil Creek,,,,,﻿Oil City,﻿PA,,40.39262199,-78.43296699,,,﻿occasionally,﻿p_rafferty_901,﻿Rev.,﻿P. Rafferty,,,,,,,,1837,﻿,﻿,﻿Philadelphia,Philadelphia
-﻿har.pa.0021,﻿church,not recorded,English,﻿a private chapel,,,,﻿York County,﻿Paradise,﻿Paradise,﻿PA,﻿PA,40.39262199,-78.43296699,,,,﻿j_w_beschter_901,﻿Rev.,﻿J. W. Beschter,﻿S. J.,,,,,,,1837,﻿,﻿,﻿Philadelphia,Philadelphia
+﻿har.pa.0021,﻿church,not recorded,English,﻿a private chapel,,,,﻿York County,﻿Paradise,﻿Paradise,﻿PA,﻿PA,40.39262199,-78.43296699,,,,﻿joh_w_beschter_901,﻿Rev.,﻿J. W. Beschter,﻿S. J.,,,,,,,1837,﻿,﻿,﻿Philadelphia,Philadelphia
 ﻿har.pa.0034,﻿church,not recorded,English,,,,,﻿Franklin County,﻿Path Valley,﻿Willow Hill,﻿PA,﻿PA,40.2135368,-77.70637758,,,﻿once a month,﻿tho_heyden_901,﻿Rev.,﻿Thomas Heyden,,,﻿Dw. at Chambersburg,,,,,1837,﻿,﻿,﻿Philadelphia,Philadelphia
 ﻿pit.pa.0001,﻿church,﻿St. Paul's,English,,,,,﻿Allegheny County,﻿Pittsburg,﻿Pittsburg,﻿PA,﻿PA,40.44783415,-79.94997296,,,,﻿joh_oreilly_901,﻿Rev.,﻿John O'Reilly,,,,,,,,1837,﻿,﻿,﻿Philadelphia,Philadelphia
 ﻿pit.pa.0001,﻿church,﻿St. Paul's,English,,,,,﻿Allegheny County,﻿Pittsburg,﻿Pittsburg,﻿PA,,40.44783415,-79.94997296,,,,﻿pat_waters_901,﻿Rev.,﻿Patrick Waters,,,,,,,,1837,﻿,﻿,﻿Philadelphia,Philadelphia
@@ -71,9 +71,9 @@
 ﻿pit.pa.0106,﻿church,﻿St. Vincent of Paul,English,,,,,,﻿Youngstown,,﻿PA,,39.95928452,-75.60872375,,,﻿twice a month,﻿jam_a_stillinger_901,﻿Rev.,﻿J. A. Stillinger,,,,,,,,1837,﻿,﻿,﻿Philadelphia,Philadelphia
 ﻿wil.de.0001,﻿church,﻿St. Peter's,English,,,,,﻿New Castle County,﻿Wilmington,﻿Wilmington,﻿DE,﻿DE,39.744655,-75.5483909,,,,﻿pat_kenny_901,﻿Rev.,﻿Patrick Kenny,,,,,,,,1837,﻿,﻿,﻿Philadelphia,Philadelphia
 ﻿wil.de.0001,﻿church,﻿St. Peter's,English,,,,,﻿New Castle County,﻿Wilmington,﻿Wilmington,﻿DE,,39.744655,-75.5483909,,,,,﻿Rev.,﻿Patrick Reilly,,,,,,,,1837,﻿,﻿,﻿Philadelphia,Philadelphia
-﻿wil.de.0006,﻿church,﻿St. Mary's,English,,,,,﻿New Castle County,﻿Coffee Run,﻿Hockessin,﻿DE,﻿DE,39.7690811,-75.6616973,,,﻿twice a month,﻿p_kenny_901,﻿Rev.,﻿P. Kenny,,,,,,,,1837,﻿,﻿,﻿Philadelphia,Philadelphia
+﻿wil.de.0006,﻿church,﻿St. Mary's,English,,,,,﻿New Castle County,﻿Coffee Run,﻿Hockessin,﻿DE,﻿DE,39.7690811,-75.6616973,,,﻿twice a month,﻿pat_kenny_901,﻿Rev.,﻿P. Kenny,,,,,,,,1837,﻿,﻿,﻿Philadelphia,Philadelphia
 ﻿wil.de.0007,﻿church,﻿St. Peter's,English,,,,,﻿New Castle County,﻿New Castle,﻿New Castle,﻿DE,﻿DE,39.6625154,-75.5646843,,,﻿once a month,﻿pat_reilly_901,﻿Rev.,﻿Patrick Reilly,,,,,,,,1837,﻿,﻿,﻿Philadelphia,Philadelphia
-﻿new.nj.9000,﻿church,﻿B. V. of the Assumption,English,,,,,﻿Atlantic County,﻿Pleasant Mills,﻿Mullica Township,﻿NJ,﻿NJ,39.63816024,-74.64656862,,,﻿monthly,﻿r_waters_901,﻿Rev.,﻿R. Waters,,,,,,,,1837,﻿,﻿,﻿Philadelphia,Philadelphia
+﻿new.nj.9000,﻿church,﻿B. V. of the Assumption,English,,,,,﻿Atlantic County,﻿Pleasant Mills,﻿Mullica Township,﻿NJ,﻿NJ,39.63816024,-74.64656862,,,﻿monthly,﻿ric_waters_901,﻿Rev.,﻿R. Waters,,,,,,,,1837,﻿,﻿,﻿Philadelphia,Philadelphia
 ﻿new.nj.0102,﻿church,﻿St. John the Baptist,English,,,,,﻿Mercer County,﻿Trenton,﻿Trenton,﻿NJ,﻿NJ,40.19908625,-74.7582005,,,﻿twice a month,﻿ric_waters_901,﻿Rev.,﻿Richard Waters,,,,,,,,1837,﻿,﻿,﻿Philadelphia,Philadelphia
 ﻿phi.pa.0144_02,﻿seminary,﻿Theological Seminary,English,,,,,,﻿Philadelphia,,﻿PA,,40.19908625,-74.7582005,,,,,﻿Rev.,﻿Peter R. Kenrick,,,,﻿students,﻿average number of students - 8,,,1837,﻿,﻿,﻿Philadelphia,Philadelphia
 ﻿phi.pa.0144_02,﻿boarding academy,﻿St. Peter's Boarding Academy,English,,,,,,﻿Wilmington,,﻿DE,,40.19908625,-74.7582005,,,,,,,,,,﻿sisters,﻿3 sisters,﻿Sisters of Charity,,1837,﻿,﻿,﻿Philadelphia,Philadelphia
