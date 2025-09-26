@@ -25,7 +25,7 @@
 ﻿scr.pa.0020,﻿church,not recorded,English,,,,,﻿Lackawanna County,﻿Carbondale,﻿Carbondale,﻿PA,﻿PA,41.57188219,-75.5011599,,,﻿twice a month,,﻿h_fitzsimmons_901,﻿Rev.,﻿H. Fitzsimmons,,,,,,,1838,﻿,﻿,﻿Philadelphia,Philadelphia
 ﻿phi.pa.9000,﻿church,﻿St. Peter's,English,,,,,﻿Franklin County,﻿Chambersburg,﻿Chambersburg,﻿PA,﻿PA,41.57188219,-75.5011599,,,﻿twice a month,,﻿p_rafferty_901,﻿Rev.,﻿P. Rafferty,,,,,,,1838,﻿,﻿,﻿Philadelphia,Philadelphia
 ﻿erie.pa.0015,﻿church,﻿St. Francis of Assissium,English,,,,,﻿Clearfield County,﻿Clearfield,﻿Clearfield,﻿PA,﻿PA,41.01913824,-78.43912405,,,﻿once a month,,﻿oth_borgess_901,﻿Rev.,﻿Otho Borgess,,,﻿dwelling at Bellefonte,,,,1838,﻿,﻿,﻿Philadelphia,Philadelphia
-﻿har.pa.0010,﻿church,﻿St. Peter's,English,,,,,﻿Lancaster County,﻿Columbia,﻿Columbia,﻿PA,﻿PA,40.02957203,-76.50186656,,,﻿twice a month,,﻿b_keenan_901,﻿Rev.,﻿B. Keenan,,,﻿dwelling at Lancaster,,,,1838,﻿,﻿,﻿Philadelphia,Philadelphia
+﻿har.pa.0010,﻿church,﻿St. Peter's,English,,,,,﻿Lancaster County,﻿Columbia,﻿Columbia,﻿PA,﻿PA,40.02957203,-76.50186656,,,﻿twice a month,,﻿ber_keenan_901,﻿Rev.,﻿B. Keenan,,,﻿dwelling at Lancaster,,,,1838,﻿,﻿,﻿Philadelphia,Philadelphia
 ﻿har.pa.0023,﻿church,﻿Sacred Heart,English,,,,,﻿Adams County,﻿Conewago,﻿Conewago,﻿PA,﻿PA,39.81875756,-77.03791245,,,,,﻿mat_lekeu_901,﻿Rev.,﻿Matthew Lekeu,﻿S.J.,,,,,,1838,﻿,﻿,﻿Philadelphia,Philadelphia
 ﻿har.pa.0023,﻿church,﻿Sacred Heart,English,,,,,﻿Adams County,﻿Conewago,﻿Conewago,﻿PA,,39.81875756,-77.03791245,,,,,﻿mic_dougherty_901,﻿Rev.,﻿Michael Dougherty,﻿S. J.,,,,,,1838,﻿,﻿,﻿Philadelphia,Philadelphia
 ﻿har.pa.0023,﻿church,﻿Sacred Heart,English,,,,,﻿Adams County,﻿Conewago,﻿Conewago,﻿PA,,39.81875756,-77.03791245,,,,,﻿vir_barber_901,﻿Rev.,﻿Virgil Barber,﻿S. J.,,,,,,1838,﻿,﻿,﻿Philadelphia,Philadelphia
@@ -42,7 +42,7 @@
 ﻿pit.pa.0050,﻿church,﻿St. John Baptist,English,,﻿Harman's Bottom,,,﻿Somerset County,,﻿New Baltimore,﻿PA,﻿PA,39.98369025,-78.77549355,,,,,,,,,,﻿Vacant,,,,1838,﻿,﻿,﻿Philadelphia,Philadelphia
 ﻿har.pa.0001,﻿church,﻿St. Patrick's,English,,,,,﻿Dauphin County,﻿Harrisburg,﻿Harrisburg,﻿PA,﻿PA,40.26360912,-76.88657527,,,,,﻿p_maher_901,﻿Rev.,﻿P. Maher,,,,,,,1838,﻿,﻿,﻿Philadelphia,Philadelphia
 ﻿phi.pa.9002,﻿church,﻿St. Dennis,English,,,,,,﻿Hartford Township,,﻿PA,,40.26360912,-76.88657527,,,﻿second and fourth Sunday,,﻿edw_sourin_901,﻿Rev.,﻿Edward Sourin,,,,,,,1838,﻿,﻿,﻿Philadelphia,Philadelphia
-﻿pit.pa.0051,﻿church,﻿St. Joseph's,English,,,,,﻿Cambria County,﻿Hart's Sleeping Place,﻿Patton,﻿PA,﻿PA,40.63333701,-78.70814978,,,﻿once a month,,﻿p_lemke_901,﻿Rev.,﻿P. Lemke,,,,,,,1838,﻿,﻿,﻿Philadelphia,Philadelphia
+﻿pit.pa.0051,﻿church,﻿St. Joseph's,English,,,,,﻿Cambria County,﻿Hart's Sleeping Place,﻿Patton,﻿PA,﻿PA,40.63333701,-78.70814978,,,﻿once a month,,﻿pet_lemke_901,﻿Rev.,﻿P. Lemke,,,,,,,1838,﻿,﻿,﻿Philadelphia,Philadelphia
 ﻿phi.pa.0055,﻿church,﻿St. John Baptist,English,,,,,﻿Bucks County,﻿Haycock,﻿Ottsville,﻿PA,﻿PA,40.49964127,-75.20502565,,,﻿twice a month,,﻿j_moloney_901,﻿Rev.,﻿J. Moloney,,,,,,,1838,﻿,﻿,﻿Philadelphia,Philadelphia
 ﻿pit.pa.0054,﻿church,﻿Holy Trinity,English,,,,,﻿Huntingdon County,﻿Huntingdon,﻿Huntingdon,﻿PA,﻿PA,40.48607692,-78.01301671,,,﻿occasionally,,﻿jam_bradley_901,﻿Rev.,﻿James Bradley,,,,,,,1838,﻿,﻿,﻿Philadelphia,Philadelphia
 ﻿pit.pa.0058,﻿church,﻿St. John Gualbertus,English,,,,,,﻿Johnstown,,﻿PA,,40.48607692,-78.01301671,,,﻿monthly,,﻿pet_lemke_901,﻿Rev.,﻿Peter Lemke,,,,,,,1838,﻿,﻿,﻿Philadelphia,Philadelphia
@@ -56,10 +56,10 @@
 ﻿cle.oh.9001,﻿church,not recorded,English,,,,,,﻿Massillon,﻿Massillon,﻿PA,﻿OH,40.02488645,-75.22006133,,,﻿once a month,,﻿nic_steinbacher_901,﻿Rev.,﻿Nicholas Steinbacher,﻿S. J.,,,,,,1838,﻿,﻿,﻿Philadelphia,Philadelphia
 ﻿cle.oh.9001,﻿church,﻿French Settlement,English,,,,,,﻿Meadville,﻿Massillon,﻿PA,,40.02488645,-75.22006133,,,﻿visited once in two months,,,,,,,,,,,1838,﻿,﻿,﻿Philadelphia,Philadelphia
 ﻿har.pa.0058,﻿church,﻿St. Joseph's,English,,,,,﻿Northumberland County,﻿Milton,﻿Milton,﻿PA,﻿PA,41.02061259,-76.85129446,,,,,﻿edw_magennis_901,﻿Rev.,﻿Edward Magennis,,,,,,,1838,﻿,﻿,﻿Philadelphia,Philadelphia
-﻿pit.pa.9003,﻿church,﻿St. Ignatius,English,,,,,,﻿Mountain Church,,﻿PA,,41.02061259,-76.85129446,,,﻿fourth Sunday,,﻿m_dougherty_901,﻿Rev.,﻿M. Dougherty,,,,,,,1838,﻿,﻿,﻿Philadelphia,Philadelphia
-﻿pit.pa.0078,﻿church,﻿St Patrick's,English,,,,,﻿Blair County,﻿Newry,﻿Newry,﻿PA,﻿PA,40.39262199,-78.43296699,,,﻿twice a month,,﻿j_bradley_901,﻿Rev.,﻿J. Bradley,,,,,,,1838,﻿,﻿,﻿Philadelphia,Philadelphia
+﻿pit.pa.9003,﻿church,﻿St. Ignatius,English,,,,,,﻿Mountain Church,,﻿PA,,41.02061259,-76.85129446,,,﻿fourth Sunday,,﻿mic_dougherty_901,﻿Rev.,﻿M. Dougherty,,,,,,,1838,﻿,﻿,﻿Philadelphia,Philadelphia
+﻿pit.pa.0078,﻿church,﻿St Patrick's,English,,,,,﻿Blair County,﻿Newry,﻿Newry,﻿PA,﻿PA,40.39262199,-78.43296699,,,﻿twice a month,,﻿jam_bradley_901,﻿Rev.,﻿J. Bradley,,,,,,,1838,﻿,﻿,﻿Philadelphia,Philadelphia
 ﻿erie.pa.0131,﻿church,﻿St. Stephen of Hung,English,,﻿Oil Creek,,,,,﻿Oil City,﻿PA,,40.39262199,-78.43296699,,,﻿once a month,,﻿wil_loughran_901,﻿Rev.,﻿William Loughran,,,,,,,1838,﻿,﻿,﻿Philadelphia,Philadelphia
-﻿har.pa.0021,﻿church,not recorded,English,﻿a private chapel,,,,﻿York County,﻿Paradise,﻿Paradise,﻿PA,﻿PA,40.39262199,-78.43296699,,,,,﻿j_w_beschter_901,﻿Rev.,﻿J. W. Beschter,﻿S. J.,,,,,,1838,﻿,﻿,﻿Philadelphia,Philadelphia
+﻿har.pa.0021,﻿church,not recorded,English,﻿a private chapel,,,,﻿York County,﻿Paradise,﻿Paradise,﻿PA,﻿PA,40.39262199,-78.43296699,,,,,﻿joh_w_beschter_901,﻿Rev.,﻿J. W. Beschter,﻿S. J.,,,,,,1838,﻿,﻿,﻿Philadelphia,Philadelphia
 ﻿har.pa.0034,﻿church,not recorded,English,,,,,﻿Franklin County,﻿Path Valley,﻿Willow Hill,﻿PA,﻿PA,40.2135368,-77.70637758,,,﻿once a month,,﻿p_rafferty_901,﻿Rev.,﻿P. Rafferty,,,﻿dwelling at Chambersburg,,,,1838,﻿,﻿,﻿Philadelphia,Philadelphia
 ﻿pit.pa.0001,﻿church,﻿St. Paul's,English,,,,,﻿Allegheny County,﻿Pittsburg,﻿Pittsburg,﻿PA,﻿PA,40.44783415,-79.94997296,,,,,﻿tho_heyden_901,﻿Rev.,﻿Thomas Heyden,,,,,,,1838,﻿,﻿,﻿Philadelphia,Philadelphia
 ﻿pit.pa.0001,﻿church,﻿St. Paul's,English,,,,,﻿Allegheny County,﻿Pittsburg,﻿Pittsburg,﻿PA,,40.44783415,-79.94997296,,,,,﻿wil_whelan_901,﻿Rev.,﻿Wiliam Whelan,,,,,,,1838,﻿,﻿,﻿Philadelphia,Philadelphia
@@ -77,8 +77,8 @@
 ﻿pit.pa.0106,﻿church,﻿St. Vincent of Paul,English,,,,,,﻿Youngstown,,﻿PA,,39.95928452,-75.60872375,,,﻿twice a month,,﻿jam_a_stillinger_901,﻿Rev.,﻿J. A. Stillinger,,,,,,,1838,﻿,﻿,﻿Philadelphia,Philadelphia
 ﻿wil.de.0001,﻿church,﻿St. Peter's,English,,,,,﻿New Castle County,﻿Wilmington,﻿Wilmington,﻿DE,﻿DE,39.744655,-75.5483909,,,,,﻿pat_kenny_901,﻿Rev.,﻿Patrick Kenny,,,,,,,1838,﻿,﻿,﻿Philadelphia,Philadelphia
 ﻿wil.de.0001,﻿church,﻿St. Peter's,English,,,,,﻿New Castle County,﻿Wilmington,﻿Wilmington,﻿DE,,39.744655,-75.5483909,,,,,,﻿Rev.,﻿Patrick Reilly,,,,,,,1838,﻿,﻿,﻿Philadelphia,Philadelphia
-﻿wil.de.0006,﻿church,﻿St. Mary's,English,,,,,﻿New Castle County,﻿Coffee Run,﻿Hockessin,﻿DE,﻿DE,39.7690811,-75.6616973,,,﻿twice a month,,﻿p_kenny_901,﻿Rev.,﻿P. Kenny,,,,,,,1838,﻿,﻿,﻿Philadelphia,Philadelphia
-﻿wil.de.0007,﻿church,﻿St. Peter's,English,,,,,﻿New Castle County,﻿New Castle,﻿New Castle,﻿DE,﻿DE,39.6625154,-75.5646843,,,﻿once a month,,﻿p_reilly_901,﻿Rev.,﻿P. Reilly,,,,,,,1838,﻿,﻿,﻿Philadelphia,Philadelphia
+﻿wil.de.0006,﻿church,﻿St. Mary's,English,,,,,﻿New Castle County,﻿Coffee Run,﻿Hockessin,﻿DE,﻿DE,39.7690811,-75.6616973,,,﻿twice a month,,﻿pat_kenny_901,﻿Rev.,﻿P. Kenny,,,,,,,1838,﻿,﻿,﻿Philadelphia,Philadelphia
+﻿wil.de.0007,﻿church,﻿St. Peter's,English,,,,,﻿New Castle County,﻿New Castle,﻿New Castle,﻿DE,﻿DE,39.6625154,-75.5646843,,,﻿once a month,,﻿pat_reilly_901,﻿Rev.,﻿P. Reilly,,,,,,,1838,﻿,﻿,﻿Philadelphia,Philadelphia
 ﻿new.nj.9000,﻿church,﻿Blessed Virgin of the Assumption,English,,,,,﻿Atlantic County,﻿Pleasant Mills,﻿Mullica Township,﻿NJ,﻿NJ,39.63816024,-74.64656862,,,﻿first Sunday,,﻿edw_sourin_901,﻿Rev.,﻿Edward Sourin,,,,,,,1838,﻿,﻿,﻿Philadelphia,Philadelphia
 ﻿new.nj.0102,﻿church,﻿St. John Baptist,English,,,,,﻿Mercer County,﻿Trenton,﻿Trenton,﻿NJ,﻿NJ,40.19908625,-74.7582005,,,,,﻿dan_magorien_901,﻿Rev.,﻿Daniel Magorien,,,,,,,1838,﻿,﻿,﻿Philadelphia,Philadelphia
 ﻿phi.pa.0144_02,﻿seminary,﻿Theological Seminary,English,,,,,,﻿Philadelphia,,﻿PA,,40.19908625,-74.7582005,,,,,,﻿Very Rev.,﻿P. R. Kenrick,,﻿Superiour,,﻿students,﻿12 students,,1838,﻿,﻿,﻿Philadelphia,Philadelphia
