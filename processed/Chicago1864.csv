@@ -94,8 +94,8 @@
 ﻿chi.il.0122,﻿station,﻿St. Patrick's,English,,,,﻿Boone County,,﻿Belvidere,﻿Lombard,﻿IL,,﻿41.88435611,-88.03518729,﻿chi.il.0103,﻿Attended from Rockford,﻿twice a month,,,,,,,,,,,1864,﻿,﻿,﻿Chicago,Chicago
 ﻿chi.il.0125,﻿station,﻿Holy Cross,English,,,,﻿Kane County,,﻿Batavia,﻿Batavia,﻿IL,,﻿41.85029535,-88.30290973,﻿chi.il.0029,﻿Attended from Aurora,﻿regularly,,,,,,,,,,,1864,﻿,﻿,﻿Chicago,Chicago
 ﻿chi.il.0123,﻿station,﻿St. Mary's,English,,,,﻿Kane County,,﻿Barrens,﻿Rutland Township,﻿IL,,﻿42.08204986,-88.37009648,﻿chi.il.0045,﻿Attended from Elgin,﻿twice a month,,,,,,,,,,,1864,﻿,﻿,﻿Chicago,Chicago
-﻿chi.il.0123,﻿station,﻿St. Mary's,English,,,,﻿Cook County,,﻿Blue Island,﻿Rutland Township,﻿IL,,﻿42.08204986,-88.37009648,,"﻿Attended from St. Joseph's, Chicago",,,,,,,,,,,,1864,﻿,﻿,﻿Chicago,Chicago
-﻿chi.il.0341,﻿station,﻿St. Joseph's,English,,,,﻿Peoria County,,﻿Bromfield,,,,﻿42.08204986,-88.37009648,,﻿Attended from Peoria,,,,,,,,,,,,1864,﻿,﻿,﻿Chicago,Chicago
+﻿chi.il.0123,﻿station,﻿St. Mary's,English,,,,﻿Cook County,,﻿Blue Island,﻿Rutland Township,﻿IL,,﻿42.08204986,-88.37009648,﻿chi.il.0008,"﻿Attended from St. Joseph's, Chicago",,,,,,,,,,,,1864,﻿,﻿,﻿Chicago,Chicago
+﻿chi.il.0341,﻿station,﻿St. Joseph's,English,,,,﻿Peoria County,,﻿Bromfield,,,,﻿42.08204986,-88.37009648,﻿chi.il.0093,﻿Attended from Peoria,,,,,,,,,,,,1864,﻿,﻿,﻿Chicago,Chicago
 ﻿chi.il.0341,﻿station,﻿St. Joseph's,English,,,,﻿Peoria County,,﻿Bristol Station,,,,﻿42.08204986,-88.37009648,﻿chi.il.0029,﻿Attended from Aurora,﻿occasionally,,,,,,,,,,,1864,﻿,﻿,﻿Chicago,Chicago
 ﻿chi.il.0348,﻿station,﻿Immaculate Conception,English,,,,﻿Lake County,,﻿Buffalo Grove,,,,﻿42.08204986,-88.37009648,﻿chi.il.0078,﻿Attended from McHenry,﻿once a month,,,,,,,,,,,1864,﻿,﻿,﻿Chicago,Chicago
 ﻿chi.il.0136,﻿station,not recorded,English,,,,﻿Jo Daviess County,,﻿Council Hill,﻿Council Hill,﻿IL,,﻿42.48921796,-90.35213035,﻿chi.il.0052,﻿Attended from Galena,﻿occasionally,,,,,,,,,,,1864,﻿,﻿,﻿Chicago,Chicago
@@ -136,8 +136,8 @@
 ﻿chi.il.0195,﻿station,﻿St. Patrick's,English,,,,﻿Kankakee County,,﻿Momenee,﻿Momence,﻿IL,,﻿41.16385173,-87.6678462,﻿chi.il.0100,﻿Attended from Petites Isles,,,,,,,,,,,,1864,﻿,﻿,﻿Chicago,Chicago
 ﻿chi.il.0195,﻿station,﻿St. Patrick's,English,,,,﻿Warren County,,﻿Monmouth,﻿Momence,﻿IL,,﻿41.16385173,-87.6678462,﻿chi.il.0054,﻿Attended from Galesburgh,﻿once a month,,,,,,,,,,,1864,﻿,﻿,﻿Chicago,Chicago
 ﻿chi.il.0194,﻿station,not recorded,English,,,,﻿McHenry County,,﻿Marengo,﻿Marengo,﻿IL,,﻿42.25798945,-88.60954979,﻿chi.il.0045,﻿Attended from Elgin,,,,,,,,,,,,1864,﻿,﻿,﻿Chicago,Chicago
-﻿chi.il.0194,﻿station,﻿St. Mary's,English,,,,﻿Stephenson County,,﻿New-Dublin,﻿Marengo,﻿IL,,﻿42.25798945,-88.60954979,,﻿Attended from Freeport,﻿regularly,,,,,,,,,,,1864,﻿,﻿,﻿Chicago,Chicago
-﻿chi.il.0198,﻿station,﻿St. Henry's,English,,,,,,﻿New-Trier,﻿New Trier Township,﻿IL,,﻿40.6331249,-89.3985283,,﻿Attended from Freeport,,,,,,,,,,,,1864,﻿,﻿,﻿Chicago,Chicago
+﻿chi.il.0194,﻿station,﻿St. Mary's,English,,,,﻿Stephenson County,,﻿New-Dublin,﻿Marengo,﻿IL,,﻿42.25798945,-88.60954979,﻿chi.il.0049,﻿Attended from Freeport,﻿regularly,,,,,,,,,,,1864,﻿,﻿,﻿Chicago,Chicago
+﻿chi.il.0198,﻿station,﻿St. Henry's,English,,,,,,﻿New-Trier,﻿New Trier Township,﻿IL,,﻿40.6331249,-89.3985283,﻿chi.il.0049,﻿Attended from Freeport,,,,,,,,,,,,1864,﻿,﻿,﻿Chicago,Chicago
 ﻿chi.il.0200,﻿station,not recorded,English,,,,,﻿Ogle County,﻿Oregon,﻿Oregon,﻿IL,,﻿42.00819355,-89.33128338,﻿chi.il.0041,﻿Attended from Dixon,,,,,,,,,,,,1864,﻿,﻿,﻿Chicago,Chicago
 ﻿chi.il.0201,﻿station,not recorded,English,,,,﻿Anderson County,﻿Henderson County,﻿Oquaka,﻿Oquawka,﻿IL,,﻿40.93671835,-90.95361988,﻿chi.il.0088,﻿Attended from Nauvoo,,,,,,,,,,,,1864,﻿,﻿,﻿Chicago,Chicago
 ﻿chi.il.0354,﻿station,not recorded,English,,,,﻿Tazewell County,,﻿Pekin,,,,﻿40.93671835,-90.95361988,﻿chi.il.0093,﻿Attended from Peoria,﻿St. Mary's,,,,,,,,,,,1864,﻿,﻿,﻿Chicago,Chicago
