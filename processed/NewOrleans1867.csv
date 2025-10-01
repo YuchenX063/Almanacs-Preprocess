@@ -32,7 +32,7 @@
 ﻿new.la.0014,﻿church,﻿St. Teresa's,English,,,,,,﻿New Orleans,﻿New Orleans,﻿LA,,﻿29.9510658,-90.0715323,,,,﻿m_faure_001,﻿Rev.,﻿M. Faure,,﻿Assistant,,,,,,1867,﻿,﻿,﻿NewOrleans,NewOrleans
 ﻿new.la.0014,﻿church,﻿St. Teresa's,English,,,,,,﻿New Orleans,﻿New Orleans,﻿LA,,﻿29.9510658,-90.0715323,,,,﻿m_holton_001,﻿Rev.,﻿M. Holton,,﻿Assistant,,,,,,1867,﻿,﻿,﻿NewOrleans,NewOrleans
 ﻿new.la.0015,﻿church,﻿Trinity Church,﻿German,,,,,,﻿New Orleans,﻿New Orleans,﻿LA,,﻿29.9510658,-90.0715323,,,,﻿m_schifferer_001,﻿Rev.,﻿M. Schifferer,,﻿Pastor,,,,,,1867,﻿,﻿,﻿NewOrleans,NewOrleans
-﻿new.la.0016,﻿church,﻿St. Maurice's,English,,,,,,﻿New Orleans,﻿New Orleans,﻿LA,,﻿29.9510658,-90.0715323,,,,﻿a_duval_001,﻿Rev.,﻿A. Duval,,﻿Pastor,,,,,,1867,﻿,﻿,﻿NewOrleans,NewOrleans
+﻿new.la.0016,﻿church,﻿St. Maurice's,English,,,,,,﻿New Orleans,﻿New Orleans,﻿LA,,﻿29.9510658,-90.0715323,,,,﻿aug_duval_001,﻿Rev.,﻿A. Duval,,﻿Pastor,,,,,,1867,﻿,﻿,﻿NewOrleans,NewOrleans
 ﻿new.la.0017,﻿church,﻿St. Bartholomew's,English,,﻿Algiers,,,,﻿New Orleans,﻿New Orleans,﻿LA,,﻿29.9214314,-90.0142486,,,,﻿f_dennis_001,﻿Rev.,﻿F. Dennis,﻿S.M.,,,,,,,1867,﻿,﻿,﻿NewOrleans,NewOrleans
 ﻿new.la.0017,﻿church,﻿St. Bartholomew's,English,,﻿Algiers,,,,﻿New Orleans,﻿New Orleans,﻿LA,,﻿29.9214314,-90.0142486,,,,﻿f_gautherin_001,﻿Rev.,﻿F. Gautherin,﻿S.M.,,,,,,,1867,﻿,﻿,﻿NewOrleans,NewOrleans
 ﻿new.la.0017,﻿church,﻿St. Bartholomew's,English,,﻿Algiers,,,,﻿New Orleans,﻿New Orleans,﻿LA,,﻿29.9214314,-90.0142486,,,,﻿f_binsfield_001,﻿Rev.,﻿F. Binsfield,﻿S.M.,,,,,,,1867,﻿,﻿,﻿NewOrleans,NewOrleans
@@ -45,7 +45,7 @@
 ﻿new.la.0020,﻿church,﻿Notre Dame de Bon Seccours,﻿French,,,,,,﻿New Orleans,﻿New Orleans,﻿LA,,﻿29.9510658,-90.0715323,,,,﻿s_giesen_001,﻿Rev.,﻿S. Giesen,﻿C.SS.R.,﻿Assistant,,,,,,1867,﻿,﻿,﻿NewOrleans,NewOrleans
 ﻿new.la.0020,﻿church,﻿Notre Dame de Bon Seccours,﻿French,,,,,,﻿New Orleans,﻿New Orleans,﻿LA,,﻿29.9510658,-90.0715323,,,,﻿alf_de-ham_001,﻿Rev.,﻿Alf. de Ham,﻿C.SS.R.,﻿Assistant,,,,,,1867,﻿,﻿,﻿NewOrleans,NewOrleans
 ﻿new.la.0021,﻿church,﻿St. Stephen's,English,,﻿Bouligny,,,,﻿New Orleans,﻿New Orleans,﻿LA,,﻿29.921894,-90.0928728,,,,﻿a_verrina_001,﻿Rev.,﻿A. Verrina,﻿C.M.,﻿Pastor,,,,,,1867,﻿,﻿,﻿NewOrleans,NewOrleans
-﻿new.la.0021,﻿church,﻿St. Stephen's,English,,﻿Bouligny,,,,﻿New Orleans,﻿New Orleans,﻿LA,,﻿29.921894,-90.0928728,,,,﻿a_mandine_001,﻿Rev.,﻿A. Mandine,﻿C.M.,﻿Assistant,,,,,,1867,﻿,﻿,﻿NewOrleans,NewOrleans
+﻿new.la.0021,﻿church,﻿St. Stephen's,English,,﻿Bouligny,,,,﻿New Orleans,﻿New Orleans,﻿LA,,﻿29.921894,-90.0928728,,,,﻿ale_h_mandine_001,﻿Rev.,﻿A. Mandine,﻿C.M.,﻿Assistant,,,,,,1867,﻿,﻿,﻿NewOrleans,NewOrleans
 ﻿new.la.0021,﻿church,﻿St. Stephen's,English,,﻿Bouligny,,,,﻿New Orleans,﻿New Orleans,﻿LA,,﻿29.921894,-90.0928728,,,,﻿j_kelly_001,﻿Rev.,﻿J. Kelly,﻿C.M.,﻿Assistant,,,,,,1867,﻿,﻿,﻿NewOrleans,NewOrleans
 ﻿new.la.0022,﻿church,﻿St. Thomas,﻿German,,﻿Bouligny,,,,﻿New Orleans,﻿New Orleans,﻿LA,,﻿29.921894,-90.0928728,,,,﻿m_beecher_001,﻿Rev.,﻿M. Beecher,﻿C.M.,﻿Pastor,,,,,,1867,﻿,﻿,﻿NewOrleans,NewOrleans
 ﻿new.la.0023,﻿church,not recorded,English,,﻿Gretna,,,,﻿New Orleans,﻿New Orleans,﻿LA,,﻿29.9146493,-90.0539603,,,,﻿jb_bogaerts_001,﻿Rev.,﻿J.B. Bogaerts,,﻿Pastor,,,,,,1867,﻿,﻿,﻿NewOrleans,NewOrleans

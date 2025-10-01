@@ -28,7 +28,7 @@
 ﻿new.la.0014,﻿church,﻿St. Teresa's,English,,,,,,﻿New Orleans,﻿New Orleans,﻿LA,,﻿29.9510658,-90.0715323,,,,﻿m_forge_001,﻿Rev.,﻿M. Forge,,﻿Assistant,,,,,,1868,﻿,﻿,﻿NewOrleans,NewOrleans
 ﻿new.la.0014,﻿church,﻿St. Teresa's,English,,,,,,﻿New Orleans,﻿New Orleans,﻿LA,,﻿29.9510658,-90.0715323,,,,﻿m_holton_001,﻿Rev.,﻿M. Holton,,﻿Assistant,,,,,,1868,﻿,﻿,﻿NewOrleans,NewOrleans
 ﻿new.la.0015,﻿church,﻿Trinity Church,﻿German,,,,,,﻿New Orleans,﻿New Orleans,﻿LA,,﻿29.9510658,-90.0715323,,,,,,,,,,,,,,1868,﻿,﻿,﻿NewOrleans,NewOrleans
-﻿new.la.0016,﻿church,﻿St. Maurice's,English,,,,,,﻿New Orleans,﻿New Orleans,﻿LA,,﻿29.9510658,-90.0715323,,,,﻿a_duval_001,﻿Rev.,﻿A. Duval,,﻿Pastor,,,,,,1868,﻿,﻿,﻿NewOrleans,NewOrleans
+﻿new.la.0016,﻿church,﻿St. Maurice's,English,,,,,,﻿New Orleans,﻿New Orleans,﻿LA,,﻿29.9510658,-90.0715323,,,,﻿aug_duval_001,﻿Rev.,﻿A. Duval,,﻿Pastor,,,,,,1868,﻿,﻿,﻿NewOrleans,NewOrleans
 ﻿new.la.0017,﻿church,﻿St. Bartholomew's,English,,﻿Algiers,,,,﻿New Orleans,﻿New Orleans,﻿LA,,﻿29.9214314,-90.0142486,,,,﻿f_dennis_001,﻿Rev.,﻿F. Dennis,﻿S.M.,,,,,,,1868,﻿,﻿,﻿NewOrleans,NewOrleans
 ﻿new.la.0017,﻿church,﻿St. Bartholomew's,English,,﻿Algiers,,,,﻿New Orleans,﻿New Orleans,﻿LA,,﻿29.9214314,-90.0142486,,,,﻿f_gautherin_001,﻿Rev.,﻿F. Gautherin,﻿S.M.,,,,,,,1868,﻿,﻿,﻿NewOrleans,NewOrleans
 ﻿new.la.0017,﻿church,﻿St. Bartholomew's,English,,﻿Algiers,,,,﻿New Orleans,﻿New Orleans,﻿LA,,﻿29.9214314,-90.0142486,,,,﻿f_binsfield_001,﻿Rev.,﻿F. Binsfield,﻿S.M.,,,,,,,1868,﻿,﻿,﻿NewOrleans,NewOrleans
@@ -135,7 +135,7 @@
 ﻿new.la.0088,﻿college,﻿,English,,,,,,﻿New Orleans,,﻿LA,,﻿29.9508941,-90.0758356,,,,﻿b_roydhouse_001,﻿Mr.,﻿B. Roydhouse,﻿S.J.,﻿Professor,﻿teachers,﻿Brother,﻿there are 6 brothers,,,1868,﻿,﻿,﻿NewOrleans,NewOrleans
 ﻿new.la.0089,﻿college,﻿St. Charles' College,English,,,,,,﻿Grand Coteau,,﻿LA,,﻿30.419832,-92.0500929,,,,﻿fel_benausse_001,﻿Very Rev.,﻿Fel. Benausse,﻿S.J.,﻿President,,﻿Brother,﻿11 brothers,,,1868,﻿,﻿,﻿NewOrleans,NewOrleans
 ﻿new.la.0089,﻿college,﻿St. Charles' College,English,,,,,,﻿Grand Coteau,,﻿LA,,﻿30.419832,-92.0500929,,,,﻿fre_larnaudie_001,﻿Rev.,﻿Fred. Larnaudié,﻿S.J.,﻿Vice-President,,﻿Brother,﻿11 brothers,,,1868,﻿,﻿,﻿NewOrleans,NewOrleans
-﻿new.la.0089,﻿college,﻿St. Charles' College,English,,,,,,﻿Grand Coteau,,﻿LA,,﻿30.419832,-92.0500929,,,,﻿a_de-chaignon_001,﻿Rev.,﻿A. de Chaignon,﻿S.J.,﻿Chaplain,,﻿Brother,﻿11 brothers,,,1868,﻿,﻿,﻿NewOrleans,NewOrleans
+﻿new.la.0089,﻿college,﻿St. Charles' College,English,,,,,,﻿Grand Coteau,,﻿LA,,﻿30.419832,-92.0500929,,,,﻿ant_a_de-chaignon_001,﻿Rev.,﻿A. de Chaignon,﻿S.J.,﻿Chaplain,,﻿Brother,﻿11 brothers,,,1868,﻿,﻿,﻿NewOrleans,NewOrleans
 ﻿new.la.0089,﻿college,﻿St. Charles' College,English,,,,,,﻿Grand Coteau,,﻿LA,,﻿30.419832,-92.0500929,,,,﻿jos_anthonioz_001,﻿Rev.,﻿Jos. Anthonioz,﻿S.J.,﻿Treasurer,,﻿Brother,﻿11 brothers,,,1868,﻿,﻿,﻿NewOrleans,NewOrleans
 ﻿new.la.0089,﻿college,﻿St. Charles' College,English,,,,,,﻿Grand Coteau,,﻿LA,,﻿30.419832,-92.0500929,,,,﻿con_widmann_001,﻿Rev.,﻿Conrad Widmann,﻿S.J.,﻿Professor,﻿teachers,﻿Brother,﻿11 brothers,,,1868,﻿,﻿,﻿NewOrleans,NewOrleans
 ﻿new.la.0089,﻿college,﻿St. Charles' College,English,,,,,,﻿Grand Coteau,,﻿LA,,﻿30.419832,-92.0500929,,,,﻿fr_abaddie_001,﻿Rev.,﻿Fr. Abaddie,﻿S.J.,﻿Professor,﻿teachers,﻿Brother,﻿11 brothers,,,1868,﻿,﻿,﻿NewOrleans,NewOrleans
