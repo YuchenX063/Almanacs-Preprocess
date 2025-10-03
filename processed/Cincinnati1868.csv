@@ -1,0 +1,6 @@
+﻿instID,church_type,instName,language,instNote,placeName,region,county_orig,county_reg,city_orig,city_reg,state_orig,state_reg,latitude,longitude,attendingInstID,attendingChurch,attendingChurchFrequency,persID,persTitle,persName,persSuffix,persRole,persNote,memberType,member,affiliated,order,year,attendingPersID,attendingChurchNote,diocese,diocese_reg
+,﻿cathedral,﻿St. Peter's Cathedral,English,,,,,,,,,,40.4172871,-82.907123,,,,﻿j_b_purcell_002,﻿Most Rev.,﻿J. B. Purcell,﻿D.D.,,,,,,,1868,﻿,﻿,Cincinnati,Cincinnati
+,﻿cathedral,﻿St. Peter's Cathedral,English,,,,,,,,,,40.4172871,-82.907123,,,,﻿e_parcell_001,﻿Very Rev.,﻿E. Parcell,﻿V.G.,,,,,,,1868,﻿,﻿,Cincinnati,Cincinnati
+,﻿cathedral,﻿St. Peter's Cathedral,English,,,,,,,,,,40.4172871,-82.907123,,,,﻿c_h_borgess_002,﻿Rev.,﻿C. H. Borgess,,,,,,,,1868,﻿,﻿,Cincinnati,Cincinnati
+,﻿cathedral,﻿St. Peter's Cathedral,English,,,,,,,,,,40.4172871,-82.907123,,,,﻿w_j_hally_001,﻿Rev.,﻿W. J. Hally,,,,,,,,1868,﻿,﻿,Cincinnati,Cincinnati
+,﻿cathedral,﻿St. Peter's Cathedral,English,,,,,,,,,,40.4172871,-82.907123,,,,﻿ae_kirner_001,﻿Rev.,﻿Ae. Kirner,﻿D.D.,,,,,,,1868,﻿,﻿,Cincinnati,Cincinnati

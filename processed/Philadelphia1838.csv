@@ -16,7 +16,7 @@
 ﻿pit.pa.0014,﻿church,﻿SS. Peter and Paul,English,,,,,,﻿Beaver,,﻿PA,,39.97389081,-75.13848967,,,,,,﻿Rev.,﻿Wilham Loughran,,,,,,,1838,﻿,﻿,﻿Philadelphia,Philadelphia
 ﻿pit.pa.0015,﻿church,﻿St. Thomas,English,,,,,﻿Bedford County,﻿Bedford,﻿Bedford,﻿PA,﻿PA,40.01766654,-78.50151808,,,﻿once a month,,﻿jam_bradley_901,﻿Rev.,﻿James Bradley,,,﻿dwelling at Newry,,,,1838,﻿,﻿,﻿Philadelphia,Philadelphia
 ﻿har.pa.0041,﻿church,﻿St. John Evangelist,English,,,,,﻿Centre County,﻿Bellefonte,﻿Bellefonte,﻿PA,﻿PA,40.91081367,-77.77627962,,,﻿occas.,,﻿oth_borgess_901,﻿Rev.,﻿Ortho Borgess,,,,,,,1838,﻿,﻿,﻿Philadelphia,Philadelphia
-﻿pit.pa.0019,﻿church,﻿SS. Simon and Jude,English,,,,,﻿Indiana County,﻿Blairsville,﻿Blairsville,﻿PA,﻿PA,40.43263075,-79.25841066,,,﻿twice a month,,﻿jam_a_stillinger_901,﻿Rev.,﻿James A. Stillinger,,,,,,,1838,﻿,﻿,﻿Philadelphia,Philadelphia
+﻿pit.pa.0019,﻿church,﻿SS. Simon and Jude,English,,,,,﻿Indiana County,﻿Blairsville,﻿Blairsville,﻿PA,﻿PA,40.43263075,-79.25841066,,,﻿twice a month,,﻿jam_a_stillinger_001,﻿Rev.,﻿James A. Stillinger,,,,,,,1838,﻿,﻿,﻿Philadelphia,Philadelphia
 ﻿pit.pa.0026,﻿church,﻿St. Peter's,English,,,,,﻿Fayette County,﻿Brownsville,﻿Brownsville,﻿PA,﻿PA,40.0226438,-79.87755123,,,﻿monthly,,﻿mic_gallagher_902,﻿Rev.,﻿Michael Gallagher,,,﻿dwelling at Pittsburg,,,,1838,﻿,﻿,﻿Philadelphia,Philadelphia
 ﻿pit.pa.9000,﻿church,﻿St. Patrick's,English,,﻿Buffaloe Creek,,,,,﻿Freeport,﻿PA,﻿PA,40.0226438,-79.87755123,,,﻿twice a month,,﻿jos_cody_901,﻿Rev.,﻿Joseph Cody,,,,,,,1838,﻿,﻿,﻿Philadelphia,Philadelphia
 ﻿pit.pa.9001,﻿church,﻿St. Peter's,English,,,,,,﻿Butler,,﻿PA,,40.0226438,-79.87755123,,,﻿once a month,,﻿jos_cody_901,﻿Rev.,﻿Joseph Cody,,,,,,,1838,﻿,﻿,﻿Philadelphia,Philadelphia
@@ -30,7 +30,7 @@
 ﻿har.pa.0023,﻿church,﻿Sacred Heart,English,,,,,﻿Adams County,﻿Conewago,﻿Conewago,﻿PA,,39.81875756,-77.03791245,,,,,﻿mic_dougherty_901,﻿Rev.,﻿Michael Dougherty,﻿S. J.,,,,,,1838,﻿,﻿,﻿Philadelphia,Philadelphia
 ﻿har.pa.0023,﻿church,﻿Sacred Heart,English,,,,,﻿Adams County,﻿Conewago,﻿Conewago,﻿PA,,39.81875756,-77.03791245,,,,,﻿vir_barber_901,﻿Rev.,﻿Virgil Barber,﻿S. J.,,,,,,1838,﻿,﻿,﻿Philadelphia,Philadelphia
 ﻿pit.pa.9007,﻿church,﻿St. Philip Beniti,English,,﻿Cussewago Creek,,﻿Crawford County,,,,﻿PA,,39.81875756,-77.03791245,,,﻿once in two months,,﻿wil_loughran_901,﻿Rev.,﻿William Loughran,,,,,,,1838,﻿,﻿,﻿Philadelphia,Philadelphia
-﻿phi.pa.9001,﻿church,﻿Mount Carmel,English,,,,﻿Westmoreland County,,﻿Derry Township,,﻿PA,,39.81875756,-77.03791245,,,﻿occasionally,,﻿jam_a_stillinger_901,﻿Rev.,﻿James A. Stillinger,,,,,,,1838,﻿,﻿,﻿Philadelphia,Philadelphia
+﻿phi.pa.9001,﻿church,﻿Mount Carmel,English,,,,﻿Westmoreland County,,﻿Derry Township,,﻿PA,,39.81875756,-77.03791245,,,﻿occasionally,,﻿jam_a_stillinger_001,﻿Rev.,﻿James A. Stillinger,,,,,,,1838,﻿,﻿,﻿Philadelphia,Philadelphia
 ﻿phi.pa.0110,﻿church,﻿St. Bernard's,English,,,,,,﻿Easton,,﻿PA,,39.81875756,-77.03791245,,,﻿once a month,,﻿j_moloney_901,﻿Rev.,﻿J. Moloney,,,,,,,1838,﻿,﻿,﻿Philadelphia,Philadelphia
 ﻿pit.pa.0042,﻿church,﻿St. Patrick's,English,,,,,﻿Cambria County,﻿Ebbensburg,﻿Ebensburg,﻿PA,﻿PA,40.48878598,-78.7264887,,,﻿once a month,,﻿pet_lemke_901,﻿Rev.,﻿Peter Lemke,,,,,,,1838,﻿,﻿,﻿Philadelphia,Philadelphia
 ﻿har.pa.0015,﻿church,﻿St. Peter's,English,,,,,﻿Lancaster County,﻿Elizabethtown,﻿Elizabethtown,﻿PA,﻿PA,40.1500281,-76.60378334,,,﻿once a month,,﻿p_maher_901,﻿Rev.,﻿P. Maher,,,,,,,1838,﻿,﻿,﻿Philadelphia,Philadelphia
@@ -74,7 +74,7 @@
 ﻿pit.pa.0101,﻿church,not recorded,English,﻿church not dedicated,,,﻿Green County,﻿Greene County,﻿Waynesburg,﻿Waynesburg,﻿PA,﻿PA,39.89621361,-80.18363432,,,,,,,,,,,,,,1838,﻿,﻿,﻿Philadelphia,Philadelphia
 ﻿phi.pa.0070,﻿church,﻿Christ Church,English,,,,,﻿Chester County,﻿Westchester,﻿West Chester,﻿PA,﻿PA,39.95928452,-75.60872375,,,﻿third Sunday,,﻿edw_sourin_901,﻿Rev.,﻿Edward Sourin,,,﻿Dw. at Philadelphia,,,,1838,﻿,﻿,﻿Philadelphia,Philadelphia
 ﻿phi.pa.0070,﻿church,﻿Christ Church,English,,,,﻿Warren County,﻿Chester County,﻿Westchester,﻿West Chester,﻿PA,,39.95928452,-75.60872375,,,﻿occasionally,,,,,,,,,,,1838,﻿,﻿,﻿Philadelphia,Philadelphia
-﻿pit.pa.0106,﻿church,﻿St. Vincent of Paul,English,,,,,,﻿Youngstown,,﻿PA,,39.95928452,-75.60872375,,,﻿twice a month,,﻿jam_a_stillinger_901,﻿Rev.,﻿J. A. Stillinger,,,,,,,1838,﻿,﻿,﻿Philadelphia,Philadelphia
+﻿pit.pa.0106,﻿church,﻿St. Vincent of Paul,English,,,,,,﻿Youngstown,,﻿PA,,39.95928452,-75.60872375,,,﻿twice a month,,﻿jam_a_stillinger_001,﻿Rev.,﻿J. A. Stillinger,,,,,,,1838,﻿,﻿,﻿Philadelphia,Philadelphia
 ﻿wil.de.0001,﻿church,﻿St. Peter's,English,,,,,﻿New Castle County,﻿Wilmington,﻿Wilmington,﻿DE,﻿DE,39.744655,-75.5483909,,,,,﻿pat_kenny_901,﻿Rev.,﻿Patrick Kenny,,,,,,,1838,﻿,﻿,﻿Philadelphia,Philadelphia
 ﻿wil.de.0001,﻿church,﻿St. Peter's,English,,,,,﻿New Castle County,﻿Wilmington,﻿Wilmington,﻿DE,,39.744655,-75.5483909,,,,,,﻿Rev.,﻿Patrick Reilly,,,,,,,1838,﻿,﻿,﻿Philadelphia,Philadelphia
 ﻿wil.de.0006,﻿church,﻿St. Mary's,English,,,,,﻿New Castle County,﻿Coffee Run,﻿Hockessin,﻿DE,﻿DE,39.7690811,-75.6616973,,,﻿twice a month,,﻿pat_kenny_901,﻿Rev.,﻿P. Kenny,,,,,,,1838,﻿,﻿,﻿Philadelphia,Philadelphia

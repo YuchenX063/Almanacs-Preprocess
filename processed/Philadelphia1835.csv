@@ -16,8 +16,8 @@
 ﻿phi.pa.0010,﻿church,﻿St. Michael's,English,,,,,,﻿Philadelphia,﻿Philadelphia,﻿PA,﻿PA,39.97389081,-75.13848967,,,,﻿t_j_donaghue_901,﻿Rev.,﻿T. P. Donaghue,,,,,,,,1835,,﻿,﻿,﻿Philadelphia,Philadelphia
 ﻿pit.pa.0015,﻿church,﻿St. Thomas,English,,,,,﻿Bedford County,﻿Bedford,﻿Bedford,﻿PA,﻿PA,40.01766654,-78.50151808,,,﻿once a month,﻿jam_bradley_901,﻿Rev.,﻿James Bradley,,,﻿Dw. at Newry,,,﻿under the direction of the Fathers of the Society of Jesus,,1835,,﻿,﻿,﻿Philadelphia,Philadelphia
 ﻿har.pa.0041,﻿church,﻿St. John Evang.,English,,,,,﻿Centre County,﻿Bellefonte,﻿Bellefonte,﻿PA,﻿PA,40.91081367,-77.77627962,,,﻿2d Sund.,﻿pat_leavy_901,﻿Rev.,﻿Patrick Leavy,,,﻿Dw. at Lewistown,,,,,1835,,﻿,﻿,﻿Philadelphia,Philadelphia
-﻿pit.pa.0019,﻿church,﻿SS. Simon and Jude,English,,,,,﻿Indiana County,﻿Blairsville,﻿Blairsville,﻿PA,﻿PA,40.43263075,-79.25841066,,,﻿twice a month,﻿jam_a_stillinger_901,﻿Rev.,﻿James A. Stillinger,,,,,,,,1835,,﻿,﻿,﻿Philadelphia,Philadelphia
-﻿pit.pa.0026,﻿church,﻿St. Peter's,English,,,,,﻿Fayette County,﻿Brownsville,﻿Brownsville,﻿PA,﻿PA,40.0226438,-79.87755123,,,﻿four times a year,﻿j_a_stillinger_901,﻿Rev.,﻿J. A. Stillinger,,,,,,,,1835,,﻿,﻿,﻿Philadelphia,Philadelphia
+﻿pit.pa.0019,﻿church,﻿SS. Simon and Jude,English,,,,,﻿Indiana County,﻿Blairsville,﻿Blairsville,﻿PA,﻿PA,40.43263075,-79.25841066,,,﻿twice a month,﻿jam_a_stillinger_001,﻿Rev.,﻿James A. Stillinger,,,,,,,,1835,,﻿,﻿,﻿Philadelphia,Philadelphia
+﻿pit.pa.0026,﻿church,﻿St. Peter's,English,,,,,﻿Fayette County,﻿Brownsville,﻿Brownsville,﻿PA,﻿PA,40.0226438,-79.87755123,,,﻿four times a year,﻿jam_a_stillinger_001,﻿Rev.,﻿J. A. Stillinger,,,,,,,,1835,,﻿,﻿,﻿Philadelphia,Philadelphia
 ﻿pit.pa.9000,﻿church,not recorded,English,,﻿Buffaloe Creek,,,,,﻿Freeport,﻿PA,﻿PA,40.0226438,-79.87755123,,,﻿twice a month,﻿p_rafferty_901,﻿Rev.,﻿P. Rafferty,,,,,,,,1835,,﻿,﻿,﻿Philadelphia,Philadelphia
 ﻿pit.pa.9001,﻿church,﻿St. Peter's,English,,,,,﻿Butler County,﻿Butler,,﻿PA,,40.0226438,-79.87755123,,,﻿once a month,﻿p_rafferty_901,﻿Rev.,﻿P. Rafferty,,,,,,,,1835,,﻿,﻿,﻿Philadelphia,Philadelphia
 ﻿pit.pa.0029,﻿church,﻿St. Patrick's,English,,,,,﻿Indiana County,﻿Cameron's Bottom,﻿Heilwood,﻿PA,﻿PA,40.59448682,-78.91594783,,,﻿once a month,﻿ter_mcgirr_901,﻿Rev.,﻿Terrence McGirr,,,﻿Dw. at Newry,,,,,1835,,﻿,﻿,﻿Philadelphia,Philadelphia
@@ -30,7 +30,7 @@
 ﻿har.pa.0023,﻿church,﻿Sacred Heart,English,,,,,﻿Adams County,﻿Conewago,﻿Conewago,﻿PA,,39.81875756,-77.03791245,,,,﻿pau_kohlman_901,﻿Rev.,﻿Paul Kohlman,,,,,,,,1835,,﻿,﻿,﻿Philadelphia,Philadelphia
 ﻿har.pa.0023,﻿church,﻿Sacred Heart,English,,,,,﻿Adams County,﻿Conewago,﻿Conewago,﻿PA,,39.81875756,-77.03791245,,,,﻿mic_dougherty_901,﻿Rev.,﻿Michael Dougherty,,,,,,,,1835,,﻿,﻿,﻿Philadelphia,Philadelphia
 ﻿har.pa.0023,﻿church,﻿Christ Church,English,,,,,﻿Adams County,﻿Conewago,﻿Conewago,﻿PA,,39.81875756,-77.03791245,,,﻿occasionally,﻿f_m_masquelet_901,﻿Rev.,﻿F. M. Masquelet,,,,,,,,1835,,﻿,﻿,﻿Philadelphia,Philadelphia
-﻿phi.pa.9001,﻿church,not recorded,English,,,,﻿Westmoreland County,,﻿Derry Township,,﻿PA,,39.81875756,-77.03791245,,,,﻿jam_a_stillinger_901,﻿Rev.,﻿James A. Stillinger,,,﻿Dw. at Blairsville,,,,,1835,,﻿,﻿,﻿Philadelphia,Philadelphia
+﻿phi.pa.9001,﻿church,not recorded,English,,,,﻿Westmoreland County,,﻿Derry Township,,﻿PA,,39.81875756,-77.03791245,,,,﻿jam_a_stillinger_001,﻿Rev.,﻿James A. Stillinger,,,﻿Dw. at Blairsville,,,,,1835,,﻿,﻿,﻿Philadelphia,Philadelphia
 ﻿phi.pa.9001,﻿church,not recorded,English,,,,﻿Westmoreland County,,﻿Easton,,﻿PA,,39.81875756,-77.03791245,,,﻿twice a month,﻿h_herzog_901,﻿Rev.,﻿H. Herzog,,,,,,,,1835,,﻿,﻿,﻿Philadelphia,Philadelphia
 ﻿pit.pa.0042,﻿church,not recorded,English,,,,,﻿Cambria County,﻿Ebensburg,﻿Ebensburg,﻿PA,﻿PA,40.48878598,-78.7264887,,,﻿once a month,﻿jam_bradley_901,﻿Rev.,﻿James Bradley,,,,,,,,1835,,﻿,﻿,﻿Philadelphia,Philadelphia
 ﻿har.pa.0015,﻿church,﻿St. Peter's,English,,,,,﻿Lancaster County,﻿Elizabethtown,﻿Elizabethtown,﻿PA,﻿PA,40.1500281,-76.60378334,,,﻿1st Sunday,﻿mic_curran_901,﻿Rev.,﻿Michael Curran,,,﻿Dw. at Harrisburg,,,,,1835,,﻿,﻿,﻿Philadelphia,Philadelphia
@@ -66,7 +66,7 @@
 ﻿phi.pa.0043,﻿church,﻿St. Peter's,English,,,,,﻿Berks County,﻿Reading,﻿Reading,﻿PA,﻿PA,40.33004804,-75.92859369,,,,﻿bon_corvin_901,﻿Rev.,﻿B. Corvin,,,,,,,,1835,,﻿,﻿,﻿Philadelphia,Philadelphia
 ﻿phi.pa.0043,﻿church,﻿St. Peter's,English,,,,,﻿Berks County,﻿Reading,﻿Reading,﻿PA,,40.33004804,-75.92859369,,,,﻿nic_steinbacher_901,﻿Rev.,﻿Nicholas Steinbacher,,,,,,,,1835,,﻿,﻿,﻿Philadelphia,Philadelphia
 ﻿scr.pa.0081,﻿church,not recorded,English,,,,,﻿Susquehanna County,﻿Silver Lake,﻿Brackney,﻿PA,﻿PA,41.96504028,-75.95388103,,,,,,,,,﻿Vacant,,,,,1835,,﻿,﻿,﻿Philadelphia,Philadelphia
-﻿pit.pa.9004,﻿church,﻿St. Francis,English,,,,,﻿Westmoreland County,﻿Sportsman's Hall,﻿Latrobe,﻿PA,,41.96504028,-75.95388103,,,﻿twice a month,﻿j_a_stillinger_901,﻿Rev.,﻿J. A. Stillinger,,,﻿Resides at Blairsville,,,,,1835,,﻿,﻿,﻿Philadelphia,Philadelphia
+﻿pit.pa.9004,﻿church,﻿St. Francis,English,,,,,﻿Westmoreland County,﻿Sportsman's Hall,﻿Latrobe,﻿PA,,41.96504028,-75.95388103,,,﻿twice a month,﻿jam_a_stillinger_001,﻿Rev.,﻿J. A. Stillinger,,,﻿Resides at Blairsville,,,,,1835,,﻿,﻿,﻿Philadelphia,Philadelphia
 ﻿phi.pa.0129,﻿church,﻿St.Jerom's,English,,,,,,﻿Tamaqua,,﻿PA,,40.7973112,-75.9693707,,,,﻿a_wainwright_901,﻿Rev.,﻿A. Wainwright,,,,,,,,1835,,﻿,﻿,﻿Philadelphia,Philadelphia
 ﻿pit.pa.0101,﻿church,not recorded,English,﻿Church not finished,,,﻿Greene County,﻿Greene County,﻿Waynesburg,﻿Waynesburg,﻿PA,﻿PA,39.89621361,-80.18363432,,,,,,,,,,,,,,1835,,﻿,﻿,﻿Philadelphia,Philadelphia
 ﻿phi.pa.0070,﻿church,﻿Christ Church,English,,,,,﻿Chester County,﻿West-Chester,﻿West Chester,﻿PA,﻿PA,39.95928452,-75.60872375,,,﻿3d Sunday,﻿pat_reily_901,﻿Rev.,﻿Patrick Reily,,,,,,,,1835,,﻿,﻿,﻿Philadelphia,Philadelphia

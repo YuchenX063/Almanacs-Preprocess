@@ -5,9 +5,9 @@
 ﻿col.oh.0001,﻿church,﻿St. Patrick's,English,,,,,,﻿Columbus,﻿Columbus,﻿OH,,39.9688851,-82.9917114,,,,﻿g_h_ahrens_001,﻿Rev.,﻿G. H. Ahrens,,,,,,,,1870,﻿,﻿,﻿Columbus,Columbus
 ﻿col.oh.0002,﻿church,﻿Holy Cross,﻿German,,,,,,﻿Columbus,﻿Columbus,﻿OH,,39.958679,-82.9932661,,,,﻿j_b_hemsteger_001,﻿Very Rev.,﻿J. B. Hemsteger,﻿V.G.,,,,,,,1870,﻿,﻿,﻿Columbus,Columbus
 ﻿col.oh.0003,﻿church,﻿St. Mary's,﻿German,,,,,,﻿Columbus,﻿Columbus,﻿OH,,39.94868375,-82.99474152,,,,﻿f_x_specht_001,﻿Rev.,﻿F. X. Specht,,,,,,,,1870,﻿,﻿,﻿Columbus,Columbus
-﻿col.oh.0004,﻿chapel,﻿Chapel of St. Francis' Hospital,English,,,,,,﻿Columbus,﻿Columbus,﻿OH,,39.9611755,-82.9987942,,,,﻿e_hillebrand_001,﻿Rev.,﻿E. Hillebrand,,﻿Chaplain,,,,,,1870,﻿,﻿,﻿Columbus,Columbus
-﻿col.oh.0005,﻿chapel,﻿Chapel at the Convent of the Good Shepherd,English,,,,,,﻿Columbus,﻿Columbus,﻿OH,,39.9611755,-82.9987942,﻿col.oh.0001,﻿Attended from St. Patrick's,,,,,,,,,,,,1870,﻿,﻿,﻿Columbus,Columbus
-﻿col.oh.0006,﻿chapel,﻿Chapel at the Academy of St. Mary's of the Springs,English,,,,,,﻿Columbus,﻿Columbus,﻿OH,,39.9611755,-82.9987942,,,,﻿o_m_clarkson_001,﻿Rev.,﻿O. M. Clarkson,﻿O.P.,﻿Chaplain,,,,,,1870,﻿,﻿,﻿Columbus,Columbus
+﻿col.oh.0089_02,﻿chapel,﻿Chapel of St. Francis' Hospital,English,,,,,,﻿Columbus,﻿Columbus,﻿OH,,39.9611755,-82.9987942,,,,﻿e_hillebrand_001,﻿Rev.,﻿E. Hillebrand,,﻿Chaplain,,,,,,1870,﻿,﻿,﻿Columbus,Columbus
+﻿col.oh.0088_02,﻿chapel,﻿Chapel at the Convent of the Good Shepherd,English,,,,,,﻿Columbus,﻿Columbus,﻿OH,,39.9611755,-82.9987942,﻿col.oh.0001,﻿Attended from St. Patrick's,,,,,,,,,,,,1870,﻿,﻿,﻿Columbus,Columbus
+﻿col.oh.0087_02,﻿chapel,﻿Chapel at the Academy of St. Mary's of the Springs,English,,,,,,﻿Columbus,﻿Columbus,﻿OH,,39.9611755,-82.9987942,,,,﻿o_m_clarkson_001,﻿Rev.,﻿O. M. Clarkson,﻿O.P.,﻿Chaplain,,,,,,1870,﻿,﻿,﻿Columbus,Columbus
 ﻿col.oh.0007,﻿chapel,﻿Chapel of the Sisters of Notre Dame,English,,,,,,﻿Columbus,﻿Columbus,﻿OH,,39.9611755,-82.9987942,﻿col.oh.0002,﻿Attended from Holy Cross,,,﻿Sister,﻿Mary Liguori,,,,,,,,1870,﻿,﻿,﻿Columbus,Columbus
 ﻿col.oh.0008,﻿church,not recorded,English,,,,,﻿Noble County,﻿Archer's Settlement,﻿East Union,﻿OH,,39.7678504,-81.4006744,﻿col.oh.0028,﻿Attended from Enoch,,,,,,,,,,,,1870,﻿,﻿,﻿Columbus,Columbus
 ﻿col.oh.0009,﻿church,not recorded,English,,﻿Belmont Station,,,﻿Athens County,﻿Athens,﻿Athens,﻿OH,,39.3292396,-82.1012554,﻿col.oh.0010,﻿Attended from Beaver,,,,,,,,,,,,1870,﻿,﻿,﻿Columbus,Columbus
@@ -102,18 +102,18 @@
 ﻿col.oh.0088,﻿convent,﻿Convent of the Sisters of the Good Shepherd,English,,﻿near Columbus,,,,﻿Franklin,﻿Columbus,﻿OH,,39.95991892,-83.01858317,,,,,﻿Sister,﻿Gertrude,,﻿Superior,,,,,,1870,﻿,﻿,﻿Columbus,Columbus
 ﻿col.oh.0089,﻿hospital,﻿St. Francis' Hospital,English,,,,,,,﻿Columbus,﻿OH,,39.960991,-82.99150849,,,,,﻿Sister,﻿Desideria,,﻿Superior,,﻿sisters,﻿Franciscan Sisters of the Poor,﻿Franciscan Sisters of the Poor,,1870,﻿,﻿,﻿Columbus,Columbus
 ﻿col.oh.0089,﻿hospital,﻿St. Francis' Hospital,English,,,,,,,﻿Columbus,﻿OH,,39.960991,-82.99150849,,,,﻿b_hillebrand_001,﻿Rev.,﻿B. Hillebrand,,﻿Chaplain,,﻿sisters,﻿14 Sisters,﻿Franciscan Sisters of the Poor,,1870,﻿,﻿,﻿Columbus,Columbus
-﻿col.oh.0090,﻿school,﻿St. Patrick's Schools,English,﻿for boys,,,,,﻿Columbus,﻿Columbus,﻿OH,,40.4172871,-82.907123,,,,,,,,,,﻿pupils,﻿240 pupils,,,1870,﻿,﻿,﻿Columbus,Columbus
-﻿col.oh.0091,﻿school,﻿St. Patrick's Schools,English,﻿for girls,,,,,﻿Columbus,﻿Columbus,﻿OH,,39.9611755,-82.9987942,,,,,,,,,,﻿pupils,﻿230 pupils,,,1870,﻿,﻿,﻿Columbus,Columbus
-﻿col.oh.0092,﻿school,﻿Holy Cross Parish Schools,English,﻿for boys and girls,,,,,﻿Columbus,﻿Columbus,﻿OH,,39.958679,-82.9932661,,,,,,,,,,﻿pupils,﻿400 pupils,,,1870,﻿,﻿,﻿Columbus,Columbus
-﻿col.oh.0093,﻿school,﻿St. Mary's,English,﻿for boys and girls,,,,,﻿Columbus,﻿Columbus,﻿OH,,39.94868908,-82.99478272,,,,,,,,,,﻿pupils,﻿150 pupils,,,1870,﻿,﻿,﻿Columbus,Columbus
-﻿col.oh.0094,﻿school,﻿St. Thomas Aquinas' Parish Schools,English,﻿boys and girls,,,,,﻿Zanesville,﻿Zanesville,﻿OH,,39.94275267,-82.00605809,,,,,,,,,,﻿pupils,﻿350 pupils,,,1870,﻿,﻿,﻿Columbus,Columbus
-﻿col.oh.0095,﻿school,﻿St. Nicholas',English,﻿boys and girls,,,,,﻿Zanesville,﻿Zanesville,﻿OH,,39.94011197,-82.00108681,,,,,,,,,,﻿pupils,﻿100 pupils,,,1870,﻿,﻿,﻿Columbus,Columbus
-﻿col.oh.0096,﻿school,﻿St. Francis de Sales',English,﻿boys,,,,,﻿Newark,﻿Newark,﻿OH,,40.0603286,-82.4089924,,,,,,,,,,﻿sisters,﻿Sisters of Charity,﻿Sisters of Charity,,1870,﻿,﻿,﻿Columbus,Columbus
-﻿col.oh.0096,﻿school,﻿St. Francis de Sales',English,﻿boys,,,,,﻿Newark,﻿Newark,﻿OH,,40.0603286,-82.4089924,,,,,,,,,,﻿pupils,﻿200 pupils,﻿Sisters of Charity,,1870,﻿,﻿,﻿Columbus,Columbus
-﻿col.oh.0097,﻿school,﻿St. Mary's,English,,,,,,﻿Lancaster,﻿Lancaster,﻿OH,,39.71292775,-82.59886892,,,,,,,,,,﻿pupils,﻿250 pupils,,,1870,﻿,﻿,﻿Columbus,Columbus
-﻿col.oh.0098,﻿school,﻿St. Mary's,English,,,,,,﻿Delaware,﻿Delaware,﻿OH,,40.29812878,-83.06479832,,,,,,,,,,﻿pupils,﻿150 pupils,,,1870,﻿,﻿,﻿Columbus,Columbus
-﻿col.oh.0099,﻿school,﻿St. Peter's,English,,,,,,﻿Steubenville,﻿Steubenville,﻿OH,,40.36551147,-80.61279014,,,,,,,,,,﻿sisters,﻿Sisters of Charity,﻿Sisters of Charity,,1870,﻿,﻿,﻿Columbus,Columbus
-﻿col.oh.0099,﻿school,﻿St. Peter's,English,,,,,,﻿Steubenville,﻿Steubenville,﻿OH,,40.36551147,-80.61279014,,,,,,,,,,﻿pupils,﻿300 pupils,﻿Sisters of Charity,,1870,﻿,﻿,﻿Columbus,Columbus
+﻿col.oh.0001_02,﻿school,﻿St. Patrick's Schools,English,﻿for boys,,,,,﻿Columbus,﻿Columbus,﻿OH,,40.4172871,-82.907123,,,,,,,,,,﻿pupils,﻿240 pupils,,,1870,﻿,﻿,﻿Columbus,Columbus
+﻿col.oh.0001_03,﻿school,﻿St. Patrick's Schools,English,﻿for girls,,,,,﻿Columbus,﻿Columbus,﻿OH,,39.9611755,-82.9987942,,,,,,,,,,﻿pupils,﻿230 pupils,,,1870,﻿,﻿,﻿Columbus,Columbus
+﻿col.oh.0002_02,﻿school,﻿Holy Cross Parish Schools,English,﻿for boys and girls,,,,,﻿Columbus,﻿Columbus,﻿OH,,39.958679,-82.9932661,,,,,,,,,,﻿pupils,﻿400 pupils,,,1870,﻿,﻿,﻿Columbus,Columbus
+﻿col.oh.0003_02,﻿school,﻿St. Mary's,English,﻿for boys and girls,,,,,﻿Columbus,﻿Columbus,﻿OH,,39.94868908,-82.99478272,,,,,,,,,,﻿pupils,﻿150 pupils,,,1870,﻿,﻿,﻿Columbus,Columbus
+﻿col.oh.0084_02,﻿school,﻿St. Thomas Aquinas' Parish Schools,English,﻿boys and girls,,,,,﻿Zanesville,﻿Zanesville,﻿OH,,39.94275267,-82.00605809,,,,,,,,,,﻿pupils,﻿350 pupils,,,1870,﻿,﻿,﻿Columbus,Columbus
+﻿col.oh.0085_02,﻿school,﻿St. Nicholas',English,﻿boys and girls,,,,,﻿Zanesville,﻿Zanesville,﻿OH,,39.94011197,-82.00108681,,,,,,,,,,﻿pupils,﻿100 pupils,,,1870,﻿,﻿,﻿Columbus,Columbus
+﻿col.oh.0056_02,﻿school,﻿St. Francis de Sales',English,﻿boys,,,,,﻿Newark,﻿Newark,﻿OH,,40.0603286,-82.4089924,,,,,,,,,,﻿sisters,﻿Sisters of Charity,﻿Sisters of Charity,,1870,﻿,﻿,﻿Columbus,Columbus
+﻿col.oh.0056_02,﻿school,﻿St. Francis de Sales',English,﻿boys,,,,,﻿Newark,﻿Newark,﻿OH,,40.0603286,-82.4089924,,,,,,,,,,﻿pupils,﻿200 pupils,﻿Sisters of Charity,,1870,﻿,﻿,﻿Columbus,Columbus
+﻿col.oh.0040_02,﻿school,﻿St. Mary's,English,,,,,,﻿Lancaster,﻿Lancaster,﻿OH,,39.71292775,-82.59886892,,,,,,,,,,﻿pupils,﻿250 pupils,,,1870,﻿,﻿,﻿Columbus,Columbus
+﻿col.oh.0025_02,﻿school,﻿St. Mary's,English,,,,,,﻿Delaware,﻿Delaware,﻿OH,,40.29812878,-83.06479832,,,,,,,,,,﻿pupils,﻿150 pupils,,,1870,﻿,﻿,﻿Columbus,Columbus
+﻿col.oh.0064_02,﻿school,﻿St. Peter's,English,,,,,,﻿Steubenville,﻿Steubenville,﻿OH,,40.36551147,-80.61279014,,,,,,,,,,﻿sisters,﻿Sisters of Charity,﻿Sisters of Charity,,1870,﻿,﻿,﻿Columbus,Columbus
+﻿col.oh.0064_02,﻿school,﻿St. Peter's,English,,,,,,﻿Steubenville,﻿Steubenville,﻿OH,,40.36551147,-80.61279014,,,,,,,,,,﻿pupils,﻿300 pupils,﻿Sisters of Charity,,1870,﻿,﻿,﻿Columbus,Columbus
 ﻿col.oh.0100,﻿school,﻿St. Lawrence's,English,,,,,,﻿Ironton,﻿Ironton,﻿OH,,38.53763519,-82.68256214,,,,,,,,,,﻿pupils,﻿90 pupils,,,1870,﻿,﻿,﻿Columbus,Columbus
 ﻿col.oh.0101,﻿school,﻿St. Joseph's,English,,,,,,﻿Ironton,﻿Ironton,﻿OH,,38.52978363,-82.67757884,,,,,,,,,,﻿pupils,﻿100 pupils,,,1870,﻿,﻿,﻿Columbus,Columbus
 ﻿col.oh.0102,﻿school,﻿St. Joseph's,English,,,,,,﻿Circleville,﻿Circleville,﻿OH,,39.60047146,-82.94745204,,,,,,,,,,﻿pupils,﻿100 pupils,,,1870,﻿,﻿,﻿Columbus,Columbus
