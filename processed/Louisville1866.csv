@@ -27,9 +27,9 @@
 ﻿lou.ky.0020,﻿church,﻿St. Joseph's,English,,,,﻿Nelson,,﻿Bardstown,,﻿KY,,37.8104924,-85.4714237,,,,﻿the_de-leeuw_001,﻿Rev.,﻿Theodore De Leeuw,﻿S.J.,,,,,,,1866,﻿,﻿,﻿Louisville,Louisville
 ﻿lou.ky.0021,﻿chapel,not recorded,English,﻿new chapel building,,,,,﻿Bacon Creek,,﻿KY,,37.3786665,-85.9030233,﻿lou.ky.0027,﻿Attended from Bowling Green,,,,,,,,,,,,1866,﻿,﻿,﻿Louisville,Louisville
 ﻿lou.ky.0022,﻿church,﻿St. Augustine's,English,,,,﻿Grayson,,﻿Bear Creek,,﻿KY,,37.45036268,-86.23246168,,,,﻿j_b_vandemergel_001,﻿Rev.,﻿J. B. Vandemergel,,,,,,,,1866,﻿,﻿,﻿Louisville,Louisville
-﻿lou.ky.0023,﻿church,not recorded,English,,,,﻿Trimble,,﻿Bedford,,﻿KY,,38.592563,-85.3177344,,"﻿attended from Madison, Indiana",,,,,,,,,,,,1866,﻿,﻿,﻿Louisville,Louisville
+﻿lou.ky.0023,﻿church,not recorded,English,,,,﻿Trimble,,﻿Bedford,,﻿KY,,38.592563,-85.3177344,﻿vinc.in.0081,"﻿attended from Madison, Indiana",,,,,,,,,,,,1866,﻿,﻿,﻿Louisville,Louisville
 ﻿lou.ky.0024,﻿church,not recorded,English,,,,﻿Crittenden,,﻿Bell's Coal Mines,,﻿KY,,37.50975787,-88.0221687,﻿lou.ky.0072,"﻿Attended from the Sacred Heart, Union Co.",,,,,,,,,,,,1866,﻿,﻿,﻿Louisville,Louisville
-﻿lou.ky.0025,﻿church,not recorded,English,,,,﻿Bullitt,,﻿Belmont Furnace,,﻿KY,,37.89272591,-85.69894914,,﻿Attended from New Haven,﻿occasionally,,,,,,,,,,,1866,﻿,﻿,﻿Louisville,Louisville
+﻿lou.ky.0025,﻿church,not recorded,English,,,,﻿Bullitt,,﻿Belmont Furnace,,﻿KY,,37.89272591,-85.69894914,﻿lou.ky.0063,﻿Attended from New Haven,﻿occasionally,,,,,,,,,,,1866,﻿,﻿,﻿Louisville,Louisville
 ﻿lou.ky.0026,﻿church,﻿Immaculate Conception,English,,,,﻿Hardin,,﻿Bethlehem Convent,,﻿KY,,37.70141476,-85.99547652,,,,﻿aug_degauquier_001,﻿Rev.,﻿A. Degauquier,,﻿Chaplain and Director,,,,,,1866,﻿,﻿,﻿Louisville,Louisville
 ﻿lou.ky.0027,﻿church,﻿St. Joseph's,English,,,,﻿Warren,,﻿Bowling Green,,﻿KY,,37.0018551,-86.4471498,,,,﻿jos_de-vries_001,﻿Rev.,﻿Jos. De Vries,,,,,,,,1866,﻿,﻿,﻿Louisville,Louisville
 ﻿lou.ky.0027,﻿church,﻿St. Joseph's,English,,,,﻿Warren,,﻿Bowling Green,,﻿KY,,37.0018551,-86.4471498,,,,﻿p_j_lacoste_001,﻿Rev.,﻿P. J. Lacoste,,,,,,,,1866,﻿,﻿,﻿Louisville,Louisville
@@ -51,7 +51,7 @@
 ﻿lou.ky.0044,﻿church,not recorded,English,﻿new church of stone,,,﻿Hancock,,﻿Hawesville,,﻿KY,,37.9000554,-86.754988,,,,﻿mar_flynn_001,﻿Rev.,﻿Martin Flynn,,,,,,,,1866,﻿,﻿,﻿Louisville,Louisville
 ﻿lou.ky.0045,﻿church,not recorded,English,﻿a new brick church,,,﻿Henderson,,﻿Henderson,,﻿KY,,37.8259983,-87.5683263,﻿lou.ky.0072,﻿Attended once a month from Sacred Heart,﻿monthly,,,,,﻿resident pastor,,,,,,1866,﻿,﻿,﻿Louisville,Louisville
 ﻿lou.ky.0046,﻿church,not recorded,English,,,,﻿Fulton,,﻿Hickman,,﻿KY,,36.5711721,-89.1861791,﻿lou.ky.0080,﻿Attended from Fancy Farm,,,,,,,,,,,,1866,﻿,﻿,﻿Louisville,Louisville
-﻿lou.ky.0047,﻿church,﻿Our Lady of Mercy,English,,,,﻿La Rue,,﻿Hodgensville,,﻿KY,,37.5720226,-85.7415023,,"﻿Attended by F. De Beulder, from New Haven",﻿monthly,﻿f_de-meulder_001,﻿Rev.,﻿F. De Meulder,,﻿resident pastor,,,,,,1866,﻿,﻿,﻿Louisville,Louisville
+﻿lou.ky.0047,﻿church,﻿Our Lady of Mercy,English,,,,﻿La Rue,,﻿Hodgensville,,﻿KY,,37.5720226,-85.7415023,﻿lou.ky.0063,"﻿Attended by F. De Beulder, from New Haven",﻿monthly,﻿f_de-meulder_001,﻿Rev.,﻿F. De Meulder,,﻿resident pastor,,,,,,1866,﻿,﻿,﻿Louisville,Louisville
 ﻿lou.ky.0048,﻿church,﻿Holy Cross,English,,,,﻿Marion,,﻿Holy Cross,,﻿KY,,37.673951,-85.4469061,,,,﻿fra_wuyts_001,﻿Rev.,﻿Francis Wuyts,,,,,,,,1866,﻿,﻿,﻿Louisville,Louisville
 ﻿lou.ky.0049,﻿church,﻿Holy Mary,English,,,,﻿Marion,,﻿Holy Mary's,,﻿KY,,37.51670909,-85.2681911,,,,﻿a_a_aud_001,﻿Rev.,﻿A. A. Aud,,,,,,,,1866,﻿,﻿,﻿Louisville,Louisville
 ﻿lou.ky.0049,﻿church,﻿Holy Mary,English,,,,﻿Marion,,﻿Holy Mary's,,﻿KY,,37.51670909,-85.2681911,,,,﻿rob_a_abell_001,﻿Rev.,﻿Robert A. Abell,,,"﻿retired from the active exercise of the holy ministry in consequence of age and infirmities, resides near the church, and preaches occasionally",,,,,1866,﻿,﻿,﻿Louisville,Louisville
@@ -62,7 +62,7 @@
 ﻿lou.ky.0055,﻿church,﻿Seven Sorrows,English,,,,﻿Marion,,﻿Loretto Convent,,﻿KY,,37.6657024,-85.397317,,,,﻿fra_wuyts_001,﻿Rev.,﻿Francis Wuyts,,,,,,,,1866,﻿,﻿,﻿Louisville,Louisville
 ﻿lou.ky.0056,﻿station,not recorded,English,,,,﻿Hopkins,,﻿Madisonville,,﻿KY,,37.3281005,-87.4988882,,﻿Attended by Rev. E.J. Durbin,,﻿eli_j_durbin_001,﻿Rev.,﻿E. J. Durbin,,,,,,,,1866,﻿,﻿,﻿Louisville,Louisville
 ﻿lou.ky.0057,﻿church,﻿Holy Rosary,English,,,,﻿Washington,,﻿Manton,,﻿KY,,37.71472,-85.38528,﻿lou.ky.0089,﻿Attended from St. Rose,,,,,,,,,,,,1866,﻿,﻿,﻿Louisville,Louisville
-﻿lou.ky.0058,﻿station,not recorded,English,,,,﻿Trimble,,﻿Milton,,﻿KY,,38.7236714,-85.3694018,,"﻿Attended from Madison, Indiana",,,,,,,,,,,,1866,﻿,﻿,﻿Louisville,Louisville
+﻿lou.ky.0058,﻿station,not recorded,English,,,,﻿Trimble,,﻿Milton,,﻿KY,,38.7236714,-85.3694018,﻿vinc.in.0081,"﻿Attended from Madison, Indiana",,,,,,,,,,,,1866,﻿,﻿,﻿Louisville,Louisville
 ﻿lou.ky.0059,﻿church,not recorded,English,,,,﻿Union,,﻿Morganfield,,﻿KY,,37.68249092,-87.9166915,﻿lou.ky.0072,﻿Attended from Sacred Heart,,,,,,,,,,,,1866,﻿,﻿,﻿Louisville,Louisville
 ﻿lou.ky.0060,﻿church,﻿Guardian Angels,English,,,,﻿Breckenridge,,﻿Mount Merino,,﻿KY,,37.8961216,-86.2847116,,,﻿once a month,﻿p_mcnicholas_001,﻿Rev.,﻿P. McNicholas,,,,,,,,1866,﻿,﻿,﻿Louisville,Louisville
 ﻿lou.ky.0061,﻿church,﻿St. F. Xavier's,English,,,,﻿Bullitt,,﻿Mount Washington,,﻿KY,,38.0489592,-85.5396613,,,,﻿jam_elliott_001,﻿Rev.,﻿James Elliott,,,﻿from Fairfield,,,,,1866,﻿,﻿,﻿Louisville,Louisville

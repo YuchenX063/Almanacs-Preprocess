@@ -63,7 +63,7 @@
 ﻿col.oh.0059,﻿church,﻿Sacred Heart,English,,,,,﻿Meigs County,﻿Pomeroy,﻿Pomeroy,﻿OH,,39.02976092,-82.03717995,,,,﻿joh_kalenberg_001,﻿Rev.,﻿John Kalenberg,,,,,,,,1870,﻿,﻿,﻿Columbus,Columbus
 ﻿col.oh.0060,﻿church,﻿Holy Trinity,English,,,,,﻿Scioto County,﻿Pond Creek,﻿West Portsmouth,,,38.7584091,-83.0290644,﻿col.oh.0061,﻿Attended from Portsmouth,,,,,,,,,,,,1870,﻿,﻿,﻿Columbus,Columbus
 ﻿col.oh.0061,﻿church,﻿Church of the Nativity,English,,,,,﻿Scioto County,﻿Portsmouth,﻿Portsmouth,﻿OH,,38.861065,-82.9931607,,,,﻿f_karge_001,﻿Rev.,﻿F. Karge,,,,,,,,1870,﻿,﻿,﻿Columbus,Columbus
-﻿col.oh.0062,﻿church,﻿Holy Redeemer,English,,,,,﻿Scioto County,﻿Portsmouth,﻿Portsmouth,﻿OH,,38.7358895,-82.9863655,,,,﻿a_o_walker_001,﻿Rev.,﻿A. O. Walker,,,,,,,,1870,﻿,﻿,﻿Columbus,Columbus
+﻿col.oh.0062,﻿church,﻿Holy Redeemer,English,,,,,﻿Scioto County,﻿Portsmouth,﻿Portsmouth,﻿OH,,38.73580037,-82.98636858,,,,﻿a_o_walker_001,﻿Rev.,﻿A. O. Walker,,,,,,,,1870,﻿,﻿,﻿Columbus,Columbus
 ﻿col.oh.0063,﻿church,﻿Holy Trinity,English,,,,,﻿Perry County,﻿Somerset,﻿Somerset,﻿OH,,39.8070121,-82.2970941,,,,﻿d_h_noon_001,﻿Rev.,﻿D. H. Noon,﻿O.P.,,,,,,,1870,﻿,﻿,﻿Columbus,Columbus
 ﻿col.oh.0064,﻿church,﻿St. Peter's,English,,,,,,﻿Steubenville,﻿Steubenville,﻿OH,,40.36551147,-80.61279014,,,,﻿w_t_bigelow_001,﻿Rev.,﻿W. T. Bigelow,,,,,,,,1870,﻿,﻿,﻿Columbus,Columbus
 ﻿col.oh.0065,﻿church,﻿St. James',English,,,,,,﻿Stockport,﻿Stockport,﻿OH,,39.5484057,-81.7929122,﻿col.oh.0049,﻿Attended from Marietta,,,,,,,,,,,,1870,﻿,﻿,﻿Columbus,Columbus
@@ -114,15 +114,15 @@
 ﻿col.oh.0025_02,﻿school,﻿St. Mary's,English,,,,,,﻿Delaware,﻿Delaware,﻿OH,,40.29812878,-83.06479832,,,,,,,,,,﻿pupils,﻿150 pupils,,,1870,﻿,﻿,﻿Columbus,Columbus
 ﻿col.oh.0064_02,﻿school,﻿St. Peter's,English,,,,,,﻿Steubenville,﻿Steubenville,﻿OH,,40.36551147,-80.61279014,,,,,,,,,,﻿sisters,﻿Sisters of Charity,﻿Sisters of Charity,,1870,﻿,﻿,﻿Columbus,Columbus
 ﻿col.oh.0064_02,﻿school,﻿St. Peter's,English,,,,,,﻿Steubenville,﻿Steubenville,﻿OH,,40.36551147,-80.61279014,,,,,,,,,,﻿pupils,﻿300 pupils,﻿Sisters of Charity,,1870,﻿,﻿,﻿Columbus,Columbus
-﻿col.oh.0100,﻿school,﻿St. Lawrence's,English,,,,,,﻿Ironton,﻿Ironton,﻿OH,,38.53763519,-82.68256214,,,,,,,,,,﻿pupils,﻿90 pupils,,,1870,﻿,﻿,﻿Columbus,Columbus
-﻿col.oh.0101,﻿school,﻿St. Joseph's,English,,,,,,﻿Ironton,﻿Ironton,﻿OH,,38.52978363,-82.67757884,,,,,,,,,,﻿pupils,﻿100 pupils,,,1870,﻿,﻿,﻿Columbus,Columbus
-﻿col.oh.0102,﻿school,﻿St. Joseph's,English,,,,,,﻿Circleville,﻿Circleville,﻿OH,,39.60047146,-82.94745204,,,,,,,,,,﻿pupils,﻿100 pupils,,,1870,﻿,﻿,﻿Columbus,Columbus
-﻿col.oh.0103,﻿school,﻿Holy Redeemer,English,,,,,,﻿Portsmouth,﻿Portsmouth,﻿OH,,38.73580037,-82.98636858,,,,,,,,,,﻿pupils,﻿90 pupils,,,1870,﻿,﻿,﻿Columbus,Columbus
-﻿col.oh.0104,﻿school,﻿St. Mary's,English,,,,,,﻿Pine Grove,﻿Pine Grove,﻿OH,,38.61184718,-82.68360433,,,,,,,,,,﻿pupils,﻿75 pupils,,,1870,﻿,﻿,﻿Columbus,Columbus
-﻿col.oh.0105,﻿school,﻿St. Mary's,English,,,,,,﻿Beaver,﻿Beaver Township,﻿OH,,39.90673255,-81.22973797,,,,,,,,,,﻿pupils,﻿100 pupils,,,1870,﻿,﻿,﻿Columbus,Columbus
-﻿col.oh.0106,﻿school,﻿Sacred Heart,English,,,,,,﻿Pomeroy,﻿Pomeroy,﻿OH,,39.02976092,-82.03717995,,,,,,,,,,﻿pupils,﻿180 pupils,,,1870,﻿,﻿,﻿Columbus,Columbus
-﻿col.oh.0107,﻿school,﻿St. Joseph's,English,,,,,,﻿Canal Dover,﻿Dover,﻿OH,,40.52369464,-81.48331346,,,,,,,,,,﻿pupils,﻿75 pupils,,,1870,﻿,﻿,﻿Columbus,Columbus
+﻿col.oh.0037_02,﻿school,﻿St. Lawrence's,English,,,,,,﻿Ironton,﻿Ironton,﻿OH,,38.53763519,-82.68256214,,,,,,,,,,﻿pupils,﻿90 pupils,,,1870,﻿,﻿,﻿Columbus,Columbus
+﻿col.oh.0038_02,﻿school,﻿St. Joseph's,English,,,,,,﻿Ironton,﻿Ironton,﻿OH,,38.52978363,-82.67757884,,,,,,,,,,﻿pupils,﻿100 pupils,,,1870,﻿,﻿,﻿Columbus,Columbus
+﻿col.oh.0019_02,﻿school,﻿St. Joseph's,English,,,,,,﻿Circleville,﻿Circleville,﻿OH,,39.60047146,-82.94745204,,,,,,,,,,﻿pupils,﻿100 pupils,,,1870,﻿,﻿,﻿Columbus,Columbus
+﻿col.oh.0062_02,﻿school,﻿Holy Redeemer,English,,,,,,﻿Portsmouth,﻿Portsmouth,﻿OH,,38.73580037,-82.98636858,,,,,,,,,,﻿pupils,﻿90 pupils,,,1870,﻿,﻿,﻿Columbus,Columbus
+﻿col.oh.0058_02,﻿school,﻿St. Mary's,English,,,,,,﻿Pine Grove,﻿Pine Grove,﻿OH,,38.61184718,-82.68360433,,,,,,,,,,﻿pupils,﻿75 pupils,,,1870,﻿,﻿,﻿Columbus,Columbus
+﻿col.oh.0010_02,﻿school,﻿St. Mary's,English,,,,,,﻿Beaver,﻿Beaver Township,﻿OH,,39.90673255,-81.22973797,,,,,,,,,,﻿pupils,﻿100 pupils,,,1870,﻿,﻿,﻿Columbus,Columbus
+﻿col.oh.0059_02,﻿school,﻿Sacred Heart,English,,,,,,﻿Pomeroy,﻿Pomeroy,﻿OH,,39.02976092,-82.03717995,,,,,,,,,,﻿pupils,﻿180 pupils,,,1870,﻿,﻿,﻿Columbus,Columbus
+﻿col.oh.0015_02,﻿school,﻿St. Joseph's,English,,,,,,﻿Canal Dover,﻿Dover,﻿OH,,40.52369464,-81.48331346,,,,,,,,,,﻿pupils,﻿75 pupils,,,1870,﻿,﻿,﻿Columbus,Columbus
 ﻿col.oh.0108,﻿school,﻿St. Peter's,English,,,,﻿Tuscarawas County,,,,﻿OH,,40.52369464,-81.48331346,,,,,,,,,,﻿pupils,﻿40 pupils,,,1870,﻿,﻿,﻿Columbus,Columbus
-﻿col.oh.0109,﻿school,﻿St. Peter's,English,,,,,,﻿Lick Run,﻿Nile Township,﻿OH,,38.71168073,-83.17234727,,,,,,,,,,﻿pupils,﻿— pupils,,,1870,﻿,﻿,﻿Columbus,Columbus
-﻿col.oh.0110,﻿school,﻿St. John's,English,,,,,,﻿Miltonsburg,﻿Miltonsburg,﻿OH,,39.83721073,-81.17577083,,,,,,,,,,﻿pupils,﻿40 pupils,,,1870,﻿,﻿,﻿Columbus,Columbus
+﻿col.oh.0042_02,﻿school,﻿St. Peter's,English,,,,,,﻿Lick Run,﻿Nile Township,﻿OH,,38.71168073,-83.17234727,,,,,,,,,,﻿pupils,﻿— pupils,,,1870,﻿,﻿,﻿Columbus,Columbus
+﻿col.oh.0052_02,﻿school,﻿St. John's,English,,,,,,﻿Miltonsburg,﻿Miltonsburg,﻿OH,,39.83721073,-81.17577083,,,,,,,,,,﻿pupils,﻿40 pupils,,,1870,﻿,﻿,﻿Columbus,Columbus
 ﻿col.oh.0111,﻿school,﻿St. Joseph's,English,,,,﻿Coschocton County,,﻿Wills Creek,﻿Wills Creek,﻿OH,,39.7889388,-81.26233964,,,,,,,,,,﻿pupils,﻿40 pupils,,,1870,﻿,﻿,﻿Columbus,Columbus

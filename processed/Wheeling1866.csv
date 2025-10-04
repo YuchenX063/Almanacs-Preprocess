@@ -7,7 +7,7 @@
 ﻿whe.va.0005,﻿church,not recorded,English,,,,,﻿Washington County,﻿Abingdon,﻿Abingdon,,﻿VA,36.7098335,-81.9773482,﻿whe.va.0075,﻿Attended from Wytheville,﻿monthly,,,,,,,,,,,1866,﻿,﻿,﻿Wheeling,Wheeling
 ﻿whe.va.0007,﻿church,not recorded,English,,,,,﻿Brooke County,﻿Bethany,﻿Bethany,﻿VA,﻿WV,40.205627,-80.5567384,﻿whe.va.0070,﻿Attended from Wellsburgh,﻿monthly,,,,,,,,,,,1866,﻿,﻿,﻿Wheeling,Wheeling
 ﻿whe.va.0008,﻿church,not recorded,English,,,,﻿Upshur County,﻿Randolph County,﻿Beverly,,﻿VA,﻿WV,38.8092552,-80.0087746,﻿whe.va.0073,﻿Attended from Weston,﻿monthly,,,,,,,,,,,1866,﻿,﻿,﻿Wheeling,Wheeling
-﻿whe.va.0009,﻿church,not recorded,English,,﻿Braxton Court-House,,,﻿Braxton County,﻿Braxton Court-House,,﻿VA,﻿WV,38.7023371,-80.7214417,,,﻿attended occasionally,,,,,,,,,,,1866,﻿,﻿,﻿Wheeling,Wheeling
+﻿whe.va.0009,﻿station,not recorded,English,,﻿Braxton Court-House,,,﻿Braxton County,﻿Braxton Court-House,,﻿VA,﻿WV,38.7023371,-80.7214417,,,﻿attended occasionally,,,,,,,,,,,1866,﻿,﻿,﻿Wheeling,Wheeling
 ﻿whe.va.0010,﻿church,not recorded,English,,,,,﻿Harrison County,﻿Bridgeport,﻿Bridgeport,﻿VA,﻿WV,39.2864787,-80.2561981,﻿whe.va.0018,﻿Attended from Clarksburgh,﻿monthly,,,,,,,,,,,1866,﻿,﻿,﻿Wheeling,Wheeling
 ﻿whe.va.0011,﻿church,not recorded,English,,﻿on Tennesse line,,,,﻿Bristol,﻿Bristol,,﻿VA,36.595142,-82.1887368,﻿whe.va.0075,﻿Attended from Wytheville,,,,,,,,,,,,1866,﻿,﻿,﻿Wheeling,Wheeling
 ﻿whe.va.0012,﻿church,not recorded,English,,,,﻿Putnam County,﻿Putnam County,﻿Buffalo,﻿Buffalo,﻿VA,﻿WV,38.6175863,-81.9818042,﻿whe.va.0039,﻿Attended from Mason City,,,,,,,,,,,,1866,﻿,﻿,﻿Wheeling,Wheeling
@@ -64,10 +64,10 @@
 ﻿whe.va.0078,﻿academy,﻿Wheeling Female Academy,English,,﻿in the city,,,,﻿Wheeling,﻿Wheeling,﻿WV,,40.069444,-80.693889,,﻿Superior,,,﻿Mother,﻿Jane Frances de Chantal,,﻿Superior,,﻿pupil,"﻿Number of pupils, about 70",﻿is now in charge of the Sisters of St. Joseph,,1866,﻿,﻿,﻿Wheeling,Wheeling
 ﻿whe.va.0079,﻿school,﻿A Benevolent School for Girls,English,﻿The Orphan Girls are also in charge of the Sisters of St. Joseph,,,,,﻿Wheeling,﻿Wheeling,﻿WV,,40.0780503,-80.7270944,,,,,,,,,,﻿children,"﻿Attendance, 130 children",﻿is now in charge of the Sisters of St. Joseph,,1866,﻿,﻿,﻿Wheeling,Wheeling
 ﻿whe.va.0081,﻿hospital,not recorded,English,,,,,,﻿Wheeling,﻿Wheeling,﻿WV,,40.05909019,-80.68482122,,,,,﻿Sister,﻿Mary Immaculate Feeny,,,﻿under the subordinate charge of,,,﻿served by the Sisters of St. Joseph,,1866,﻿,﻿,﻿Wheeling,Wheeling
-﻿whe.va.0082,﻿school,﻿St. Vincent's Boys' School,English,,﻿Cathedral,,,,,﻿Wheeling,﻿WV,,40.0780503,-80.7270944,,,,,,,,,,﻿pupil,﻿100 pupils,,,1866,﻿,﻿,﻿Wheeling,Wheeling
-﻿whe.va.0083,﻿school,﻿St. Alphonsus' Boys' Schools,English,,﻿German church,,,,,,,,40.0610267,-80.7237172,,,,,,,,,,﻿pupil,﻿130 pupils,,,1866,﻿,﻿,﻿Wheeling,Wheeling
-﻿whe.va.0084,﻿school,﻿St. Alphonsus' Girls' Schools,English,,,,,,,,,,40.0610267,-80.7237172,,,,,,,,,,﻿pupil,﻿160 pupils,﻿under Sisters of St. Joseph,,1866,﻿,﻿,﻿Wheeling,Wheeling
-﻿whe.va.0085,﻿seminary,﻿St. Vincent's Seminary,English,,﻿connected with the College,,,,,,,,40.0780503,-80.7270944,,,,,,,,,,﻿young men,﻿seven young men are making their preparatory studies for the sacred ministry,,,1866,﻿,﻿,﻿Wheeling,Wheeling
+﻿whe.va.0001_02,﻿school,﻿St. Vincent's Boys' School,English,,﻿Cathedral,,,,,﻿Wheeling,﻿WV,,40.0780503,-80.7270944,,,,,,,,,,﻿pupil,﻿100 pupils,,,1866,﻿,﻿,﻿Wheeling,Wheeling
+﻿whe.va.0002_02,﻿school,﻿St. Alphonsus' Boys' Schools,English,,﻿German church,,,,,,,,40.0610267,-80.7237172,,,,,,,,,,﻿pupil,﻿130 pupils,,,1866,﻿,﻿,﻿Wheeling,Wheeling
+﻿whe.va.0002_03,﻿school,﻿St. Alphonsus' Girls' Schools,English,,,,,,,,,,40.0610267,-80.7237172,,,,,,,,,,﻿pupil,﻿160 pupils,﻿under Sisters of St. Joseph,,1866,﻿,﻿,﻿Wheeling,Wheeling
+﻿whe.va.0086_02,﻿seminary,﻿St. Vincent's Seminary,English,,﻿connected with the College,,,,,,,,40.0780503,-80.7270944,,,,,,,,,,﻿young men,﻿seven young men are making their preparatory studies for the sacred ministry,,,1866,﻿,﻿,﻿Wheeling,Wheeling
 ﻿whe.va.0086,﻿college,﻿St. Vincent's Classical and Mercantile College,English,﻿The College has just been opened,,,,,,,,,40.0780503,-80.7270944,,,,﻿ap_louage_001,﻿Rev.,﻿F. Loage,,﻿President,,﻿Assistants,﻿several of the ecclesiastical students,,,1866,﻿,﻿,﻿Wheeling,Wheeling
 ﻿whe.va.0086,﻿college,﻿St. Vincent's Classical and Mercantile College,English,﻿The College has just been opened,,,,,,,,,40.0780503,-80.7270944,,,,﻿jos_stengier_001,﻿Rev.,﻿Joseph Stengier,,﻿Professor,,﻿pupil,﻿nearly 80 pupils,,,1866,﻿,﻿,﻿Wheeling,Wheeling
 ﻿whe.va.0086,﻿college,﻿St. Vincent's Classical and Mercantile College,English,﻿The College has just been opened,,,,,,,,,40.0780503,-80.7270944,,,,﻿schnurrer_001,﻿Mr.,﻿Schnurrer,,﻿Professor,,﻿boarder,﻿about a dozen of pupils are boarders,,,1866,﻿,﻿,﻿Wheeling,Wheeling
@@ -78,7 +78,7 @@
 ﻿whe.va.0088,﻿convent,﻿Convent of the Sisters of St. Joseph,English,,﻿corner of Fifth and Quincy streets,,,,,,,,40.078681,-80.6789839,,,,,,,,,,﻿postulant,﻿4 postulants,,,1866,﻿,﻿,﻿Wheeling,Wheeling
 ﻿whe.va.0089,﻿convent,﻿Convent of the Visitation,English,,,,,,﻿Parkersburgh,,,,39.2667418,-81.5615135,,,,,﻿Mother,﻿Apollonia Digges,,﻿Superior,,﻿professed sister,﻿six professed sisters,,,1866,﻿,﻿,﻿Wheeling,Wheeling
 ﻿whe.va.0089,﻿convent,﻿Convent of the Visitation,English,,,,,,﻿Parkersburgh,,,,39.2667418,-81.5615135,,,,,,,,,,﻿novice,﻿3 novices,,,1866,﻿,﻿,﻿Wheeling,Wheeling
-﻿whe.va.0090,﻿academy,﻿Academy of the Visitation,English,,﻿connected with the convent,,,,﻿Parkersburgh,,,,39.2667418,-81.5615135,,,,,,,,,,﻿pupil,"﻿numbering about 80 pupils, some of whom are boarders",,,1866,﻿,﻿,﻿Wheeling,Wheeling
+﻿whe.va.0089_02,﻿academy,﻿Academy of the Visitation,English,,﻿connected with the convent,,,,﻿Parkersburgh,,,,39.2667418,-81.5615135,,,,,,,,,,﻿pupil,"﻿numbering about 80 pupils, some of whom are boarders",,,1866,﻿,﻿,﻿Wheeling,Wheeling
 ﻿whe.va.0091,﻿academy,﻿Classical Academy,English,,,,,,﻿Parkersburgh,,,,39.2667418,-81.5615135,,,,﻿pro_burke_001,,﻿Professor Burke,,﻿Professor,﻿in charge of,﻿pupil,﻿upwards of 70 pupils,,,1866,﻿,﻿,﻿Wheeling,Wheeling
 ﻿whe.va.0092,﻿school,﻿parish school for boys,English,﻿with quite a large attendance,,,,,﻿Parkersburgh,,,,39.2667418,-81.5615135,,,,,,,,,,,,,,1866,﻿,﻿,﻿Wheeling,Wheeling
 ﻿whe.va.0093,﻿school,﻿parish school for girls,English,﻿with quite a large attendance,,,,,﻿Parkersburgh,,,,39.2667418,-81.5615135,,,,,,,,,,,,,,1866,﻿,﻿,﻿Wheeling,Wheeling
