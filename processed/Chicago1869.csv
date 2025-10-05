@@ -253,7 +253,7 @@
 ﻿chi.il.0230,﻿station,not recorded,English,,,,﻿Lee County,﻿Lee County,﻿Willow Creek,﻿Twelvemile Corner,﻿IL,,﻿41.79528215,-88.94393024,﻿chi.il.0098,﻿Attended from Peru,,,,,,,,,,,,1869,﻿,﻿,﻿Chicago,Chicago
 ﻿chi.il.0231,﻿station,not recorded,English,,,,﻿Winnebago County,,﻿Winnebago,,﻿IL,,﻿42.26644993,-89.2397529,﻿chi.il.0103,﻿Attended from Rockford,,,,,,,,,,,,1869,﻿,﻿,﻿Chicago,Chicago
 ﻿chi.il.0356,﻿station,not recorded,English,,,,,,﻿Winfield,,,,﻿42.26644993,-89.2397529,,"﻿Attended from St. Joseph's, Chicago",,,,,,,,,,,,1869,﻿,﻿,﻿Chicago,Chicago
-﻿chi.il.0356,﻿station,﻿Jesuit Fathers,English,﻿corner of Twelfth and May streets,,,,,﻿Winfield,,,,﻿42.26644993,-89.2397529,,,,﻿arn_damen_001,﻿Rev.,﻿A. Damen,﻿S.J.,﻿Superior,,,,,,1869,﻿,﻿,﻿Chicago,Chicago
+﻿chi.il.360,﻿station,﻿Jesuit Fathers,English,﻿corner of Twelfth and May streets,,,,,,,,,﻿42.26644993,-89.2397529,,,,﻿arn_damen_001,﻿Rev.,﻿A. Damen,﻿S.J.,﻿Superior,,,,,,1869,﻿,﻿,﻿Chicago,Chicago
 ﻿chi.il.0233,﻿college,﻿St. Viateur's College,English,,,,﻿Kankakee County,﻿Kankakee County,﻿Bourbonnais,﻿Bourbonnais,﻿IL,,﻿41.15507063,-87.87014516,,,,﻿roy_001,﻿Rev. Fr.,﻿Roy,,﻿Director,,,,,,1869,﻿,﻿,﻿Chicago,Chicago
 ﻿chi.il.0234,﻿academy,﻿La Salle Academy,English,,,,﻿La Salle County,,﻿La Salle,﻿La Salle,﻿IL,,﻿41.3621503,-89.0418249,,,,,,,,,,,,﻿Conducted by the Brothers of the Christian Schools,,1869,﻿,﻿,﻿Chicago,Chicago
 ﻿chi.il.0232,﻿college,﻿St. Ignatius' College,English,"﻿now under erection at a cost of two hundred thousand dollars, will be ready for the reception of students first Monday in September, 1869.",﻿Corner of Twelfth and May streets,,,,﻿Chicago,﻿Chicago,﻿IL,,﻿41.86737613,-87.65414607,,,,,,,,,,,,﻿Under the direction of the Jesuit Fathers,,1869,﻿,﻿,﻿Chicago,Chicago
@@ -314,15 +314,15 @@
 ﻿chi.il.0359,﻿convent,﻿Sisters of St. Francis,English,,,,,,﻿Mendota,,,,﻿41.88289691,-87.65204781,,,,,﻿Sister,﻿M. Alberta,,﻿Superior,,﻿Professed Sisters,﻿2 professed sisters,,,1869,﻿,﻿,﻿Chicago,Chicago
 ﻿chi.il.0359,﻿convent,﻿Sisters of St. Francis,English,,,,,,﻿Mendota,,,,﻿41.88289691,-87.65204781,,,,,,,,,,﻿Novices,﻿1 novice,,,1869,﻿,﻿,﻿Chicago,Chicago
 ﻿chi.il.0359,﻿convent,﻿Sisters of St. Francis,English,,,,,,﻿Mendota,,,,﻿41.88289691,-87.65204781,,,,,,,,,,﻿Postulants,﻿2 postulants,,,1869,﻿,﻿,﻿Chicago,Chicago
-﻿chi.il.0359,﻿convent,﻿Sisters of St. Francis,English,,,,,,﻿Joliet,,,,﻿41.88289691,-87.65204781,,,,,﻿Sister,﻿Alfred,,﻿Superior,,﻿Professed Sisters,﻿4 professed sisters,,,1869,﻿,﻿,﻿Chicago,Chicago
-﻿chi.il.0359,﻿convent,﻿Sisters of St. Francis,English,,,,,,﻿Joliet,,,,﻿41.88289691,-87.65204781,,,,,,,,,,﻿Novices,﻿1 novice,,,1869,﻿,﻿,﻿Chicago,Chicago
+﻿chi.il.361,﻿convent,﻿Sisters of St. Francis,English,,,,,,﻿Joliet,,,,﻿41.88289691,-87.65204781,,,,,﻿Sister,﻿Alfred,,﻿Superior,,﻿Professed Sisters,﻿4 professed sisters,,,1869,﻿,﻿,﻿Chicago,Chicago
+﻿chi.il.361,﻿convent,﻿Sisters of St. Francis,English,,,,,,﻿Joliet,,,,﻿41.88289691,-87.65204781,,,,,,,,,,﻿Novices,﻿1 novice,,,1869,﻿,﻿,﻿Chicago,Chicago
 ﻿chi.il.0005_02,﻿convent,﻿Sisters of Notre Dame,English,﻿at St. Peter's Church,,,,,,,,,﻿41.88289691,-87.65204781,,,,,,,,,,﻿Professed Sisters,﻿5 professed sisters,,,1869,﻿,﻿,﻿Chicago,Chicago
 ﻿chi.il.0005_02,﻿convent,﻿Sisters of Notre Dame,English,﻿at St. Peter's Church,,,,,,,,,﻿41.88289691,-87.65204781,,,,,,,,,,﻿Postulants,﻿3 postulants,,,1869,﻿,﻿,﻿Chicago,Chicago
 ﻿chi.il.0272,﻿convent,﻿Sisters of St. Francis,English,﻿at St. Francis' Church,,,,,﻿Chicago,﻿Chicago,﻿IL,,﻿41.89673178,-87.62555666,,,,,,,,,,,,,,1869,﻿,﻿,﻿Chicago,Chicago
-﻿chi.il.0272,﻿convent,﻿Sisters of Notre Dame,English,﻿at St. Francis' Church,,,,,﻿Henry,﻿Chicago,﻿IL,,﻿41.89673178,-87.62555666,,,,,﻿Sister,﻿Mélanie,,﻿Superior,,﻿Professed Sisters,﻿2 professed sisters,,,1869,﻿,﻿,﻿Chicago,Chicago
-﻿chi.il.0272,﻿convent,﻿Sisters of Notre Dame,English,﻿at St. Francis' Church,,,,,﻿Henry,﻿Chicago,﻿IL,,﻿41.89673178,-87.62555666,,,,,,,,,,﻿Postulant,﻿1 postulant,,,1869,﻿,﻿,﻿Chicago,Chicago
-﻿chi.il.0272,﻿convent,﻿Sisters of Notre Dame,English,﻿at St. Francis' Church,,,,,﻿Kankakee,﻿Chicago,﻿IL,,﻿41.89673178,-87.62555666,,,,,﻿Sister,﻿Soeur St. Mélanie,,﻿Superior,,﻿Professed Sisters,﻿3 professed sisters,,,1869,﻿,﻿,﻿Chicago,Chicago
-﻿chi.il.0272,﻿convent,﻿Sisters of St. Dominic,English,﻿at Church of Immaculate Conception,,,,,﻿Kankakee,﻿Chicago,﻿IL,,﻿41.89673178,-87.62555666,,,,,,,,,,﻿Professed Sisters,﻿3 professed sisters,,,1869,﻿,﻿,﻿Chicago,Chicago
+﻿chi.il.362,﻿convent,﻿Sisters of Notre Dame,English,,,,,,﻿Henry,,﻿IL,,﻿41.89673178,-87.62555666,,,,,﻿Sister,﻿Mélanie,,﻿Superior,,﻿Professed Sisters,﻿2 professed sisters,,,1869,﻿,﻿,﻿Chicago,Chicago
+﻿chi.il.362,﻿convent,﻿Sisters of Notre Dame,English,,,,,,﻿Henry,,﻿IL,,﻿41.89673178,-87.62555666,,,,,,,,,,﻿Postulant,﻿1 postulant,,,1869,﻿,﻿,﻿Chicago,Chicago
+﻿chi.il.363,﻿convent,﻿Sisters of Notre Dame,English,,,,,,﻿Kankakee,,,,﻿41.89673178,-87.62555666,,,,,﻿Sister,﻿Soeur St. Mélanie,,﻿Superior,,﻿Professed Sisters,﻿3 professed sisters,,,1869,﻿,﻿,﻿Chicago,Chicago
+﻿chi.il.364,﻿convent,﻿Sisters of St. Dominic,English,﻿at Church of Immaculate Conception,,,,,,,,,﻿41.89673178,-87.62555666,,,,,,,,,,,,,,1869,﻿,﻿,﻿Chicago,Chicago
 ﻿chi.il.0282,﻿school,﻿Cathedral School,English,﻿for girls,,,,,﻿Chicago,﻿La Salle,﻿IL,,﻿41.33869046,-89.09488745,,,,,,,,,,﻿Select School,﻿90,﻿Under the Sisters of Charity,,1869,﻿,﻿,﻿Chicago,Chicago
 ﻿chi.il.0282,﻿school,﻿Cathedral School,English,﻿for girls,,,,,﻿Chicago,﻿La Salle,﻿IL,,﻿41.33869046,-89.09488745,,,,,,,,,,﻿Free,﻿230,﻿Under the Sisters of Charity,,1869,﻿,﻿,﻿Chicago,Chicago
 ﻿chi.il.0283,﻿school,﻿Cathedral School,English,﻿for boys,﻿Corner of Cass and Chicago avenues,,,,﻿Chicago,﻿Waukegan,﻿IL,,﻿42.37370147,-87.8451929,,,,,,,,,,,,﻿Under the charge of Christian Brothers,,1869,﻿,﻿,﻿Chicago,Chicago
@@ -346,7 +346,7 @@
 ﻿chi.il.0301,﻿school,﻿St. James' School,English,﻿for boys and girls,,,,,﻿Chicago,,,,﻿41.89182407,-87.63558595,,,,,,,,,,﻿Pupils,﻿250 pupils,﻿Under the Sisters of Mercy,,1869,﻿,﻿,﻿Chicago,Chicago
 ﻿chi.il.0004_02&0004_03,﻿school,﻿St. Stanislaus' and St. Aloysius' School,English,,﻿Church of the Holy Family,,,,﻿Chicago,,,,﻿41.89182407,-87.63558595,,,,,,,,,,﻿Pupils,﻿700 pupils,﻿Under the Sisters of Charity of the Blessed Virgin Mary,,1869,﻿,﻿,﻿Chicago,Chicago
 ﻿chi.il.0303,﻿school,﻿St. Francis' School,English,﻿for girls,,,,,﻿Chicago,,,,﻿41.89182407,-87.63558595,,,,,,,,,,﻿Pupils,﻿350 pupils,﻿Under the Sisters of St. Francis,,1869,﻿,﻿,﻿Chicago,Chicago
-﻿chi.il.0303,﻿school,﻿St. Francis' School,English,"﻿for boys, two schools, 120 and girls, two schools, 200",,,,,﻿Bloomington,,,,﻿41.89182407,-87.63558595,,,,,,,,,,﻿Pupils,﻿200 pupils,﻿Under the Sisters of St. Joseph,,1869,﻿,﻿,﻿Chicago,Chicago
+﻿chi.il.365,﻿school,not recorded,English,"﻿for boys, two schools, 120 and girls, two schools, 200",,,,,﻿Bloomington,,,,﻿41.89182407,-87.63558595,,,,,,,,,,﻿Pupils,﻿200 pupils,﻿Under the Sisters of St. Joseph,,1869,﻿,﻿,﻿Chicago,Chicago
 ﻿chi.il.0305,﻿school,not recorded,English,﻿for boys and girls,﻿Parochial school,,,,﻿Bourbonnais Grove,,,,﻿41.89182407,-87.63558595,,,,,,,,,,,,﻿Under the Sisters of the Congregation,,1869,﻿,﻿,﻿Chicago,Chicago
 ﻿chi.il.0306,﻿school,not recorded,﻿German,﻿for boys and girls,﻿Parochial schools,,,,﻿Freeport,,,,﻿41.89182407,-87.63558595,,,,,,,,,,﻿Pupils,﻿125 pupils,﻿Under lay teachers,,1869,﻿,﻿,﻿Chicago,Chicago
 ﻿chi.il.0307,﻿school,not recorded,﻿German,﻿for boys and girls,﻿Parochial schools,,,,﻿Galena,,,,﻿41.89182407,-87.63558595,,,,,,,,,,﻿Pupils,﻿175 pupils,﻿Under lay teachers,,1869,﻿,﻿,﻿Chicago,Chicago
