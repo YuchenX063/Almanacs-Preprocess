@@ -36,11 +36,11 @@
 ﻿chi.il.0016,﻿church,﻿St. Boniface's,English,"﻿Residence, Noble street, adjoining church",﻿Corner of Cornell and Noble streets,,,,﻿Chicago,﻿Chicago,﻿IL,,﻿41.89811073,-87.66214862,,,,﻿phi_albrecht_002,﻿Rev.,﻿Phillip Albrecht,,,,,,,,1866,﻿,﻿,﻿Chicago,Chicago
 ﻿chi.il.0017,﻿church,﻿St. Wenceslaus',English,"﻿Residence, in rear of church",﻿Corner of Desplain and Bunker streets,,,,﻿Chicago,﻿Chicago,﻿IL,,﻿41.86923997,-87.64351614,,,,,﻿Pastor,﻿-----,,,,,,,,1866,﻿,﻿,﻿Chicago,Chicago
 ﻿chi.il.0027,﻿church,﻿St. Patrick's,English,,,,﻿Lee County,﻿Lee County,﻿Amboy,﻿Amboy,﻿IL,,﻿41.7132868,-89.32813318,,,,﻿m_j_clarke_001,﻿Rev.,﻿Michael J. Clark,,,,,,,,1866,﻿,﻿,﻿Chicago,Chicago
-﻿chi.il.0027,﻿church,﻿St. Mary's,English,,,,﻿Jo Daviess County,﻿Lee County,﻿Apple River,﻿Amboy,﻿IL,,﻿41.7132868,-89.32813318,,,,﻿pet_corcoran_001,﻿Rev.,﻿Peter Corcoran,,,,,,,,1866,﻿,﻿,﻿Chicago,Chicago
+﻿chi.il.0373,﻿church,﻿St. Mary's,English,,,,﻿Jo Daviess County,,﻿Apple River,,,,﻿41.7132868,-89.32813318,,,,﻿pet_corcoran_001,﻿Rev.,﻿Peter Corcoran,,,,,,,,1866,﻿,﻿,﻿Chicago,Chicago
 ﻿chi.il.0029,﻿church,﻿Sacred Heart,English,﻿vacant,,,﻿Kane County,,﻿Aurora,﻿Aurora,﻿IL,,﻿41.7605849,-88.3200715,,,,,,,,,,,,,,1866,﻿,﻿,﻿Chicago,Chicago
 ﻿chi.il.0030,﻿church,not recorded,﻿German,,,,﻿Kane County,,﻿Aurora,﻿Aurora,﻿IL,,﻿41.76135775,-88.30320275,,,,﻿her_liermann_001,﻿Rev.,﻿Hermann Liermann,,,,,,,,1866,﻿,﻿,﻿Chicago,Chicago
 ﻿chi.il.0336,﻿church,﻿St. James',English,,,,﻿Boone County,,﻿Belvidere,,﻿IL,,﻿41.76135775,-88.30320275,,,,﻿pat_maguire_001,﻿Rev.,﻿Patrick Maguire,,,,,,,,1866,﻿,﻿,﻿Chicago,Chicago
-﻿chi.il.0336,﻿church,﻿St. Mary's,English,,,,﻿Woodford County,,﻿Black Pabridge,,﻿IL,,﻿41.76135775,-88.30320275,,,,﻿m_apte_001,﻿Rev.,﻿M. Apte,,,,,,,,1866,﻿,﻿,﻿Chicago,Chicago
+﻿chi.il.0374,﻿church,﻿St. Mary's,English,,,,﻿Woodford County,,﻿Black Pabridge,,,,﻿41.76135775,-88.30320275,,,,﻿m_apte_001,﻿Rev.,﻿M. Apte,,,,,,,,1866,﻿,﻿,﻿Chicago,Chicago
 ﻿chi.il.0031,﻿church,﻿Holy Trinity,English,,,,﻿McLean County,,﻿Bloomington,﻿Bloomington,﻿IL,,﻿40.48525023,-88.99422853,,,,﻿tho_ogara_001,﻿Rev.,﻿Thomas O'Gara,,,,,,,,1866,﻿,﻿,﻿Chicago,Chicago
 ﻿chi.il.0032,﻿church,﻿Notre Dame,English,,,,﻿Kankakee County,,﻿Bourbonnais Grove,﻿Bourbonnais,﻿IL,,﻿41.15648863,-87.87627605,,,,﻿p_beaudoin_001,﻿Rev.,﻿Pierre Beaudoin,,,,,,,,1866,﻿,﻿,﻿Chicago,Chicago
 ﻿chi.il.0036,﻿church,﻿St. Mary's,English,,,,﻿Fulton County,﻿Fulton County,﻿Canton,﻿Canton,﻿IL,,﻿40.55732454,-90.03214698,,,,﻿j_ryan_001,﻿Rev.,﻿J. Ryan,,,,,,,,1866,﻿,﻿,﻿Chicago,Chicago
@@ -61,7 +61,7 @@
 ﻿chi.il.0063,﻿church,﻿St. Patrick's,English,,,,﻿Will County,,﻿Joliet,﻿Joliet,﻿IL,,﻿41.52150743,-88.09907207,,,,﻿pat_farrelly_002,﻿Rev.,﻿Patrick Farrelly,,,,,,,,1866,﻿,﻿,﻿Chicago,Chicago
 ﻿chi.il.0064,﻿church,﻿St. John the Baptist,﻿German,,,,﻿Will County,,﻿Joliet,﻿Joliet,﻿IL,,﻿41.53119826,-88.08902764,﻿chi.il.0008,"﻿attended from St. Joseph's, Chicago",,,,,,,,,,,,1866,﻿,﻿,﻿Chicago,Chicago
 ﻿chi.il.0066,﻿church,﻿St. Rose's,English,,,,﻿Kankakee County,﻿Kankakee County,﻿Kankakee,﻿Kankakee,﻿IL,,﻿41.11951002,-87.87155827,,,,﻿jos_langlois_001,﻿Rev.,﻿Joseph Langlois,,,,,,,,1866,﻿,﻿,﻿Chicago,Chicago
-﻿chi.il.0066,﻿church,﻿St. Mary's,English,,,,﻿Peoria County,﻿Kankakee County,﻿Kickapoo,﻿Kankakee,﻿IL,,﻿41.11951002,-87.87155827,,,,﻿the_vanderpoel_002,﻿Rev.,﻿Theodore Vanderpoel,,,,,,,,1866,﻿,﻿,﻿Chicago,Chicago
+﻿chi.il.0376,﻿church,﻿St. Mary's,English,,,,﻿Peoria County,,﻿Kickapoo,,,,﻿41.11951002,-87.87155827,,,,﻿the_vanderpoel_002,﻿Rev.,﻿Theodore Vanderpoel,,,,,,,,1866,﻿,﻿,﻿Chicago,Chicago
 ﻿chi.il.0069,﻿church,﻿St. Mary's,English,,,,﻿Marshall County,﻿Marshall County,﻿Lacon,﻿Lacon,﻿IL,,﻿41.02749621,-89.40577738,,,,﻿joh_kilkenny_001,﻿Rev.,﻿John Kilkenny,,,,,,,,1866,﻿,﻿,﻿Chicago,Chicago
 ﻿chi.il.0071,﻿church,﻿St. Patrick's,English,,,,﻿La Salle County,﻿La Salle County,﻿La Salle,﻿La Salle,﻿IL,,﻿41.33178105,-89.09574784,,,,﻿mar_anthony_001,﻿Rev.,﻿Mark Anthony,﻿C.M.,,,,,,,1866,﻿,﻿,﻿Chicago,Chicago
 ﻿chi.il.0071,﻿church,﻿St. Patrick's,English,,,,﻿La Salle County,﻿La Salle County,﻿La Salle,﻿La Salle,﻿IL,,﻿41.33178105,-89.09574784,,,,﻿mic_oreilly_005,﻿Rev.,﻿Michael O'Reilly,﻿C.M.,,,,,,,1866,﻿,﻿,﻿Chicago,Chicago

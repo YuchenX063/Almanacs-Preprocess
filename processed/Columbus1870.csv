@@ -9,7 +9,7 @@
 ﻿col.oh.0088_02,﻿chapel,﻿Chapel at the Convent of the Good Shepherd,English,,,,,,﻿Columbus,﻿Columbus,﻿OH,,39.9611755,-82.9987942,﻿col.oh.0001,﻿Attended from St. Patrick's,,,,,,,,,,,,1870,﻿,﻿,﻿Columbus,Columbus
 ﻿col.oh.0087_02,﻿chapel,﻿Chapel at the Academy of St. Mary's of the Springs,English,,,,,,﻿Columbus,﻿Columbus,﻿OH,,39.9611755,-82.9987942,,,,﻿o_m_clarkson_001,﻿Rev.,﻿O. M. Clarkson,﻿O.P.,﻿Chaplain,,,,,,1870,﻿,﻿,﻿Columbus,Columbus
 ﻿col.oh.0007,﻿chapel,﻿Chapel of the Sisters of Notre Dame,English,,,,,,﻿Columbus,﻿Columbus,﻿OH,,39.9611755,-82.9987942,﻿col.oh.0002,﻿Attended from Holy Cross,,,﻿Sister,﻿Mary Liguori,,,,,,,,1870,﻿,﻿,﻿Columbus,Columbus
-﻿col.oh.0008,﻿church,not recorded,English,,,,,﻿Noble County,﻿Archer's Settlement,﻿East Union,﻿OH,,39.7678504,-81.4006744,﻿col.oh.0028,﻿Attended from Enoch,,,,,,,,,,,,1870,﻿,﻿,﻿Columbus,Columbus
+﻿col.oh.0008,﻿church,not recorded,English,,﻿Archer's Settlement,,,﻿Noble County,,﻿East Union,﻿OH,,39.7678504,-81.4006744,﻿col.oh.0028,﻿Attended from Enoch,,,,,,,,,,,,1870,﻿,﻿,﻿Columbus,Columbus
 ﻿col.oh.0009,﻿church,not recorded,English,,﻿Belmont Station,,,﻿Athens County,﻿Athens,﻿Athens,﻿OH,,39.3292396,-82.1012554,﻿col.oh.0010,﻿Attended from Beaver,,,,,,,,,,,,1870,﻿,﻿,﻿Columbus,Columbus
 ﻿col.oh.0010,﻿church,﻿St. Mary's,English,,,,,﻿Noble County,﻿Beaver,﻿Beaver Township,﻿OH,,39.90673255,-81.22973797,,,,﻿f_obrien_001,﻿Rev.,﻿F. O'Brien,,,,,,,,1870,﻿,﻿,﻿Columbus,Columbus
 ﻿col.oh.0011,﻿church,﻿St. John's,English,,﻿Belmont Station,,,﻿Belmont County,﻿Belair,﻿Bellaire,﻿OH,,40.0161843,-80.7423054,﻿col.oh.0010,﻿Attended from Beaver,,,,,,,,,,,,1870,﻿,﻿,﻿Columbus,Columbus
@@ -27,7 +27,7 @@
 ﻿col.oh.0023,﻿church,﻿St. Luke's,English,,,,,﻿Knox County,﻿Danville,﻿Danville,﻿OH,,40.4477054,-82.2603862,﻿col.oh.0055,﻿Attended from Mt. Vernon,,,,,,,,,,,,1870,﻿,﻿,﻿Columbus,Columbus
 ﻿col.oh.0024,﻿church,﻿St. Barnabas',English,,,,,﻿Morgan County,﻿Deaverton,﻿Deavertown,﻿OH,,39.7342351,-82.0379187,﻿col.oh.0016,﻿Attended from Chapel Hill,,,,,,,,,,,,1870,﻿,﻿,﻿Columbus,Columbus
 ﻿col.oh.0025,﻿church,﻿St. Mary's,English,,,,,﻿Delaware County,﻿Delaware,﻿Delaware,﻿OH,,40.29812878,-83.06479832,,,,﻿f_macphilips_001,﻿Rev.,﻿F. MacPhilips,,,,,,,,1870,﻿,﻿,﻿Columbus,Columbus
-﻿col.oh.0026,﻿church,not recorded,English,,,,,﻿Monroe County,﻿Doherty's Settlement,﻿Washington Township,﻿OH,,39.7199038,-81.0754657,﻿col.oh.0028,﻿Attended from Enoch,,,,,,,,,,,,1870,﻿,﻿,﻿Columbus,Columbus
+﻿col.oh.0026,﻿church,not recorded,English,,﻿Doherty's Settlement,,,﻿Monroe County,,﻿Washington Township,﻿OH,,39.7199038,-81.0754657,﻿col.oh.0028,﻿Attended from Enoch,,,,,,,,,,,,1870,﻿,﻿,﻿Columbus,Columbus
 ﻿col.oh.0027,﻿church,﻿St. Ann's,English,,,,,﻿Muskingum County,﻿Dresden,﻿Dresden,﻿OH,,40.124198,-82.014231,﻿col.oh.0021,﻿Attended from Coshocton,,,,,,,,,,,,1870,﻿,﻿,﻿Columbus,Columbus
 ﻿col.oh.0028,﻿church,﻿Immaculate Conception,English,,,,,﻿Noble County,﻿Enoch,﻿Enoch Township,﻿OH,,39.7166735,-81.4388858,,,,﻿d_j_klüber_001,﻿Rev.,﻿D. J. Klüber,,,,,,,,1870,﻿,﻿,﻿Columbus,Columbus
 ﻿col.oh.0029,﻿church,﻿St. Patrick's,English,,,,,﻿Washington County,﻿Fox's Settlement,﻿Ludlow Township,﻿OH,,39.4626397,-81.4718387,﻿col.oh.0028,﻿Attended from Enoch,,,,,,,,,,,,1870,﻿,﻿,﻿Columbus,Columbus
@@ -51,7 +51,7 @@
 ﻿col.oh.0047,﻿church,﻿Immaculate Conception,English,,,,,﻿Carroll County,﻿Marges,﻿Morges,﻿OH,,40.5328331,-81.0754657,,,,﻿h_h_mayrose_001,﻿Rev.,﻿H. H. Mayrose,,,,,,,,1870,﻿,﻿,﻿Columbus,Columbus
 ﻿col.oh.0048,﻿church,not recorded,English,,,,,﻿Jackson County,﻿Monroe Furnace,﻿Monroe,﻿OH,,39.0060382,-82.6483442,﻿col.oh.0042,﻿Attended from Lick Run,,,,,,,,,,,,1870,﻿,﻿,﻿Columbus,Columbus
 ﻿col.oh.0049,﻿church,﻿St. Mary's,English,,,,,﻿Washington County,﻿Marietta,﻿Marietta,﻿OH,,39.415352,-81.4548436,,,,﻿m_j_ryan_001,﻿Rev.,﻿M. J. D. Ryan,,,,,,,,1870,﻿,﻿,﻿Columbus,Columbus
-﻿col.oh.0050,﻿church,not recorded,English,,,,,﻿Washington County,﻿Mattingley Settlement,,﻿OH,,40.040556,-82.069444,﻿col.oh.0021,﻿Attended from Coshocton,,,﻿Rev.,,,,,,,,,1870,﻿,﻿,﻿Columbus,Columbus
+﻿col.oh.0050,﻿church,not recorded,English,,﻿Mattingley Settlement,,,﻿Washington County,﻿Mattingley Settlement,,﻿OH,,40.040556,-82.069444,﻿col.oh.0021,﻿Attended from Coshocton,,,﻿Rev.,,,,,,,,,1870,﻿,﻿,﻿Columbus,Columbus
 ﻿col.oh.0051,﻿church,﻿St. James',English,,,,,﻿Morgan County,﻿Meigs Creek,﻿Hackney,﻿OH,,39.63328068,-81.67779866,﻿col.oh.0049,﻿Attended from Marietta,,,,,,,,,,,,1870,﻿,﻿,﻿Columbus,Columbus
 ﻿col.oh.0052,﻿church,﻿St. John's,English,,,,,﻿Monroe County,﻿Miltonsburg,﻿Miltonsburg,﻿OH,,39.83721073,-81.17577083,,,,﻿n_pilger_001,﻿Rev.,﻿N. Pilger,,,,,,,,1870,﻿,﻿,﻿Columbus,Columbus
 ﻿col.oh.0053,﻿church,not recorded,English,,,,,,﻿Mineral Point,﻿Mineral City,﻿OH,,40.6011734,-81.3612236,﻿col.oh.0015,﻿Attended from Canal Dover,,,,,,,,,,,,1870,﻿,﻿,﻿Columbus,Columbus

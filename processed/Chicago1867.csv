@@ -36,11 +36,11 @@
 ﻿chi.il.0016,﻿church,﻿St. Boniface's,English,"﻿Residence, Noble street, adjoining church",﻿Corner of Cornell and Noble streets,,,,﻿Chicago,﻿Chicago,﻿IL,,﻿41.89811073,-87.66214862,,,,﻿phi_albrecht_002,﻿Rev.,﻿Phillip Albrecht,,,,,,,,1867,﻿,﻿,﻿Chicago,Chicago
 ﻿chi.il.0017,﻿church,﻿St. Wenceslaus',English,"﻿Residence, in rear of church",﻿Corner of Desplain and Bunker streets,,,,﻿Chicago,﻿Chicago,﻿IL,,﻿41.86923997,-87.64351614,,,,,﻿Pastor,﻿-----,,,,,,,,1867,﻿,﻿,﻿Chicago,Chicago
 ﻿chi.il.0027,﻿church,﻿St. Patrick's,English,,,,﻿Lee County,﻿Lee County,﻿Amboy,﻿Amboy,﻿IL,,﻿41.7132868,-89.32813318,,,,﻿m_j_clarke_001,﻿Rev.,﻿Michael J. Clark,,,,,,,,1867,﻿,﻿,﻿Chicago,Chicago
-﻿chi.il.0027,﻿church,﻿St. Mary's,English,,,,﻿Jo Daviess County,﻿Lee County,﻿Apple River,﻿Amboy,﻿IL,,﻿41.7132868,-89.32813318,,,,﻿m_j_hanly_001,﻿Rev.,﻿Michael Hanly,,,,,,,,1867,﻿,﻿,﻿Chicago,Chicago
+﻿chi.il.0373,﻿church,﻿St. Mary's,English,,,,﻿Jo Daviess County,,﻿Apple River,,,,﻿41.7132868,-89.32813318,,,,﻿m_j_hanly_001,﻿Rev.,﻿Michael Hanly,,,,,,,,1867,﻿,﻿,﻿Chicago,Chicago
 ﻿chi.il.0029,﻿church,﻿Sacred Heart,English,,,,﻿Kane County,,﻿Aurora,﻿Aurora,﻿IL,,﻿41.7605849,-88.3200715,,,,﻿tho_kenedy_001,﻿Rev.,﻿Thomas Kenedy,,,,,,,,1867,﻿,﻿,﻿Chicago,Chicago
 ﻿chi.il.0030,﻿church,not recorded,﻿German,,,,﻿Kane County,,﻿Aurora,﻿Aurora,﻿IL,,﻿41.76135775,-88.30320275,,,,﻿her_liermann_001,﻿Rev.,﻿Hermann Liermann,,,,,,,,1867,﻿,﻿,﻿Chicago,Chicago
 ﻿chi.il.0336,﻿church,﻿St. James',English,,,,﻿Boone County,,﻿Belvidere,,﻿IL,,﻿41.76135775,-88.30320275,,,,﻿pat_maguire_001,﻿Rev.,﻿Patrick Maguire,,,,,,,,1867,﻿,﻿,﻿Chicago,Chicago
-﻿chi.il.0336,﻿church,﻿St. Mary's,English,,,,﻿Woodford County,,﻿Black Pabridge,,﻿IL,,﻿41.76135775,-88.30320275,,,,﻿m_apte_001,﻿Rev.,﻿M. Apte,,,,,,,,1867,﻿,﻿,﻿Chicago,Chicago
+﻿chi.il.0374,﻿church,﻿St. Mary's,English,,,,﻿Woodford County,,﻿Black Pabridge,,,,﻿41.76135775,-88.30320275,,,,﻿m_apte_001,﻿Rev.,﻿M. Apte,,,,,,,,1867,﻿,﻿,﻿Chicago,Chicago
 ﻿chi.il.0031,﻿church,﻿Holy Trinity,English,,,,﻿McLean County,,﻿Bloomington,﻿Bloomington,﻿IL,,﻿40.48525023,-88.99422853,,,,﻿tho_ogara_001,﻿Rev.,﻿Thomas O'Gara,,,,,,,,1867,﻿,﻿,﻿Chicago,Chicago
 ﻿chi.il.0031,﻿church,﻿Holy Trinity,English,,,,﻿McLean County,,﻿Bloomington,﻿Bloomington,﻿IL,,﻿40.48525023,-88.99422853,,,,﻿pet_corcoran_001,﻿Rev.,﻿Peter Corcoran,,,,,,,,1867,﻿,﻿,﻿Chicago,Chicago
 ﻿chi.il.0032,﻿church,﻿Notre Dame,English,,,,﻿Kankakee County,,﻿Bourbonnais Grove,﻿Bourbonnais,﻿IL,,﻿41.15648863,-87.87627605,,,,﻿p_beaudoin_001,﻿Rev.,﻿Pierre Beaudoin,,,,,,,,1867,﻿,﻿,﻿Chicago,Chicago
@@ -57,12 +57,12 @@
 ﻿chi.il.0054,﻿church,﻿St. Patrick's,English,,,,﻿Knox County,﻿Knox County,﻿Galesburgh,﻿Galesburg,﻿IL,,﻿40.93660967,-90.37625778,,,,﻿mau_howard_001,﻿Rev.,﻿Maurice Howard,,,,,,,,1867,﻿,﻿,﻿Chicago,Chicago
 ﻿chi.il.0056,﻿church,﻿St. Joseph's,English,,,,﻿Cook County,,﻿Gross Point,﻿Wilmette,﻿IL,,﻿42.07935379,-87.72191665,﻿chi.il.0007,"﻿attended from St. Michael's, Chicago",,,,,,,,,,,,1867,﻿,﻿,﻿Chicago,Chicago
 ﻿chi.il.0058,﻿church,﻿St. Patrick's,English,,,,﻿McHenry County,,﻿Hartland,﻿Hartland,﻿IL,,﻿42.37819326,-88.49035292,,,,﻿ter_fitzsimmons_001,﻿Rev.,﻿Ter. Fitzsimmons,,,,,,,,1867,﻿,﻿,﻿Chicago,Chicago
-﻿chi.il.0058,﻿church,﻿St. Patrick's,English,,,,﻿Mason County,,﻿Hartland,﻿Havana,﻿IL,,﻿42.37819326,-88.49035292,,,,﻿r_scott_001,﻿Rev.,﻿R. Scott,,,,,,,,1867,﻿,﻿,﻿Chicago,Chicago
+﻿chi.il.0375,﻿church,not recorded,English,,,,﻿Mason County,,,﻿Havana,,,﻿42.37819326,-88.49035292,,,,﻿r_scott_001,﻿Rev.,﻿R. Scott,,,,,,,,1867,﻿,﻿,﻿Chicago,Chicago
 ﻿chi.il.0061,﻿church,﻿St. Mary's,English,,,,﻿Marshall County,,﻿Henry,﻿Henry,﻿IL,,﻿41.1114249,-89.3564776,,,,﻿hen_köhne_001,﻿Rev.,﻿Henry Köhne,,,,,,,,1867,﻿,﻿,﻿Chicago,Chicago
 ﻿chi.il.0063,﻿church,﻿St. Patrick's,English,,,,﻿Will County,,﻿Joliet,﻿Joliet,﻿IL,,﻿41.52150743,-88.09907207,,,,﻿pat_farrelly_002,﻿Rev.,﻿Patrick Farrelly,,,,,,,,1867,﻿,﻿,﻿Chicago,Chicago
 ﻿chi.il.0064,﻿church,﻿St. John the Baptist,﻿German,,,,﻿Will County,,﻿Joliet,﻿Joliet,﻿IL,,﻿41.53119826,-88.08902764,﻿chi.il.0008,"﻿attended from St. Joseph's, Chicago",,,,,,,,,,,,1867,﻿,﻿,﻿Chicago,Chicago
 ﻿chi.il.0066,﻿church,﻿St. Rose's,English,,,,﻿Kankakee County,﻿Kankakee County,﻿Kankakee,﻿Kankakee,﻿IL,,﻿41.11951002,-87.87155827,,,,﻿a_marschall_001,﻿Rev.,﻿Alf. Mareschal,,,,,,,,1867,﻿,﻿,﻿Chicago,Chicago
-﻿chi.il.0066,﻿church,﻿St. Mary's,English,﻿vacant,,,﻿Peoria County,﻿Kankakee County,﻿Kickapoo,﻿Kankakee,﻿IL,,﻿41.11951002,-87.87155827,,,,,,,,,,,,,,1867,﻿,﻿,﻿Chicago,Chicago
+﻿chi.il.0376,﻿church,﻿St. Mary's,English,﻿vacant,,,﻿Peoria County,,﻿Kickapoo,,,,﻿41.11951002,-87.87155827,,,,,,,,,,,,,,1867,﻿,﻿,﻿Chicago,Chicago
 ﻿chi.il.0069,﻿church,﻿St. Mary's,English,,,,﻿Marshall County,﻿Marshall County,﻿Lacon,﻿Lacon,﻿IL,,﻿41.02749621,-89.40577738,,,,﻿joh_kilkenny_001,﻿Rev.,﻿John Kilkenny,,,,,,,,1867,﻿,﻿,﻿Chicago,Chicago
 ﻿chi.il.0071,﻿church,﻿St. Patrick's,English,,,,﻿La Salle County,﻿La Salle County,﻿La Salle,﻿La Salle,﻿IL,,﻿41.33178105,-89.09574784,,,,﻿mar_anthony_001,﻿Rev.,﻿Mark Anthony,﻿C.M.,,,,,,,1867,﻿,﻿,﻿Chicago,Chicago
 ﻿chi.il.0071,﻿church,﻿St. Patrick's,English,,,,﻿La Salle County,﻿La Salle County,﻿La Salle,﻿La Salle,﻿IL,,﻿41.33178105,-89.09574784,,,,﻿mic_oreilly_005,﻿Rev.,﻿Michael O'Reilly,﻿C.M.,,,,,,,1867,﻿,﻿,﻿Chicago,Chicago
