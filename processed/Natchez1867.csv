@@ -40,8 +40,8 @@ church, presybtery, and school-house",,,﻿Hinds County,,﻿Jackson,﻿Jackson,�
 ﻿nat.ms.0043,﻿church,not recorded,English,﻿New church,,,﻿Jackson County,,﻿Lynchburgh,,﻿MS,,﻿#NUM!,﻿#NUM!,,﻿Visited from Pascagoula,,,,,,,,,,,,1867,﻿,﻿,﻿Natchez,Natchez
 ﻿nat.ms.0044,﻿church,not recorded,English,,,,﻿Noxubee County,,﻿Macon,﻿Macon,﻿MS,,﻿#NUM!,﻿#NUM!,﻿nat.ms.0019,﻿Visited from Columbus,,,,,,,,,,,,1867,﻿,﻿,﻿Natchez,Natchez
 ﻿nat.ms.0045,﻿church,not recorded,English,,,,﻿Pike County,,﻿Magnolia,﻿Magnolia,﻿MS,,﻿#NUM!,﻿#NUM!,﻿nat.ms.0013,﻿Visited from Brookhaven,,,,,,,,,,,,1867,﻿,﻿,﻿Natchez,Natchez
-﻿nat.ms.0046_01,﻿church,not recorded,English,﻿three plantations,,,﻿Madison County,,,,﻿MS,,﻿32.6729459,﻿-90.0373201,﻿nat.ms.0074,﻿visited monthly from Sulphur Springs,,,,,,,,,,,,1867,﻿,﻿,﻿Natchez,Natchez
-﻿nat.ms.0046_02,﻿church,not recorded,English,﻿two plantations,,,﻿Madison County,,,,﻿MS,,﻿32.6729459,﻿-90.0373201,﻿nat.ms.0036,﻿visited monthly from Jackson,,,,,,,,,,,,1867,﻿,﻿,﻿Natchez,Natchez
+﻿nat.ms.0046_01,﻿church,not recorded,English,﻿three plantations,﻿three plantations,,﻿Madison County,,,,﻿MS,,﻿32.6729459,﻿-90.0373201,﻿nat.ms.0074,﻿visited monthly from Sulphur Springs,,,,,,,,,,,,1867,﻿,﻿,﻿Natchez,Natchez
+﻿nat.ms.0046_02,﻿church,not recorded,English,﻿two plantations,﻿two plantations,,﻿Madison County,,,,﻿MS,,﻿32.6729459,﻿-90.0373201,﻿nat.ms.0036,﻿visited monthly from Jackson,,,,,,,,,,,,1867,﻿,﻿,﻿Natchez,Natchez
 ﻿nat.ms.0047,﻿church,not recorded,English,,,,﻿Lauderdale County,,﻿Marion,﻿Marion,﻿MS,,﻿#NUM!,﻿#NUM!,﻿nat.ms.0060,﻿Visited from Paulding,,,,,,,,,,,,1867,﻿,﻿,﻿Natchez,Natchez
 ﻿nat.ms.0048,﻿church,not recorded,English,﻿church building,,,﻿Lauderdale County,,﻿Meridian,﻿Meridian,﻿MS,,﻿#NUM!,﻿#NUM!,,,,,,,,,,,,,,1867,﻿,﻿,﻿Natchez,Natchez
 ﻿nat.ms.0049,﻿church,not recorded,English,,,,﻿Harrison County,,﻿Mississippi City,﻿Mississippi City,﻿MS,,﻿#NUM!,﻿#NUM!,﻿nat.ms.0008,﻿visited from Pass Christian,,,,,,,,,,,,1867,﻿,﻿,﻿Natchez,Natchez
@@ -92,3 +92,7 @@ church, presybtery, and school-house",,,﻿Hinds County,,﻿Jackson,﻿Jackson,�
 ﻿nat.ms.0100,﻿school,not recorded,English,﻿Parish School,,,,﻿Hancock County,﻿Bay St. Louis,﻿Bay St. Louis,﻿MS,,﻿30.340702,﻿-89.231098,,,,,,,,,,,,,,1867,﻿,﻿,﻿Natchez,Natchez
 ﻿nat.ms.0101,﻿school,not recorded,English,﻿Parish School,,,,﻿Hinds County,﻿Jackson,﻿Jackson,﻿MS,,﻿30.340702,﻿-89.231098,,,,,,,,,,,,,,1867,﻿,﻿,﻿Natchez,Natchez
 ﻿nat.ms.0103,﻿school,not recorded,English,﻿Parish School,,,,﻿Jasper County,﻿Paulding,﻿Paulding,﻿MS,,﻿30.340702,﻿-89.231098,,,,,,,,,,,,,,1867,﻿,﻿,﻿Natchez,Natchez
+﻿nat.ms.0106,﻿association,﻿Association of St. Vincent of Paul,English,,,,,﻿Hancock County,﻿Bay St. Louis,﻿Bay St. Louis,﻿MS,,﻿30.340702,﻿-89.231098,,,,,,,,,,,,,,1867,﻿,﻿,﻿Natchez,Natchez
+﻿nat.ms.0107,﻿society,﻿Education Society,English,,,,,﻿Yazoo County,﻿Yazoo,﻿Yazoo City,﻿MS,,﻿30.340702,﻿-89.231098,,,,,,,,,,,,,,1867,﻿,﻿,﻿Natchez,Natchez
+﻿nat.ms.0108,﻿Society,"﻿St. Michael's, St. Aloysius' Society for Young Men",English,,,,,﻿Adams County,﻿Natchez,﻿Natchez,﻿MS,,﻿30.340702,﻿-89.231098,,,,,,,,,,,,,,1867,﻿,﻿,﻿Natchez,Natchez
+﻿nat.ms.0109,﻿Society,"﻿St. Aloysius' Society for Young Ladies, and Sanctuary Society",English,,,,,﻿Adams County,﻿Natchez,﻿Natchez,﻿MS,,﻿30.340702,﻿-89.231098,,,,,,,,,,,,,,1867,﻿,﻿,﻿Natchez,Natchez
