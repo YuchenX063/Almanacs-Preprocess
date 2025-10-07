@@ -56,7 +56,7 @@
 ﻿chi.il.0069,﻿church,﻿St. Mary's,English,,,,﻿Marshall County,﻿Marshall County,﻿Lacon,﻿Lacon,﻿IL,,﻿41.02749621,-89.40577738,,,,﻿joh_kilkenny_001,﻿Rev.,﻿John Kilkenny,,,,,,,,1865,﻿,﻿,﻿Chicago,Chicago
 ﻿chi.il.0071,﻿church,﻿St. Patrick's,English,,,,﻿La Salle County,﻿La Salle County,﻿La Salle,﻿La Salle,﻿IL,,﻿41.33178105,-89.09574784,,,,﻿mar_anthony_001,﻿Rev.,﻿Mark Anthony,﻿C.M.,,,,,,,1865,﻿,﻿,﻿Chicago,Chicago
 ﻿chi.il.0071,﻿church,﻿St. Patrick's,English,,,,﻿La Salle County,﻿La Salle County,﻿La Salle,﻿La Salle,﻿IL,,﻿41.33178105,-89.09574784,,,,﻿mic_oreilly_005,﻿Rev.,﻿Michael O'Reilly,﻿C.M.,,,,,,,1865,﻿,﻿,﻿Chicago,Chicago
-﻿chi.il.0071,﻿church,﻿St. John the Baptist,English,,,,﻿Iroquois County,﻿La Salle County,﻿L'Erable,﻿La Salle,﻿IL,,﻿41.33178105,-89.09574784,,,,﻿p_pernin_001,﻿Rev.,﻿P. Pernin,,,,,,,,1865,﻿,﻿,﻿Chicago,Chicago
+﻿chi.il.0377,﻿church,﻿St. John the Baptist,English,,,,﻿Iroquois County,,﻿L'Erable,,,,﻿41.33178105,-89.09574784,,,,﻿p_pernin_001,﻿Rev.,﻿P. Pernin,,,,,,,,1865,﻿,﻿,﻿Chicago,Chicago
 ﻿chi.il.0073,﻿church,﻿St. Patrick's,English,,,,﻿Logan County,﻿Logan County,﻿Lincoln,﻿Lincoln,﻿IL,,﻿40.15457068,-89.36797216,,,,﻿mr_martini_001,﻿Rev.,﻿Mr. Martini,,,,,,,,1865,﻿,﻿,﻿Chicago,Chicago
 ﻿chi.il.0075,﻿church,﻿St. Denis',English,,,,﻿Will County,﻿Will County,﻿Lockport,﻿Lockport,﻿IL,,﻿41.58515142,-88.05697786,,,,﻿joh_mackin_001,﻿Rev.,﻿John Mackin,,,,,,,,1865,﻿,﻿,﻿Chicago,Chicago
 ﻿chi.il.0079,﻿church,﻿St. John the Baptist,English,,,,﻿McHenry County,,﻿McHenry,﻿Johnsburg,﻿IL,,﻿42.38310468,-88.24214808,,,,﻿her_liermann_001,﻿Rev.,﻿Hermann Liermann,,,,,,,,1865,﻿,﻿,﻿Chicago,Chicago
@@ -75,7 +75,7 @@
 ﻿chi.il.0094,﻿church,not recorded,﻿German,,,,﻿Peoria County,,﻿Peoria,﻿Peoria,﻿IL,,﻿40.68906744,-89.60439228,,,,﻿hen_bors_001,﻿Rev.,﻿Henry Boers,,,,,,,,1865,﻿,﻿,﻿Chicago,Chicago
 ﻿chi.il.0095,﻿church,﻿St. Patrick's,English,,,,﻿Peoria County,,﻿Peoria,﻿Peoria,﻿IL,,﻿40.68576455,-89.60978174,﻿chi.il.0002,﻿attended from St. Mary's,,,,,,,,,,,,1865,﻿,﻿,﻿Chicago,Chicago
 ﻿chi.il.0098,﻿church,not recorded,﻿German,,,,﻿La Salle County,,﻿Peru,﻿Peru,﻿IL,,﻿41.32832687,-89.13152025,,,,﻿pet_fassbender_001,﻿Rev.,﻿Peter Fassbender,,,,,,,,1865,﻿,﻿,﻿Chicago,Chicago
-﻿chi.il.0098,﻿church,﻿St. George's,﻿German,,,,﻿Kankakee County,,﻿Petites Isles,﻿Peru,﻿IL,,﻿41.32832687,-89.13152025,,,,﻿pet_parradis_001,﻿Rev.,﻿Peter Parradis,,,,,,,,1865,﻿,﻿,﻿Chicago,Chicago
+﻿chi.il.0379,﻿church,﻿St. George's,English,,,,﻿Kankakee County,,﻿Petites Isles,,,,﻿41.32832687,-89.13152025,,,,﻿pet_parradis_001,﻿Rev.,﻿Peter Parradis,,,,,,,,1865,﻿,﻿,﻿Chicago,Chicago
 ﻿chi.il.0103,﻿church,﻿St. James',English,,,,﻿Winnebago County,,﻿Rockford,﻿Rockford,﻿IL,,﻿42.27124179,-89.08502852,,,,﻿joh_p_donnelan_001,﻿Rev.,﻿John P. Donnelan,,,,,,,,1865,﻿,﻿,﻿Chicago,Chicago
 ﻿chi.il.0104,﻿church,﻿St. Mary's,English,,,,﻿Rock Island County,﻿Rock Island County,﻿Rock Island,﻿Rock Island,﻿IL,,﻿41.50861017,-90.56889602,,,,﻿p_t_mcelhearn_001,﻿Rev.,﻿P. T. McElhearn,,,,,,,,1865,﻿,﻿,﻿Chicago,Chicago
 ﻿chi.il.0109,﻿church,﻿St. Patrick's,English,,,,﻿Kane County,,﻿St. Charles,﻿St. Charles,﻿IL,,﻿41.91407319,-88.31845068,,,,﻿tho_mcgivern_001,﻿Rev.,﻿Thomas McGivern,,,,,,,,1865,﻿,﻿,﻿Chicago,Chicago
@@ -103,7 +103,7 @@
 ﻿chi.il.0143,﻿station,not recorded,English,,,,﻿McHenry County,﻿Peoria County,﻿Chillicothe,﻿Chillicothe,﻿IL,,﻿40.92062495,-89.48959106,﻿chi.il.0069,﻿Attended from Lacon,﻿occasionally,,,,,,,,,,,1865,﻿,﻿,﻿Chicago,Chicago
 ﻿chi.il.0143,﻿station,not recorded,English,,,,﻿De Witt County,﻿Peoria County,﻿Chuton,﻿Chillicothe,﻿IL,,﻿40.92062495,-89.48959106,﻿chi.il.0031,﻿Attended from Bloomington,﻿regularly,,,,,,,,,,,1865,﻿,﻿,﻿Chicago,Chicago
 ﻿chi.il.0143,﻿station,not recorded,English,,,,﻿Fulton County,﻿Peoria County,﻿Canton,﻿Chillicothe,﻿IL,,﻿40.92062495,-89.48959106,﻿chi.il.0054,﻿Attended from Galesburgh,﻿once a month,,,,,,,,,,,1865,﻿,﻿,﻿Chicago,Chicago
-﻿chi.il.0143,﻿station,﻿St. Patrick's,English,,,,﻿Vermillion County,﻿Peoria County,﻿Danville,﻿Chillicothe,﻿IL,,﻿40.92062495,-89.48959106,﻿chi.il.0037,﻿Attended from Champaign,﻿once a month,,,,,,,,,,,1865,﻿,﻿,﻿Chicago,Chicago
+﻿chi.il.0380,﻿station,﻿St. Patrick's,English,,,,﻿Vermillion County,,﻿Danville,,,,﻿40.92062495,-89.48959106,﻿chi.il.0037,﻿Attended from Champaign,﻿once a month,,,,,,,,,,,1865,﻿,﻿,﻿Chicago,Chicago
 ﻿chi.il.0145,﻿station,not recorded,English,,,,﻿Lake County,,﻿Dwyer's Settlement,﻿Lake Bluff,﻿IL,,﻿42.28825507,-87.85796129,﻿chi.il.0078,﻿Attended from McHenry,,,,,,,,,,,,1865,﻿,﻿,﻿Chicago,Chicago
 ﻿chi.il.0343,﻿station,﻿St. Patrick's,English,,,,﻿Livingston County,,﻿Dwight,,,,﻿42.28825507,-87.85796129,﻿chi.il.0115,﻿Attended from Wilmington,,,,,,,,,,,,1865,﻿,﻿,﻿Chicago,Chicago
 ﻿chi.il.0147,﻿station,not recorded,English,,,,﻿Lee County,,﻿East-Grove,﻿East Grove Township,﻿IL,,﻿41.58551913,-89.44741743,﻿chi.il.0097,﻿Attended from Amboy,,,,,,,,,,,,1865,﻿,﻿,﻿Chicago,Chicago
@@ -115,10 +115,10 @@
 ﻿chi.il.0158,﻿station,not recorded,English,,,,﻿Kane County,﻿Kane County,﻿Geneva,﻿Geneva,﻿IL,,﻿41.86603657,-88.34745817,﻿chi.il.0109,﻿Attended from St. Charles,﻿regularly,,,,,,,,,,,1865,﻿,﻿,﻿Chicago,Chicago
 ﻿chi.il.0349,﻿station,not recorded,English,,,,﻿Rock Island County,,﻿Hampton,,,,﻿41.86603657,-88.34745817,﻿chi.il.0104,﻿Attended from Rock Island,﻿occasionally,,,,,,,,,,,1865,﻿,﻿,﻿Chicago,Chicago
 ﻿chi.il.0165,﻿station,﻿St. Thomas',English,,,,﻿Cook County,,﻿Harlem,﻿Forest Park,﻿IL,,﻿41.8794758,-87.81367,﻿chi.il.0012,"﻿Attended from St. Columbkille's, Chicago",,,,,,,,,,,,1865,﻿,﻿,﻿Chicago,Chicago
-﻿chi.il.0165,﻿station,﻿St. Anthony's,English,,,,﻿Putnam County,,﻿Hennepin,﻿Forest Park,﻿IL,,﻿41.8794758,-87.81367,﻿chi.il.0061,﻿Attended from Henry,,,,,,,,,,,,1865,﻿,﻿,﻿Chicago,Chicago
+﻿chi.il.0381,﻿station,﻿St. Anthony's,English,,,,﻿Putnam County,,﻿Hennepin,,,,﻿41.8794758,-87.81367,﻿chi.il.0061,﻿Attended from Henry,,,,,,,,,,,,1865,﻿,﻿,﻿Chicago,Chicago
 ﻿chi.il.0169,﻿station,not recorded,English,,,,﻿La Salle County,,﻿Homer,﻿Troy Grove,﻿IL,,﻿41.46755486,-89.08337749,﻿chi.il.0029,﻿Attended from Aurora,,,,,,,,,,,,1865,﻿,﻿,﻿Chicago,Chicago
 ﻿chi.il.0170,﻿station,﻿St. Patrick's,English,,,,﻿Stephenson County,,﻿Irish Grove,﻿Davis,﻿IL,,﻿42.37999688,-89.40774626,﻿chi.il.0049,﻿Attended from Freeport,,,,,,,,,,,,1865,﻿,﻿,﻿Chicago,Chicago
-﻿chi.il.0170,﻿station,﻿St. Patrick's,English,,,,﻿Mercer County,,﻿Kertsburgh,﻿Davis,﻿IL,,﻿42.37999688,-89.40774626,﻿chi.il.0104,﻿Attended from Rock Island,﻿occasionally,,,,,,,,,,,1865,﻿,﻿,﻿Chicago,Chicago
+﻿chi.il.0382,﻿station,not recorded,English,,,,﻿Mercer County,,﻿Kertsburgh,,,,﻿42.37999688,-89.40774626,﻿chi.il.0104,﻿Attended from Rock Island,﻿occasionally,,,,,,,,,,,1865,﻿,﻿,﻿Chicago,Chicago
 ﻿chi.il.0350,﻿station,﻿St. Mary's,English,,,,﻿Henry County,,﻿Kewanee,,,,﻿42.37999688,-89.40774626,﻿chi.il.0069,﻿Attended from Lacon,,,,,,,,,,,,1865,﻿,﻿,﻿Chicago,Chicago
 ﻿chi.il.0176,﻿station,﻿St. Mary's,English,,,,﻿Kane County,,﻿Lodi,﻿Maple Park,﻿IL,,﻿41.90772249,-88.60192494,﻿chi.il.0040,﻿Attended from De Kalb,﻿regularly,,,,,,,,,,,1865,﻿,﻿,﻿Chicago,Chicago
 ﻿chi.il.0351,﻿station,﻿St. Patrick's,English,,,,﻿Ogle County,,﻿Lane,,,,﻿41.90772249,-88.60192494,﻿chi.il.0041,﻿Attended from Dixon,﻿regularly,,,,,,,,,,,1865,﻿,﻿,﻿Chicago,Chicago
@@ -140,7 +140,7 @@
 ﻿chi.il.0204,﻿station,not recorded,English,,,,﻿Ford County,﻿Ford County,﻿Paxton,﻿Paxton,﻿IL,,﻿40.46008555,-88.09553304,﻿chi.il.0037,﻿Attended from Champaign City,,,,,,,,,,,,1865,﻿,﻿,﻿Chicago,Chicago
 ﻿chi.il.0205,﻿station,not recorded,English,,,,﻿Ogle County,﻿Ogle County,﻿Polo,﻿Polo,﻿IL,,﻿41.98585728,-89.57819337,﻿chi.il.0041,﻿Attended from Dixon,,,,,,,,,,,,1865,﻿,﻿,﻿Chicago,Chicago
 ﻿chi.il.0207,﻿station,﻿St. Joseph's,English,,,,﻿Bureau County,,﻿Princetown,﻿Princeton,﻿IL,,﻿41.36850963,-89.47315572,﻿chi.il.0081,﻿Attended from Mendota,,,,,,,,,,,,1865,﻿,﻿,﻿Chicago,Chicago
-﻿chi.il.0207,﻿station,﻿St. Joseph's,English,,,,﻿Lee County,,﻿Perkins Grove,﻿Princeton,﻿IL,,﻿41.36850963,-89.47315572,﻿chi.il.0029,﻿Attended from Aurora,,,,,,,,,,,,1865,﻿,﻿,﻿Chicago,Chicago
+﻿chi.il.0383,﻿station,not recorded,English,,,,﻿Lee County,,﻿Perkins Grove,,,,﻿41.36850963,-89.47315572,﻿chi.il.0029,﻿Attended from Aurora,,,,,,,,,,,,1865,﻿,﻿,﻿Chicago,Chicago
 ﻿chi.il.0208,﻿station,not recorded,English,,,,﻿Cook County,,﻿Rock Island Junction,﻿Blue Island,﻿IL,,﻿41.64849109,-87.68528373,﻿chi.il.0024,"﻿Attended from St. James', Chicago",﻿occasionally,,,,,,,,,,,1865,﻿,﻿,﻿Chicago,Chicago
 ﻿chi.il.0209,﻿station,not recorded,English,,,,﻿McHenry County,﻿McHenry County,﻿Richmond,﻿Richmond,﻿IL,,﻿42.49015067,-88.30621053,﻿chi.il.0078,﻿Attended from McHenry,,,,,,,,,,,,1865,﻿,﻿,﻿Chicago,Chicago
 ﻿chi.il.0212,﻿station,not recorded,English,,,,﻿Cook County,,﻿Richville,﻿Evanston,﻿IL,,﻿42.04448248,-87.68882453,﻿chi.il.0004,"﻿Attended from St. Joseph's, Chicago",,,,,,,,,,,,1865,﻿,﻿,﻿Chicago,Chicago
