@@ -89,12 +89,12 @@
 ﻿chi.il.0115,﻿church,﻿St. Rose of Lima,English,,,,﻿Will County,,﻿Wilmington,﻿Wilmington,﻿IL,,﻿41.30407584,-88.14340099,,,,﻿bar_lonergan_001,﻿Rev.,﻿Barth. Lonergan,,,,,,,,1864,﻿,﻿,﻿Chicago,Chicago
 ﻿chi.il.0340,﻿station,﻿St. Patrick's,English,,,,﻿Cook County,,﻿Athens,,,,﻿41.30407584,-88.14340099,﻿chi.il.0075,﻿Attended from Lockport,﻿regularly,,,,,,,,,,,1864,﻿,﻿,﻿Chicago,Chicago
 ﻿chi.il.388,﻿station,not recorded,English,,,,,,﻿Arlington,,,,﻿41.30407584,-88.14340099,﻿chi.il.0081,﻿Attended from Mendota,﻿regularly,,,,,,,,,,,1864,﻿,﻿,﻿Chicago,Chicago
-﻿chi.il.388,﻿station,﻿St. Patrick's,English,,,,﻿Cook County,,﻿Ainsworth Station,,,,﻿41.30407584,-88.14340099,,"﻿Attended from St. James', Chicago",﻿regularly,,,,,,,,,,,1864,﻿,﻿,﻿Chicago,Chicago
+﻿chi.il.0390,﻿station,﻿St. Patrick's,English,,,,﻿Cook County,,﻿Ainsworth Station,,,,﻿41.30407584,-88.14340099,,"﻿Attended from St. James', Chicago",﻿regularly,,,,,,,,,,,1864,﻿,﻿,﻿Chicago,Chicago
 ﻿chi.il.0122,﻿station,﻿Immaculate Conception,English,,,,﻿Du Page County,,﻿Babcock's Grove,﻿Lombard,﻿IL,,﻿41.88435611,-88.03518729,﻿chi.il.0109,﻿From St. Charles.,,,,,,,,,,,,1864,﻿,﻿,﻿Chicago,Chicago
-﻿chi.il.0122,﻿station,﻿St. Patrick's,English,,,,﻿Boone County,,﻿Belvidere,﻿Lombard,﻿IL,,﻿41.88435611,-88.03518729,﻿chi.il.0103,﻿Attended from Rockford,﻿twice a month,,,,,,,,,,,1864,﻿,﻿,﻿Chicago,Chicago
+﻿chi.il.0391,﻿station,﻿St. Patrick's,English,,,,﻿Boone County,,﻿Belvidere,,,,﻿41.88435611,-88.03518729,﻿chi.il.0103,﻿Attended from Rockford,﻿twice a month,,,,,,,,,,,1864,﻿,﻿,﻿Chicago,Chicago
 ﻿chi.il.0125,﻿station,﻿Holy Cross,English,,,,﻿Kane County,,﻿Batavia,﻿Batavia,﻿IL,,﻿41.85029535,-88.30290973,﻿chi.il.0029,﻿Attended from Aurora,﻿regularly,,,,,,,,,,,1864,﻿,﻿,﻿Chicago,Chicago
 ﻿chi.il.0123,﻿station,﻿St. Mary's,English,,,,﻿Kane County,,﻿Barrens,﻿Rutland Township,﻿IL,,﻿42.08204986,-88.37009648,﻿chi.il.0045,﻿Attended from Elgin,﻿twice a month,,,,,,,,,,,1864,﻿,﻿,﻿Chicago,Chicago
-﻿chi.il.0123,﻿station,﻿St. Mary's,English,,,,﻿Cook County,,﻿Blue Island,﻿Rutland Township,﻿IL,,﻿42.08204986,-88.37009648,﻿chi.il.0008,"﻿Attended from St. Joseph's, Chicago",,,,,,,,,,,,1864,﻿,﻿,﻿Chicago,Chicago
+﻿chi.il.0392,﻿station,not recorded,English,,,,﻿Cook County,,﻿Blue Island,,,,﻿42.08204986,-88.37009648,﻿chi.il.0008,"﻿Attended from St. Joseph's, Chicago",,,,,,,,,,,,1864,﻿,﻿,﻿Chicago,Chicago
 ﻿chi.il.0341,﻿station,﻿St. Joseph's,English,,,,﻿Peoria County,,﻿Bromfield,,,,﻿42.08204986,-88.37009648,﻿chi.il.0093,﻿Attended from Peoria,,,,,,,,,,,,1864,﻿,﻿,﻿Chicago,Chicago
 ﻿chi.il.366,﻿station,not recorded,English,,,,,,﻿Bristol Station,,,,﻿42.08204986,-88.37009648,﻿chi.il.0029,﻿Attended from Aurora,﻿occasionally,,,,,,,,,,,1864,﻿,﻿,﻿Chicago,Chicago
 ﻿chi.il.0348,﻿station,﻿Immaculate Conception,English,,,,﻿Lake County,,﻿Buffalo Grove,,,,﻿42.08204986,-88.37009648,﻿chi.il.0078,﻿Attended from McHenry,﻿once a month,,,,,,,,,,,1864,﻿,﻿,﻿Chicago,Chicago
@@ -105,14 +105,14 @@
 ﻿chi.il.0141,﻿station,﻿St. Joseph's,English,,,,﻿McHenry County,,﻿Crystal Lake,﻿Crystal Lake,﻿IL,,﻿42.24842634,-88.40397601,﻿chi.il.0058,﻿Attended from Hartland,,,,,,,,,,,,1864,﻿,﻿,﻿Chicago,Chicago
 ﻿chi.il.0139,﻿station,not recorded,English,,,,﻿McHenry County,﻿Marshall,﻿Camping Grove,﻿Saratoga,﻿IL,,﻿41.08988021,-89.55674777,,﻿Attended from Lacon,﻿Occasionally,,,,,,,,,,,1864,﻿,﻿,﻿Chicago,Chicago
 ﻿chi.il.0143,﻿station,not recorded,English,,,,﻿McHenry County,﻿Peoria County,﻿Chillicothe,﻿Chillicothe,﻿IL,,﻿40.92062495,-89.48959106,﻿chi.il.0069,﻿Attended from Lacon,﻿occasionally,,,,,,,,,,,1864,﻿,﻿,﻿Chicago,Chicago
-﻿chi.il.0143,﻿station,not recorded,English,,,,﻿De Witt County,﻿Peoria County,﻿Chuton,﻿Chillicothe,﻿IL,,﻿40.92062495,-89.48959106,﻿chi.il.0031,﻿Attended from Bloomington,﻿regularly,,,,,,,,,,,1864,﻿,﻿,﻿Chicago,Chicago
-﻿chi.il.0143,﻿station,not recorded,English,,,,﻿Fulton County,﻿Peoria County,﻿Canton,﻿Chillicothe,﻿IL,,﻿40.92062495,-89.48959106,﻿chi.il.0054,﻿Attended from Galesburgh,﻿once a month,,,,,,,,,,,1864,﻿,﻿,﻿Chicago,Chicago
+﻿chi.il.0393,﻿station,not recorded,English,,,,﻿De Witt County,,﻿Chuton,,,,﻿40.92062495,-89.48959106,﻿chi.il.0031,﻿Attended from Bloomington,﻿regularly,,,,,,,,,,,1864,﻿,﻿,﻿Chicago,Chicago
+﻿chi.il.0394,﻿station,not recorded,English,,,,﻿Fulton County,,﻿Canton,,,,﻿40.92062495,-89.48959106,﻿chi.il.0054,﻿Attended from Galesburgh,﻿once a month,,,,,,,,,,,1864,﻿,﻿,﻿Chicago,Chicago
 ﻿chi.il.0380,﻿station,﻿St. Patrick's,English,,,,﻿Vermillion County,,﻿Danville,,,,﻿40.92062495,-89.48959106,﻿chi.il.0037,﻿Attended from Champaign,﻿once a month,,,,,,,,,,,1864,﻿,﻿,﻿Chicago,Chicago
 ﻿chi.il.0145,﻿station,not recorded,English,,,,﻿Lake County,,﻿Dwyer's Settlement,﻿Lake Bluff,﻿IL,,﻿42.28825507,-87.85796129,﻿chi.il.0078,﻿Attended from McHenry,,,,,,,,,,,,1864,﻿,﻿,﻿Chicago,Chicago
 ﻿chi.il.0343,﻿station,﻿St. Patrick's,English,,,,﻿Livingston County,,﻿Dwight,,,,﻿42.28825507,-87.85796129,﻿chi.il.0115,﻿Attended from Wilmington,,,,,,,,,,,,1864,﻿,﻿,﻿Chicago,Chicago
 ﻿chi.il.0147,﻿station,not recorded,English,,,,﻿Lee County,,﻿East-Grove,﻿East Grove Township,﻿IL,,﻿41.58551913,-89.44741743,﻿chi.il.0097,﻿Attended from Amboy,,,,,,,,,,,,1864,﻿,﻿,﻿Chicago,Chicago
 ﻿chi.il.0146,﻿station,not recorded,English,,,,﻿La Salle County,,﻿Eagle Town,﻿Eagle Township,﻿IL,,﻿41.1351122,-88.9222277,﻿chi.il.0091,﻿Attended from Ottawa,,,,,,,,,,,,1864,﻿,﻿,﻿Chicago,Chicago
-﻿chi.il.0146,﻿station,not recorded,English,,,,﻿Whiteside County,,﻿Fulton,﻿Eagle Township,﻿IL,,﻿41.1351122,-88.9222277,,﻿Attended from Sterling,﻿regularly,,,,,,,,,,,1864,﻿,﻿,﻿Chicago,Chicago
+﻿chi.il.0395,﻿station,not recorded,English,,,,﻿Whiteside County,,﻿Fulton,,,,﻿41.1351122,-88.9222277,,﻿Attended from Sterling,﻿regularly,,,,,,,,,,,1864,﻿,﻿,﻿Chicago,Chicago
 ﻿chi.il.0154,﻿station,﻿St. James',English,,,,﻿Lake County,,﻿Fremont Centre,﻿Fremont Township,﻿IL,,﻿42.29481618,-88.06847057,﻿chi.il.0078,﻿Attended from McHenry,﻿once a month,,,,,,,,,,,1864,﻿,﻿,﻿Chicago,Chicago
 ﻿chi.il.0155,﻿station,not recorded,English,,,,﻿Hancock County,,﻿Fountain Greene,﻿Fountain Green,﻿IL,,﻿40.48300183,-90.96870429,﻿chi.il.0088,﻿Attended from Nauvoo,,,,,,,,,,,,1864,﻿,﻿,﻿Chicago,Chicago
 ﻿chi.il.0346,﻿station,not recorded,English,,,,﻿Henry County,,﻿Geneseo,,,,﻿40.48300183,-90.96870429,﻿chi.il.0104,﻿Attended from Rock Island,,,,,,,,,,,,1864,﻿,﻿,﻿Chicago,Chicago
@@ -134,7 +134,7 @@
 ﻿chi.il.0197,﻿station,﻿St. Mary's,English,,,,﻿Rock Island,﻿Rock Island County,﻿Moline,﻿Moline,﻿IL,,﻿41.50529973,-90.5236122,﻿chi.il.0104,﻿Attended from Rock Island,,,,,,,,,,,,1864,﻿,﻿,﻿Chicago,Chicago
 ﻿chi.il.0352,﻿station,﻿St. Michael's,English,,,,﻿Grundy County,,﻿Minook,,,,﻿41.50529973,-90.5236122,﻿chi.il.0086,﻿Attended from Morris,,,,,,,,,,,,1864,﻿,﻿,﻿Chicago,Chicago
 ﻿chi.il.0195,﻿station,﻿St. Patrick's,English,,,,﻿Kankakee County,,﻿Momenee,﻿Momence,﻿IL,,﻿41.16385173,-87.6678462,﻿chi.il.0100,﻿Attended from Petites Isles,,,,,,,,,,,,1864,﻿,﻿,﻿Chicago,Chicago
-﻿chi.il.0195,﻿station,﻿St. Patrick's,English,,,,﻿Warren County,,﻿Monmouth,﻿Momence,﻿IL,,﻿41.16385173,-87.6678462,﻿chi.il.0054,﻿Attended from Galesburgh,﻿once a month,,,,,,,,,,,1864,﻿,﻿,﻿Chicago,Chicago
+﻿chi.il.0396,﻿station,not recorded,English,,,,﻿Warren County,,﻿Monmouth,,,,﻿41.16385173,-87.6678462,﻿chi.il.0054,﻿Attended from Galesburgh,﻿once a month,,,,,,,,,,,1864,﻿,﻿,﻿Chicago,Chicago
 ﻿chi.il.0194,﻿station,not recorded,English,,,,﻿McHenry County,,﻿Marengo,﻿Marengo,﻿IL,,﻿42.25798945,-88.60954979,﻿chi.il.0045,﻿Attended from Elgin,,,,,,,,,,,,1864,﻿,﻿,﻿Chicago,Chicago
 ﻿chi.il.0385,﻿station,﻿St. Mary's,English,,,,﻿Stephenson County,,﻿New-Dublin,,,,﻿42.25798945,-88.60954979,﻿chi.il.0049,﻿Attended from Freeport,﻿regularly,,,,,,,,,,,1864,﻿,﻿,﻿Chicago,Chicago
 ﻿chi.il.0198,﻿station,﻿St. Henry's,English,,,,,,﻿New-Trier,﻿New Trier Township,﻿IL,,﻿40.6331249,-89.3985283,﻿chi.il.0049,﻿Attended from Freeport,,,,,,,,,,,,1864,﻿,﻿,﻿Chicago,Chicago
@@ -151,11 +151,11 @@
 ﻿chi.il.0209,﻿station,not recorded,English,,,,﻿Cook County,﻿McHenry County,﻿Rosehill,﻿Richmond,﻿IL,,﻿42.49015067,-88.30621053,﻿chi.il.0004,"﻿Attended from St. Michael's, Chicago",,,,,,,,,,,,1864,﻿,﻿,﻿Chicago,Chicago
 ﻿chi.il.0215,﻿station,not recorded,English,,,,,﻿Bureau County,﻿Sheffield,﻿Sheffield,﻿IL,,"﻿41.358292006572924, -89.7384978598952",-89.7373226,﻿chi.il.0078,﻿Attended from McHenry,,,,,,,,,,,,1864,﻿,﻿,﻿Chicago,Chicago
 ﻿chi.il.0213,﻿station,not recorded,English,,,,﻿Cook County,,﻿Sagganah and Summit,﻿Summit,﻿IL,,﻿41.78717663,-87.81242211,﻿chi.il.0075,﻿Attended from Lockport,﻿regularly,,,,,,,,,,,1864,﻿,﻿,﻿Chicago,Chicago
-﻿chi.il.0213,﻿station,not recorded,English,,,,﻿Dekalb County,,﻿Sommac,﻿Summit,﻿IL,,﻿41.78717663,-87.81242211,﻿chi.il.0081,﻿Attended from Mendota,﻿regularly,,,,,,,,,,,1864,﻿,﻿,﻿Chicago,Chicago
+﻿chi.il.0397,﻿station,not recorded,English,,,,﻿Dekalb County,,﻿Sommac,,,,﻿41.78717663,-87.81242211,﻿chi.il.0081,﻿Attended from Mendota,﻿regularly,,,,,,,,,,,1864,﻿,﻿,﻿Chicago,Chicago
 ﻿chi.il.0216,﻿station,﻿St. Mary's,English,,,,﻿De Kalb County,﻿DeKalb County,﻿Sycamore,﻿Sycamore,﻿IL,,﻿41.983563,-88.68889456,﻿chi.il.0040,﻿Attended from De Kalb,﻿regularly,,,,,,,,,,,1864,﻿,﻿,﻿Chicago,Chicago
 ﻿chi.il.0355,﻿station,﻿St. Joseph's,English,,,,﻿La Salle County,,﻿Seneca,,,,﻿41.983563,-88.68889456,﻿chi.il.0086,﻿Attended from Morris,﻿regularly,,,,,,,,,,,1864,﻿,﻿,﻿Chicago,Chicago
 ﻿chi.il.0218,﻿station,not recorded,English,,,,﻿Fulton County,,﻿St. Augustine,﻿St Augustine,﻿IL,,﻿40.71668877,-90.41123891,﻿chi.il.0077,﻿Attended from Macomb,﻿once a month,,,,,,,,,,,1864,﻿,﻿,﻿Chicago,Chicago
-﻿chi.il.0218,﻿station,not recorded,English,,,,﻿Fulton County,,﻿Tiskilwanee,﻿St Augustine,﻿IL,,﻿40.71668877,-90.41123891,﻿chi.il.0078,﻿Attended from McHenry,﻿regularly,,,,,,,,,,,1864,﻿,﻿,﻿Chicago,Chicago
+﻿chi.il.0398,﻿station,not recorded,English,,,,,,﻿Tiskilwanee,,,,﻿40.71668877,-90.41123891,﻿chi.il.0078,﻿Attended from McHenry,﻿regularly,,,,,,,,,,,1864,﻿,﻿,﻿Chicago,Chicago
 ﻿chi.il.0220,﻿station,not recorded,English,,,,﻿Stark County,﻿Stark County,﻿Toulon,﻿Toulon,﻿IL,,﻿41.09513197,-89.86580861,﻿chi.il.0069,﻿Attended from Lacon,﻿regularly,,,,,,,,,,,1864,﻿,﻿,﻿Chicago,Chicago
 ﻿chi.il.0219,﻿station,﻿St. Mary's,English,,,,﻿McDonough,﻿McDonough County,﻿Tennessee,﻿Tennessee,﻿IL,,﻿40.40990694,-90.84147983,﻿chi.il.0077,﻿Attended from Macomb,﻿regularly,,,,,,,,,,,1864,﻿,﻿,﻿Chicago,Chicago
 ﻿chi.il.0224,﻿station,not recorded,English,,,,﻿Will County,,﻿Twelve Mile Grove,﻿Wilton Center,﻿IL,,﻿41.35153281,-87.95959447,﻿chi.il.0115,﻿Attended from Wilmington,﻿regularly,,,,,,,,,,,1864,﻿,﻿,﻿Chicago,Chicago
@@ -170,8 +170,8 @@
 ﻿chi.il.0235,﻿convent,﻿Redemptorist Convent,English,﻿For other Fathers see St. Michael's Church,﻿Corner of North avenue and Church street,,,,﻿Chicago,﻿Chicago,﻿IL,,﻿41.91116983,-87.63986557,,,,﻿alb_schaeffler_002,﻿Rev.,﻿Albert Schaeffler,﻿C.SS.R.,,,,,,,1864,﻿,﻿,﻿Chicago,Chicago
 ﻿chi.il.0235,﻿convent,﻿Redemptorist Convent,English,﻿For other Fathers see St. Michael's Church,﻿Corner of North avenue and Church street,,,,﻿Chicago,﻿Chicago,﻿IL,,﻿41.91116983,-87.63986557,,,,﻿jac_nagel_003,﻿Rev.,﻿R. F. Jacob Nagel,﻿C.SS.R.,,,﻿Professed Lay Brothers,﻿2 professed Lay Brothers,,,1864,﻿,﻿,﻿Chicago,Chicago
 ﻿chi.il.0235,"﻿convent, academy",﻿Convent and Academy of St. Francis Xavier,English,﻿For other Fathers see St. Michael's Church,﻿Corner of North avenue and Church street,,,,﻿Chicago,﻿Chicago,﻿IL,,﻿41.91116983,-87.63986557,,,,,﻿Mother,﻿Francis De Sales,,﻿Superioress,,﻿Professed Lay Brothers,﻿2 professed Lay Brothers,﻿Under the direction of the Sisters of Mercy,,1864,﻿,﻿,﻿Chicago,Chicago
-﻿chi.il.0235,﻿school,﻿St. Mary's Girls' Free School,English,﻿For other Fathers see St. Michael's Church,﻿Corner of North avenue and Church street,,,,﻿Chicago,﻿Chicago,﻿IL,,﻿41.91116983,-87.63986557,,,,,,,,,,﻿Professed Lay Brothers,﻿2 professed Lay Brothers,﻿Conducted by the Sisters of Mercy,,1864,﻿,﻿,﻿Chicago,Chicago
-﻿chi.il.0235,﻿school,﻿St. John's Select and Free School,English,﻿For other Fathers see St. Michael's Church,﻿Corner of North avenue and Church street,,,,﻿Chicago,﻿Chicago,﻿IL,,﻿41.91116983,-87.63986557,,,,,,,,,,﻿Professed Lay Brothers,﻿2 professed Lay Brothers,﻿Conducted by the Sisters of Mercy,,1864,﻿,﻿,﻿Chicago,Chicago
+﻿chi.il.0399,﻿school,﻿St. Mary's Girls' Free School,English,,,,,,,,,,﻿41.91116983,-87.63986557,,,,,,,,,,,,﻿Conducted by the Sisters of Mercy,,1864,﻿,﻿,﻿Chicago,Chicago
+﻿chi.il.0399,﻿school,﻿St. John's Select and Free School,English,,,,,,,,,,﻿41.91116983,-87.63986557,,,,,,,,,,,,﻿Conducted by the Sisters of Mercy,,1864,﻿,﻿,﻿Chicago,Chicago
 ﻿chi.il.0330,﻿hospital,﻿Chicago Mercy Hospital,English,,,,,,,,,,﻿41.91116983,-87.63986557,,,,,﻿Mother,﻿M. Borromeo,,﻿Directress,,﻿Patients,﻿60 patients,﻿Under the charge of the Sisters of Mercy,,1864,﻿,﻿,﻿Chicago,Chicago
 ﻿chi.il.0330,﻿asylum,﻿St. Mary's Female Orphan Asylum,English,,,,,,﻿Chicago,﻿Chicago,﻿IL,,﻿41.91116983,-87.63986557,,,,,,,,,,﻿Patients,﻿60 patients,﻿Conducted by the Sisters of Mercy,,1864,﻿,﻿,﻿Chicago,Chicago
 ﻿chi.il.0330,﻿school,﻿Sisters of Notre Dame,﻿German,,,,,,﻿Chicago,﻿Chicago,﻿IL,,﻿41.91116983,-87.63986557,,,,,﻿Sister,﻿S. M. Joachima,,﻿Superior,,﻿Girls (scholars),﻿238 girls (scholars),﻿Conducted by the Sisters of Mercy,,1864,﻿,﻿,﻿Chicago,Chicago
