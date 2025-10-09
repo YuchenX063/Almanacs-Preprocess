@@ -1,7 +1,7 @@
 ﻿instID,church_type,instName,language,instNote,placeName,region,county_orig,county_reg,city_orig,city_reg,state_orig,state_reg,latitude,longitude,attendingInstID,attendingChurch,attendingChurchFrequency,persID,persTitle,persName,persSuffix,persRole,persNote,memberType,member,affiliated,order,year,Unnamed: 30,attendingPersID,attendingChurchNote,diocese,diocese_reg
 ﻿det.mi.0002,﻿cathedral,﻿Cathedral of St. Ann,"﻿German, French, English","﻿High Mass at 9 o'clock for the Germans, and at 11 for the French. Sermons in German, French and English.",,,,﻿Wayne County,﻿Detroit,﻿Detroit,﻿MI,﻿MI,42.320833,-83.076667,,,,﻿fre_réze_901,﻿Right Rev.,﻿Frederick Reze,﻿D.D.,,,,,,,1836,﻿https://ste-anne.org/about-us/parish-history/ ; https://en.wikipedia.org/wiki/Basilica_of_Sainte_Anne_de_D%C3%A9troit,﻿,﻿,﻿Detroit,Detroit
 ﻿det.mi.0002,﻿cathedral,﻿Cathedral of St. Ann,"﻿German, French, English","﻿High Mass at 9 o'clock for the Germans, and at 11 for the French. Sermons in German, French and English.",,,,﻿Wayne County,﻿Detroit,﻿Detroit,﻿MI,,42.320833,-83.076667,,,,﻿vin_badin_901,﻿Rev.,﻿Vincent Badin,,,,,,,,1836,,﻿,﻿,﻿Detroit,Detroit
-﻿det.mi.0002,﻿cathedral,﻿Cathedral of St. Ann,"﻿German, French, English","﻿High Mass at 9 o'clock for the Germans, and at 11 for the French. Sermons in German, French and English.",,,,﻿Wayne County,﻿Detroit,﻿Detroit,﻿MI,,42.320833,-83.076667,,,,﻿mar_kundig_901,﻿Rev.,﻿Martin Kundig,,,,,,,,1836,,﻿,﻿,﻿Detroit,Detroit
+﻿det.mi.0002,﻿cathedral,﻿Cathedral of St. Ann,"﻿German, French, English","﻿High Mass at 9 o'clock for the Germans, and at 11 for the French. Sermons in German, French and English.",,,,﻿Wayne County,﻿Detroit,﻿Detroit,﻿MI,,42.320833,-83.076667,,,,﻿mar_kundig_001,﻿Rev.,﻿Martin Kundig,,,,,,,,1836,,﻿,﻿,﻿Detroit,Detroit
 ﻿det.mi.9007,﻿church,﻿Trinity Church,English,,,,,,﻿Detroit,,﻿MI,,42.320833,-83.076667,,,,﻿ber_ocavanagh_901,﻿Rev.,﻿Bernard O'Cavanagh,,,,,,,,1836,,﻿,﻿,﻿Detroit,Detroit
 ﻿det.mi.0018,﻿church,not recorded,English,,,,,,﻿Ann Arbour,﻿Ann Arbor,﻿MI,,42.2857551,-83.7413768,,,,﻿kelly_901,﻿Rev. Mr.,﻿Kelly,,,,,,,,1836,,﻿,﻿,﻿Detroit,Detroit
 ﻿det.mi.0018,﻿church,not recorded,English,,,,,,﻿Ann Arbour,﻿Ann Arbor,﻿MI,,42.2857551,-83.7413768,,,,﻿morrissey_901,﻿Rev. Mr.,﻿Morrissey,,,,,,,,1836,,﻿,﻿,﻿Detroit,Detroit
@@ -17,12 +17,12 @@
 ﻿det.mi.0114,﻿church,not recorded,English,,,,,﻿Monroe County,﻿Monroe,﻿Monroe,﻿MI,,41.91855135,-83.39685624,,,,﻿fer_mckosker_901,﻿Rev.,﻿Ferd. McKosker,,,,,,,,1836,,﻿,﻿,﻿Detroit,Detroit
 ﻿det.mi.0114,﻿church,not recorded,English,,,,,﻿Monroe County,﻿Prairie du Chien,﻿Monroe,﻿WI,,41.91855135,-83.39685624,,,,﻿sam_mazzuchelli_901,﻿Rev.,﻿S. Mazzuchelli,,,,,,,,1836,﻿https://www.prairieduchien.org/history/,﻿,﻿,﻿Detroit,Detroit
 ﻿mar.mi.0082,﻿church,not recorded,English,,,,,,﻿Sault Ste. Marie,,﻿MI,,41.91855135,-83.39685624,,,,﻿hatscher_901,﻿Rev. Mr.,﻿Hatscher,,,,,,,,1836,,﻿,﻿,﻿Detroit,Detroit
-﻿det.mi.9001,﻿church,﻿St. Joseph's,English,,,,,,,,﻿MI,,41.91855135,-83.39685624,,,,﻿st_badin_901,﻿Rev.,﻿S.T. Badin,,,,,,,,1836,,﻿,﻿,﻿Detroit,Detroit
+﻿det.mi.9001,﻿church,﻿St. Joseph's,English,,,,,,,,﻿MI,,41.91855135,-83.39685624,,,,﻿ste_t_badin_901,﻿Rev.,﻿S.T. Badin,,,,,,,,1836,,﻿,﻿,﻿Detroit,Detroit
 ﻿det.mi.9001,﻿church,﻿St. Joseph's,English,,,,,,,,﻿MI,,41.91855135,-83.39685624,,,,,﻿Rev. Mr.,﻿Deseilles,,,,,,,,1836,,﻿,﻿,﻿Detroit,Detroit
-﻿det.mi.0083,﻿church,﻿St. Paul,English,,,,,,,,,,42.3861485,-82.9118591,,﻿visited alternately by Rev. Mr. Bohemes,,,﻿Rev. Mr.,﻿Bohemes,,,,,,,,1836,,﻿,﻿,﻿Detroit,Detroit
-﻿det.mi.9002,﻿church,﻿St. Felicite,English,,,,,,,,,,42.3861485,-82.9118591,,﻿visited alternately by Rev. Mr. Bohemes,,,﻿Rev. Mr.,﻿Bohemes,,,,,,,,1836,,﻿,﻿,﻿Detroit,Detroit
-﻿det.mi.9003,﻿church,﻿St. Francis,English,,,,,,,,,,42.3861485,-82.9118591,,﻿visited alternately by Rev. Mr. Bohemes,,﻿vandepool_901,﻿Rev. Mr.,﻿Bohemes,,,,,,,,1836,,﻿,﻿,﻿Detroit,Detroit
-﻿det.mi.9003,﻿college,﻿St. Joseph's College,English,,,,,,﻿Detroit,,﻿MI,,42.3861485,-82.9118591,,,,,﻿Rev. Mr.,﻿Vandepool,,﻿President,,,,,,1836,,﻿,﻿,﻿Detroit,Detroit
+﻿det.mi.0083,﻿church,﻿St. Paul,English,,,,,,,,,,42.3861485,-82.9118591,,﻿visited alternately by Rev. Mr. Bohemes,,﻿bohemes_901,﻿Rev. Mr.,﻿Bohemes,,,,,,,,1836,,﻿,﻿,﻿Detroit,Detroit
+﻿det.mi.9002,﻿church,﻿St. Felicite,English,,,,,,,,,,42.3861485,-82.9118591,,﻿visited alternately by Rev. Mr. Bohemes,,﻿bohemes_901,﻿Rev. Mr.,﻿Bohemes,,,,,,,,1836,,﻿,﻿,﻿Detroit,Detroit
+﻿det.mi.9003,﻿church,﻿St. Francis,English,,,,,,,,,,42.3861485,-82.9118591,,﻿visited alternately by Rev. Mr. Bohemes,,﻿bohemes_901,﻿Rev. Mr.,﻿Bohemes,,,,,,,,1836,,﻿,﻿,﻿Detroit,Detroit
+﻿det.mi.9003,﻿college,﻿St. Joseph's College,English,,,,,,﻿Detroit,,﻿MI,,42.3861485,-82.9118591,,,,﻿vandepool_901,﻿Rev. Mr.,﻿Vandepool,,﻿President,,,,,,1836,,﻿,﻿,﻿Detroit,Detroit
 ﻿det.mi.9003,﻿convent,﻿Convent,English,,,,,,﻿Detroit,,﻿MI,,42.3861485,-82.9118591,,,,,,,,,,,,﻿conducted by the Sisters of St. Clare,,1836,,﻿,﻿,﻿Detroit,Detroit
 ﻿det.mi.9008,﻿female academy,﻿Female Academy,English,,,,,,﻿Detroit,,﻿MI,,42.3861485,-82.9118591,,,,,,,,,,,,﻿conducted by the Sisters of St. Clare,,1836,,﻿,﻿,﻿Detroit,Detroit
 ﻿det.mi.9008,﻿convent,﻿St. Clare's Convent,English,,,﻿N. W. Territory,,,﻿Green Bay,,﻿MI,﻿WI,42.3861485,-82.9118591,,,,,,,,,,,,﻿conducted by the Sisters of St. Clare,,1836,,﻿,﻿,﻿Detroit,Detroit

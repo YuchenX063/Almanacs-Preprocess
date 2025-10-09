@@ -1,7 +1,7 @@
 ﻿instID,church_type,instName,language,instNote,placeName,region,county_orig,county_reg,city_orig,city_reg,state_orig,state_reg,latitude,longitude,attendingInstID,attendingChurch,attendingChurchFrequency,persID,persTitle,persName,persSuffix,persRole,persNote,memberType,member,affiliated,order,year,NOTES,courses,attendingPersID,attendingChurchNote,diocese,diocese_reg
 ﻿det.mi.0002,﻿cathedral,﻿Cathedral of St. Ann,"﻿German, French, English","﻿Sermons in German, French and English.",,,,﻿Wayne County,﻿Detroit,﻿Detroit,﻿MI,﻿MI,42.320833,-83.076667,,,,﻿fre_réze_901,﻿Right Rev.,﻿Frederick Rézé,﻿D.D.,,,,,,,1837,﻿https://ste-anne.org/about-us/parish-history/ ; https://en.wikipedia.org/wiki/Basilica_of_Sainte_Anne_de_D%C3%A9troit,,﻿,﻿,﻿Detroit,Detroit
 ﻿det.mi.0002,﻿cathedral,﻿Cathedral of St. Ann,"﻿German, French, English","﻿Sermons in German, French and English.",,,,﻿Wayne County,﻿Detroit,﻿Detroit,﻿MI,,42.320833,-83.076667,,,,﻿vin_badin_901,﻿Rev.,﻿Vincent Badin,,,,,,,,1837,,,﻿,﻿,﻿Detroit,Detroit
-﻿det.mi.0002,﻿cathedral,﻿Cathedral of St. Ann,"﻿German, French, English","﻿Sermons in German, French and English.",,,,﻿Wayne County,﻿Detroit,﻿Detroit,﻿MI,,42.320833,-83.076667,,,,﻿mar_kundig_901,﻿Rev.,﻿Martin Kundig,,,,,,,,1837,,,﻿,﻿,﻿Detroit,Detroit
+﻿det.mi.0002,﻿cathedral,﻿Cathedral of St. Ann,"﻿German, French, English","﻿Sermons in German, French and English.",,,,﻿Wayne County,﻿Detroit,﻿Detroit,﻿MI,,42.320833,-83.076667,,,,﻿mar_kundig_001,﻿Rev.,﻿Martin Kundig,,,,,,,,1837,,,﻿,﻿,﻿Detroit,Detroit
 ﻿det.mi.9007,﻿church,﻿Trinity Church,English,,,,,,﻿Detroit,,﻿MI,,42.320833,-83.076667,,,,﻿ber_ocavanagh_901,﻿Rev.,﻿Bernard O'Cavanagh,,,,,,,,1837,,,﻿,﻿,﻿Detroit,Detroit
 ﻿det.mi.9007,﻿church,﻿St. Clare's,English,,,,,,﻿Detroit,,﻿MI,,42.320833,-83.076667,,,,﻿s_a_bernier_901,﻿Rev.,﻿S. A. Bernier,,,,,,,,1837,,,﻿,﻿,﻿Detroit,Detroit
 ﻿det.mi.0018,﻿church,not recorded,English,,,,,,﻿Ann Arbour,﻿Ann Arbor,﻿MI,,42.2857551,-83.7413768,,,,﻿kelly_901,﻿Rev. Mr.,﻿Kelly,,,,,,,,1837,,,﻿,﻿,﻿Detroit,Detroit
@@ -19,7 +19,7 @@
 ﻿det.mi.0114,﻿church,not recorded,English,,,,,﻿Monroe County,﻿Monroe,﻿Monroe,﻿MI,﻿MI,41.91855135,-83.39685624,,,,﻿carabin_901,﻿Rev. Mr.,﻿Carabin,,,,,,,,1837,﻿https://www.stmarymonroe.org/history,,﻿,﻿,﻿Detroit,Detroit
 ﻿det.mi.0114,﻿church,not recorded,English,,,,,﻿Monroe County,﻿Prairie du Chien,﻿Monroe,﻿WI,,41.91855135,-83.39685624,,,,﻿sam_mazzuchelli_901,﻿Rev.,﻿S. Mazzuchelli,,,,,,,,1837,﻿https://www.prairieduchien.org/history/,,﻿,﻿,﻿Detroit,Detroit
 ﻿mar.mi.0082,﻿church,not recorded,English,,,,,,﻿Sault Ste. Marie,,﻿MI,,41.91855135,-83.39685624,,,,﻿hetscher_901,﻿Rev. Mr.,﻿Hetscher,,,,,,,,1837,,,﻿,﻿,﻿Detroit,Detroit
-﻿det.mi.9001,﻿church,﻿St. Joseph's,English,,,,,,,,﻿MI,,41.91855135,-83.39685624,,,,﻿st_badin_901,﻿Rev.,﻿S.T. Badin,,,,,,,,1837,,,﻿,﻿,﻿Detroit,Detroit
+﻿det.mi.9001,﻿church,﻿St. Joseph's,English,,,,,,,,﻿MI,,41.91855135,-83.39685624,,,,﻿ste_t_badin_901,﻿Rev.,﻿S.T. Badin,,,,,,,,1837,,,﻿,﻿,﻿Detroit,Detroit
 ﻿det.mi.9001,﻿church,﻿St. Joseph's,English,,,,,,,,﻿MI,,41.91855135,-83.39685624,,,,﻿deseilles_901,﻿Rev. Mr.,﻿Deseilles,,,,,,,,1837,,,﻿,﻿,﻿Detroit,Detroit
 ﻿det.mi.0083,﻿church,﻿St. Paul,English,,,,,,,,,,42.3861485,-82.9118591,,﻿Visited alternately by Rev. Mr. Bohemes,,﻿bohemes_901,﻿Rev. Mr.,﻿Bohemes,,,,,,,,1837,,,﻿,﻿,﻿Detroit,Detroit
 ﻿det.mi.9002,﻿church,﻿St. Felicite,English,,,,,,,,,,42.3861485,-82.9118591,,﻿Visited alternately by Rev. Mr. Bohemes,,﻿bohemes_901,﻿Rev. Mr.,﻿Bohemes,,,,,,,,1837,,,﻿,﻿,﻿Detroit,Detroit

@@ -39,7 +39,7 @@
 ﻿chi.il.0037,﻿church,﻿St. Mary's,English,,,,﻿Champaign County,,﻿Champaign City,﻿Champaign,﻿IL,,﻿40.11766284,-88.2293473,,,,﻿tho_ryan_001,﻿Rev.,﻿Thomas Ryan,,,,,,,,1864,﻿,﻿,﻿Chicago,Chicago
 ﻿chi.il.0040,﻿church,﻿St. Mary's,English,,,,﻿De Kalb County,,﻿De Kalb,﻿DeKalb,﻿IL,,﻿41.93294433,-88.74856482,,,,﻿j_murray_001,﻿Rev.,﻿J. Murray,,,,,,,,1864,﻿,﻿,﻿Chicago,Chicago
 ﻿chi.il.0041,﻿church,﻿St. Patrick's,English,,,,﻿Lee County,,﻿Dixon,﻿Dixon,﻿IL,,﻿41.83736085,-89.48387765,,,,﻿lou_lightner_001,﻿Rev.,﻿Louis Lightner,﻿D.D.,,,,,,,1864,﻿,﻿,﻿Chicago,Chicago
-﻿chi.il.0041,﻿church,﻿St. Thomas,English,,,,﻿Joe Daviess County,,﻿Dunleith,﻿Dixon,﻿IL,,﻿41.83736085,-89.48387765,,,,﻿tho_l_power_001,﻿Very Rev.,﻿Thos. L. Power,﻿O.S.D.,,,,,,,1864,﻿,﻿,﻿Chicago,Chicago
+﻿chi.il.0425,﻿church,﻿St. Thomas,English,,,,﻿Joe Daviess County,,﻿Dunleith,,,,﻿41.83736085,-89.48387765,,,,﻿tho_l_power_001,﻿Very Rev.,﻿Thos. L. Power,﻿O.S.D.,,,,,,,1864,﻿,﻿,﻿Chicago,Chicago
 ﻿chi.il.0045,﻿church,﻿Immaculate Conception,English,,,,﻿Kane County,,﻿Elgin,﻿Elgin,﻿IL,,﻿42.03527365,-88.27562783,,,,﻿a_eustace_001,﻿Rev.,﻿Andrew Eustace,,,,,,,,1864,﻿,﻿,﻿Chicago,Chicago
 ﻿chi.il.0049,﻿church,﻿St. Mary's,English,,,,﻿Stephenson County,,﻿Freeport,﻿Freeport,﻿IL,,﻿42.29253255,-89.61576885,,,,﻿tho_ogara_001,﻿Rev.,﻿Thomas O'Gara,,,,,,,,1864,﻿,﻿,﻿Chicago,Chicago
 ﻿chi.il.0050,﻿church,not recorded,﻿German,,,,﻿Stephenson County,,﻿Freeport,﻿Freeport,﻿IL,,﻿42.29400468,-89.62053274,,,,﻿ig_balluff_001,﻿Rev.,﻿Ig. Balluff,,,,,,,,1864,﻿,﻿,﻿Chicago,Chicago
@@ -148,7 +148,7 @@
 ﻿chi.il.0208,﻿station,not recorded,English,,,,﻿Cook County,,﻿Rock Island Junction,﻿Blue Island,﻿IL,,﻿41.64849109,-87.68528373,﻿chi.il.0024,"﻿Attended from St. James', Chicago",﻿occasionally,,,,,,,,,,,1864,﻿,﻿,﻿Chicago,Chicago
 ﻿chi.il.0212,﻿station,not recorded,English,,,,﻿Cook County,,﻿Richville,﻿Evanston,﻿IL,,﻿42.04448248,-87.68882453,﻿chi.il.0004,"﻿Attended from St. Joseph's, Chicago",﻿regularly,,,,,,,,,,,1864,﻿,﻿,﻿Chicago,Chicago
 ﻿chi.il.0209,﻿station,not recorded,English,,,,﻿McHenry County,﻿McHenry County,﻿Richmond,﻿Richmond,﻿IL,,﻿42.49015067,-88.30621053,﻿chi.il.0078,﻿Attended from McHenry,﻿regularly,,,,,,,,,,,1864,﻿,﻿,﻿Chicago,Chicago
-﻿chi.il.0209,﻿station,not recorded,English,,,,﻿Cook County,﻿McHenry County,﻿Rosehill,﻿Richmond,﻿IL,,﻿42.49015067,-88.30621053,﻿chi.il.0004,"﻿Attended from St. Michael's, Chicago",,,,,,,,,,,,1864,﻿,﻿,﻿Chicago,Chicago
+﻿chi.il.0424,﻿station,not recorded,English,,,,﻿Cook County,,﻿Rosehill,,,,﻿42.49015067,-88.30621053,﻿chi.il.0004,"﻿Attended from St. Michael's, Chicago",,,,,,,,,,,,1864,﻿,﻿,﻿Chicago,Chicago
 ﻿chi.il.0215,﻿station,not recorded,English,,,,,﻿Bureau County,﻿Sheffield,﻿Sheffield,﻿IL,,"﻿41.358292006572924, -89.7384978598952",-89.7373226,﻿chi.il.0078,﻿Attended from McHenry,,,,,,,,,,,,1864,﻿,﻿,﻿Chicago,Chicago
 ﻿chi.il.0213,﻿station,not recorded,English,,,,﻿Cook County,,﻿Sagganah and Summit,﻿Summit,﻿IL,,﻿41.78717663,-87.81242211,﻿chi.il.0075,﻿Attended from Lockport,﻿regularly,,,,,,,,,,,1864,﻿,﻿,﻿Chicago,Chicago
 ﻿chi.il.0397,﻿station,not recorded,English,,,,﻿Dekalb County,,﻿Sommac,,,,﻿41.78717663,-87.81242211,﻿chi.il.0081,﻿Attended from Mendota,﻿regularly,,,,,,,,,,,1864,﻿,﻿,﻿Chicago,Chicago
@@ -169,31 +169,31 @@
 ﻿chi.il.0235,﻿convent,﻿Redemptorist Convent,English,﻿For other Fathers see St. Michael's Church,﻿Corner of North avenue and Church street,,,,﻿Chicago,﻿Chicago,﻿IL,,﻿41.91116983,-87.63986557,,,,﻿geo_roesch_003,﻿Rev.,﻿George Roesch,﻿C.SS.R.,,,,,,,1864,﻿,﻿,﻿Chicago,Chicago
 ﻿chi.il.0235,﻿convent,﻿Redemptorist Convent,English,﻿For other Fathers see St. Michael's Church,﻿Corner of North avenue and Church street,,,,﻿Chicago,﻿Chicago,﻿IL,,﻿41.91116983,-87.63986557,,,,﻿alb_schaeffler_002,﻿Rev.,﻿Albert Schaeffler,﻿C.SS.R.,,,,,,,1864,﻿,﻿,﻿Chicago,Chicago
 ﻿chi.il.0235,﻿convent,﻿Redemptorist Convent,English,﻿For other Fathers see St. Michael's Church,﻿Corner of North avenue and Church street,,,,﻿Chicago,﻿Chicago,﻿IL,,﻿41.91116983,-87.63986557,,,,﻿jac_nagel_003,﻿Rev.,﻿R. F. Jacob Nagel,﻿C.SS.R.,,,﻿Professed Lay Brothers,﻿2 professed Lay Brothers,,,1864,﻿,﻿,﻿Chicago,Chicago
-﻿chi.il.0235,"﻿convent, academy",﻿Convent and Academy of St. Francis Xavier,English,﻿For other Fathers see St. Michael's Church,﻿Corner of North avenue and Church street,,,,﻿Chicago,﻿Chicago,﻿IL,,﻿41.91116983,-87.63986557,,,,,﻿Mother,﻿Francis De Sales,,﻿Superioress,,﻿Professed Lay Brothers,﻿2 professed Lay Brothers,﻿Under the direction of the Sisters of Mercy,,1864,﻿,﻿,﻿Chicago,Chicago
+﻿chi.il.0400,"﻿convent, academy",﻿Convent and Academy of St. Francis Xavier,English,,,,,,﻿Chicago,﻿Chicago,﻿IL,,﻿41.91116983,-87.63986557,,,,,﻿Mother,﻿Francis De Sales,,﻿Superioress,,,,﻿Under the direction of the Sisters of Mercy,,1864,﻿,﻿,﻿Chicago,Chicago
 ﻿chi.il.0399,﻿school,﻿St. Mary's Girls' Free School,English,,,,,,,,,,﻿41.91116983,-87.63986557,,,,,,,,,,,,﻿Conducted by the Sisters of Mercy,,1864,﻿,﻿,﻿Chicago,Chicago
-﻿chi.il.0399,﻿school,﻿St. John's Select and Free School,English,,,,,,,,,,﻿41.91116983,-87.63986557,,,,,,,,,,,,﻿Conducted by the Sisters of Mercy,,1864,﻿,﻿,﻿Chicago,Chicago
+﻿chi.il.0401,﻿school,﻿St. John's Select and Free School,English,,,,,,,,,,﻿41.91116983,-87.63986557,,,,,,,,,,,,﻿Conducted by the Sisters of Mercy,,1864,﻿,﻿,﻿Chicago,Chicago
 ﻿chi.il.0330,﻿hospital,﻿Chicago Mercy Hospital,English,,,,,,,,,,﻿41.91116983,-87.63986557,,,,,﻿Mother,﻿M. Borromeo,,﻿Directress,,﻿Patients,﻿60 patients,﻿Under the charge of the Sisters of Mercy,,1864,﻿,﻿,﻿Chicago,Chicago
-﻿chi.il.0330,﻿asylum,﻿St. Mary's Female Orphan Asylum,English,,,,,,﻿Chicago,﻿Chicago,﻿IL,,﻿41.91116983,-87.63986557,,,,,,,,,,﻿Patients,﻿60 patients,﻿Conducted by the Sisters of Mercy,,1864,﻿,﻿,﻿Chicago,Chicago
-﻿chi.il.0330,﻿school,﻿Sisters of Notre Dame,﻿German,,,,,,﻿Chicago,﻿Chicago,﻿IL,,﻿41.91116983,-87.63986557,,,,,﻿Sister,﻿S. M. Joachima,,﻿Superior,,﻿Girls (scholars),﻿238 girls (scholars),﻿Conducted by the Sisters of Mercy,,1864,﻿,﻿,﻿Chicago,Chicago
-﻿chi.il.0330,﻿school,﻿Sisters of Notre Dame,﻿German,,,,,,﻿Chicago,﻿Chicago,﻿IL,,﻿41.91116983,-87.63986557,,,,,,,,,,﻿Secular teachers,﻿2 secular teachers,﻿Conducted by the Sisters of Mercy,,1864,﻿,﻿,﻿Chicago,Chicago
-﻿chi.il.0330,﻿school,﻿Sisters of Notre Dame,﻿German,,,,,,﻿Chicago,﻿Chicago,﻿IL,,﻿41.91116983,-87.63986557,,,,,,,,,,﻿Boys,﻿272 boys,﻿Conducted by the Sisters of Mercy,,1864,﻿,﻿,﻿Chicago,Chicago
+﻿chi.il.0423,﻿asylum,﻿St. Mary's Female Orphan Asylum,English,,,,,,﻿Chicago,﻿Chicago,﻿IL,,﻿41.91116983,-87.63986557,,,,,,,,,,,,﻿Conducted by the Sisters of Mercy,,1864,﻿,﻿,﻿Chicago,Chicago
+﻿chi.il.0422,﻿school,﻿Sisters of Notre Dame,﻿German,,,,,,,,,,﻿41.91116983,-87.63986557,,,,,﻿Sister,﻿S. M. Joachima,,﻿Superior,,﻿Girls (scholars),﻿238 girls (scholars),,,1864,﻿,﻿,﻿Chicago,Chicago
+﻿chi.il.0422,﻿school,﻿Sisters of Notre Dame,﻿German,,,,,,,,,,﻿41.91116983,-87.63986557,,,,,,,,,,﻿Secular teachers,﻿2 secular teachers,,,1864,﻿,﻿,﻿Chicago,Chicago
+﻿chi.il.0422,﻿school,﻿Sisters of Notre Dame,﻿German,,,,,,,,,,﻿41.91116983,-87.63986557,,,,,,,,,,﻿Boys,﻿272 boys,,,1864,﻿,﻿,﻿Chicago,Chicago
 ﻿chi.il.0242,﻿seminary,﻿Academy of the Sacred Heart,English,,,,,,﻿Chicago,﻿Chicago,﻿IL,,﻿41.89689282,-87.62704114,,,,,﻿Madame,﻿M. J. Gallway,,﻿Superior,,﻿Religious,﻿33 religious,,,1864,﻿,﻿,﻿Chicago,Chicago
-﻿chi.il.0242,﻿school,﻿Holy Family Free and Select Schools,English,,,,,,﻿Chicago,﻿Chicago,﻿IL,,﻿41.89689282,-87.62704114,,,,,,,,,,﻿Religious,﻿33 religious,﻿Conducted by the Religious of the Sacred Heart,,1864,﻿,﻿,﻿Chicago,Chicago
-﻿chi.il.0242,﻿school,﻿Holy Family Free and Select Schools,English,﻿for boys,,,,,﻿Chicago,﻿Chicago,﻿IL,,﻿41.89689282,-87.62704114,,,,,,,,,,﻿Religious,﻿33 religious,﻿Conducted by the Lay Brothers of the Society of Jesus,,1864,﻿,﻿,﻿Chicago,Chicago
-﻿chi.il.0242,﻿school,﻿Holy Name Free and Select Schools,English,﻿for boys,,,,,﻿Chicago,﻿Chicago,﻿IL,,﻿41.89689282,-87.62704114,,,,,,,,,,﻿Religious,﻿33 religious,﻿Under the direction of the Sisters of Charity,,1864,﻿,﻿,﻿Chicago,Chicago
+﻿chi.il.0403,﻿school,﻿Holy Family Free and Select Schools,English,,,,,,,,,,﻿41.89689282,-87.62704114,,,,,,,,,,,,﻿Conducted by the Religious of the Sacred Heart,,1864,﻿,﻿,﻿Chicago,Chicago
+﻿chi.il.0404,﻿school,﻿Holy Family Free and Select Schools,English,﻿for boys,,,,,,,,,﻿41.89689282,-87.62704114,,,,,,,,,,,,﻿Conducted by the Lay Brothers of the Society of Jesus,,1864,﻿,﻿,﻿Chicago,Chicago
+﻿chi.il.0421,﻿school,﻿Holy Name Free and Select Schools,English,,,,,,,,,,﻿41.89689282,-87.62704114,,,,,,,,,,,,﻿Under the direction of the Sisters of Charity,,1864,﻿,﻿,﻿Chicago,Chicago
 ﻿chi.il.0286,﻿school,﻿St. Patrick's Free and Select School,English,﻿for boys,,,,,﻿Chicago,﻿Rose Hill,﻿IL,,﻿41.99766847,-87.67935105,,,,,,,,,,,,﻿Under the Christian Brothers,,1864,﻿,﻿,﻿Chicago,Chicago
 ﻿chi.il.0287,﻿school,﻿St. Patrick's School,English,﻿for girls,,,,,﻿Chicago,﻿Bridgeport,﻿IL,,﻿41.8412344,-87.65887064,,,,,,,,,,,,﻿Directed by Sisters of Charity,,1864,﻿,﻿,﻿Chicago,Chicago
-﻿chi.il.0287,﻿school,﻿St. Joseph's Parochial Schools,English,﻿free and select,,,,,﻿Chicago,﻿Bridgeport,﻿IL,,﻿41.8412344,-87.65887064,,,,,﻿Sister,﻿M. Barbara,,,,﻿Pupil,﻿300 pupils,﻿Directed by Sisters of Charity,,1864,﻿,﻿,﻿Chicago,Chicago
-﻿chi.il.0287,﻿school,﻿St. Michael's Parochial Schools,English,﻿free and select,,,,,﻿Chicago,﻿Bridgeport,﻿IL,,﻿41.8412344,-87.65887064,,,,,,,,,,﻿Pupil,﻿300 pupils,﻿Directed by Sisters of Charity,,1864,﻿,﻿,﻿Chicago,Chicago
+﻿chi.il.0406,﻿school,﻿St. Joseph's Parochial Schools,English,﻿free and select,,,,,,,,,﻿41.8412344,-87.65887064,,,,,﻿Sister,﻿M. Barbara,,,,﻿Pupil,﻿300 pupils,,,1864,﻿,﻿,﻿Chicago,Chicago
+﻿chi.il.0420,﻿school,﻿St. Michael's Parochial Schools,English,﻿free and select,,,,,,,,,﻿41.8412344,-87.65887064,,,,,,,,,,,,,,1864,﻿,﻿,﻿Chicago,Chicago
 ﻿chi.il.0329,"﻿asylum, school",﻿Chicago Reform and Industrial School,English,﻿Chartered by the State Legislature.,,,,,﻿Bridgeport,,,,﻿41.8412344,-87.65887064,,,,,,,,,,,,﻿Conducted by the Christian Brothers,,1864,﻿,﻿,﻿Chicago,Chicago
 ﻿chi.il.0326,﻿asylum,﻿Magdalen Asylum,English,,,,,,,,,,﻿41.8412344,-87.65887064,,,,,,,,,,﻿Penitents,﻿80 penitents,﻿Conducted by the Religious of the Good Shepherd,,1864,﻿,﻿,﻿Chicago,Chicago
 ﻿chi.il.0326,﻿asylum,﻿Magdalen Asylum,English,,,,,,,,,,﻿41.8412344,-87.65887064,,,,,,,,,,﻿Religious,﻿10 religious,﻿Conducted by the Religious of the Good Shepherd,,1864,﻿,﻿,﻿Chicago,Chicago
-﻿chi.il.0326,﻿school,﻿Academy for Young Ladies,English,,,,﻿Grundy County,,﻿Morris,,,,﻿41.8412344,-87.65887064,,,,,,,,,,﻿Religious,﻿10 religious,﻿By the Sisters of the Holy Cross,,1864,﻿,﻿,﻿Chicago,Chicago
-﻿chi.il.0326,﻿school,﻿Parochial Free and Select Schools,English,,,,﻿Grundy County,,﻿Morris,,,,﻿41.8412344,-87.65887064,,,,,,,,,,﻿Religious,﻿10 religious,﻿By the Sisters of the Holy Cross,,1864,﻿,﻿,﻿Chicago,Chicago
-﻿chi.il.0326,﻿convent,﻿St. Joseph's Mercy Convent,English,,,,﻿La Salle County,,﻿Ottawa,,,,﻿41.8412344,-87.65887064,,,,,,,,,,﻿Religious,﻿10 religious,﻿By the Sisters of the Holy Cross,,1864,﻿,﻿,﻿Chicago,Chicago
-﻿chi.il.0326,﻿school,﻿St. Joseph's Schools,English,,,,﻿La Salle County,,﻿Ottawa,,,,﻿41.8412344,-87.65887064,,,,,,,,,,﻿Religious,﻿10 religious,﻿By the Sisters of the Holy Cross,,1864,﻿,﻿,﻿Chicago,Chicago
-﻿chi.il.0326,﻿free school,﻿Parochial Free Schools,English,,,,﻿Lasalle,,﻿Ottawa,,,,﻿41.8412344,-87.65887064,,,,,,,,,,﻿Religious,﻿10 religious,﻿Under direction of the Christian Brothers,,1864,﻿,﻿,﻿Chicago,Chicago
-﻿chi.il.0326,﻿school,﻿Parochial Free and Select Schools,English,﻿for girls,,,﻿Lasalle,,﻿Ottawa,,,,﻿41.8412344,-87.65887064,,,,,,,,,,﻿Religious,﻿10 religious,﻿under the Sisters of Charity,,1864,﻿,﻿,﻿Chicago,Chicago
-﻿chi.il.0326,﻿school,﻿Parochial Schools,English,﻿for girls,,,﻿Lasalle,,﻿Bourbonnais Grove,,,,﻿41.8412344,-87.65887064,,,,,,,,,,﻿Religious,﻿10 religious,﻿Under direction of the Sisters of Congregation,,1864,﻿,﻿,﻿Chicago,Chicago
-﻿chi.il.0326,﻿school,﻿Peoria Parochial Free and Select Schools,English,﻿for girls,,,﻿Lasalle,,﻿Bourbonnais Grove,,,,﻿41.8412344,-87.65887064,,,,,,,,,,﻿Religious,﻿10 religious,﻿Directed by Sisters of St. Joseph,,1864,﻿,﻿,﻿Chicago,Chicago
-﻿chi.il.0326,﻿school,﻿Galena Parochial Free and Select Schools,English,﻿for girls,,,﻿Lasalle,,﻿Bourbonnais Grove,,,,﻿41.8412344,-87.65887064,,,,,,,,,,﻿Religious,﻿10 religious,﻿Under Sisters of the Dominican Order,,1864,﻿,﻿,﻿Chicago,Chicago
+﻿chi.il.0407,﻿school,﻿Academy for Young Ladies,English,,,,﻿Grundy County,,﻿Morris,,,,﻿41.8412344,-87.65887064,,,,,,,,,,,,﻿By the Sisters of the Holy Cross,,1864,﻿,﻿,﻿Chicago,Chicago
+﻿chi.il.0408,﻿school,﻿Parochial Free and Select Schools,English,,,,﻿Grundy County,,﻿Morris,,,,﻿41.8412344,-87.65887064,,,,,,,,,,,,﻿By the Sisters of the Holy Cross,,1864,﻿,﻿,﻿Chicago,Chicago
+﻿chi.il.0409,﻿convent,﻿St. Joseph's Mercy Convent,English,,,,﻿La Salle County,,﻿Ottawa,,,,﻿41.8412344,-87.65887064,,,,,,,,,,,,,,1864,﻿,﻿,﻿Chicago,Chicago
+﻿chi.il.0414,﻿school,﻿St. Joseph's Schools,English,,,,﻿La Salle County,,﻿Ottawa,,,,﻿41.8412344,-87.65887064,,,,,,,,,,,,,,1864,﻿,﻿,﻿Chicago,Chicago
+﻿chi.il.0415,﻿free school,﻿Parochial Free Schools,English,,,,﻿Lasalle,,,,,,﻿41.8412344,-87.65887064,,,,,,,,,,,,﻿Under direction of the Christian Brothers,,1864,﻿,﻿,﻿Chicago,Chicago
+﻿chi.il.0416,﻿school,﻿Parochial Free and Select Schools,English,﻿for girls,,,﻿Lasalle,,,,,,﻿41.8412344,-87.65887064,,,,,,,,,,,,﻿under the Sisters of Charity,,1864,﻿,﻿,﻿Chicago,Chicago
+﻿chi.il.0417,﻿school,﻿Parochial Schools,English,,,,,,﻿Bourbonnais Grove,,,,﻿41.8412344,-87.65887064,,,,,,,,,,,,﻿Under direction of the Sisters of Congregation,,1864,﻿,﻿,﻿Chicago,Chicago
+﻿chi.il.0418,﻿school,﻿Peoria Parochial Free and Select Schools,English,,,,,,,,,,﻿41.8412344,-87.65887064,,,,,,,,,,,,﻿Directed by Sisters of St. Joseph,,1864,﻿,﻿,﻿Chicago,Chicago
+﻿chi.il.0419,﻿school,﻿Galena Parochial Free and Select Schools,English,,,,,,,,,,﻿41.8412344,-87.65887064,,,,,,,,,,,,﻿Under Sisters of the Dominican Order,,1864,﻿,﻿,﻿Chicago,Chicago
