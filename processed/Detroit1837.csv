@@ -15,9 +15,9 @@
 ﻿det.mi.9005,﻿church,not recorded,﻿English,﻿Instructions in the English language,﻿Grand River,,,,,,﻿MI,﻿MI,45.62643692,-85.07105266,,,,﻿vizosky_901,﻿Rev. Mr.,﻿Vizosky,,,,,,,,1837,﻿https://en.wikipedia.org/wiki/Grand_River_(Michigan),,﻿,﻿,﻿Detroit,Detroit
 ﻿gre.wi.0002,﻿church,not recorded,﻿French and Menomony,﻿Sermons in French and Menomony.,,,,﻿Brown County,﻿Green Bay,﻿Green Bay,,﻿WI,44.50854102,-88.01525685,,,,﻿fra_hetscher_901,﻿Rev. Mr.,﻿Hetscher,,,,,,"﻿Served by a Seminary of Liguorists, 5 in No.",,1837,﻿https://www.gbdioc.org/history/,,﻿,﻿,﻿Detroit,Detroit
 ﻿gre.wi.0002,﻿church,not recorded,﻿French and Menomony,﻿Sermons in French and Menomony.,﻿Little Shoot Cockalin,,,﻿Brown County,﻿Green Bay,﻿Little Chute,,﻿WI,44.284167,-88.313611,,,,﻿the_j_vandenbroeck_901,﻿Rev.,﻿Theodore J. Vanden Broek,,,,,,"﻿Served by a Seminary of Liguorists, 5 in No.",,1837,,,﻿,﻿,﻿Detroit,Detroit
-﻿gre.wi.0002,﻿church,not recorded,﻿French and Menomony,﻿Sermons in French and Menomony.,﻿Little Shoot Cockalin,,,﻿Brown County,﻿Machinac,﻿Little Chute,,,44.284167,-88.313611,,,,﻿flo_bonduel_901,﻿Rev.,﻿F. Bonduel,,,,,,"﻿Served by a Seminary of Liguorists, 5 in No.",,1837,,,﻿,﻿,﻿Detroit,Detroit
+﻿mar.mi.0011,﻿church,not recorded,English,,,,,,﻿Machinac,,,,44.284167,-88.313611,,,,﻿flo_bonduel_901,﻿Rev.,﻿F. Bonduel,,,,,,,,1837,,,﻿,﻿,﻿Detroit,Detroit
 ﻿det.mi.0114,﻿church,not recorded,English,,,,,﻿Monroe County,﻿Monroe,﻿Monroe,﻿MI,﻿MI,41.91855135,-83.39685624,,,,﻿carabin_901,﻿Rev. Mr.,﻿Carabin,,,,,,,,1837,﻿https://www.stmarymonroe.org/history,,﻿,﻿,﻿Detroit,Detroit
-﻿det.mi.0114,﻿church,not recorded,English,,,,,﻿Monroe County,﻿Prairie du Chien,﻿Monroe,﻿WI,,41.91855135,-83.39685624,,,,﻿sam_mazzuchelli_901,﻿Rev.,﻿S. Mazzuchelli,,,,,,,,1837,﻿https://www.prairieduchien.org/history/,,﻿,﻿,﻿Detroit,Detroit
+﻿lac.wi.0019,﻿church,not recorded,English,,,,,,﻿Prairie du Chien,,﻿WI,,41.91855135,-83.39685624,,,,﻿sam_mazzuchelli_901,﻿Rev.,﻿S. Mazzuchelli,,,,,,,,1837,﻿https://www.prairieduchien.org/history/,,﻿,﻿,﻿Detroit,Detroit
 ﻿mar.mi.0082,﻿church,not recorded,English,,,,,,﻿Sault Ste. Marie,,﻿MI,,41.91855135,-83.39685624,,,,﻿fra_hetscher_901,﻿Rev. Mr.,﻿Hetscher,,,,,,,,1837,,,﻿,﻿,﻿Detroit,Detroit
 ﻿det.mi.9001,﻿church,﻿St. Joseph's,English,,,,,,,,﻿MI,,41.91855135,-83.39685624,,,,﻿ste_t_badin_901,﻿Rev.,﻿S.T. Badin,,,,,,,,1837,,,﻿,﻿,﻿Detroit,Detroit
 ﻿det.mi.9001,﻿church,﻿St. Joseph's,English,,,,,,,,﻿MI,,41.91855135,-83.39685624,,,,﻿deseilles_901,﻿Rev. Mr.,﻿Deseilles,,,,,,,,1837,,,﻿,﻿,﻿Detroit,Detroit
@@ -30,7 +30,7 @@
 ﻿det.mi.9003,﻿college,﻿St. Philip's College,English,,,﻿Cote Du Nord-est,,,﻿Detroit,,﻿MI,,42.3861485,-82.9118591,,,,﻿joh_de-bruyn_901,﻿Rev. Mr.,﻿De Bruyn,,﻿President of Studies,,,,,,1837,,,﻿,﻿,﻿Detroit,Detroit
 ﻿det.mi.9003,﻿convent,﻿Convent,English,,,﻿Cote Du Nord-est,,,﻿Detroit,,﻿MI,,42.3861485,-82.9118591,,,,,,,,,,,,﻿Sisters of St. Clare,,1837,,,﻿,﻿,﻿Detroit,Detroit
 ﻿det.mi.9008,﻿female academy,﻿Female Academy,English,,,,,,﻿Detroit,,﻿MI,,42.3861485,-82.9118591,,,,,,,,,,,,﻿Sisters of St. Clare,,1837,,,﻿,﻿,﻿Detroit,Detroit
-﻿det.mi.9008,﻿convent,﻿St. Clare's Convent,English,,,﻿N. W. Territory,,,﻿Green Bay,,﻿MI,﻿WI,42.3861485,-82.9118591,,,,,,,,,,,,﻿Sisters of St. Clare,,1837,,,﻿,﻿,﻿Detroit,Detroit
+﻿gre.wi.9001,﻿convent,﻿St. Clare's Convent,English,,,﻿N. W. Territory,,,﻿Green Bay,,,﻿WI,42.3861485,-82.9118591,,,,,,,,,,,,,,1837,,,﻿,﻿,﻿Detroit,Detroit
 ﻿det.mi.9001_02,﻿school,﻿Indian School,English,,﻿St. Joseph's,,,,,,﻿MI,,42.3861485,-82.9118591,,,,,,,,,,,,,,1837,,,﻿,﻿,﻿Detroit,Detroit
 ﻿det.mi.9005_02,﻿school,﻿Indian School,English,,,,,,﻿Grand River,,﻿MI,,42.3861485,-82.9118591,,,,,,,,,,,,,,1837,,,﻿,﻿,﻿Detroit,Detroit
 ﻿mar.mi.9000_02,﻿school,﻿Indian School,English,,﻿Arbre Croche,,,,,,﻿MI,,42.3861485,-82.9118591,,,,,,,,,,,,,,1837,,,﻿,﻿,﻿Detroit,Detroit

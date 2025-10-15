@@ -1,5 +1,5 @@
 ﻿instID,church_type,instName,language,instNote,placeName,region,county_orig,county_reg,city_orig,city_reg,state_orig,state_reg,latitude,longitude,attendingInstID,attendingChurch,attendingChurchFrequency,persID,persTitle,persName,persSuffix,persRole,persNote,memberType,member,affiliated,order,year,attendingPersID,attendingChurchNote,diocese,diocese_reg
-﻿lac.wi.0001,﻿church,﻿St. Mary's,English,,,,,,﻿La Crosse,﻿La Crosse,﻿WI,,43.80770588,-91.24728115,,,,,﻿Rev.,﻿P. M. Abbelen,,,,,,,,1870,﻿,﻿,﻿LaCrosse,LaCrosse
+﻿lac.wi.0001,﻿church,﻿St. Mary's,English,,,,,,﻿La Crosse,﻿La Crosse,﻿WI,,43.80770588,-91.24728115,,,,﻿p_m_abbelen_001,﻿Rev.,﻿P. M. Abbelen,,,,,,,,1870,﻿,﻿,﻿LaCrosse,LaCrosse
 ﻿lac.wi.0001,﻿church,﻿St. Mary's,English,,,,,,﻿La Crosse,﻿La Crosse,﻿WI,,43.80770588,-91.24728115,,,,﻿l_nicolas_001,﻿Rev.,﻿L. Nicolas,,,﻿attends the missions attached to La Crosse,,,,,1870,﻿,﻿,﻿LaCrosse,LaCrosse
 ﻿lac.wi.0002,﻿church,﻿St. Joseph's,English,,,,,,﻿La Crosse,,﻿WI,,43.81145314,-91.24877262,,,,﻿h_kampschroer_001,﻿Rev.,﻿H. Kampschroer,,,,,,,,1870,﻿,﻿,﻿LaCrosse,LaCrosse
 ﻿lac.wi.0003,﻿church,﻿St. Michael's,English,,,,﻿Sauk County,﻿Sauk County,﻿Baraboo,﻿Baraboo,﻿WI,,43.4710944,-89.7442906,,,﻿vacant,,,,,,,,,,,1870,﻿,﻿,﻿LaCrosse,LaCrosse

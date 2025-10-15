@@ -15,9 +15,9 @@
 ﻿gre.wi.0002,﻿church,not recorded,English,,,,,﻿Brown County,﻿Green Bay,﻿Green Bay,,﻿WI,44.50854102,-88.01525685,,,,﻿flo_bonduel_901,﻿Rev.,﻿Floriment Bonduel,,,,,,"﻿Served by a Seminary of Liguorists, 5 in No.",,1838,﻿https://www.gbdioc.org/history/,,﻿,﻿,﻿Detroit,Detroit
 ﻿gre.wi.0002,﻿church,not recorded,English,,﻿Little Shoot Cockalin,,,﻿Brown County,﻿Green Bay,﻿Green Bay,,,44.50854102,-88.01525685,,,,﻿the_j_vandenbroeck_901,﻿Rev.,﻿Theodore J. Vanden Broeck,,,,,,"﻿Served by a Seminary of Liguorists, 5 in No.",,1838,,,﻿,﻿,﻿Detroit,Detroit
 ﻿det.mi.0114,﻿church,not recorded,English,,,,,﻿Monroe County,﻿Monroe,﻿Monroe,﻿MI,﻿MI,41.91855135,-83.39685624,,,,﻿carabin_901,﻿Rev. Mr.,﻿Carabin,,,,,,,,1838,﻿https://www.stmarymonroe.org/history,,﻿,﻿,﻿Detroit,Detroit
-﻿det.mi.0114,﻿church,not recorded,English,,,,,﻿Monroe County,﻿Machinac,﻿Monroe,﻿MI,,41.91855135,-83.39685624,,,,﻿flo_bonduel_901,﻿Rev. Mr.,﻿Bonduel,,,,,,,,1838,,,﻿,﻿,﻿Detroit,Detroit
-﻿det.mi.0114,﻿church,not recorded,English,,﻿Pointe St. Ignace,,,﻿Monroe County,﻿Machinac,﻿Monroe,﻿MI,,41.91855135,-83.39685624,,,,﻿flo_bonduel_901,﻿Rev. Mr.,﻿Bonduel,,,,,,,,1838,,,﻿,﻿,﻿Detroit,Detroit
-﻿det.mi.0114,﻿church,not recorded,English,,﻿Pointe St. Ignace,,,﻿Monroe County,﻿Prairie du Chien,﻿Monroe,﻿WI,,41.91855135,-83.39685624,,,,﻿sam_mazzuchelli_901,﻿Rev.,﻿S. Mazzuchelli,,,,,,,,1838,﻿https://www.prairieduchien.org/history/,,﻿,﻿,﻿Detroit,Detroit
+﻿mar.mi.0011,﻿church,not recorded,English,,,,,,﻿Machinac,,,,41.91855135,-83.39685624,,,,﻿flo_bonduel_901,﻿Rev. Mr.,﻿Bonduel,,,,,,,,1838,,,﻿,﻿,﻿Detroit,Detroit
+﻿mar.mi.0011,﻿church,not recorded,English,,﻿Pointe St. Ignace,,,,﻿Machinac,,,,41.91855135,-83.39685624,,,,﻿flo_bonduel_901,﻿Rev. Mr.,﻿Bonduel,,,,,,,,1838,,,﻿,﻿,﻿Detroit,Detroit
+﻿lac.wi.0019,﻿church,not recorded,English,,,,,,﻿Prairie du Chien,,﻿WI,,41.91855135,-83.39685624,,,,﻿sam_mazzuchelli_901,﻿Rev.,﻿S. Mazzuchelli,,,,,,,,1838,﻿https://www.prairieduchien.org/history/,,﻿,﻿,﻿Detroit,Detroit
 ﻿mar.mi.0082,﻿church,not recorded,English,,,,,,﻿Sault Ste. Marie,,﻿MI,,41.91855135,-83.39685624,,,,﻿fra_x_pierz_001,﻿Rev. Mr.,﻿Pierz,,,,,,,,1838,,,﻿,﻿,﻿Detroit,Detroit
 ﻿mar.mi.0082,﻿church,not recorded,English,,﻿St. Clare's,,,,﻿Sault Ste. Marie,,﻿MI,,41.91855135,-83.39685624,,,﻿alternately,﻿s_a_bernier_901,﻿Rev.,﻿S. A. Bernier,,,,,,,,1838,,,﻿,﻿,﻿Detroit,Detroit
 ﻿mar.mi.0082,﻿church,not recorded,English,,﻿Mt. Clemen's,,,,﻿Sault Ste. Marie,,﻿MI,,41.91855135,-83.39685624,,,﻿alternately,﻿s_a_bernier_901,﻿Rev.,﻿S. A. Bernier,,,,,,,,1838,,,﻿,﻿,﻿Detroit,Detroit
@@ -32,7 +32,7 @@
 ﻿det.mi.9003,﻿high school,﻿St. Ann's High School,English,,,﻿Cote Du Nord-est,,,﻿Detroit,,﻿MI,,42.3861485,-82.9118591,,,,﻿wil_mcdonagh_901,,﻿William McDonagh,,﻿Superintendent,,,,,,1838,"﻿English, composition and declamation, penmanship, Arithmetic, both mental and by figures, Book-keeping by single and double entry-Euclid's Elements of Geometry, with other consecutive and useful branches of Mathematics. Ancient and Modern History, Natural and Moral Philosophy",,﻿,﻿,﻿Detroit,Detroit
 ﻿det.mi.9003,﻿convent,﻿Convent,English,,,﻿Cote Du Nord-est,,,﻿Detroit,,﻿MI,,42.3861485,-82.9118591,,,,,,,,,,,,﻿Sisters of St. Clare,,1838,,,﻿,﻿,﻿Detroit,Detroit
 ﻿det.mi.9008,﻿female academy,﻿Female Academy,English,,,,,,﻿Detroit,,﻿MI,,42.3861485,-82.9118591,,,,,,,,,,,,﻿Sisters of St. Clare,,1838,,,﻿,﻿,﻿Detroit,Detroit
-﻿det.mi.9008,﻿convent,﻿St. Clare's Convent,English,,,﻿N. W. Territory,,,﻿Green Bay,,﻿MI,﻿WI,42.3861485,-82.9118591,,,,,,,,,,,,﻿Sisters of St. Clare,,1838,,,﻿,﻿,﻿Detroit,Detroit
+﻿gre.wi.9001,﻿convent,﻿St. Clare's Convent,English,,,﻿N. W. Territory,,,﻿Green Bay,,,﻿WI,42.3861485,-82.9118591,,,,,,,,,,,,,,1838,,,﻿,﻿,﻿Detroit,Detroit
 ﻿det.mi.9001_02,﻿school,﻿Indian School,English,,﻿St. Joseph's,,,,,,﻿MI,,42.3861485,-82.9118591,,,,,,,,,,,,,,1838,,,﻿,﻿,﻿Detroit,Detroit
 ﻿det.mi.9005_02,﻿school,﻿Indian School,English,,,,,,﻿Grand River,,﻿MI,,42.3861485,-82.9118591,,,,,,,,,,,,,,1838,,,﻿,﻿,﻿Detroit,Detroit
 ﻿mar.mi.9000_02,﻿school,﻿Indian School,English,,﻿Arbre Croche,,,,,,﻿MI,,42.3861485,-82.9118591,,,,,,,,,,,,,,1838,,,﻿,﻿,﻿Detroit,Detroit
