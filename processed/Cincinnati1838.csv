@@ -4,7 +4,7 @@
 ﻿cin.oh.0001,﻿cathedral,﻿Cathedral of St. Peter,English,,,,,﻿Hamilton County,﻿Cincinnati,﻿Cincinnati,﻿OH,,39.103623,-84.509143,,,,﻿edw_j_collins_901,﻿Rev.,﻿Edward J. Collins,,,,,,,,1838,,,,﻿,﻿,﻿Cincinnati,Cincinnati
 ﻿cin.oh.0001,﻿cathedral,﻿Cathedral of St. Peter,English,,,,,﻿Hamilton County,﻿Cincinnati,﻿Cincinnati,﻿OH,,39.103623,-84.509143,,,,﻿fer_kühr_901,﻿Rev.,﻿Ferdinand Kühr,,,,,,,,1838,,,,﻿,﻿,﻿Cincinnati,Cincinnati
 ﻿cin.oh.0005,﻿church,﻿Holy Trinity,﻿German,,,,,﻿Hamilton County,﻿Cincinnati,﻿Cincinnati,﻿OH,﻿OH,39.09989682,-84.52362173,,,,﻿joh_m_henni_001,﻿Rev.,﻿John M. Henni,,,,,,,,1838,,,,﻿,﻿,﻿Cincinnati,Cincinnati
-﻿cin.oh.0005,﻿church,﻿Holy Trinity,﻿German,,,,,﻿Hamilton County,﻿Cincinnati,﻿Cincinnati,﻿OH,,39.09989682,-84.52362173,,,,﻿mat_wurtz_901,﻿Rev.,﻿Matthias Wurtz,,,,,,,,1838,,,,﻿,﻿,﻿Cincinnati,Cincinnati
+﻿cin.oh.0005,﻿church,﻿Holy Trinity,﻿German,,,,,﻿Hamilton County,﻿Cincinnati,﻿Cincinnati,﻿OH,,39.09989682,-84.52362173,,,,﻿mat_wuertz_901,﻿Rev.,﻿Matthias Wurtz,,,,,,,,1838,,,,﻿,﻿,﻿Cincinnati,Cincinnati
 ﻿cin.oh.9009,﻿church,not recorded,English,,﻿Au-Glaize and Blanchard's River Settlement,,,,,,﻿OH,,39.09989682,-84.52362173,,,,﻿j_m_horstman_901,﻿Rev.,﻿J. M. Horstman,,,,,,,,1838,,,,﻿,﻿,﻿Cincinnati,Cincinnati
 ﻿col.oh.9003,﻿church,﻿St. Louis,English,,,,,,﻿Beechland,,﻿OH,,39.09989682,-84.52362173,,,,﻿f_d_hoffman_901,﻿Rev.,﻿F. de Sales Hoffman,﻿D. D.,,,,,,,1838,,,,﻿,﻿,﻿Cincinnati,Cincinnati
 ﻿col.oh.9003,﻿church,﻿St. Louis,English,,,,,,﻿Beechland,,﻿OH,,39.09989682,-84.52362173,,,,﻿bas_shorb_901,﻿Rev.,﻿Basil Shorb,,,,,,,,1838,,,,﻿,﻿,﻿Cincinnati,Cincinnati
@@ -25,8 +25,8 @@
 ﻿col.oh.0063,﻿church,﻿Trinity Church,English,,,,,﻿Perry County,﻿Somerset,﻿Somerset,﻿OH,﻿OH,39.804422,-82.296296,,,,﻿nic_d_young_001,﻿Rev.,﻿N. D. Young,,,,,,,,1838,﻿https://holytrinitycatholicparish.com/about-us,,,﻿,﻿,﻿Cincinnati,Cincinnati
 ﻿col.oh.9001,﻿church,﻿St. Dominick's,English,,,,﻿Guernsey County,,,,﻿OH,,39.987843,-81.181479,,,,﻿jam_reid_001,﻿Rev.,﻿James Reid,,,,,,,,1838,,,,﻿,﻿,﻿Cincinnati,Cincinnati
 ﻿col.oh.9001,﻿church,﻿St. Joseph's,English,,,,﻿Monroe County,,,,﻿OH,,39.987843,-81.181479,,,,,,,,,,,,,,1838,,,,﻿,﻿,﻿Cincinnati,Cincinnati
-﻿col.oh.0064,﻿church,﻿St. Pius,English,,,,,﻿Jefferson County,﻿Steubenville,﻿Steubenville,﻿OH,﻿OH,40.3654,-80.612963,,,,﻿jam_conlan_901,﻿Rev.,﻿James Conlan,,,,,,,,1838,﻿https://www.stpetersteub.com/history/,,,﻿,﻿,﻿Cincinnati,Cincinnati
-﻿cle.oh.9000,﻿church,﻿St. Paul's,English,,,,,﻿Columbiana County,﻿New Lisbon,﻿Lisbon,﻿OH,﻿OH,40.773562,-80.772569,,,,﻿jam_conlan_901,﻿Rev.,﻿James Conlan,,,,,,,,1838,"﻿hard to say where this church was exactly, but this site claims it was near the present day catholic church in the town: https://www.lisbonvillage.org/history",,,﻿,﻿,﻿Cincinnati,Cincinnati
+﻿col.oh.0064,﻿church,﻿St. Pius,English,,,,,﻿Jefferson County,﻿Steubenville,﻿Steubenville,﻿OH,﻿OH,40.3654,-80.612963,,,,﻿jam_v_conlan_001,﻿Rev.,﻿James Conlan,,,,,,,,1838,﻿https://www.stpetersteub.com/history/,,,﻿,﻿,﻿Cincinnati,Cincinnati
+﻿cle.oh.9000,﻿church,﻿St. Paul's,English,,,,,﻿Columbiana County,﻿New Lisbon,﻿Lisbon,﻿OH,﻿OH,40.773562,-80.772569,,,,﻿jam_v_conlan_001,﻿Rev.,﻿James Conlan,,,,,,,,1838,"﻿hard to say where this church was exactly, but this site claims it was near the present day catholic church in the town: https://www.lisbonvillage.org/history",,,﻿,﻿,﻿Cincinnati,Cincinnati
 ﻿cle.oh.9013,﻿church,not recorded,English,,,,,,﻿Sugar Creek,,﻿OH,,40.773562,-80.772569,,﻿attended from Canton,,,,,,,,,,,,1838,,,,﻿,﻿,﻿Cincinnati,Cincinnati
 ﻿cin.oh.9018,﻿church,﻿St. Martin's,English,,,,﻿Brown County,﻿Brown County,﻿Fayetteville,,﻿OH,,40.773562,-80.772569,,,,﻿fra_masquelet_901,﻿Rev.,﻿Francis Masquelet,,,,,,,,1838,,,,﻿,﻿,﻿Cincinnati,Cincinnati
 ﻿col.oh.9005,﻿church,not recorded,English,,,﻿borders of Shelby and Mercer Counties,,,﻿Stallostown,,﻿OH,,40.773562,-80.772569,,,,﻿f_bartels_901,﻿Rev.,﻿F. Bartels,,,,,,,,1838,,,,﻿,﻿,﻿Cincinnati,Cincinnati

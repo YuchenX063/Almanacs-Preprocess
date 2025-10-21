@@ -1,9 +1,9 @@
 ﻿instID,church_type,instName,language,instNote,placeName,region,county_orig,county_reg,city_orig,city_reg,state_orig,state_reg,latitude,longitude,attendingInstID,attendingChurch,attendingChurchFrequency,persID,persTitle,persName,persSuffix,persRole,persNote,memberType,member,affiliated,order,year,attendingPersID,attendingChurchNote,diocese,diocese_reg
 ﻿nash.tn.0001,﻿cathedral,not recorded,English,,﻿Cathedral,,,,﻿Nashville,﻿Nashville,﻿TN,,36.1596597,-86.783051,,,,﻿p_a_feehan_001,﻿Right Rev.,﻿P. A. Feehan,,,,,,,,1870,﻿,﻿,﻿Nashville,Nashville
-﻿nash.tn.0001,﻿cathedral,not recorded,English,,﻿Cathedral,,,,﻿Nashville,﻿Nashville,﻿TN,,36.1596597,-86.783051,,,,﻿j_t_jarboe_001,﻿Very Rev.,﻿J. T. Jarboe,﻿O.P.,﻿V.G.,,,,,,1870,﻿,﻿,﻿Nashville,Nashville
+﻿nash.tn.0001,﻿cathedral,not recorded,English,,﻿Cathedral,,,,﻿Nashville,﻿Nashville,﻿TN,,36.1596597,-86.783051,,,,﻿jos_t_jarboe_001,﻿Very Rev.,﻿J. T. Jarboe,﻿O.P.,﻿V.G.,,,,,,1870,﻿,﻿,﻿Nashville,Nashville
 ﻿nash.tn.0001,﻿cathedral,not recorded,English,,﻿Cathedral,,,,﻿Nashville,﻿Nashville,﻿TN,,36.1596597,-86.783051,,,,﻿m_meagher_001,﻿Rev.,﻿M. Meagher,,,,,,,,1870,﻿,﻿,﻿Nashville,Nashville
 ﻿nash.tn.0001,﻿cathedral,not recorded,English,,﻿Cathedral,,,,﻿Nashville,﻿Nashville,﻿TN,,36.1596597,-86.783051,,,,﻿p_f_coyle_001,﻿Rev.,﻿P. F. Coyle,,,,,,,,1870,﻿,﻿,﻿Nashville,Nashville
-﻿nash.tn.0002,﻿church,﻿St. John's,English,,﻿Edgefield,,,,﻿Nashville,﻿Nashville,﻿TN,,36.1784432,-86.6791636,,,,﻿j_t_jarboe_001,﻿Very Rev.,﻿J. T. Jarboe,﻿O.P.,﻿V.G.,,,,,,1870,﻿,﻿,﻿Nashville,Nashville
+﻿nash.tn.0002,﻿church,﻿St. John's,English,,﻿Edgefield,,,,﻿Nashville,﻿Nashville,﻿TN,,36.1784432,-86.6791636,,,,﻿jos_t_jarboe_001,﻿Very Rev.,﻿J. T. Jarboe,﻿O.P.,﻿V.G.,,,,,,1870,﻿,﻿,﻿Nashville,Nashville
 ﻿nash.tn.0003,﻿church,﻿Church of the Assumption,﻿German,,,,,,﻿Nashville,﻿Nashville,﻿TN,,36.175432,-86.7915037,,,,,,,,,,,,,,1870,﻿,﻿,﻿Nashville,Nashville
 ﻿nash.tn.0004,﻿church,﻿St. Peter's,English,,,,,,﻿Memphis,﻿Memphis,﻿TN,,35.071573,-90.00337,,,,﻿j_a_kelly_001,﻿Rev.,﻿J. A. Kelly,﻿O.P.,,,,,,,1870,﻿,﻿,﻿Nashville,Nashville
 ﻿nash.tn.0004,﻿church,﻿St. Peter's,English,,,,,,﻿Memphis,﻿Memphis,﻿TN,,35.071573,-90.00337,,,,﻿m_b_fortune_001,﻿Rev.,﻿M. B. Fortune,﻿O.P.,,,,,,,1870,﻿,﻿,﻿Nashville,Nashville
