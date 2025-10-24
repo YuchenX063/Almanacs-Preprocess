@@ -10,7 +10,7 @@
 ﻿bos.ma.0002,﻿church,﻿St. Mary's,English,,﻿Endicott street,,,,﻿Boston,﻿Boston,﻿MA,,﻿42.365307,﻿-71.057407,,,,﻿den_okane_001,﻿Rev.,﻿Dennis C. Kane,﻿S.J.,,,,,,,1869,﻿,﻿,﻿Boston,Boston
 ﻿bos.ma.0002,﻿church,﻿St. Mary's,English,,﻿Endicott street,,,,﻿Boston,﻿Boston,﻿MA,,﻿42.365307,﻿-71.057407,,,,﻿j_prendergast_001,﻿Rev.,﻿J. Prendergast,﻿S.J.,,,,,,,1869,﻿,﻿,﻿Boston,Boston
 ﻿bos.ma.0002,﻿church,﻿St. Mary's,English,,﻿Endicott street,,,,﻿Boston,﻿Boston,﻿MA,,﻿42.365307,﻿-71.057407,,,,﻿jam_j_tehan_001,﻿Rev.,﻿James T. Teehau,﻿S.J.,,,,,,,1869,﻿,﻿,﻿Boston,Boston
-﻿bos.ma.0002,﻿church,﻿St. Mary's,English,,﻿Endicott street,,,,﻿Boston,﻿Boston,﻿MA,,﻿42.365307,﻿-71.057407,,,,﻿dompieri_001,﻿Rev. Fr.,﻿Dompieri,﻿S.J.,,,,,,,1869,﻿,﻿,﻿Boston,Boston
+﻿bos.ma.0002,﻿church,﻿St. Mary's,English,,﻿Endicott street,,,,﻿Boston,﻿Boston,﻿MA,,﻿42.365307,﻿-71.057407,,,,﻿sim_p_dompieri_001,﻿Rev. Fr.,﻿Dompieri,﻿S.J.,,,,,,,1869,﻿,﻿,﻿Boston,Boston
 ﻿bos.ma.0003,﻿church,﻿St. Patrick's,English,,,,,,﻿Boston,﻿Boston,﻿MA,,﻿42.360083,﻿-71.05888,,,,﻿tho_lynch_001,﻿Rev.,﻿Thomas Lynch,,,,,,,,1869,﻿,﻿,﻿Boston,Boston
 ﻿bos.ma.0003,﻿church,﻿St. Patrick's,English,,,,,,﻿Boston,﻿Boston,﻿MA,,﻿42.360083,﻿-71.05888,,,,﻿r_j_donovan_001,﻿Rev.,﻿R. J. Donovan,,,,,,,,1869,﻿,﻿,﻿Boston,Boston
 ﻿bos.ma.0004,﻿church,﻿St. James',English,,,,,,﻿Boston,﻿Boston,﻿MA,,﻿42.32683,﻿-71.086812,,,,﻿jam_a_healy_001,﻿Rev.,﻿James A. Healy,,,,,,,,1869,﻿,﻿,﻿Boston,Boston
@@ -24,7 +24,7 @@
 ﻿bos.ma.0007,﻿church,﻿St. Stephen's,English,,,,,,﻿Boston,﻿Boston,﻿MA,,﻿42.340386,﻿-71.07378,,,,﻿r_j_quinlan_001,﻿Rev.,﻿R. J. Quinlan,,,,,,,,1869,﻿,﻿,﻿Boston,Boston
 ﻿bos.ma.0007,﻿church,﻿St. Stephen's,English,,,,,,﻿Boston,﻿Boston,﻿MA,,﻿42.340386,﻿-71.07378,,,,﻿ant_molinari_001,﻿Rev.,﻿Antonio Molinari,,,,,,,,1869,﻿,﻿,﻿Boston,Boston
 ﻿bos.ma.0008,﻿church,﻿Immaculate Conception,English,,,,,,﻿Boston,﻿Boston,﻿MA,,﻿42.336818,﻿-71.073175,,,,﻿joh_bapst_002,﻿Rev.,﻿John Bapst,﻿S.J.,,,,,,,1869,﻿,﻿,﻿Boston,Boston
-﻿bos.ma.0008,﻿church,﻿Immaculate Conception,English,,,,,,﻿Boston,﻿Boston,﻿MA,,﻿42.336818,﻿-71.073175,,,,﻿e_h_welch_001,﻿Rev.,﻿E. H. Welch,﻿S.J.,,,,,,,1869,﻿,﻿,﻿Boston,Boston
+﻿bos.ma.0008,﻿church,﻿Immaculate Conception,English,,,,,,﻿Boston,﻿Boston,﻿MA,,﻿42.336818,﻿-71.073175,,,,﻿edw_h_welch_001,﻿Rev.,﻿E. H. Welch,﻿S.J.,,,,,,,1869,﻿,﻿,﻿Boston,Boston
 ﻿bos.ma.0008,﻿church,﻿Immaculate Conception,English,,,,,,﻿Boston,﻿Boston,﻿MA,,﻿42.336818,﻿-71.073175,,,,﻿rob_fulton_001,﻿Rev.,﻿Robert Fulton,﻿S.J.,,,,,,,1869,﻿,﻿,﻿Boston,Boston
 ﻿bos.ma.0008,﻿church,﻿Immaculate Conception,English,,,,,,﻿Boston,﻿Boston,﻿MA,,﻿42.336818,﻿-71.073175,,,,﻿alp_charlier_001,﻿Rev.,﻿Alphonsus Charlier,﻿S.J.,,,,,,,1869,﻿,﻿,﻿Boston,Boston
 ﻿bos.ma.0009,﻿church,﻿St. Joseph's,English,,,,,,﻿Boston,﻿Boston,﻿MA,,﻿42.366566,﻿-71.052568,,,,﻿ber_oreilly_001,﻿Rev.,﻿Bernard O'Reilly,,,,,,,,1869,﻿,﻿,﻿Boston,Boston
@@ -45,7 +45,7 @@
 ﻿bos.ma.0018,﻿church,﻿Star of the Sea,English,,﻿East Boston,,,,﻿Boston,﻿Boston,﻿MA,,﻿42.380008,﻿-71.025424,﻿bos.ma.0013,﻿Attended from the Church of the Most Holy Redeemer,,,,,,,,,,,,1869,﻿,﻿,﻿Boston,Boston
 ﻿bos.ma.0019,﻿chapel,﻿Chapel of the Blessed Virgin,English,,,,,,﻿Boston,﻿Boston,﻿MA,,﻿#NUM!,﻿#NUM!,﻿bos.ma.0007,﻿Attended from St. Stephen's,,,,,,,,,,,,1869,﻿,﻿,﻿Boston,Boston
 ﻿bos.ma.0020,﻿chapel,﻿St. Joseph's Chapel,English,,,,,,﻿Boston,﻿Boston,﻿MA,,﻿42.333398,﻿-71.173986,﻿bos.ma.0021,﻿Attended from St. Mary's,,,,,,,,,,,,1869,﻿,﻿,﻿Boston,Boston
-﻿bos.ma.0021,﻿chapel,﻿St. Mary's Chapel for the Italians,English,,,,,,﻿Boston,﻿Boston,﻿MA,,﻿42.360083,﻿-71.05888,,,,﻿dompieri_001,﻿Rev. Father,﻿Dompieri,,﻿Pastor,,,,,,1869,﻿,﻿,﻿Boston,Boston
+﻿bos.ma.0021,﻿chapel,﻿St. Mary's Chapel for the Italians,English,,,,,,﻿Boston,﻿Boston,﻿MA,,﻿42.360083,﻿-71.05888,,,,﻿sim_p_dompieri_001,﻿Rev. Father,﻿Dompieri,,﻿Pastor,,,,,,1869,﻿,﻿,﻿Boston,Boston
 ﻿bos.ma.0027,﻿church,﻿St. Bridget's,English,,,,,,﻿Abington,﻿Abington,﻿MA,,﻿42.116312,﻿-70.937129,,,,﻿a_l_roche_001,﻿Rev.,﻿A. L. Roche,,,,,,,,1869,﻿,﻿,﻿Boston,Boston
 ﻿bos.ma.0030,﻿church,﻿St. Joseph's,English,,,,,,﻿Amesbury,﻿Amesbury,﻿MA,,﻿42.842246,﻿-70.933835,,,,﻿joh_brady_001,﻿Rev.,﻿John Brady,,,,,,,,1869,﻿,﻿,﻿Boston,Boston
 ﻿bos.ma.0031,﻿church,﻿St. Augustine's,English,,,,,,﻿Andover,﻿Andover,﻿MA,,﻿42.653327,﻿-71.140937,,,,﻿m_f_gallagher_001,﻿Rev.,﻿M. F. Gallagher,﻿O.S.A.,,,,,,,1869,﻿,﻿,﻿Boston,Boston
@@ -238,12 +238,12 @@
 ﻿bos.ma.0190,﻿church,﻿St. Charles',English,,,,,,﻿Woburn,﻿Woburn,﻿MA,,﻿42.4766011,﻿-71.1509813,,,,﻿joh_qualy_001,﻿Rev.,﻿John Qualy,,,,,,,,1869,﻿,﻿,﻿Boston,Boston
 ﻿bos.ma.0191,﻿church,﻿St. John's,English,,,,,,﻿Worcester,﻿Worcester,﻿MA,,﻿42.244161,﻿-71.8298367,,,,﻿p_t_oreilly_001,﻿Rev.,﻿P. T. O'Reilly,,,,,,,,1869,﻿,﻿,﻿Boston,Boston
 ﻿bos.ma.0191,﻿church,﻿St. John's,English,,,,,,﻿Worcester,﻿Worcester,﻿MA,,﻿42.244161,﻿-71.8298367,,,,﻿tho_griffin_001,﻿Rev.,﻿Thomas Griffin,,,,,,,,1869,﻿,﻿,﻿Boston,Boston
-﻿bos.ma.0191,﻿church,﻿St. John's,English,,,,,,﻿Worcester,﻿Worcester,﻿MA,,﻿42.244161,﻿-71.8298367,,,,﻿t_h_kenny_001,,﻿T. H. Kenny,,,,,,,,1869,﻿,﻿,﻿Boston,Boston
+﻿bos.ma.0191,﻿church,﻿St. John's,English,,,,,,﻿Worcester,﻿Worcester,﻿MA,,﻿42.244161,﻿-71.8298367,,,,﻿tho_h_kenny_001,,﻿T. H. Kenny,,,,,,,,1869,﻿,﻿,﻿Boston,Boston
 ﻿bos.ma.0192,﻿church,﻿St. Ann's,English,,,,,,﻿Worcester,﻿Worcester,﻿MA,,﻿42.157506,﻿-71.8822018,,,,﻿joh_j_power_001,﻿Rev.,﻿John J. Power,,,,,,,,1869,﻿,﻿,﻿Boston,Boston
 ﻿bos.ma.0192,﻿church,﻿St. Ann's,English,,,,,,﻿Worcester,﻿Worcester,﻿MA,,﻿42.157506,﻿-71.8822018,,,,﻿w_a_power_001,﻿Rev.,﻿W. A. Power,,,,,,,,1869,﻿,﻿,﻿Boston,Boston
 ﻿bos.ma.0195,﻿church,not recorded,English,,,,,,﻿Wrentham,﻿Wrentham,﻿MA,,﻿42.0667652,﻿-71.3281114,﻿bos.ma.0037,﻿Attended from Attleboro,,,,,,,,,,,,1869,﻿,﻿,﻿Boston,Boston
 ﻿bos.ma.0196,﻿church,not recorded,English,,,,,,﻿Yarmouth,﻿Yarmouth,﻿MA,,﻿41.7056291,﻿-70.2286681,﻿bos.ma.0086,﻿Attended from Harwich,,,,,,,,,,,,1869,﻿,﻿,﻿Boston,Boston
-﻿bos.ma.0197,﻿college,﻿College of the Holy Cross,English,﻿Under the direction of the Fathers of the Society of Jesus. The course of studies is the same as that usually pursued in colleges of the Order.,,,,,﻿Worcester,﻿Worcester,﻿MA,,﻿42.2392391,﻿-71.8079608,,,,﻿r_w_brady_001,﻿Rev.,﻿R. W. Brady,﻿S.J.,﻿President and Treasurer,,,,,,1869,﻿,﻿,﻿Boston,Boston
+﻿bos.ma.0197,﻿college,﻿College of the Holy Cross,English,﻿Under the direction of the Fathers of the Society of Jesus. The course of studies is the same as that usually pursued in colleges of the Order.,,,,,﻿Worcester,﻿Worcester,﻿MA,,﻿42.2392391,﻿-71.8079608,,,,﻿rob_w_brady_001,﻿Rev.,﻿R. W. Brady,﻿S.J.,﻿President and Treasurer,,,,,,1869,﻿,﻿,﻿Boston,Boston
 ﻿bos.ma.0197,﻿college,﻿College of the Holy Cross,English,﻿Under the direction of the Fathers of the Society of Jesus. The course of studies is the same as that usually pursued in colleges of the Order.,,,,,﻿Worcester,﻿Worcester,﻿MA,,﻿42.2392391,﻿-71.8079608,,,,﻿pet_b_mcdermott_001,﻿Rev.,﻿Peter B. McDermott,﻿S.J.,,,,,,,1869,﻿,﻿,﻿Boston,Boston
 ﻿bos.ma.0197,﻿college,﻿College of the Holy Cross,English,﻿Under the direction of the Fathers of the Society of Jesus. The course of studies is the same as that usually pursued in colleges of the Order.,,,,,﻿Worcester,﻿Worcester,﻿MA,,﻿42.2392391,﻿-71.8079608,,,,﻿jam_major_001,﻿Rev.,﻿James Major,﻿S.J.,,,,,,,1869,﻿,﻿,﻿Boston,Boston
 ﻿bos.ma.0197,﻿college,﻿College of the Holy Cross,English,﻿Under the direction of the Fathers of the Society of Jesus. The course of studies is the same as that usually pursued in colleges of the Order.,,,,,﻿Worcester,﻿Worcester,﻿MA,,﻿42.2392391,﻿-71.8079608,,,,﻿leo_nota_001,﻿Rev.,﻿Leonard Nota,﻿S.J.,,,,,,,1869,﻿,﻿,﻿Boston,Boston
