@@ -49,7 +49,7 @@
 ﻿cin.oh.0021,﻿church,﻿St. Bonaventura's,English,﻿church building,﻿Fairmount,,,,﻿Cincinnati,,﻿OH,,﻿39.126247,-84.557962,,,,﻿jac_menken_001,﻿Rev.,﻿Jacob Menken,﻿O.S.F.,,,,,,,1869,﻿,﻿,﻿Cincinnati,Cincinnati
 ﻿cin.oh.0022,﻿church,﻿St. George's,English,﻿church building,﻿Vine Street Hill,,,,﻿Cincinnati,,﻿OH,,﻿39.128105,-84.512307,,,,,,,,,,,,,,1869,﻿,﻿,﻿Cincinnati,Cincinnati
 ﻿cin.oh.0023,﻿church,﻿St. Francis of Sales,English,,﻿E. Walnut Hill P.O.,,,,﻿Cincinnati,,﻿OH,,﻿39.129917,-84.476541,,,,﻿joh_j_mengé_001,﻿Rev.,﻿John J. Mengé,,,,,,,,1869,﻿,﻿,﻿Cincinnati,Cincinnati
-﻿cin.oh.0024,﻿church,﻿St. Heart,English,,"﻿Good Shepard, Bank street",,,,﻿Cincinnati,,﻿OH,,﻿39.10303,-84.511969,,,,﻿hen_koering_001,﻿Rev.,﻿— Koering,,,,,,,,1869,﻿,﻿,﻿Cincinnati,Cincinnati
+﻿cin.oh.0206_03,﻿church,﻿St. Heart,English,,"﻿Good Shepard, Bank street",,,,﻿Cincinnati,,﻿OH,,﻿39.217832,-84.477976,,,,﻿hen_koering_001,﻿Rev.,﻿— Koering,,,,,,,,1869,﻿,﻿,﻿Cincinnati,Cincinnati
 ﻿cin.oh.0026,﻿church,﻿St. Clement's,English,,,﻿The Vicinity of the City of Cincinnati,,,﻿St. Bernard,,﻿OH,,﻿39.165988,-84.500267,,,,﻿lou_haverbeck_001,﻿Rev.,﻿Louis Haverbeck,﻿O.S.F.,,,,,,,1869,﻿,﻿,﻿Cincinnati,Cincinnati
 ﻿cin.oh.0027,﻿church,﻿St. Aloysius',English,,,﻿The Vicinity of the City of Cincinnati,,,﻿Cumminsville,,﻿OH,,﻿39.161291,-84.543496,,,,﻿dav_b_walker_001,﻿Rev.,﻿David B. Walker,,,,,,,,1869,﻿,﻿,﻿Cincinnati,Cincinnati
 ﻿cin.oh.0028,﻿church,﻿St. Boniface's,English,,,﻿The Vicinity of the City of Cincinnati,,,﻿Cumminsville,,﻿OH,,﻿39.160933,-84.544653,,,,﻿bon_g_topmöller_001,﻿Rev.,﻿Bonifacius Godf. Topmöller,,,,,,,,1869,﻿,﻿,﻿Cincinnati,Cincinnati
@@ -76,7 +76,7 @@
 ﻿cin.oh.0212_02,﻿chapel,﻿Chapel of St. Peter's Orphan Asylum,English,,,﻿The Vicinity of the City of Cincinnati,,,,,﻿OH,,﻿40.417287,-82.907123,,﻿Attended by Rev. D. B. Walker,,,,,,,,,,,,1869,﻿,﻿,﻿Cincinnati,Cincinnati
 ﻿cin.oh.0213_02,﻿chapel,﻿Chapel of St. Aloysius' Orphan Asylum,English,,,﻿The Vicinity of the City of Cincinnati,,,,,﻿OH,,﻿39.114314,-84.42909,,﻿Attended by Very Rev. J. Ferneding,,,,,,,,,,,,1869,﻿,﻿,﻿Cincinnati,Cincinnati
 ﻿cin.oh.0206_02,﻿chapel,﻿Chapel of the Sacred Heart,English,,﻿Convent of the Sisters of the Good Shepard,﻿The Vicinity of the City of Cincinnati,,,,,﻿OH,,﻿39.217832,-84.477976,,,,﻿hen_koering_001,﻿Rev.,﻿Henry Koering,,,,,,,,1869,﻿,﻿,﻿Cincinnati,Cincinnati
-﻿cin.oh.0051,﻿chapel,﻿Chapel of the Guardian Angel,English,,﻿on Congress street,﻿The Vicinity of the City of Cincinnati,,,,,﻿OH,,﻿39.09651,-84.509308,﻿cin.oh.0002,﻿Attended from St. Xavier's,,,,,,,,,,,,1869,﻿,﻿,﻿Cincinnati,Cincinnati
+﻿cin.oh.0209_02,﻿chapel,﻿Chapel of the Guardian Angel,English,,﻿on Congress street,﻿The Vicinity of the City of Cincinnati,,,,,﻿OH,,﻿39.103118,-84.51202,﻿cin.oh.0002,﻿Attended from St. Xavier's,,,,,,,,,,,﻿Sisters of the Good Shepard,1869,﻿,﻿,﻿Cincinnati,Cincinnati
 ﻿cin.oh.0053,﻿religious institution,not recorded,English,,,,﻿Hardin County,,﻿Ada,,﻿OH,,﻿40.769497,-83.822715,﻿cin.oh.0103,﻿Attended from Kenton,,,,,,,,,,,,1869,﻿,﻿,﻿Cincinnati,Cincinnati
 ﻿cin.oh.0054,﻿church,﻿St. Mary's,English,,,,﻿Brown County,,﻿Arnheim,,﻿OH,,﻿40.35116793,-84.37165505,﻿cin.oh.0147,﻿Attended from Ripley,,,,,,,,,,,,1869,﻿,﻿,﻿Cincinnati,Cincinnati
 ﻿cin.oh.0055,﻿church,﻿St. Patrick's,English,,,,﻿Logan County,,﻿Bellefontaine,,﻿OH,,﻿40.361164,-83.759656,,,,﻿joh_coveney_001,﻿Rev.,﻿John Coveney,,,,,,,,1869,﻿,﻿,﻿Cincinnati,Cincinnati
@@ -256,7 +256,7 @@
 ﻿cin.oh.0205,﻿convent,﻿Convent of the Sisters of Mercy,English,,﻿Fourth street,,,,﻿Cincinnati,,﻿OH,,﻿40.801721,-83.510482,,,,,,,,,,,,,,1869,﻿,﻿,﻿Cincinnati,Cincinnati
 ﻿cin.oh.0206,﻿convent,﻿Convent of the Good Shepard,English,,﻿Bank street,,,,﻿Cincinnati,,﻿OH,,﻿40.801721,-83.510482,,,,,,,,,,,,,,1869,﻿,﻿,﻿Cincinnati,Cincinnati
 ﻿cin.oh.0207,﻿convent,﻿Convent of the Little Sisters of the Poor,English,,﻿on George street,,,,﻿Cincinnati,,﻿OH,,﻿40.801721,-83.510482,,,,,,,,,,,,,,1869,﻿,﻿,﻿Cincinnati,Cincinnati
-﻿cin.oh.0208,﻿school,﻿School of Reform,English,,,,,,,,﻿OH,,﻿40.801721,-83.510482,,,,,,,,,,,,﻿Conducted by the Sisters of the Good Shepard,,1869,﻿,﻿,﻿Cincinnati,Cincinnati
+﻿cin.oh.0208,﻿school,﻿School of Reform,English,,,,,,,,﻿OH,,﻿40.801721,-83.510482,,,,,,,,,,,,﻿Conducted by the Sisters of the Good Shepard,﻿Sisters of the Good Shepard,1869,﻿,﻿,﻿Cincinnati,Cincinnati
 ﻿cin.oh.0209,﻿house,﻿House of the Guardian Angel,English,"﻿in which 50 to 60 young girls are boarded, lodged, and taught trades by the Sisters of the Good Shepherd",﻿on Congress,,,,﻿Cincinnati,,﻿OH,,﻿40.801721,-83.510482,,,,,,,,,,﻿boarders,﻿50 to 60 boarders,﻿Sisters of the Good Shepherd,,1869,﻿,﻿,﻿Cincinnati,Cincinnati
 ﻿cin.oh.0292,﻿protectory,﻿Protectory for Boys,English,,,,,,,﻿Cincinnati,﻿OH,,﻿40.801721,-83.510482,,,,,,,,,,,,﻿Directed by the Franciscan Brothers,,1869,﻿,﻿,﻿Cincinnati,Cincinnati
 ﻿cin.oh.0210,﻿hospital,﻿St. Mary's Hospital,English,,﻿on N.W. corner of Betts and Linn streets,,,,﻿Cincinnati,,﻿OH,,﻿40.801721,-83.510482,,,,,,,,,,,,﻿Under the Sisters of St. Francis,,1869,﻿,﻿,﻿Cincinnati,Cincinnati
@@ -301,22 +301,22 @@
 ﻿cin.oh.0248,﻿institution,﻿H. Angels',English,﻿2 divisions,,,,,﻿Sidney,,﻿OH,,﻿40.801721,-83.510482,,,,,,,,,,﻿children,"﻿average attendance, 130 child'n",,,1869,﻿,﻿,﻿Cincinnati,Cincinnati
 ﻿cin.oh.0249,﻿institution,﻿St. Mary's,English,﻿1 division,,,,,﻿Urbana,,﻿OH,,﻿40.801721,-83.510482,,,,,,,,,,﻿children,"﻿average attendance, 175 child'n",,,1869,﻿,﻿,﻿Cincinnati,Cincinnati
 ﻿cin.oh.0070_02,﻿institution,﻿St. Peter's,English,﻿4 divisions,,,,,﻿Chillicothe,,﻿OH,,﻿40.801721,-83.510482,,,,,,,,,,﻿children,"﻿average attendance, 492 child'n",,,1869,﻿,﻿,﻿Cincinnati,Cincinnati
-﻿cin.oh.0251,﻿institution,﻿St. Andrew's,English,﻿1 division,,,,,﻿Milford,,﻿OH,,﻿40.801721,-83.510482,,,,,,,,,,﻿children,"﻿average attendance, 40 child'n",,,1869,﻿,﻿,﻿Cincinnati,Cincinnati
-﻿cin.oh.0252,﻿institution,﻿St. —,English,﻿1 division,,,,,﻿Loveland,,﻿OH,,﻿40.801721,-83.510482,,,,,,,,,,﻿children,"﻿average attendance, 30 child'n",,,1869,﻿,﻿,﻿Cincinnati,Cincinnati
-﻿cin.oh.0253,﻿institution,﻿St. Mary's,English,﻿1 division,,,,,﻿Hillsboro,,﻿OH,,﻿40.801721,-83.510482,,,,,,,,,,﻿children,"﻿average attendance, 80 child'n",,,1869,﻿,﻿,﻿Cincinnati,Cincinnati
-﻿cin.oh.0254,﻿institution,﻿St. Bineen's,English,﻿1 division,,,,,﻿Greenfield,,﻿OH,,﻿40.801721,-83.510482,,,,,,,,,,﻿children,"﻿average attendance, 50 child'n",,,1869,﻿,﻿,﻿Cincinnati,Cincinnati
-﻿cin.oh.0255,﻿institution,﻿St. Patrick's,English,﻿1 division,,,,,﻿London,,﻿OH,,﻿40.801721,-83.510482,,,,,,,,,,﻿children,"﻿average attendance, 80 child'n",,,1869,﻿,﻿,﻿Cincinnati,Cincinnati
-﻿cin.oh.0256,﻿institution,﻿St. Boniface's,English,﻿2 divisions,,,,,﻿Piqua,,﻿OH,,﻿40.801721,-83.510482,,,,,,,,,,﻿children,"﻿average attendance, 190 child'n",,,1869,﻿,﻿,﻿Cincinnati,Cincinnati
-﻿cin.oh.0257,﻿institution,﻿St. Emmanuel's,English,﻿5 divisions,,,,,﻿Dayton,,﻿OH,,﻿40.801721,-83.510482,,,,,,,,,,﻿children,"﻿average attendance, 500 child'n",,,1869,﻿,﻿,﻿Cincinnati,Cincinnati
+﻿cin.oh.0119_02,﻿institution,﻿St. Andrew's,English,﻿1 division,,,,,﻿Milford,,﻿OH,,﻿40.801721,-83.510482,,,,,,,,,,﻿children,"﻿average attendance, 40 child'n",,,1869,﻿,﻿,﻿Cincinnati,Cincinnati
+﻿cin.oh.0109_02,﻿institution,﻿St. —,English,﻿1 division,,,,,﻿Loveland,,﻿OH,,﻿40.801721,-83.510482,,,,,,,,,,﻿children,"﻿average attendance, 30 child'n",,,1869,﻿,﻿,﻿Cincinnati,Cincinnati
+﻿cin.oh.0098_02,﻿institution,﻿St. Mary's,English,﻿1 division,,,,,﻿Hillsboro,,﻿OH,,﻿40.801721,-83.510482,,,,,,,,,,﻿children,"﻿average attendance, 80 child'n",,,1869,﻿,﻿,﻿Cincinnati,Cincinnati
+﻿cin.oh.0092_02,﻿institution,﻿St. Bineen's,English,﻿1 division,,,,,﻿Greenfield,,﻿OH,,﻿40.801721,-83.510482,,,,,,,,,,﻿children,"﻿average attendance, 50 child'n",,,1869,﻿,﻿,﻿Cincinnati,Cincinnati
+﻿cin.oh.0107_02,﻿institution,﻿St. Patrick's,English,﻿1 division,,,,,﻿London,,﻿OH,,﻿40.801721,-83.510482,,,,,,,,,,﻿children,"﻿average attendance, 80 child'n",,,1869,﻿,﻿,﻿Cincinnati,Cincinnati
+﻿cin.oh.0141_02,﻿institution,﻿St. Boniface's,English,﻿2 divisions,,,,,﻿Piqua,,﻿OH,,﻿40.801721,-83.510482,,,,,,,,,,﻿children,"﻿average attendance, 190 child'n",,,1869,﻿,﻿,﻿Cincinnati,Cincinnati
+﻿cin.oh.0075_02,﻿institution,﻿St. Emmanuel's,English,﻿5 divisions,,,,,﻿Dayton,,﻿OH,,﻿40.801721,-83.510482,,,,,,,,,,﻿children,"﻿average attendance, 500 child'n",,,1869,﻿,﻿,﻿Cincinnati,Cincinnati
 ﻿cin.oh.0258,﻿institution,﻿Fairfield,English,﻿1 division,,,,,,,﻿OH,,﻿40.801721,-83.510482,,,,,,,,,,﻿children,"﻿average attendance, 60 child'n",,,1869,﻿,﻿,﻿Cincinnati,Cincinnati
-﻿cin.oh.0259,﻿school,﻿H. Trinity,English,﻿4 divisions,,,,,﻿Dayton,﻿Dayton,﻿OH,,﻿39.7904795,-84.0914803,,,,,,,,,,﻿children,"﻿4 divisions. av. attendance, 400 child'n",,,1869,﻿,﻿,﻿Cincinnati,Cincinnati
-﻿cin.oh.0260,﻿school,﻿St. Peter's,English,,,,,,﻿New-Richmond,﻿New Richmond,﻿OH,,﻿38.970112,-84.2612964,,,,,,,,,,﻿children,"﻿1 division. av. attendance, 65 child'n",,,1869,﻿,﻿,﻿Cincinnati,Cincinnati
-﻿cin.oh.0261,﻿school,﻿St. Michael's,English,,,,,,﻿Berlin,﻿Berlin,﻿OH,,﻿40.4172871,-82.907123,,,,,,,,,,﻿children,"﻿2 divisions. av. attendance, 190 child'n",,,1869,﻿,﻿,﻿Cincinnati,Cincinnati
+﻿cin.oh.0077_02,﻿school,﻿H. Trinity,English,﻿4 divisions,,,,,﻿Dayton,﻿Dayton,﻿OH,,﻿39.7904795,-84.0914803,,,,,,,,,,﻿children,"﻿4 divisions. av. attendance, 400 child'n",,,1869,﻿,﻿,﻿Cincinnati,Cincinnati
+﻿cin.oh.0131_02,﻿school,﻿St. Peter's,English,,,,,,﻿New-Richmond,﻿New Richmond,﻿OH,,﻿38.970112,-84.2612964,,,,,,,,,,﻿children,"﻿1 division. av. attendance, 65 child'n",,,1869,﻿,﻿,﻿Cincinnati,Cincinnati
+﻿cin.oh.0056_02,﻿school,﻿St. Michael's,English,,,,,,﻿Berlin,﻿Berlin,﻿OH,,﻿40.4172871,-82.907123,,,,,,,,,,﻿children,"﻿2 divisions. av. attendance, 190 child'n",,,1869,﻿,﻿,﻿Cincinnati,Cincinnati
 ﻿cin.oh.0262,﻿school,﻿St. Joseph's,English,,,,,,﻿Hamilton,﻿Hamilton,﻿OH,,﻿39.3907707,-84.5658661,,,,,,,,,,﻿children,"﻿2 divisions. av. attendance, 260 child'n",,,1869,﻿,﻿,﻿Cincinnati,Cincinnati
-﻿cin.oh.0263,﻿school,﻿St. Mary's,English,,,,,,﻿Hamilton,﻿Hamilton,﻿OH,,﻿39.3980589,-84.5551519,,,,,,,,,,﻿children,"﻿1 division. av. attendance, 100 child'n",,,1869,﻿,﻿,﻿Cincinnati,Cincinnati
-﻿cin.oh.0264,﻿school,﻿St. Martin's,English,,,,﻿Brown County,﻿Brown County,,,﻿OH,,﻿39.2145071,-83.8932619,,,,,,,,,,﻿children,"﻿1 division. av. attendance, 40 child'n",,,1869,﻿,﻿,﻿Cincinnati,Cincinnati
-﻿cin.oh.0265,﻿school,﻿St. Mary's,English,,,,,,﻿Dayton,﻿Dayton,﻿OH,,﻿39.7561181,-84.1982372,,,,,,,,,,﻿children,"﻿1 division. av. attendance, 90 child'n",,,1869,﻿,﻿,﻿Cincinnati,Cincinnati
-﻿cin.oh.0266,﻿school,﻿St. Gabriel's,English,,,,,,﻿Glendale,﻿Glendale,﻿OH,,﻿39.2729725,-84.4683892,,,,,,,,,,﻿children,"﻿4 divisions. av. attendance, 200 child'n",,,1869,﻿,﻿,﻿Cincinnati,Cincinnati
+﻿cin.oh.0095_02,﻿school,﻿St. Mary's,English,,,,,,﻿Hamilton,﻿Hamilton,﻿OH,,﻿39.3980589,-84.5551519,,,,,,,,,,﻿children,"﻿1 division. av. attendance, 100 child'n",,,1869,﻿,﻿,﻿Cincinnati,Cincinnati
+﻿cin.oh.0170_02,﻿school,﻿St. Martin's,English,,,,﻿Brown County,﻿Brown County,,,﻿OH,,﻿39.2145071,-83.8932619,,,,,,,,,,﻿children,"﻿1 division. av. attendance, 40 child'n",,,1869,﻿,﻿,﻿Cincinnati,Cincinnati
+﻿cin.oh.0078_02,﻿school,﻿St. Mary's,English,,,,,,﻿Dayton,﻿Dayton,﻿OH,,﻿39.7561181,-84.1982372,,,,,,,,,,﻿children,"﻿1 division. av. attendance, 90 child'n",,,1869,﻿,﻿,﻿Cincinnati,Cincinnati
+﻿cin.oh.0034_02,﻿school,﻿St. Gabriel's,English,,,,,,﻿Glendale,﻿Glendale,﻿OH,,﻿39.2729725,-84.4683892,,,,,,,,,,﻿children,"﻿4 divisions. av. attendance, 200 child'n",,,1869,﻿,﻿,﻿Cincinnati,Cincinnati
 ﻿cin.oh.0267,﻿school,﻿St. Mary's,English,,,,﻿Mercer County,﻿Mercer County,,,﻿OH,,﻿40.5940548,-84.6897495,,,,,,,,,,﻿children,"﻿1 division. av. attendance, 40 child'n",,,1869,﻿,﻿,﻿Cincinnati,Cincinnati
 ﻿cin.oh.0268,﻿school,﻿St. Aloysius',English,,,,﻿Mercer County,﻿Mercer County,,,﻿OH,,﻿40.4364192,-84.5700288,,,,,,,,,,﻿children,"﻿1 division. av. attendance, 20 child'n",,,1869,﻿,﻿,﻿Cincinnati,Cincinnati
 ﻿cin.oh.0269,﻿school,﻿St. Mary's,English,,,,﻿Mercer County,﻿Mercer County,﻿Philothea,﻿Philothea,﻿OH,,﻿40.4516676,-84.6544515,,,,,,,,,,﻿children,"﻿1 division. av. attendance, 46 child'n",,,1869,﻿,﻿,﻿Cincinnati,Cincinnati
@@ -325,8 +325,8 @@
 ﻿cin.oh.0272,﻿school,﻿S. Heart,English,,,,,,﻿Dinsmore,﻿Dinsmore,﻿OH,,﻿40.4267278,-84.1646163,,,,,,,,,,﻿children,"﻿1 division. av. attendance, 40 child'n",,,1869,﻿,﻿,﻿Cincinnati,Cincinnati
 ﻿cin.oh.0273,﻿school,﻿St. Mary's,English,,,,,,﻿Celina,﻿Celina,﻿OH,,﻿40.5489358,-84.5702338,,,,,,,,,,﻿children,"﻿1 division. av. attendance, 30 child'n",,,1869,﻿,﻿,﻿Cincinnati,Cincinnati
 ﻿cin.oh.0274,﻿school,﻿St. Raphael's,English,,,,,,﻿Springfield,﻿Springfield,﻿OH,,﻿39.93071,-83.7866259,,,,,,,,,,﻿children,"﻿2 divisions. av. attendance, 250 child'n",,,1869,﻿,﻿,﻿Cincinnati,Cincinnati
-﻿cin.oh.0275,﻿school,﻿St. Boniface's,English,,,,,,﻿Cumminsville,﻿Cumminsville,﻿OH,,﻿39.1545832,-84.5510477,,,,,,,,,,﻿children,"﻿2 divisions. av. attendance, 155 child'n",,,1869,﻿,﻿,﻿Cincinnati,Cincinnati
-﻿cin.oh.0276,﻿school,﻿St. Joseph's,English,,,,,,﻿Dayton,﻿Dayton,﻿OH,,﻿39.7494733,-84.1596327,,,,,,,,,,﻿children,"﻿3 divisions. av. attendance, 330 child'n",,,1869,﻿,﻿,﻿Cincinnati,Cincinnati
+﻿cin.oh.0028_02,﻿school,﻿St. Boniface's,English,,,,,,﻿Cumminsville,﻿Cumminsville,﻿OH,,﻿39.1545832,-84.5510477,,,,,,,,,,﻿children,"﻿2 divisions. av. attendance, 155 child'n",,,1869,﻿,﻿,﻿Cincinnati,Cincinnati
+﻿cin.oh.0076_02,﻿school,﻿St. Joseph's,English,,,,,,﻿Dayton,﻿Dayton,﻿OH,,﻿39.7494733,-84.1596327,,,,,,,,,,﻿children,"﻿3 divisions. av. attendance, 330 child'n",,,1869,﻿,﻿,﻿Cincinnati,Cincinnati
 ﻿cin.oh.0277,﻿school,﻿St. Joseph's,English,,,,﻿Mercer County,﻿Mercer County,,,﻿OH,,﻿40.4270154,-84.7400445,,,,,,,,,,﻿children,"﻿1 division. av. attendance, 50 child'n",,,1869,﻿,﻿,﻿Cincinnati,Cincinnati
 ﻿cin.oh.0278,﻿school,﻿St. Paul's,English,,,,﻿Mercer County,﻿Mercer County,,,﻿OH,,﻿40.5940548,-84.6897495,,,,,,,,,,﻿children,"﻿1 division. av. attendance, 35 child'n",,,1869,﻿,﻿,﻿Cincinnati,Cincinnati
 ﻿cin.oh.0279,﻿school,﻿St. Rose's,English,,,,﻿Mercer County,﻿Mercer County,,,﻿OH,,﻿40.4072676,-84.5150697,,,,,,,,,,﻿children,"﻿1 division. av. attendance, 40 child'n",,,1869,﻿,﻿,﻿Cincinnati,Cincinnati
@@ -339,6 +339,6 @@
 ﻿cin.oh.0286,﻿school,﻿St. Egypt,English,,,,﻿Mercer County,﻿Mercer County,,,﻿OH,,﻿40.5940548,-84.6897495,,,,,,,,,,﻿children,"﻿2 divisions. av. attendance, 90 child'n",,,1869,﻿,﻿,﻿Cincinnati,Cincinnati
 ﻿cin.oh.0287,﻿school,﻿St. Augustine's,English,,,,﻿Mercer County,﻿Mercer County,﻿Minster,﻿Minster,﻿OH,,﻿40.3931033,-84.3760612,,,,,,,,,,﻿children,"﻿4 divisions. av. attendance, 400 child'n",,,1869,﻿,﻿,﻿Cincinnati,Cincinnati
 ﻿cin.oh.0288,﻿school,﻿St. Joseph's,English,,,,,,﻿Hamilton,﻿Hamilton,﻿OH,,﻿39.3907707,-84.5658661,,,,,,,,,,﻿children,"﻿2 divisions. av. attendance, 220 child'n",,,1869,﻿,﻿,﻿Cincinnati,Cincinnati
-﻿cin.oh.0289,﻿school,﻿St. Aloysius',English,,,,,,﻿Cumminsville,﻿Cumminsville,﻿OH,,﻿39.1545832,-84.5510477,,,,,,,,,,﻿children,"﻿2 divisions. av. attendance, 200 child'n",,,1869,﻿,﻿,﻿Cincinnati,Cincinnati
-﻿cin.oh.0290,﻿school,﻿H. Trinity,English,,,,,,﻿Middletown,﻿Middletown,﻿OH,,﻿39.4795536,-84.3302971,,,,,,,,,,﻿children,"﻿1 division. av. attendance, 175 child'n",,,1869,﻿,﻿,﻿Cincinnati,Cincinnati
-﻿cin.oh.0291,﻿school,﻿St. Patrick's,English,,,,,,﻿Bellefontaine,﻿Bellefontaine,﻿OH,,﻿40.3611643,-83.7596557,,,,,,,,,,﻿children,"﻿1 division. av. attendance, 105 child'n",,,1869,﻿,﻿,﻿Cincinnati,Cincinnati
+﻿cin.oh.0027_02,﻿school,﻿St. Aloysius',English,,,,,,﻿Cumminsville,﻿Cumminsville,﻿OH,,﻿39.1545832,-84.5510477,,,,,,,,,,﻿children,"﻿2 divisions. av. attendance, 200 child'n",,,1869,﻿,﻿,﻿Cincinnati,Cincinnati
+﻿cin.oh.0117_02,﻿school,﻿H. Trinity,English,,,,,,﻿Middletown,﻿Middletown,﻿OH,,﻿39.4795536,-84.3302971,,,,,,,,,,﻿children,"﻿1 division. av. attendance, 175 child'n",,,1869,﻿,﻿,﻿Cincinnati,Cincinnati
+﻿cin.oh.0055_02,﻿school,﻿St. Patrick's,English,,,,,,﻿Bellefontaine,﻿Bellefontaine,﻿OH,,﻿40.3611643,-83.7596557,,,,,,,,,,﻿children,"﻿1 division. av. attendance, 105 child'n",,,1869,﻿,﻿,﻿Cincinnati,Cincinnati
