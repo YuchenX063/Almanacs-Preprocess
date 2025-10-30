@@ -25,11 +25,11 @@
 ﻿scr.pa.0020,﻿church,not recorded,English,,,,,﻿Lackawanna County,﻿Carbondale,﻿Carbondale,﻿PA,﻿PA,41.57188219,-75.5011599,,,,,,,,,﻿Vacant,,,,,1835,,﻿,﻿,﻿Philadelphia,Philadelphia
 ﻿phi.pa.9000,﻿church,﻿St. Peter's,English,,,,,﻿Franklin County,﻿Chambersburg,﻿Chambersburg,﻿PA,﻿PA,41.57188219,-75.5011599,,,﻿twice a month,﻿tho_heyden_901,﻿Rev.,﻿Thomas Heyden,,,,,,,,1835,,﻿,﻿,﻿Philadelphia,Philadelphia
 ﻿erie.pa.0015,﻿church,﻿St. Francis of Assissium,English,,,,,﻿Clearfield County,﻿Clearfield,﻿Clearfield,﻿PA,﻿PA,41.01913824,-78.43912405,,,﻿1st Sunday or every 2d month,﻿pat_leavy_901,﻿Rev.,﻿P. Leavy,,,,,,,,1835,,﻿,﻿,﻿Philadelphia,Philadelphia
-﻿har.pa.0010,﻿church,﻿St. Peter's,English,,,,,﻿Lancaster County,﻿Columbia,﻿Columbia,﻿PA,﻿PA,40.02957203,-76.50186656,,,﻿twice a month,﻿ber_keenan_901,﻿Rev.,﻿B. Keenan,,,,,,,,1835,,﻿,﻿,﻿Philadelphia,Philadelphia
+﻿har.pa.0010,﻿church,﻿St. Peter's,English,,,,,﻿Lancaster County,﻿Columbia,﻿Columbia,﻿PA,﻿PA,40.02957203,-76.50186656,,,﻿twice a month,﻿ber_keenan_001,﻿Rev.,﻿B. Keenan,,,,,,,,1835,,﻿,﻿,﻿Philadelphia,Philadelphia
 ﻿har.pa.0023,﻿church,﻿Sacred Heart,English,,,,,﻿Adams County,﻿Conewago,﻿Conewago,﻿PA,﻿PA,39.81875756,-77.03791245,,,,﻿mat_lekeu_901,﻿Rev.,﻿Matthew Lekeu,,,,,,,,1835,,﻿,﻿,﻿Philadelphia,Philadelphia
 ﻿har.pa.0023,﻿church,﻿Sacred Heart,English,,,,,﻿Adams County,﻿Conewago,﻿Conewago,﻿PA,,39.81875756,-77.03791245,,,,﻿pau_kohlman_901,﻿Rev.,﻿Paul Kohlman,,,,,,,,1835,,﻿,﻿,﻿Philadelphia,Philadelphia
 ﻿har.pa.0023,﻿church,﻿Sacred Heart,English,,,,,﻿Adams County,﻿Conewago,﻿Conewago,﻿PA,,39.81875756,-77.03791245,,,,﻿mic_dougherty_901,﻿Rev.,﻿Michael Dougherty,,,,,,,,1835,,﻿,﻿,﻿Philadelphia,Philadelphia
-﻿har.pa.0023,﻿church,﻿Christ Church,English,,,,,﻿Adams County,﻿Conewago,﻿Conewago,﻿PA,,39.81875756,-77.03791245,,,﻿occasionally,﻿f_m_masquelet_901,﻿Rev.,﻿F. M. Masquelet,,,,,,,,1835,,﻿,﻿,﻿Philadelphia,Philadelphia
+﻿har.pa.0023,﻿church,﻿Christ Church,English,,,,,﻿Adams County,﻿Conewago,﻿Conewago,﻿PA,,39.81875756,-77.03791245,,,﻿occasionally,﻿fra_m_masquelet_901,﻿Rev.,﻿F. M. Masquelet,,,,,,,,1835,,﻿,﻿,﻿Philadelphia,Philadelphia
 ﻿phi.pa.9001,﻿church,not recorded,English,,,,﻿Westmoreland County,,﻿Derry Township,,﻿PA,,39.81875756,-77.03791245,,,,﻿jam_a_stillinger_001,﻿Rev.,﻿James A. Stillinger,,,﻿Dw. at Blairsville,,,,,1835,,﻿,﻿,﻿Philadelphia,Philadelphia
 ﻿phi.pa.9001,﻿church,not recorded,English,,,,﻿Westmoreland County,,﻿Easton,,﻿PA,,39.81875756,-77.03791245,,,﻿twice a month,﻿h_herzog_901,﻿Rev.,﻿H. Herzog,,,,,,,,1835,,﻿,﻿,﻿Philadelphia,Philadelphia
 ﻿pit.pa.0042,﻿church,not recorded,English,,,,,﻿Cambria County,﻿Ebensburg,﻿Ebensburg,﻿PA,﻿PA,40.48878598,-78.7264887,,,﻿once a month,﻿jam_bradley_901,﻿Rev.,﻿James Bradley,,,,,,,,1835,,﻿,﻿,﻿Philadelphia,Philadelphia
@@ -46,7 +46,7 @@
 ﻿pit.pa.0054,﻿church,﻿Holy Trinity,English,,,,,﻿Huntingdon County,﻿Huntingdon,﻿Huntingdon,﻿PA,﻿PA,40.48607692,-78.01301671,,,﻿once in two months,﻿pat_leavy_901,﻿Rev.,﻿P. Leavy,,,,,,,,1835,,﻿,﻿,﻿Philadelphia,Philadelphia
 ﻿har.pa.0005,﻿church,﻿St. Mary's,English,,,,,﻿Lebanon County,﻿Lebanon,﻿Lebanon,﻿PA,﻿PA,40.33962838,-76.42426687,,,﻿3d Sunday,﻿mic_curran_901,﻿Rev.,﻿Michael Curran,,,﻿Resides at Harrisburg,,,,,1835,,﻿,﻿,﻿Philadelphia,Philadelphia
 ﻿har.pa.0005,﻿church,﻿St. Mary's,English,,,,,﻿Lebanon County,﻿Lebanon,﻿Lebanon,﻿PA,,40.33962838,-76.42426687,,,,﻿nic_steinbacher_901,﻿Rev.,﻿Nicolas Steinbacher,﻿S. J.,,﻿occasionally,,,,,1835,,﻿,﻿,﻿Philadelphia,Philadelphia
-﻿har.pa.0008,﻿church,﻿St. Mary's,English,,,,,﻿Lancaster County,﻿Lancaster,﻿Lancaster,﻿PA,﻿PA,40.0359609,-76.30695166,,,,﻿ber_keenan_901,﻿Rev.,﻿Bernard Keenan,,,,,,,,1835,,﻿,﻿,﻿Philadelphia,Philadelphia
+﻿har.pa.0008,﻿church,﻿St. Mary's,English,,,,,﻿Lancaster County,﻿Lancaster,﻿Lancaster,﻿PA,﻿PA,40.0359609,-76.30695166,,,,﻿ber_keenan_001,﻿Rev.,﻿Bernard Keenan,,,,,,,,1835,,﻿,﻿,﻿Philadelphia,Philadelphia
 ﻿har.pa.0039,﻿church,﻿All Saints,English,,,,,﻿Mifflin County,﻿Lewistown,﻿Lewistown,﻿PA,﻿PA,40.60023008,-77.5731348,,,﻿3d Sunday,﻿pat_leavy_901,﻿Rev.,﻿P. Leavy,,,,,,,,1835,,﻿,﻿,﻿Philadelphia,Philadelphia
 ﻿har.pa.0025,﻿church,﻿St. Aloysius,English,,,,,﻿Adams County,﻿Littlestown,﻿Littlestown,﻿PA,﻿PA,39.74342361,-77.0880942,,,﻿3d Sunday,﻿mic_dougherty_901,﻿Rev.,﻿Michael Dougherty,,,,,,,,1835,,﻿,﻿,﻿Philadelphia,Philadelphia
 ﻿har.pa.0017,﻿church,﻿St. Patrick's,English,,,,,﻿York County,﻿Little York,﻿York,﻿PA,﻿PA,39.95832062,-76.72761145,,,﻿twice a month,﻿pat_j_dwen_901,﻿Rev.,﻿Patrick Dwen,,,,,,,,1835,,﻿,﻿,﻿Philadelphia,Philadelphia
@@ -61,7 +61,7 @@
 ﻿har.pa.0034,﻿church,not recorded,English,,,,,﻿Franklin County,﻿Path Valley,﻿Willow Hill,﻿PA,﻿PA,40.2135368,-77.70637758,,,﻿once a month,﻿tho_heyden_901,﻿Rev.,﻿Thomas Heyden,,,,,,,,1835,,﻿,﻿,﻿Philadelphia,Philadelphia
 ﻿pit.pa.0001,﻿church,﻿St. Paul's,English,,,,,﻿Allegheny County,﻿Pittsburg,﻿Pittsburg,﻿PA,﻿PA,40.44783415,-79.94997296,,,,﻿joh_oreilly_901,﻿Rev.,﻿John O'Reilly,,,,,,,,1835,,﻿,﻿,﻿Philadelphia,Philadelphia
 ﻿pit.pa.0002,﻿church,﻿St. Patrick's,English,,,,,﻿Allegheny County,﻿Pittsburg,﻿Pittsburg,﻿PA,﻿PA,40.44954473,-79.985124,,,,﻿joh_oreilly_901,﻿Rev.,﻿J. O'Reilly,,,,,,,,1835,,﻿,﻿,﻿Philadelphia,Philadelphia
-﻿pit.pa.0002,﻿church,﻿St. Patrick's,English,,,,,﻿Allegheny County,﻿Pittsburg,﻿Pittsburg,﻿PA,,40.44954473,-79.985124,,,,﻿f_m_masquelet_901,﻿Rev.,﻿F. Masquelt,,,,,,,,1835,,﻿,﻿,﻿Philadelphia,Philadelphia
+﻿pit.pa.0002,﻿church,﻿St. Patrick's,English,,,,,﻿Allegheny County,﻿Pittsburg,﻿Pittsburg,﻿PA,,40.44954473,-79.985124,,,,﻿fra_m_masquelet_901,﻿Rev.,﻿F. Masquelt,,,,,,,,1835,,﻿,﻿,﻿Philadelphia,Philadelphia
 ﻿phi.pa.0119,﻿church,﻿St. Patrick's,English,,,,,﻿Schuylkill County,﻿Pottsville,﻿Pottsville,﻿PA,﻿PA,40.68308469,-76.19720629,,,﻿3 Sundays in the month,﻿a_wainwright_901,﻿Rev.,﻿A. Wainwright,,,,,,,,1835,,﻿,﻿,﻿Philadelphia,Philadelphia
 ﻿phi.pa.0043,﻿church,﻿St. Peter's,English,,,,,﻿Berks County,﻿Reading,﻿Reading,﻿PA,﻿PA,40.33004804,-75.92859369,,,,﻿bon_corvin_901,﻿Rev.,﻿B. Corvin,,,,,,,,1835,,﻿,﻿,﻿Philadelphia,Philadelphia
 ﻿phi.pa.0043,﻿church,﻿St. Peter's,English,,,,,﻿Berks County,﻿Reading,﻿Reading,﻿PA,,40.33004804,-75.92859369,,,,﻿nic_steinbacher_901,﻿Rev.,﻿Nicholas Steinbacher,,,,,,,,1835,,﻿,﻿,﻿Philadelphia,Philadelphia
@@ -69,15 +69,15 @@
 ﻿pit.pa.9004,﻿church,﻿St. Francis,English,,,,,﻿Westmoreland County,﻿Sportsman's Hall,﻿Latrobe,﻿PA,,41.96504028,-75.95388103,,,﻿twice a month,﻿jam_a_stillinger_001,﻿Rev.,﻿J. A. Stillinger,,,﻿Resides at Blairsville,,,,,1835,,﻿,﻿,﻿Philadelphia,Philadelphia
 ﻿phi.pa.0129,﻿church,﻿St.Jerom's,English,,,,,,﻿Tamaqua,,﻿PA,,40.7973112,-75.9693707,,,,﻿a_wainwright_901,﻿Rev.,﻿A. Wainwright,,,,,,,,1835,,﻿,﻿,﻿Philadelphia,Philadelphia
 ﻿pit.pa.0101,﻿church,not recorded,English,﻿Church not finished,,,﻿Greene County,﻿Greene County,﻿Waynesburg,﻿Waynesburg,﻿PA,﻿PA,39.89621361,-80.18363432,,,,,,,,,,,,,,1835,,﻿,﻿,﻿Philadelphia,Philadelphia
-﻿phi.pa.0070,﻿church,﻿Christ Church,English,,,,,﻿Chester County,﻿West-Chester,﻿West Chester,﻿PA,﻿PA,39.95928452,-75.60872375,,,﻿3d Sunday,﻿pat_reily_901,﻿Rev.,﻿Patrick Reily,,,,,,,,1835,,﻿,﻿,﻿Philadelphia,Philadelphia
+﻿phi.pa.0070,﻿church,﻿Christ Church,English,,,,,﻿Chester County,﻿West-Chester,﻿West Chester,﻿PA,﻿PA,39.95928452,-75.60872375,,,﻿3d Sunday,﻿pat_reilly_901,﻿Rev.,﻿Patrick Reily,,,,,,,,1835,,﻿,﻿,﻿Philadelphia,Philadelphia
 ﻿pit.pa.9005,﻿church,not recorded,English,,,,,,﻿Williamsburg,,﻿PA,,39.95928452,-75.60872375,,,"﻿alternately, 4th Sund.",﻿pat_leavy_901,﻿Rev.,﻿P. Leavy,,,,,,,,1835,,﻿,﻿,﻿Philadelphia,Philadelphia
 ﻿pit.pa.9006,﻿church,not recorded,English,,,,,,﻿Alexandria,,﻿PA,,39.95928452,-75.60872375,,,"﻿alternately, 4th Sund.",﻿pat_leavy_901,﻿Rev.,﻿P. Leavy,,,,,,,,1835,,﻿,﻿,﻿Philadelphia,Philadelphia
 ﻿wil.de.0001,﻿church,﻿St. Peter's Church,English,,,,,﻿New Castle County,﻿Wilmington,﻿Wilmington,﻿DE,﻿DE,39.744655,-75.5483909,,,,﻿pat_kenny_901,﻿Rev.,﻿Patrick Kenny,,,,,,,,1835,,﻿,﻿,﻿Philadelphia,Philadelphia
 ﻿wil.de.0001,﻿church,﻿St. Peter's Church,English,,,,,﻿New Castle County,﻿Wilmington,﻿Wilmington,﻿DE,,39.744655,-75.5483909,,,,﻿geo_a_carrell_901,﻿Rev.,﻿George A. Carrell,,,,,,,,1835,,﻿,﻿,﻿Philadelphia,Philadelphia
 ﻿wil.de.0006,﻿church,﻿St. Mary's,English,,,,,﻿New Castle County,﻿Coffee Run,﻿Hockessin,﻿DE,﻿DE,39.7690811,-75.6616973,,,﻿twice a month,﻿pat_kenny_901,﻿Rev.,﻿P. Kenny,,,,,,,,1835,,﻿,﻿,﻿Philadelphia,Philadelphia
 ﻿wil.de.0007,﻿church,﻿St. Peter's,English,,,,,﻿New Castle County,﻿New Castle,﻿New Castle,﻿DE,﻿DE,39.6625154,-75.5646843,,,﻿occasionally,﻿geo_a_carrell_901,﻿Rev.,﻿G. A. Carrell,,,,,,,,1835,,﻿,﻿,﻿Philadelphia,Philadelphia
-﻿new.nj.9000,﻿church,﻿St. Mary's,English,,,,,﻿Atlantic County,﻿Pleasant Mills,﻿Mullica Township,﻿NJ,﻿NJ,39.63816024,-74.64656862,,,﻿occasionally,﻿pat_reily_901,﻿Rev.,﻿Patrick Reily,,,,,,,,1835,,﻿,﻿,﻿Philadelphia,Philadelphia
-﻿new.nj.0102,﻿church,﻿St. John Baptist,English,,,,,﻿Mercer County,﻿Trenton,﻿Trenton,﻿NJ,﻿NJ,40.19908625,-74.7582005,,,,﻿pat_reily_901,﻿Rev.,﻿Patrick Reily,,,,,,,,1835,,﻿,﻿,﻿Philadelphia,Philadelphia
+﻿new.nj.9000,﻿church,﻿St. Mary's,English,,,,,﻿Atlantic County,﻿Pleasant Mills,﻿Mullica Township,﻿NJ,﻿NJ,39.63816024,-74.64656862,,,﻿occasionally,﻿pat_reilly_901,﻿Rev.,﻿Patrick Reily,,,,,,,,1835,,﻿,﻿,﻿Philadelphia,Philadelphia
+﻿new.nj.0102,﻿church,﻿St. John Baptist,English,,,,,﻿Mercer County,﻿Trenton,﻿Trenton,﻿NJ,﻿NJ,40.19908625,-74.7582005,,,,﻿pat_reilly_901,﻿Rev.,﻿Patrick Reily,,,,,,,,1835,,﻿,﻿,﻿Philadelphia,Philadelphia
 ﻿phi.pa.0144_02,﻿seminary,﻿Theological Seminary,English,,,,,,﻿Philadelphia,,﻿PA,,40.19908625,-74.7582005,,,,,﻿Rev.,﻿Peter R. Kenrick,,,,,,,,1835,,﻿,﻿,﻿Philadelphia,Philadelphia
 ﻿phi.pa.9003,﻿academy,﻿Academy for Young Gentlemen,English,﻿S. Fourth street,,,,﻿Philadelphia County,﻿Philadelphia,﻿Philadelphia,﻿PA,﻿PA,40.19908625,-74.7582005,,,,﻿jer_keily_901,﻿Rev.,﻿Jeremiah Keily,,,,,,,,1835,,﻿,﻿,﻿Philadelphia,Philadelphia
 ﻿phi.pa.9004,﻿academy,﻿Academy for Young Gentlemen,English,﻿S. Thirteenth street,,,,﻿Philadelphia County,﻿Philadelphia,﻿Philadelphia,﻿PA,﻿PA,40.19908625,-74.7582005,,,,﻿joh_hughes_901,﻿Rev.,﻿John Hughes,,,,,,,,1835,,﻿,﻿,﻿Philadelphia,Philadelphia
