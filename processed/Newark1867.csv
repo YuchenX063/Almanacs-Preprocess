@@ -1,132 +1,132 @@
 ﻿instID,church_type,instName,language,instNote,placeName,region,county_orig,county_reg,city_orig,city_reg,state_orig,state_reg,latitude,longitude,attendingInstID,attendingChurch,attendingChurchFrequency,persID,persTitle,persName,persSuffix,persRole,persNote,memberType,member,affiliated,order,year,attendingPersID,attendingChurchNote,diocese,diocese_reg
-﻿new.nj.0001,﻿cathedral,﻿St. Patrick's Cathedral,English,﻿Parochial school connected; conference of the St. Vincent de Paul Society; two sodalities of the Blessed Virgin,,,,﻿Essex County,﻿Newark,﻿Newark,﻿NJ,,,,,,,﻿jam_r_bayley_001,﻿Rt. Rev.,﻿James Roosevelt Bayley,﻿D.D.,,,,,,,1867,﻿,﻿,﻿Newark,Newark
+﻿new.nj.0001,﻿cathedral,﻿St. Patrick's Cathedral,English,﻿Parochial school connected; conference of the St. Vincent de Paul Society; two sodalities of the Blessed Virgin,,,,﻿Essex County,﻿Newark,﻿Newark,﻿NJ,,,,,,,,﻿Rt. Rev.,﻿James Roosevelt Bayley,﻿D.D.,,,,,,,1867,﻿,﻿,﻿Newark,Newark
 ﻿new.nj.0001,﻿cathedral,﻿St. Patrick's Cathedral,English,﻿Parochial school connected; conference of the St. Vincent de Paul Society; two sodalities of the Blessed Virgin,,,,﻿Essex County,﻿Newark,﻿Newark,﻿NJ,,,,,,,﻿geo_h_doane_001,﻿Rev.,﻿G. H. Doane,,,,,,,,1867,﻿,﻿,﻿Newark,Newark
 ﻿new.nj.0001,﻿cathedral,﻿St. Patrick's Cathedral,English,﻿Parochial school connected; conference of the St. Vincent de Paul Society; two sodalities of the Blessed Virgin,,,,﻿Essex County,﻿Newark,﻿Newark,﻿NJ,,,,,,,﻿jam_f_dalton_001,﻿Rev.,﻿J. Dalton,,,,,,,,1867,﻿,﻿,﻿Newark,Newark
 ﻿new.nj.0001,﻿cathedral,﻿St. Patrick's Cathedral,English,﻿Parochial school connected; conference of the St. Vincent de Paul Society; two sodalities of the Blessed Virgin,,,,﻿Essex County,﻿Newark,﻿Newark,﻿NJ,,,,,,,﻿w_m_wigger_001,﻿Rev.,﻿Winand Wigger,,,,,,,,1867,﻿,﻿,﻿Newark,Newark
 ﻿new.nj.0001,﻿cathedral,﻿St. Patrick's Cathedral,English,﻿Parochial school connected; conference of the St. Vincent de Paul Society; two sodalities of the Blessed Virgin,,,,﻿Essex County,﻿Newark,﻿Newark,﻿NJ,,,,,,,﻿jos_roldano_001,﻿Rev.,﻿Joseph Rolando,,,,,,,,1867,﻿,﻿,﻿Newark,Newark
-﻿new.nj.0003,﻿church,﻿St. John's,English,﻿Parochial school connected,,,,﻿Essex County,﻿Newark,﻿Newark,﻿NJ,,,,,,,﻿lou_schneider_001,﻿Rev.,﻿Louis Schneider,,,,,,,,1867,﻿,﻿,﻿Newark,Newark
-﻿new.nj.0003,﻿church,﻿St. John's,English,﻿Parochial school connected,,,,﻿Essex County,﻿Newark,﻿Newark,﻿NJ,,,,,,,﻿jam_moran_002,﻿Rev.,﻿James Moran,,,,,,,,1867,﻿,﻿,﻿Newark,Newark
-﻿new.nj.0004,﻿church,﻿St. Mary's,﻿German,﻿Parochial school connected,,,,﻿Essex County,﻿Newark,﻿Newark,﻿NJ,,,,,,,﻿rom_hill_001,﻿Rev.,﻿Romanus Hill,﻿O.S.B.,,,,,,,1867,﻿,﻿,﻿Newark,Newark
-﻿new.nj.0004,﻿church,﻿St. Mary's,﻿German,﻿Parochial school connected,,,,﻿Essex County,﻿Newark,﻿Newark,﻿NJ,,,,,,,﻿bru_reiss_001,﻿Rev.,﻿Bruno Reiss,﻿O.S.B.,,,,,,,1867,﻿,﻿,﻿Newark,Newark
-﻿new.nj.0004,﻿church,﻿St. Mary's,﻿German,﻿Parochial school connected,,,,﻿Essex County,﻿Newark,﻿Newark,﻿NJ,,,,,,,﻿ber_dolweck_001,﻿Rev.,﻿Bernardine Dolweck,﻿O.S.B.,,,,,,,1867,﻿,﻿,﻿Newark,Newark
-﻿new.nj.0004,﻿church,﻿St. Mary's,﻿German,﻿Parochial school connected,,,,﻿Essex County,﻿Newark,﻿Newark,﻿NJ,,,,,,,﻿wil_walter_001,﻿Rev.,﻿William Walter,﻿O.S.B.,,,,,,,1867,﻿,﻿,﻿Newark,Newark
-﻿new.nj.0005,﻿church,﻿St. James',English,﻿Parochial school connected,,,,﻿Essex County,﻿Newark,﻿Newark,﻿NJ,,,,,,,﻿j_m_gervais_001,﻿Rev.,﻿J. M. Gervais,,,,,,,,1867,﻿,﻿,﻿Newark,Newark
-﻿new.nj.0005,﻿church,﻿St. James',English,﻿Parochial school connected,,,,﻿Essex County,﻿Newark,﻿Newark,﻿NJ,,,,,,,﻿w_lambert_001,﻿Rev.,﻿W. Lambert,,,,,,,,1867,﻿,﻿,﻿Newark,Newark
-﻿new.nj.0006,﻿church,﻿St. Peter's,﻿German,﻿Parochial school connected,,,,﻿Essex County,﻿Newark,﻿Newark,﻿NJ,,,,,,,﻿god_preith_001,﻿Rev.,﻿Godfried Preith,,,,,,,,1867,﻿,﻿,﻿Newark,Newark
+﻿new.nj.0003,﻿church,﻿St. John's,English,﻿Parochial school connected,,,,﻿Essex County,﻿Newark,﻿Newark,﻿NJ,,,,,,,,﻿Rev.,﻿Louis Schneider,,,,,,,,1867,﻿,﻿,﻿Newark,Newark
+﻿new.nj.0003,﻿church,﻿St. John's,English,﻿Parochial school connected,,,,﻿Essex County,﻿Newark,﻿Newark,﻿NJ,,,,,,,,﻿Rev.,﻿James Moran,,,,,,,,1867,﻿,﻿,﻿Newark,Newark
+﻿new.nj.0004,﻿church,﻿St. Mary's,﻿German,﻿Parochial school connected,,,,﻿Essex County,﻿Newark,﻿Newark,﻿NJ,,,,,,,,﻿Rev.,﻿Romanus Hill,﻿O.S.B.,,,,,,,1867,﻿,﻿,﻿Newark,Newark
+﻿new.nj.0004,﻿church,﻿St. Mary's,﻿German,﻿Parochial school connected,,,,﻿Essex County,﻿Newark,﻿Newark,﻿NJ,,,,,,,,﻿Rev.,﻿Bruno Reiss,﻿O.S.B.,,,,,,,1867,﻿,﻿,﻿Newark,Newark
+﻿new.nj.0004,﻿church,﻿St. Mary's,﻿German,﻿Parochial school connected,,,,﻿Essex County,﻿Newark,﻿Newark,﻿NJ,,,,,,,,﻿Rev.,﻿Bernardine Dolweck,﻿O.S.B.,,,,,,,1867,﻿,﻿,﻿Newark,Newark
+﻿new.nj.0004,﻿church,﻿St. Mary's,﻿German,﻿Parochial school connected,,,,﻿Essex County,﻿Newark,﻿Newark,﻿NJ,,,,,,,,﻿Rev.,﻿William Walter,﻿O.S.B.,,,,,,,1867,﻿,﻿,﻿Newark,Newark
+﻿new.nj.0005,﻿church,﻿St. James',English,﻿Parochial school connected,,,,﻿Essex County,﻿Newark,﻿Newark,﻿NJ,,,,,,,,﻿Rev.,﻿J. M. Gervais,,,,,,,,1867,﻿,﻿,﻿Newark,Newark
+﻿new.nj.0005,﻿church,﻿St. James',English,﻿Parochial school connected,,,,﻿Essex County,﻿Newark,﻿Newark,﻿NJ,,,,,,,,﻿Rev.,﻿W. Lambert,,,,,,,,1867,﻿,﻿,﻿Newark,Newark
+﻿new.nj.0006,﻿church,﻿St. Peter's,﻿German,﻿Parochial school connected,,,,﻿Essex County,﻿Newark,﻿Newark,﻿NJ,,,,,,,,﻿Rev.,﻿Godfried Preith,,,,,,,,1867,﻿,﻿,﻿Newark,Newark
 ﻿new.nj.0007,﻿church,﻿St. Joseph's Chapel School-House,English,﻿Parochial school connected,,,,﻿Essex County,﻿Newark,﻿Newark,﻿NJ,,,,﻿new.nj.0001,﻿Served on Sunday by a priest from the Cathedral,,,,,,,,,,,,1867,﻿,﻿,﻿Newark,Newark
 ﻿new.nj.0008,﻿church,﻿St. Benedict's,﻿German,,,,,﻿Essex County,﻿Newark,﻿Newark,﻿NJ,,,,﻿new.nj.0004,﻿Served by the Benedictines from St. Mary's,,,,,,,,,,,,1867,﻿,﻿,﻿Newark,Newark
 ﻿new.nj.0009,﻿school,﻿St. Pius' School-house,English,,﻿East Newark,,,﻿Essex County,﻿Newark,﻿Newark,﻿NJ,,,,,,,,,,,,,,,,,1867,﻿,﻿,﻿Newark,Newark
 ﻿new.nj.0010,﻿church,﻿St. Nicholas of Tolentino,English,,,,﻿Atlantic County,,﻿Absecom,﻿Absecom,﻿NJ,,,,﻿phi.pa.0088_03,﻿Attended by the Augustinians from Philadelphia,,,,,,,,,,,,1867,﻿,﻿,﻿Newark,Newark
 ﻿new.nj.0011,﻿church,not recorded,English,,,,﻿Sussex County,,﻿Andover,﻿Andover,﻿NJ,,,,﻿new.nj.0070,﻿Attended from Newton,,,,,,,,,,,,1867,﻿,﻿,﻿Newark,Newark
 ﻿new.nj.0012,﻿church,﻿St. James',English,,,,﻿Somerset County,,﻿Baskenridge,﻿Basking Ridge,﻿NJ,,,,﻿new.nj.0063,﻿Attended from Morristown,,,,,,,,,,,,1867,﻿,﻿,﻿Newark,Newark
-﻿new.nj.0013,﻿church,﻿St. Peter's,English,﻿Parochial school connected,,,﻿Essex County,,﻿Belleville,﻿Belleville,﻿NJ,,,,,,,﻿j_hogan_001,﻿Rev.,﻿J. Hogan,,,,,,,,1867,﻿,﻿,﻿Newark,Newark
+﻿new.nj.0013,﻿church,﻿St. Peter's,English,﻿Parochial school connected,,,﻿Essex County,,﻿Belleville,﻿Belleville,﻿NJ,,,,,,,,﻿Rev.,﻿J. Hogan,,,,,,,,1867,﻿,﻿,﻿Newark,Newark
 ﻿new.nj.0014,﻿church,not recorded,English,,,,﻿Warren County,,﻿Belvidere,﻿Belvidere,﻿NJ,,,,﻿new.nj.0080,﻿Attended from Phillipsburgh,,,,,,,,,,,,1867,﻿,﻿,﻿Newark,Newark
-﻿new.nj.0015,﻿church,﻿St. Mary's (Stella Maris),English,﻿Parochial school connected,,,﻿Bergen County,,﻿Bergen Point,﻿Bayonne,﻿NJ,,,,,,,﻿f_niederhauser_001,﻿Rev.,﻿F. Niederhauser,,,,,,,,1867,﻿,﻿,﻿Newark,Newark
+﻿new.nj.0015,﻿church,﻿St. Mary's (Stella Maris),English,﻿Parochial school connected,,,﻿Bergen County,,﻿Bergen Point,﻿Bayonne,﻿NJ,,,,,,,,﻿Rev.,﻿F. Niederhauser,,,,,,,,1867,﻿,﻿,﻿Newark,Newark
 ﻿new.nj.0016,﻿church,﻿St. Joseph's,English,,,,﻿Burlington County,,﻿Beverly,﻿Beverly,﻿NJ,,,,﻿new.nj.0021,﻿Attended from Burlington,,,,,,,,,,,,1867,﻿,﻿,﻿Newark,Newark
-﻿new.nj.0017,﻿church,﻿Our Lady of Mount Carmel,English,﻿Parochial school connected,,,﻿Morris County,,﻿Boonton,﻿Boonton,﻿NJ,,,,,,,﻿d_c_castet_001,﻿Rev.,﻿D. C. Castet,,,,,,,,1867,﻿,﻿,﻿Newark,Newark
-﻿new.nj.0018,﻿church,﻿St. Mary's,English,﻿Parochial school connected,,,﻿Burlington County,,﻿Bordentown,﻿Bordentown,﻿NJ,,,,,,,﻿joh_p_mackin_001,﻿Rev.,﻿John P. Mackin,,,,,,,,1867,﻿,﻿,﻿Newark,Newark
+﻿new.nj.0017,﻿church,﻿Our Lady of Mount Carmel,English,﻿Parochial school connected,,,﻿Morris County,,﻿Boonton,﻿Boonton,﻿NJ,,,,,,,,﻿Rev.,﻿D. C. Castet,,,,,,,,1867,﻿,﻿,﻿Newark,Newark
+﻿new.nj.0018,﻿church,﻿St. Mary's,English,﻿Parochial school connected,,,﻿Burlington County,,﻿Bordentown,﻿Bordentown,﻿NJ,,,,,,,,﻿Rev.,﻿John P. Mackin,,,,,,,,1867,﻿,﻿,﻿Newark,Newark
 ﻿new.nj.0020,﻿church,not recorded,English,,,,﻿Cumberland County,,﻿Bridgeton,﻿Bridgeton,﻿NJ,,,,﻿new.nj.0064,﻿Attended from Millville,,,,,,,,,,,,1867,﻿,﻿,﻿Newark,Newark
-﻿new.nj.0021,﻿church,﻿St. Paul's,English,﻿Parochial school connected,,,﻿Burlington County,,﻿Burlington,﻿Burlington,﻿NJ,,,,,,,﻿jos_d_bowles_001,﻿Rev.,﻿Joseph D. Bowles,,,,,,,,1867,﻿,﻿,﻿Newark,Newark
-﻿new.nj.0022,﻿church,﻿Church of the Immaculate Conception,English,﻿Parochial school connected,,,﻿Camden County,,﻿Camden,﻿Camden,﻿NJ,,,,,,,﻿pat_byrnes_001,﻿Rev.,﻿Patrick Byrnes,,,,,,,,1867,﻿,﻿,﻿Newark,Newark
+﻿new.nj.0021,﻿church,﻿St. Paul's,English,﻿Parochial school connected,,,﻿Burlington County,,﻿Burlington,﻿Burlington,﻿NJ,,,,,,,,﻿Rev.,﻿Joseph D. Bowles,,,,,,,,1867,﻿,﻿,﻿Newark,Newark
+﻿new.nj.0022,﻿church,﻿Church of the Immaculate Conception,English,﻿Parochial school connected,,,﻿Camden County,,﻿Camden,﻿Camden,﻿NJ,,,,,,,,﻿Rev.,﻿Patrick Byrnes,,,,,,,,1867,﻿,﻿,﻿Newark,Newark
 ﻿new.nj.0024,﻿church,"﻿St. Mary's, Star of the Sea",English,,,,﻿Cape May County,,﻿Cape Island,﻿Cape May,﻿NJ,,,,﻿new.nj.0064,﻿Attended from Millville,,,,,,,,,,,,1867,﻿,﻿,﻿Newark,Newark
 ﻿new.nj.0025,﻿church,﻿St. Mary's,English,,,,﻿Hunterdon County,,﻿Clinton,﻿Clinton,﻿NJ,,,,﻿new.nj.0069,﻿Attended from New-Hampton,,,,,,,,,,,,1867,﻿,﻿,﻿Newark,Newark
 ﻿new.nj.0026,﻿church,not recorded,English,,,,﻿Cape May County,,﻿Dennis Creek,﻿Dennis,﻿NJ,,,,﻿new.nj.0064,﻿Attended from Millville,,,,,,,,,,,,1867,﻿,﻿,﻿Newark,Newark
-﻿new.nj.0027,﻿church,﻿St. Mary's,English,﻿Parochial school connected,,,﻿Morris County,,﻿Dover,﻿Dover,﻿NJ,,,,,,,﻿joh_callan_001,﻿Rev.,﻿John Callan,,,,,,,,1867,﻿,﻿,﻿Newark,Newark
+﻿new.nj.0027,﻿church,﻿St. Mary's,English,﻿Parochial school connected,,,﻿Morris County,,﻿Dover,﻿Dover,﻿NJ,,,,,,,,﻿Rev.,﻿John Callan,,,,,,,,1867,﻿,﻿,﻿Newark,Newark
 ﻿new.nj.0028,﻿church,﻿St. Cecilia,English,,,,﻿Hudson County,,﻿Englewood,﻿Englewood,﻿NJ,,,,﻿new.nj.0033,﻿Attended from Hackensack,,,,,,,,,,,,1867,﻿,﻿,﻿Newark,Newark
 ﻿new.nj.0029,﻿church,﻿St. Nicholas',English,﻿Parochial school connected,,,﻿Atlantic County,,﻿Egg Harbor City,﻿Egg Harbor City,﻿NJ,,,,,,,﻿j_thurnes_001,﻿Rev.,﻿Joseph Thurnes,,,,,,,,1867,﻿,﻿,﻿Newark,Newark
 ﻿new.nj.0030,﻿church,﻿St. Mary's,English,﻿Parochial school connected,,,﻿Union County,,﻿Elizabeth,﻿Elizabeth,﻿NJ,,,,,,,﻿mic_e_kane_001,﻿Rev.,﻿Michael Kane,,,,,,,,1867,﻿,﻿,﻿Newark,Newark
-﻿new.nj.0031,﻿church,﻿St. Michael's,﻿German,﻿Parochial school connected,,,﻿Union County,,﻿Elizabeth,﻿Elizabeth,﻿NJ,,,,,,,﻿h_lempke_001,﻿Rev.,﻿H. Lempke`,﻿O.S.B.,,,,,,,1867,﻿,﻿,﻿Newark,Newark
+﻿new.nj.0031,﻿church,﻿St. Michael's,﻿German,﻿Parochial school connected,,,﻿Union County,,﻿Elizabeth,﻿Elizabeth,﻿NJ,,,,,,,,﻿Rev.,﻿H. Lempke`,﻿O.S.B.,,,,,,,1867,﻿,﻿,﻿Newark,Newark
 ﻿new.nj.0032,﻿church,﻿St. Patrick's,English,﻿Parochial school connected,,,﻿Union County,,﻿Elizabeth,﻿Elizabeth,﻿NJ,,,,,,,﻿p_hennessey_001,﻿Rev.,﻿Patrick Hennessy,,,,,,,,1867,﻿,﻿,﻿Newark,Newark
 ﻿new.nj.0150,﻿church,﻿St. Mary's,English,,,,﻿Gloucester County,﻿Burlington,﻿Fellowship,﻿Fellowship,﻿NJ,,,,﻿new.nj.0022,﻿Attended from Camden,,,,,,,,,,,,1867,﻿,﻿,﻿Newark,Newark
 ﻿new.nj.0033,﻿church,﻿Church of the Madonna,English,﻿Parochial school connected,,,﻿Bergen County,,﻿Fort Lee,﻿Fort Lee,﻿NJ,,,,﻿new.nj.0033,﻿Attended from Hackensack,,,,,,,,,,,,1867,﻿,﻿,﻿Newark,Newark
 ﻿new.nj.0034,﻿church,﻿Church of the Immaculate Conception,English,,,,﻿Sussex County,,﻿Franklin Furnace,﻿Franklin,﻿NJ,,,,﻿new.nj.0070,﻿Attended from Newton,,,,,,,,,,,,1867,﻿,﻿,﻿Newark,Newark
 ﻿new.nj.0035,﻿church,﻿St. Mary Magdalen de Pazzi,English,,,,﻿Hunterdon County,,﻿Flemington,﻿Flemington,﻿NJ,,,,﻿new.nj.0053,﻿Attended from Lambertville,,,,,,,,,,,,1867,﻿,﻿,﻿Newark,Newark
 ﻿new.nj.0036,﻿church,﻿St. Rose of Lima,English,,,,﻿Monmouth County,,﻿Freehold,﻿Freehold,﻿NJ,,,,﻿new.nj.0085,﻿Attended from Princeton,,,,,,,,,,,,1867,﻿,﻿,﻿Newark,Newark
-﻿new.nj.0038,﻿church,﻿St. Mary's,English,﻿Parochial school connected,,,﻿Camden County,,﻿Gloucester,﻿Gloucester,﻿NJ,,,,,,,﻿jam_daly_001,﻿Rev.,﻿James Daly,,,,,,,,1867,﻿,﻿,﻿Newark,Newark
-﻿new.nj.0038,﻿church,﻿St. Mary's,English,﻿Parochial school connected,,,﻿Camden County,,﻿Gloucester,﻿Gloucester,﻿NJ,,,,,,,﻿hug_murphy_001,﻿Rev.,﻿Hugh Murphy,,,,,,,,1867,﻿,﻿,﻿Newark,Newark
+﻿new.nj.0038,﻿church,﻿St. Mary's,English,﻿Parochial school connected,,,﻿Camden County,,﻿Gloucester,﻿Gloucester,﻿NJ,,,,,,,,﻿Rev.,﻿James Daly,,,,,,,,1867,﻿,﻿,﻿Newark,Newark
+﻿new.nj.0038,﻿church,﻿St. Mary's,English,﻿Parochial school connected,,,﻿Camden County,,﻿Gloucester,﻿Gloucester,﻿NJ,,,,,,,,﻿Rev.,﻿Hugh Murphy,,,,,,,,1867,﻿,﻿,﻿Newark,Newark
 ﻿new.nj.0039,﻿church,﻿St. Paul's,English,,,,﻿Hudson County,,﻿Greenville,﻿Greenville,﻿NJ,,,,﻿new.nj.0015,﻿Attended from Bergen Point,,,,,,,,,,,,1867,﻿,﻿,﻿Newark,Newark
 ﻿new.nj.0040,﻿church,﻿St. Joseph's,English,,,,﻿Hudson County,,﻿Guttenburg,﻿Guttenberg,﻿NJ,,,,,"﻿Attended from the Monastery, West-Hoboken",,,,,,,,,,,,1867,﻿,﻿,﻿Newark,Newark
-﻿new.nj.0041,﻿church,not recorded,English,,,,﻿Bergen County,,﻿Hackensack,﻿Hackensack,﻿NJ,,,,,,,﻿ha_brann_002,﻿Rev.,﻿H.A. Brann,﻿D.D.,,,,,,,1867,﻿,﻿,﻿Newark,Newark
+﻿new.nj.0041,﻿church,not recorded,English,,,,﻿Bergen County,,﻿Hackensack,﻿Hackensack,﻿NJ,,,,,,,,﻿Rev.,﻿H.A. Brann,﻿D.D.,,,,,,,1867,﻿,﻿,﻿Newark,Newark
 ﻿new.nj.0042,﻿church,not recorded,English,,,,﻿Warren County,,﻿Hackettstown,﻿Hackettstown,﻿NJ,,,,﻿new.nj.0070,﻿Attended from Newton,,,,,,,,,,,,1867,﻿,﻿,﻿Newark,Newark
-﻿new.nj.0043,﻿church,﻿Our Lady of Grace,English,﻿Parochial school connected; Confraternity of the Bona Mors,,,﻿Hudson County,,﻿Hoboken,﻿Hoboken,﻿NJ,,,,,,,﻿ant_cauvin_001,﻿Rev.,﻿Anthony Cauvin,,,,,,,,1867,﻿,﻿,﻿Newark,Newark
-﻿new.nj.0043,﻿church,﻿Our Lady of Grace,English,﻿Parochial school connected; Confraternity of the Bona Mors,,,﻿Hudson County,,﻿Hoboken,﻿Hoboken,﻿NJ,,,,,,,﻿dan_j_fisher_001,﻿Rev.,﻿Daniel J. Fisher,,,,,,,,1867,﻿,﻿,﻿Newark,Newark
+﻿new.nj.0043,﻿church,﻿Our Lady of Grace,English,﻿Parochial school connected; Confraternity of the Bona Mors,,,﻿Hudson County,,﻿Hoboken,﻿Hoboken,﻿NJ,,,,,,,,﻿Rev.,﻿Anthony Cauvin,,,,,,,,1867,﻿,﻿,﻿Newark,Newark
+﻿new.nj.0043,﻿church,﻿Our Lady of Grace,English,﻿Parochial school connected; Confraternity of the Bona Mors,,,﻿Hudson County,,﻿Hoboken,﻿Hoboken,﻿NJ,,,,,,,,﻿Rev.,﻿Daniel J. Fisher,,,,,,,,1867,﻿,﻿,﻿Newark,Newark
 ﻿new.nj.0044,﻿church,﻿St. Luke's,English,,,,﻿Bergen County,,﻿Hohokus,﻿Ho-Ho-Kus,﻿NJ,,,,﻿new.nj.0075,﻿Attended from Paterson,,,,,,,,,,,,1867,﻿,﻿,﻿Newark,Newark
-﻿new.nj.0045,﻿church,﻿St. Joseph's,English,﻿Parochial school connected,,,﻿Hudson County,,﻿Hudson City,﻿Jersey City,﻿NJ,,,,,,,﻿alo_venuta_001,﻿Rev.,﻿Aloysius Venuta,,,,,,,,1867,﻿,﻿,﻿Newark,Newark
-﻿new.nj.0047,﻿church,﻿St. Peter's,English,﻿Parochial school connected,,,﻿Hudson County,,﻿Jersey City,﻿Jersey City,﻿NJ,,,,,,,﻿pat_corrigan_001,﻿Rev.,﻿Patrick Corrigan,,,,,,,,1867,﻿,﻿,﻿Newark,Newark
+﻿new.nj.0045,﻿church,﻿St. Joseph's,English,﻿Parochial school connected,,,﻿Hudson County,,﻿Hudson City,﻿Jersey City,﻿NJ,,,,,,,,﻿Rev.,﻿Aloysius Venuta,,,,,,,,1867,﻿,﻿,﻿Newark,Newark
+﻿new.nj.0047,﻿church,﻿St. Peter's,English,﻿Parochial school connected,,,﻿Hudson County,,﻿Jersey City,﻿Jersey City,﻿NJ,,,,,,,,﻿Rev.,﻿Patrick Corrigan,,,,,,,,1867,﻿,﻿,﻿Newark,Newark
 ﻿new.nj.0047,﻿church,﻿St. Peter's,English,﻿Parochial school connected,,,﻿Hudson County,,﻿Jersey City,﻿Jersey City,﻿NJ,,,,,,,﻿p_cody_001,﻿Rev.,﻿Patrick Cody,,,,,,,,1867,﻿,﻿,﻿Newark,Newark
-﻿new.nj.0047,﻿church,﻿St. Peter's,English,﻿Parochial school connected,,,﻿Hudson County,,﻿Jersey City,﻿Jersey City,﻿NJ,,,,,,,﻿j_j_salaun_001,﻿Rev.,﻿J. J. Salaun,,,,,,,,1867,﻿,﻿,﻿Newark,Newark
-﻿new.nj.0048,﻿church,﻿St. Mary's (Immaculate Conception),English,﻿Parochial school connected,,,﻿Hudson County,,﻿Jersey City,﻿Jersey City,﻿NJ,,,,,,,﻿l_d_senez_001,﻿Rev.,﻿L. D. Senez,,,,,,,,1867,﻿,﻿,﻿Newark,Newark
-﻿new.nj.0048,﻿church,﻿St. Mary's (Immaculate Conception),English,﻿Parochial school connected,,,﻿Hudson County,,﻿Jersey City,﻿Jersey City,﻿NJ,,,,,,,﻿j_da-concilio_001,﻿Rev.,﻿J. Da Concilio,,,,,,,,1867,﻿,﻿,﻿Newark,Newark
+﻿new.nj.0047,﻿church,﻿St. Peter's,English,﻿Parochial school connected,,,﻿Hudson County,,﻿Jersey City,﻿Jersey City,﻿NJ,,,,,,,,﻿Rev.,﻿J. J. Salaun,,,,,,,,1867,﻿,﻿,﻿Newark,Newark
+﻿new.nj.0048,﻿church,﻿St. Mary's (Immaculate Conception),English,﻿Parochial school connected,,,﻿Hudson County,,﻿Jersey City,﻿Jersey City,﻿NJ,,,,,,,,﻿Rev.,﻿L. D. Senez,,,,,,,,1867,﻿,﻿,﻿Newark,Newark
+﻿new.nj.0048,﻿church,﻿St. Mary's (Immaculate Conception),English,﻿Parochial school connected,,,﻿Hudson County,,﻿Jersey City,﻿Jersey City,﻿NJ,,,,,,,,﻿Rev.,﻿J. Da Concilio,,,,,,,,1867,﻿,﻿,﻿Newark,Newark
 ﻿new.nj.0048,﻿church,﻿St. Mary's (Immaculate Conception),English,﻿Parochial school connected,,,﻿Hudson County,,﻿Jersey City,﻿Jersey City,﻿NJ,,,,,,,﻿p_mcgovern_001,﻿Rev.,﻿Patrick McGovern,,,,,,,,1867,﻿,﻿,﻿Newark,Newark
-﻿new.nj.0049,﻿church,﻿St. Boniface's,﻿German,﻿Parochial school connected,,,﻿Hudson County,,﻿Jersey City,﻿Jersey City,﻿NJ,,,,,,,﻿d_kraus_001,﻿Rev.,﻿D. Kraus,,,,,,,,1867,﻿,﻿,﻿Newark,Newark
+﻿new.nj.0049,﻿church,﻿St. Boniface's,﻿German,﻿Parochial school connected,,,﻿Hudson County,,﻿Jersey City,﻿Jersey City,﻿NJ,,,,,,,,﻿Rev.,﻿D. Kraus,,,,,,,,1867,﻿,﻿,﻿Newark,Newark
 ﻿new.nj.0052,﻿church,﻿St. Joseph's,English,,,,﻿Monmouth County,,﻿Keyport,﻿Keyport,﻿NJ,,,,﻿new.nj.0095,﻿Attended from South-Amboy,,,,,,,,,,,,1867,﻿,﻿,﻿Newark,Newark
 ﻿new.nj.0053,﻿church,﻿St. John Evangelist's,English,﻿Parochial school connected,,,﻿Hunterdon County,,﻿Lambertville,﻿Lambertville,﻿NJ,,,,,,,﻿e_okeefe_001,﻿Rev.,﻿Eugene O'Keefe,,,,,,,,1867,﻿,﻿,﻿Newark,Newark
 ﻿new.nj.0054,﻿church,﻿St. Mary's,English,,,,﻿Monmouth County,,﻿Long Branch,﻿Long Branch,﻿NJ,,,,﻿new.nj.0089,﻿Attended from Red Bank,,,,,,,,,,,,1867,﻿,﻿,﻿Newark,Newark
 ﻿new.nj.0055,﻿church,﻿St. Francis of Sales,English,,,,﻿Bergen County,,﻿Lodi,﻿Lodi,﻿NJ,,,,﻿new.nj.0075,﻿Attended from Paterson,,,,,,,,,,,,1867,﻿,﻿,﻿Newark,Newark
 ﻿new.nj.0056,﻿church,﻿St. Joseph's,English,,,,﻿Passaic County,,﻿Macopin,﻿Macopin,﻿NJ,,,,﻿new.nj.0075,﻿Attended from Boonton,,,,,,,,,,,,1867,﻿,﻿,﻿Newark,Newark
-﻿new.nj.0057,﻿church,﻿St. Vincent's,English,﻿Parochial school connected,,,﻿Morris County,,﻿Madison,﻿Madison,﻿NJ,,,,,,,﻿m_a_madden_001,﻿Rev.,﻿M. A. Madden,,,,,,,,1867,﻿,﻿,﻿Newark,Newark
-﻿new.nj.0057,﻿church,﻿St. Vincent's,English,﻿Parochial school connected,,,﻿Morris County,,﻿Madison,﻿Madison,﻿NJ,,,,,,,﻿f_ballinger_001,﻿Rev.,﻿F. Ballinger,,,,,,,,1867,﻿,﻿,﻿Newark,Newark
+﻿new.nj.0057,﻿church,﻿St. Vincent's,English,﻿Parochial school connected,,,﻿Morris County,,﻿Madison,﻿Madison,﻿NJ,,,,,,,,﻿Rev.,﻿M. A. Madden,,,,,,,,1867,﻿,﻿,﻿Newark,Newark
+﻿new.nj.0057,﻿church,﻿St. Vincent's,English,﻿Parochial school connected,,,﻿Morris County,,﻿Madison,﻿Madison,﻿NJ,,,,,,,,﻿Rev.,﻿F. Ballinger,,,,,,,,1867,﻿,﻿,﻿Newark,Newark
 ﻿new.nj.0058,﻿church,﻿St. Joseph's,English,,,,﻿Morris County,,﻿Mendham,﻿Mendham,﻿NJ,,,,﻿new.nj.0063,﻿Attended from Morristown,,,,,,,,,,,,1867,﻿,﻿,﻿Newark,Newark
 ﻿new.nj.0060,﻿church,﻿St. Joseph's,English,,,,﻿Somerset County,,﻿Millstone,﻿Millstone,﻿NJ,,,,﻿new.nj.0088,﻿Attended from New-Brunswick,,,,,,,,,,,,1867,﻿,﻿,﻿Newark,Newark
-﻿new.nj.0061,﻿church,﻿Immaculate Conception,English,﻿Parochial school connected,,,﻿Essex County,,﻿Montclair,﻿Montclair,﻿NJ,,,,,,,﻿tit_joslin_001,﻿Rev.,﻿Titus Joslin,,,,,,,,1867,﻿,﻿,﻿Newark,Newark
-﻿new.nj.0063,﻿church,﻿Assumption B.V.M.,English,﻿Parochial school connected,,,﻿Morris County,,﻿Morristown,﻿Morristown,﻿NJ,,,,,,,﻿law_hoey_001,﻿Rev.,﻿Lawrence Hoey,,,,,,,,1867,﻿,﻿,﻿Newark,Newark
-﻿new.nj.0064,﻿church,﻿St. Mary Magdalen's,English,﻿Parochial school connected,,,﻿Cumberland County,,﻿Millville,﻿Millville,﻿NJ,,,,,,,﻿mar_gessner_001,﻿Rev.,﻿Martin Gessner,,,,,,,,1867,﻿,﻿,﻿Newark,Newark
+﻿new.nj.0061,﻿church,﻿Immaculate Conception,English,﻿Parochial school connected,,,﻿Essex County,,﻿Montclair,﻿Montclair,﻿NJ,,,,,,,,﻿Rev.,﻿Titus Joslin,,,,,,,,1867,﻿,﻿,﻿Newark,Newark
+﻿new.nj.0063,﻿church,﻿Assumption B.V.M.,English,﻿Parochial school connected,,,﻿Morris County,,﻿Morristown,﻿Morristown,﻿NJ,,,,,,,,﻿Rev.,﻿Lawrence Hoey,,,,,,,,1867,﻿,﻿,﻿Newark,Newark
+﻿new.nj.0064,﻿church,﻿St. Mary Magdalen's,English,﻿Parochial school connected,,,﻿Cumberland County,,﻿Millville,﻿Millville,﻿NJ,,,,,,,,﻿Rev.,﻿Martin Gessner,,,,,,,,1867,﻿,﻿,﻿Newark,Newark
 ﻿new.nj.0065,﻿church,﻿St. Mary's,English,﻿Parochial school connected,,,﻿Burlington County,,﻿Mount Holly,﻿Mount Holly,﻿NJ,,,,﻿new.nj.0021,﻿Attended from Burlington,,,,,,,,,,,,1867,﻿,﻿,﻿Newark,Newark
 ﻿new.nj.0067,﻿church,﻿St. Peter's,English,﻿Parochial school connected,,,﻿Middlesex County,,﻿New-Brunswick,﻿New Brunswick,﻿NJ,,,,,,,﻿joh_rodgers_001,﻿Rev.,﻿John Rogers,,,,,,,,1867,﻿,﻿,﻿Newark,Newark
 ﻿new.nj.0068,﻿church,﻿St. John the Baptist,﻿German,﻿Parochial school connected,,,﻿Middlesex County,,﻿New-Brunswick,﻿New Brunswick,﻿NJ,,,,,,,﻿gre_misdriol_001,﻿Rev.,﻿Gregory Mitzriol,,,,,,,,1867,﻿,﻿,﻿Newark,Newark
 ﻿new.nj.0069,﻿church,﻿St. Ann's,English,﻿Parochial school connected,,,﻿Hunterdon County,,﻿New-Hampton,﻿Hampton,﻿NJ,,,,,,,﻿p_leonard_001,﻿Rev.,﻿Patrick Leonard,,,,,,,,1867,﻿,﻿,﻿Newark,Newark
-﻿new.nj.0070,﻿church,﻿St. Joseph's,English,﻿Parochial school connected,,,﻿Sussex County,,﻿Newton,﻿Newton,﻿NJ,,,,,,,﻿edw_j_mccosker_001,﻿Rev.,﻿Edward J. McCosker,,,,,,,,1867,﻿,﻿,﻿Newark,Newark
-﻿new.nj.0071,﻿church,﻿St. John's,English,﻿Parochial school connected; Conference of St. Vincent de Paul Society,,,﻿Essex County,,﻿Orange,﻿Orange,﻿NJ,,,,,,,﻿e_m_hickey_001,﻿Rev.,﻿E. M. Hickey,,,,,,,,1867,﻿,﻿,﻿Newark,Newark
+﻿new.nj.0070,﻿church,﻿St. Joseph's,English,﻿Parochial school connected,,,﻿Sussex County,,﻿Newton,﻿Newton,﻿NJ,,,,,,,,﻿Rev.,﻿Edward J. McCosker,,,,,,,,1867,﻿,﻿,﻿Newark,Newark
+﻿new.nj.0071,﻿church,﻿St. John's,English,﻿Parochial school connected; Conference of St. Vincent de Paul Society,,,﻿Essex County,,﻿Orange,﻿Orange,﻿NJ,,,,,,,,﻿Rev.,﻿E. M. Hickey,,,,,,,,1867,﻿,﻿,﻿Newark,Newark
 ﻿new.nj.0073,﻿church,not recorded,English,,,,﻿Warren County,,﻿Oxford Furnace,﻿Oxford,﻿NJ,,,,﻿new.nj.0069,﻿Attended from New-Hampton,,,,,,,,,,,,1867,﻿,﻿,﻿Newark,Newark
-﻿new.nj.0075,﻿church,﻿St. John Baptist,English,﻿Parochial school connected,,,﻿Passaic County,,﻿Paterson,﻿Paterson,﻿NJ,,,,,,,﻿wil_mcnulty_001,﻿Rev.,﻿William McNulty,,,,,,,,1867,﻿,﻿,﻿Newark,Newark
+﻿new.nj.0075,﻿church,﻿St. John Baptist,English,﻿Parochial school connected,,,﻿Passaic County,,﻿Paterson,﻿Paterson,﻿NJ,,,,,,,,﻿Rev.,﻿William McNulty,,,,,,,,1867,﻿,﻿,﻿Newark,Newark
 ﻿new.nj.0075,﻿church,﻿St. John Baptist,English,﻿Parochial school connected,,,﻿Passaic County,,﻿Paterson,﻿Paterson,﻿NJ,,,,,,,﻿jam_a_darcy_001,﻿Rev.,﻿James Darcy,,,,,,,,1867,﻿,﻿,﻿Newark,Newark
 ﻿new.nj.0075,﻿church,﻿St. John Baptist,English,﻿Parochial school connected,,,﻿Passaic County,,﻿Paterson,﻿Paterson,﻿NJ,,,,,,,﻿mic_j_kirwan_001,﻿Rev.,﻿Michael Kirwan,,,,,,,,1867,﻿,﻿,﻿Newark,Newark
-﻿new.nj.0076,﻿church,﻿St. Boniface's,﻿German,﻿Parochial school connected,,,﻿Passaic County,,﻿Paterson,﻿Paterson,﻿NJ,,,,,,,﻿j_j_schandel_001,﻿Rev.,﻿J. J. Schandel,,,,,,,,1867,﻿,﻿,﻿Newark,Newark
+﻿new.nj.0076,﻿church,﻿St. Boniface's,﻿German,﻿Parochial school connected,,,﻿Passaic County,,﻿Paterson,﻿Paterson,﻿NJ,,,,,,,,﻿Rev.,﻿J. J. Schandel,,,,,,,,1867,﻿,﻿,﻿Newark,Newark
 ﻿new.nj.0079,﻿church,﻿St. Mary's,English,,,,﻿Middlesex County,,﻿Perth Amboy,﻿Perth Amboy,﻿NJ,,,,﻿new.nj.0087,﻿Attended from Rahway,,,,,,,,,,,,1867,﻿,﻿,﻿Newark,Newark
-﻿new.nj.0080,﻿church,﻿St. Philip's and St. James',English,﻿Parochial school connected,,,﻿Warren County,,﻿Phillipsburgh,﻿Phillipsburg,﻿NJ,,,,,,,﻿cor_oreilly_001,﻿Rev.,﻿Cornelius O'Reilly,,,,,,,,1867,﻿,﻿,﻿Newark,Newark
-﻿new.nj.0081,﻿church,﻿St. Mary's,English,﻿Parochial school connected,,,﻿Union County,,﻿Plainfield,﻿Plainfield,﻿NJ,,,,,,,﻿t_kieran_001,﻿Rev.,﻿T. Kieran,,,,,,,,1867,﻿,﻿,﻿Newark,Newark
+﻿new.nj.0080,﻿church,﻿St. Philip's and St. James',English,﻿Parochial school connected,,,﻿Warren County,,﻿Phillipsburgh,﻿Phillipsburg,﻿NJ,,,,,,,,﻿Rev.,﻿Cornelius O'Reilly,,,,,,,,1867,﻿,﻿,﻿Newark,Newark
+﻿new.nj.0081,﻿church,﻿St. Mary's,English,﻿Parochial school connected,,,﻿Union County,,﻿Plainfield,﻿Plainfield,﻿NJ,,,,,,,,﻿Rev.,﻿T. Kieran,,,,,,,,1867,﻿,﻿,﻿Newark,Newark
 ﻿new.nj.0083,﻿church,﻿St. Elizabeth's,English,,,,﻿Cumberland County,,﻿Port Elizabeth,﻿Port Elizabeth,﻿NJ,,,,﻿new.nj.0064,﻿Attended from Millville,,,,,,,,,,,,1867,﻿,﻿,﻿Newark,Newark
 ﻿new.nj.0084,﻿church,﻿Assumption B.V.M.,English,,,,﻿Atlantic County,,﻿Pleasant Mills,﻿Hammonton,﻿NJ,,,,﻿new.nj.0022,﻿Attended from Camden,,,,,,,,,,,,1867,﻿,﻿,﻿Newark,Newark
 ﻿new.nj.0084,﻿church,﻿Assumption B.V.M.,English,,,,﻿Atlantic County,,﻿Pleasant Mills,﻿Hammonton,﻿NJ,,,,﻿phi.pa.0015,"﻿Attended by a German priest from St. Peter's Church, Philadelphia",,,,,,,,,,,,1867,﻿,﻿,﻿Newark,Newark
-﻿new.nj.0085,﻿church,﻿St. Paul's,English,﻿Parochial school connected,,,﻿Mercer County,,﻿Princeton,﻿Princeton,﻿NJ,,,,,,,﻿j_j_odonnell_001,﻿Rev.,﻿J. J. O'Donnell,,,,,,,,1867,﻿,﻿,﻿Newark,Newark
+﻿new.nj.0085,﻿church,﻿St. Paul's,English,﻿Parochial school connected,,,﻿Mercer County,,﻿Princeton,﻿Princeton,﻿NJ,,,,,,,,﻿Rev.,﻿J. J. O'Donnell,,,,,,,,1867,﻿,﻿,﻿Newark,Newark
 ﻿new.nj.0086,﻿church,﻿St. Peter's,English,,,,﻿Burlington County,,﻿Progress,﻿Riverside,﻿NJ,,,,﻿phi.pa.0015,"﻿Attended from St. Peter's, Philadelphia",,,,,,,,,,,,1867,﻿,﻿,﻿Newark,Newark
-﻿new.nj.0087,﻿church,﻿St. Mary's,English,﻿Parochial school connected,,,﻿Union County,,﻿Rahway,﻿Rahway,﻿NJ,,,,,,,﻿tho_quinn_001,﻿Rev.,﻿Thomas Quinn,,,,,,,,1867,﻿,﻿,﻿Newark,Newark
+﻿new.nj.0087,﻿church,﻿St. Mary's,English,﻿Parochial school connected,,,﻿Union County,,﻿Rahway,﻿Rahway,﻿NJ,,,,,,,,﻿Rev.,﻿Thomas Quinn,,,,,,,,1867,﻿,﻿,﻿Newark,Newark
 ﻿new.nj.0088,﻿church,﻿St. Bernard's,English,﻿Parochial school connected,,,﻿Somerset County,,﻿Raritan,﻿Raritan,﻿NJ,,,,﻿new.nj.0081,﻿Attended from Plainfield,,,,,,,,,,,,1867,﻿,﻿,﻿Newark,Newark
-﻿new.nj.0089,﻿church,﻿St. James',English,﻿Parochial school connected,,,﻿Monmouth County,,﻿Red Bank,﻿Red Bank,﻿NJ,,,,,,,﻿tho_killeen_001,﻿Rev.,﻿Thomas Killeen,,,,,,,,1867,﻿,﻿,﻿Newark,Newark
+﻿new.nj.0089,﻿church,﻿St. James',English,﻿Parochial school connected,,,﻿Monmouth County,,﻿Red Bank,﻿Red Bank,﻿NJ,,,,,,,,﻿Rev.,﻿Thomas Killeen,,,,,,,,1867,﻿,﻿,﻿Newark,Newark
 ﻿new.nj.0090,﻿church,not recorded,English,,,,﻿Passaic County,,﻿Ringwood,﻿Ringwood,﻿NJ,,,,﻿new.nj.0075,﻿Attended from Paterson,,,,,,,,,,,,1867,﻿,﻿,﻿Newark,Newark
-﻿new.nj.0092,﻿church,﻿St. Mary's,English,﻿Parochial school connected,,,﻿Salem County,,﻿Salem,﻿Salem,﻿NJ,,,,,,,﻿cor_cannon_001,﻿Rev.,﻿Cornelius Cannon,,,,,,,,1867,﻿,﻿,﻿Newark,Newark
+﻿new.nj.0092,﻿church,﻿St. Mary's,English,﻿Parochial school connected,,,﻿Salem County,,﻿Salem,﻿Salem,﻿NJ,,,,,,,,﻿Rev.,﻿Cornelius Cannon,,,,,,,,1867,﻿,﻿,﻿Newark,Newark
 ﻿new.nj.0093,﻿church,﻿St. Mary's,﻿German,,,,﻿Union County,,﻿Scotch Plains,﻿Scotch Plains,﻿NJ,,,,﻿new.nj.0004,"﻿Attended from St. Mary's, Newark",,,,,,,,,,,,1867,﻿,﻿,﻿Newark,Newark
 ﻿new.nj.0094,﻿church,﻿St. James',English,,,,﻿Monmouth County,,﻿Snow Hill,﻿Lawnside,﻿NJ,,,,﻿new.nj.0038,﻿Attended from Gloucester,,,,,,,,,,,,1867,﻿,﻿,﻿Newark,Newark
-﻿new.nj.0095,﻿church,﻿St. Mary's,English,﻿Parochial school connected,,,﻿Middlesex County,,﻿South-Amboy,﻿South Amboy,﻿NJ,,,,,,,﻿joh_a_kelly_001,﻿Rev.,﻿John A. Kelly,,,,,,,,1867,﻿,﻿,﻿Newark,Newark
+﻿new.nj.0095,﻿church,﻿St. Mary's,English,﻿Parochial school connected,,,﻿Middlesex County,,﻿South-Amboy,﻿South Amboy,﻿NJ,,,,,,,,﻿Rev.,﻿John A. Kelly,,,,,,,,1867,﻿,﻿,﻿Newark,Newark
 ﻿new.nj.0096,﻿church,﻿St. Patrick's,English,,,,﻿,﻿Hudson County,﻿South-Bergen,﻿Jersey City,﻿NJ,,,,﻿new.nj.0045,﻿Attended from Hudson City,,,,,,,,,,,,1867,﻿,﻿,﻿Newark,Newark
 ﻿new.nj.0097,﻿church,﻿St. Rose of Lima,English,,,,﻿Union County,,﻿Springfield,﻿Springfield,﻿NJ,,,,﻿new.nj.0112,﻿Attended from Seton Hall College,,,,,,,,,,,,1867,﻿,﻿,﻿Newark,Newark
 ﻿new.nj.0099,﻿church,﻿St. Teresa's,English,,,,﻿Union County,,﻿Summit,﻿Summit,﻿NJ,,,,﻿new.nj.0057,﻿Attended from Madison,,,,,,,,,,,,1867,﻿,﻿,﻿Newark,Newark
 ﻿new.nj.0100,﻿church,not recorded,English,,,,﻿Sussex County,,﻿Stanhope,﻿Stanhope,﻿NJ,,,,﻿new.nj.0070,﻿Attended from Newton,,,,,,,,,,,,1867,﻿,﻿,﻿Newark,Newark
 ﻿new.nj.0101,﻿church,﻿St. Joseph's,English,,,,﻿Gloucester County,,﻿Swedesborough,﻿Swedesboro,﻿NJ,,,,﻿new.nj.0092,﻿Attended from Salem,,,,,,,,,,,,1867,﻿,﻿,﻿Newark,Newark
-﻿new.nj.0102,﻿church,﻿St. John Baptist,English,﻿Parochial school connected,,,﻿Mercer County,,﻿Trenton,﻿Trenton,﻿NJ,,,,,,,﻿ant_smith_001,﻿Rev.,﻿Anthony Smith,,,,,,,,1867,﻿,﻿,﻿Newark,Newark
-﻿new.nj.0103,﻿church,﻿St. Francis of Assisium,English,﻿Parochial school connected,,,﻿Mercer County,,﻿Trenton,﻿Trenton,﻿NJ,,,,,,,﻿f_gerber_001,﻿Rev.,﻿F. Gerber,,,,,,,,1867,﻿,﻿,﻿Newark,Newark
-﻿new.nj.0104,﻿church,﻿St. Boniface,English,﻿Parochial school connected,,,﻿Mercer County,,﻿Trenton,﻿Trenton,﻿NJ,,,,,,,﻿f_gerber_001,﻿Rev.,﻿F. Gerber,,,,,,,,1867,﻿,﻿,﻿Newark,Newark
+﻿new.nj.0102,﻿church,﻿St. John Baptist,English,﻿Parochial school connected,,,﻿Mercer County,,﻿Trenton,﻿Trenton,﻿NJ,,,,,,,,﻿Rev.,﻿Anthony Smith,,,,,,,,1867,﻿,﻿,﻿Newark,Newark
+﻿new.nj.0103,﻿church,﻿St. Francis of Assisium,English,﻿Parochial school connected,,,﻿Mercer County,,﻿Trenton,﻿Trenton,﻿NJ,,,,,,,,﻿Rev.,﻿F. Gerber,,,,,,,,1867,﻿,﻿,﻿Newark,Newark
+﻿new.nj.0104,﻿church,﻿St. Boniface,English,﻿Parochial school connected,,,﻿Mercer County,,﻿Trenton,﻿Trenton,﻿NJ,,,,,,,,﻿Rev.,﻿F. Gerber,,,,,,,,1867,﻿,﻿,﻿Newark,Newark
 ﻿new.nj.0107,﻿church,not recorded,English,,,,﻿Sussex County,,﻿Wawayanda,﻿Vernon,﻿NJ,,,,﻿new.nj.0070,﻿Attended from Newton,,,,,,,,,,,,1867,﻿,﻿,﻿Newark,Newark
 ﻿new.nj.0108,﻿church,﻿Our Lady of Mercy,English,﻿Parochial school connected,,,﻿Hudson County,,﻿West-Hoboken,﻿Union City,﻿NJ,,,,,,,﻿tim_pacetti_002,﻿Rev.,﻿F. Timothy Pacetti,,,,,,,,1867,﻿,﻿,﻿Newark,Newark
 ﻿new.nj.0109,﻿church,﻿Our Lady of Mercy,English,,,,﻿Morris County,,﻿Whippany,﻿Whippany,﻿NJ,,,,﻿new.nj.0057,﻿Attended from Madison,,,,,,,,,,,,1867,﻿,﻿,﻿Newark,Newark
 ﻿new.nj.0111,﻿church,﻿St. Patrick's,English,,,,﻿Gloucester County,,﻿Woodbury,﻿Woodbury,﻿NJ,,,,﻿new.nj.0038,﻿Attended from Gloucester,,,,,,,,,,,,1867,﻿,﻿,﻿Newark,Newark
-﻿new.nj.0112,﻿college,﻿Seton Hall College,English,﻿The Diocesan Seminary is attached to the College,,,,,﻿South-Orange,﻿South Orange,﻿NJ,,,,,,,﻿b_j_mcquaid_001,﻿Very Rev.,﻿B. J. McQuaid,,"﻿V.G., President",,,,,,1867,﻿,﻿,﻿Newark,Newark
-﻿new.nj.0112,﻿college,﻿Seton Hall College,English,﻿The Diocesan Seminary is attached to the College,,,,,﻿South-Orange,﻿South Orange,﻿NJ,,,,,,,﻿m_a_corrigan_001,﻿Rev.,﻿M. A. Corrigan,﻿D.D.,,,,,,,1867,﻿,﻿,﻿Newark,Newark
+﻿new.nj.0112,﻿college,﻿Seton Hall College,English,﻿The Diocesan Seminary is attached to the College,,,,,﻿South-Orange,﻿South Orange,﻿NJ,,,,,,,,﻿Very Rev.,﻿B. J. McQuaid,,"﻿V.G., President",,,,,,1867,﻿,﻿,﻿Newark,Newark
+﻿new.nj.0112,﻿college,﻿Seton Hall College,English,﻿The Diocesan Seminary is attached to the College,,,,,﻿South-Orange,﻿South Orange,﻿NJ,,,,,,,,﻿Rev.,﻿M. A. Corrigan,﻿D.D.,,,,,,,1867,﻿,﻿,﻿Newark,Newark
 ﻿new.nj.0112,﻿college,﻿Seton Hall College,English,﻿The Diocesan Seminary is attached to the College,,,,,﻿South-Orange,﻿South Orange,﻿NJ,,,,,,,﻿l_a_schneider_001,﻿Rev.,﻿Louis Schneider,,,,,,,,1867,﻿,﻿,﻿Newark,Newark
-﻿new.nj.0142,﻿college,﻿Benedictine Priory,English,,,,,﻿Essex County,﻿Newark,﻿Newark,﻿NJ,,,,,,,﻿rom_hill_001,﻿Rev.,﻿Romanus Hill,﻿O.S.B.,,,﻿lay brother,﻿two lay brothers,,,1867,﻿,﻿,﻿Newark,Newark
+﻿new.nj.0142,﻿college,﻿Benedictine Priory,English,,,,,﻿Essex County,﻿Newark,﻿Newark,﻿NJ,,,,,,,,﻿Rev.,﻿Romanus Hill,﻿O.S.B.,,,﻿lay brother,﻿two lay brothers,,,1867,﻿,﻿,﻿Newark,Newark
 ﻿new.nj.0142,﻿college,﻿Benedictine Priory,English,,,,,﻿Essex County,﻿Newark,﻿Newark,﻿NJ,,,,,,,﻿bru_reiss_001,﻿Rev.,﻿Bruno Riess,﻿O.S.B.,,,﻿lay brother,﻿two lay brothers,,,1867,﻿,﻿,﻿Newark,Newark
-﻿new.nj.0142,﻿college,﻿Benedictine Priory,English,,,,,﻿Essex County,﻿Newark,﻿Newark,﻿NJ,,,,,,,﻿ber_dolweck_001,﻿Rev.,﻿Bernardine Dolweck,﻿O.S.B.,,,﻿lay brother,﻿two lay brothers,,,1867,﻿,﻿,﻿Newark,Newark
-﻿new.nj.0142,﻿college,﻿Benedictine Priory,English,,,,,﻿Essex County,﻿Newark,﻿Newark,﻿NJ,,,,,,,﻿wil_walter_001,﻿Rev.,﻿William Walter,﻿O.S.B.,,,﻿lay brother,﻿two lay brothers,,,1867,﻿,﻿,﻿Newark,Newark
+﻿new.nj.0142,﻿college,﻿Benedictine Priory,English,,,,,﻿Essex County,﻿Newark,﻿Newark,﻿NJ,,,,,,,,﻿Rev.,﻿Bernardine Dolweck,﻿O.S.B.,,,﻿lay brother,﻿two lay brothers,,,1867,﻿,﻿,﻿Newark,Newark
+﻿new.nj.0142,﻿college,﻿Benedictine Priory,English,,,,,﻿Essex County,﻿Newark,﻿Newark,﻿NJ,,,,,,,,﻿Rev.,﻿William Walter,﻿O.S.B.,,,﻿lay brother,﻿two lay brothers,,,1867,﻿,﻿,﻿Newark,Newark
 ﻿new.nj.0146,﻿convent,﻿Benedictine Nunnery of St. Scholastica,English,﻿The religious direct a select school and St. Mary's Parish School.,,,,﻿Essex County,﻿Newark,﻿Newark,﻿NJ,,,,,,,,﻿Mother,﻿Philomena,,﻿Prioress,,﻿religious,﻿13 religious,,,1867,﻿,﻿,﻿Newark,Newark
-﻿new.nj.0113,﻿monastery,﻿St. Michael's Retreat (Passionists),English,,,,﻿Hudson County,,﻿West-Hoboken,﻿West Hoboken,﻿NJ,,,,,,,﻿ant_calandri_002,﻿Very Rev. Father,﻿Anthony Calandri,,﻿Provincial,,﻿student,﻿there are 7 students of theology,,,1867,﻿,﻿,﻿Newark,Newark
-﻿new.nj.0113,﻿monastery,﻿St. Michael's Retreat (Passionists),English,,,,﻿Hudson County,,﻿West-Hoboken,﻿West Hoboken,﻿NJ,,,,,,,﻿joh_b_baudinelli_001,﻿Very Rev. Father,﻿John B. Baudinelli,,﻿Rector,,﻿lay brother,﻿6 lay brothers,,,1867,﻿,﻿,﻿Newark,Newark
+﻿new.nj.0113,﻿monastery,﻿St. Michael's Retreat (Passionists),English,,,,﻿Hudson County,,﻿West-Hoboken,﻿West Hoboken,﻿NJ,,,,,,,,﻿Very Rev. Father,﻿Anthony Calandri,,﻿Provincial,,﻿student,﻿there are 7 students of theology,,,1867,﻿,﻿,﻿Newark,Newark
+﻿new.nj.0113,﻿monastery,﻿St. Michael's Retreat (Passionists),English,,,,﻿Hudson County,,﻿West-Hoboken,﻿West Hoboken,﻿NJ,,,,,,,,﻿Very Rev. Father,﻿John B. Baudinelli,,﻿Rector,,﻿lay brother,﻿6 lay brothers,,,1867,﻿,﻿,﻿Newark,Newark
 ﻿new.nj.0113,﻿monastery,﻿St. Michael's Retreat (Passionists),English,,,,﻿Hudson County,,﻿West-Hoboken,﻿West Hoboken,﻿NJ,,,,,,,﻿lib_bonelli_002,﻿Rev. Father,﻿Liberatus Brunelli,,﻿Vicar,,﻿lay brother,﻿6 lay brothers,,,1867,﻿,﻿,﻿Newark,Newark
 ﻿new.nj.0113,﻿monastery,﻿St. Michael's Retreat (Passionists),English,,,,﻿Hudson County,,﻿West-Hoboken,﻿West Hoboken,﻿NJ,,,,,,,﻿sta_parizyk_001,﻿Rev. Father,﻿Stanislaus Parezyk,,,,﻿lay brother,﻿6 lay brothers,,,1867,﻿,﻿,﻿Newark,Newark
-﻿new.nj.0113,﻿monastery,﻿St. Michael's Retreat (Passionists),English,,,,﻿Hudson County,,﻿West-Hoboken,﻿West Hoboken,﻿NJ,,,,,,,﻿augustin_001,﻿Rev. Father,﻿Augustin,,,,﻿lay brother,﻿6 lay brothers,,,1867,﻿,﻿,﻿Newark,Newark
+﻿new.nj.0113,﻿monastery,﻿St. Michael's Retreat (Passionists),English,,,,﻿Hudson County,,﻿West-Hoboken,﻿West Hoboken,﻿NJ,,,,,,,,﻿Rev. Father,﻿Augustin,,,,﻿lay brother,﻿6 lay brothers,,,1867,﻿,﻿,﻿Newark,Newark
 ﻿new.nj.0113,﻿monastery,﻿St. Michael's Retreat (Passionists),English,,,,﻿Hudson County,,﻿West-Hoboken,﻿West Hoboken,﻿NJ,,,,,,,﻿j_p_baudinelli_001,﻿Rev. Father,﻿J. Philip,,﻿Professor of Theology,,﻿lay brother,﻿6 lay brothers,,,1867,﻿,﻿,﻿Newark,Newark
-﻿new.nj.0113,﻿monastery,﻿St. Michael's Retreat (Passionists),English,,,,﻿Hudson County,,﻿West-Hoboken,﻿West Hoboken,﻿NJ,,,,,,,﻿tim_pacetti_002,﻿Rev. F.,﻿Timothy Pacetti,,,,﻿lay brother,﻿6 lay brothers,,,1867,﻿,﻿,﻿Newark,Newark
-﻿new.nj.0113,﻿monastery,﻿St. Michael's Retreat (Passionists),English,,,,﻿Hudson County,,﻿West-Hoboken,﻿West Hoboken,﻿NJ,,,,,,,﻿vit_lilla_001,﻿Rev. F.,﻿Vitalian Lilla,,,,﻿lay brother,﻿6 lay brothers,,,1867,﻿,﻿,﻿Newark,Newark
-﻿new.nj.0113,﻿monastery,﻿St. Michael's Retreat (Passionists),English,,,,﻿Hudson County,,﻿West-Hoboken,﻿West Hoboken,﻿NJ,,,,,,,﻿vin_naylor_001,﻿Rev. F.,﻿Vincent Naylor,,,,﻿lay brother,﻿6 lay brothers,,,1867,﻿,﻿,﻿Newark,Newark
+﻿new.nj.0113,﻿monastery,﻿St. Michael's Retreat (Passionists),English,,,,﻿Hudson County,,﻿West-Hoboken,﻿West Hoboken,﻿NJ,,,,,,,,﻿Rev. F.,﻿Timothy Pacetti,,,,﻿lay brother,﻿6 lay brothers,,,1867,﻿,﻿,﻿Newark,Newark
+﻿new.nj.0113,﻿monastery,﻿St. Michael's Retreat (Passionists),English,,,,﻿Hudson County,,﻿West-Hoboken,﻿West Hoboken,﻿NJ,,,,,,,,﻿Rev. F.,﻿Vitalian Lilla,,,,﻿lay brother,﻿6 lay brothers,,,1867,﻿,﻿,﻿Newark,Newark
+﻿new.nj.0113,﻿monastery,﻿St. Michael's Retreat (Passionists),English,,,,﻿Hudson County,,﻿West-Hoboken,﻿West Hoboken,﻿NJ,,,,,,,,﻿Rev. F.,﻿Vincent Naylor,,,,﻿lay brother,﻿6 lay brothers,,,1867,﻿,﻿,﻿Newark,Newark
 ﻿new.nj.0116,﻿house,﻿Mother-House of the Sisters of Charity,English,﻿they direct 17 different establishments,,,,﻿Morris County,﻿Madison,﻿Madison,﻿NJ,,,,,,,,﻿Mother,﻿M. Xavier,,﻿Superioress,,﻿member,﻿The Community numbers 104 members,﻿Sisters of Charity,,1867,﻿,﻿,﻿Newark,Newark
 ﻿new.nj.0117,﻿academy,﻿St. Elizabeth's Academy,English,﻿for girls,,,,﻿Morris County,﻿Madison,﻿Madison,﻿NJ,,,,,,,,,,,,,﻿pupil,﻿80 pupils,,,1867,﻿,﻿,﻿Newark,Newark
 ﻿new.nj.0118,﻿school,﻿St. Joseph's Preparatory Boarding-School,English,﻿for boys,,,,﻿Morris County,﻿Madison,﻿Madison,﻿NJ,,,,,,,,,,,,,﻿pupil,﻿40 pupils,,,1867,﻿,﻿,﻿Newark,Newark
