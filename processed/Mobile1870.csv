@@ -4,10 +4,10 @@
 ﻿mob.al.0001,﻿cathedral,﻿Cathedral of the Immaculate Conception,English,,,,,﻿Mobile County,﻿Mobile,﻿Mobile,﻿AL,,30.6901203,-88.0458984,,,,﻿edw_lorigan_001,﻿Rev.,﻿Edward Lorigan,,,,,,,,1870,﻿,﻿,﻿Mobile,Mobile
 ﻿mob.al.0001,﻿cathedral,﻿Cathedral of the Immaculate Conception,English,,,,,﻿Mobile County,﻿Mobile,﻿Mobile,﻿AL,,30.6901203,-88.0458984,,,,﻿j_barry_001,﻿Rev.,﻿J. Barry,﻿D.D.,,,,,,,1870,﻿,﻿,﻿Mobile,Mobile
 ﻿mob.al.0001,﻿cathedral,﻿Cathedral of the Immaculate Conception,English,,,,,﻿Mobile County,﻿Mobile,﻿Mobile,﻿AL,,30.6901203,-88.0458984,,,,﻿d_gibbons_001,﻿Rev.,﻿D. Gibbons,,,,,,,,1870,﻿,﻿,﻿Mobile,Mobile
-﻿mob.al.0002,﻿church,﻿St. Vincent de Paul's,English,,,,,﻿Mobile County,﻿Mobile,﻿Mobile,﻿AL,,30.586272,-88.1955931,,,,,﻿Rev.,﻿C. T. O'Callaghan,,,,,,,,1870,﻿,﻿,﻿Mobile,Mobile
+﻿mob.al.0002,﻿church,﻿St. Vincent de Paul's,English,,,,,﻿Mobile County,﻿Mobile,﻿Mobile,﻿AL,,30.586272,-88.1955931,,,,﻿c_t_ocallaghan_001,﻿Rev.,﻿C. T. O'Callaghan,,,,,,,,1870,﻿,﻿,﻿Mobile,Mobile
 ﻿mob.al.0003,﻿church,﻿St. Joseph's,﻿German and English,,,,,﻿Mobile County,﻿Mobile,﻿Mobile,﻿AL,,30.737853,-88.055473,,,,﻿p_ismand_001,﻿Rev.,﻿P. Ismand,﻿S.J.,,,,,,,1870,﻿,﻿,﻿Mobile,Mobile
 ﻿mob.al.0003,﻿church,﻿St. Joseph's,﻿German and English,,,,,﻿Mobile County,﻿Mobile,﻿Mobile,﻿AL,,30.737853,-88.055473,,,,﻿j_roduit_001,﻿Rev.,﻿J. Roduit,﻿S.J.,,,,,,,1870,﻿,﻿,﻿Mobile,Mobile
-﻿mob.al.0004,﻿church,﻿St. Patrick's,English,,,,,﻿Mobile County,﻿Mobile,﻿Mobile,﻿AL,,31.0885804,-88.2287915,,,,,﻿Rev.,﻿J. J. Browne,,,,,,,,1870,﻿,﻿,﻿Mobile,Mobile
+﻿mob.al.0004,﻿church,﻿St. Patrick's,English,,,,,﻿Mobile County,﻿Mobile,﻿Mobile,﻿AL,,31.0885804,-88.2287915,,,,﻿j_j_browne_001,﻿Rev.,﻿J. J. Browne,,,,,,,,1870,﻿,﻿,﻿Mobile,Mobile
 ﻿mob.al.0005,﻿church,﻿St. Mary's,English,,,,,﻿Mobile County,﻿Mobile,﻿Mobile,﻿AL,,30.6942469,-88.0804887,,,,﻿d_omeara_001,﻿Rev.,﻿D. O'Meara,,,,,,,,1870,﻿,﻿,﻿Mobile,Mobile
 ﻿mob.al.0006,﻿church,not recorded,English,,﻿North Alabama,,,﻿Limestone County,﻿Athens,﻿Athens,﻿AL,,34.7991039,-86.9870663,﻿mob.al.0018,﻿Attended from Huntsville,,,,,,,,,,,,1870,﻿,﻿,﻿Mobile,Mobile
 ﻿mob.al.0007,﻿church,not recorded,English,,,,﻿Mobile County,﻿Mobile County,﻿Bayou le Batre and Belle Fontaine,﻿Bayou le Batre,﻿AL,,30.4069515,-88.2607188,,,,,﻿Rev.,﻿- Serra,﻿S.J.,,,,,,,1870,﻿,﻿,﻿Mobile,Mobile
@@ -22,7 +22,7 @@
 ﻿mob.al.0015,﻿church,not recorded,English,,,,,﻿Sumter County,﻿Gainesville,﻿Gainesville,﻿AL,,32.8209639,-88.158914,﻿mob.al.0028,﻿Attended from Tuscaloosa,,,,,,,,,,,,1870,﻿,﻿,﻿Mobile,Mobile
 ﻿mob.al.0016,﻿church,not recorded,English,,,,﻿Green County,﻿Hale County,﻿Greensboro,﻿Greensboro,﻿AL,,32.69836865,-87.59551404,﻿mob.al.0024,﻿Attended from Selma,,,,,,,,,,,,1870,﻿,﻿,﻿Mobile,Mobile
 ﻿mob.al.0017,﻿church,not recorded,English,,,,,﻿Butler County,﻿Greenville,﻿Greenville,﻿AL,,31.8295972,-86.6177517,﻿mob.al.0022,﻿Attended from Montgomery,,,,,,,,,,,,1870,﻿,﻿,﻿Mobile,Mobile
-﻿mob.al.0018,﻿church,﻿Our Lady of the Visitation,English,,﻿North Alabama,,,﻿Madison County,﻿Huntsville,﻿Huntsville,﻿AL,,34.7411725,-86.6849899,,,,,﻿Rev.,﻿J. F. Trecy,,,,,,,,1870,﻿,﻿,﻿Mobile,Mobile
+﻿mob.al.0018,﻿church,﻿Our Lady of the Visitation,English,,﻿North Alabama,,,﻿Madison County,﻿Huntsville,﻿Huntsville,﻿AL,,34.7411725,-86.6849899,,,,﻿j_f_trecy_001,﻿Rev.,﻿J. F. Trecy,,,,,,,,1870,﻿,﻿,﻿Mobile,Mobile
 ﻿mob.al.0018,﻿church,﻿Our Lady of the Visitation,English,,﻿North Alabama,,,﻿Madison County,﻿Huntsville,﻿Huntsville,﻿AL,,34.7411725,-86.6849899,,,,﻿joh_b_baasen_001,﻿Rev.,﻿John B. Baasen,,,,,,,,1870,﻿,﻿,﻿Mobile,Mobile
 ﻿mob.al.0019,﻿church,﻿St. James',English,,,,﻿Baldwin County,﻿Baldwin County,﻿Montrose,﻿Montrose,﻿AL,,30.5718684,-87.8957963,,,,,﻿Rev.,﻿— Heidencamp,,,"﻿who also attends Fish River, Navy Core, and Bonsecour Bay",,,,,1870,﻿,﻿,﻿Mobile,Mobile
 ﻿mob.al.0020,﻿church,﻿St. Paul's,English,,,,﻿Mobile County,﻿Mobile County,﻿Mount Vernon,﻿Mount Vernon,﻿AL,,31.0851775,-88.0133325,﻿mob.al.0001,﻿Attended from Mobile,,,,,,,,,,,,1870,﻿,﻿,﻿Mobile,Mobile
@@ -39,7 +39,7 @@
 ﻿mob.al.0030,﻿church,not recorded,English,,,,,﻿Elmore County,﻿Wetumpka,﻿Wetumpka,﻿AL,,32.5437448,-86.2119127,﻿mob.al.0022,﻿Attended from Montgomery,,,,,,,,,,,,1870,﻿,﻿,﻿Mobile,Mobile
 ﻿mob.al.0031,﻿church,﻿St. Bridget's,English,,,,﻿Mobile County,﻿Mobile County,﻿Whistler,﻿Whistler,﻿AL,,30.7576882,-88.1133344,,,,﻿edw_kirwan_001,﻿Rev.,﻿Edward Kirwan,,,,,,,,1870,﻿,﻿,﻿Mobile,Mobile
 ﻿mob.al.0032,﻿church,﻿St. Patrick's,English,,,,,﻿Franklin County,﻿Appalachicola,﻿Appalachicola,﻿FL,,29.72434839,-84.98446785,,,,﻿mat_gardiner_001,﻿Rev.,﻿Matthew Gardiner,,,,,,,,1870,﻿,﻿,﻿Mobile,Mobile
-﻿mob.al.0033,﻿church,﻿St. Michael's,English,,,,,﻿Escambia County,﻿Pensacola,﻿Pensacola,﻿FL,,30.4142607,-87.2094833,,,,,﻿Rev.,﻿J. A. Bergrath,,,,,,,,1870,﻿,﻿,﻿Mobile,Mobile
+﻿mob.al.0033,﻿church,﻿St. Michael's,English,,,,,﻿Escambia County,﻿Pensacola,﻿Pensacola,﻿FL,,30.4142607,-87.2094833,,,,﻿j_a_bergrath_001,﻿Rev.,﻿J. A. Bergrath,,,,,,,,1870,﻿,﻿,﻿Mobile,Mobile
 ﻿mob.al.0034,﻿church,﻿St. John Evangelist's,English,,﻿Navy Yard,,,﻿Escambia County,﻿Warrington,﻿Warrington,﻿FL,,30.383773,-87.278385,,,,﻿wm_lane_002,﻿Rev.,﻿Wm. Lane,,,,,,,,1870,﻿,﻿,﻿Mobile,Mobile
 ﻿mob.al.0035,﻿college,﻿Spring Hill College,English,,﻿six miles from Mobile,,,﻿Mobile County,﻿Spring Hill,﻿Mobile,﻿AL,,33.279527,-85.8486236,,,,﻿joh_montillot_001,﻿Very Rev.,﻿John Montillot,﻿S.J.,﻿President,,,,,,1870,﻿,﻿,﻿Mobile,Mobile
 ﻿mob.al.0035,﻿college,﻿Spring Hill College,English,,﻿six miles from Mobile,,,﻿Mobile County,﻿Spring Hill,﻿Mobile,﻿AL,,33.279527,-85.8486236,,,,﻿r_olivier_001,﻿Rev.,﻿R. Olivier,﻿S.J.,,,,,,,1870,﻿,﻿,﻿Mobile,Mobile
