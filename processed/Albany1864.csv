@@ -1,5 +1,5 @@
 ﻿instID,church_type,instName,language,instNote,placeName,region,county_orig,county_reg,city_orig,city_reg,state_orig,state_reg,latitude,longitude,attendingInstID,attendingChurch,attendingChurchFrequency,persID,persTitle,persName,persSuffix,persRole,persNote,memberType,member,affiliated,order,year,attendingPersID,attendingChurchNote,diocese,diocese_reg
-﻿alb.ny.0001,﻿cathedral,﻿Cathedral of the Immaculate Conception,English,,,,,,﻿Albany City,﻿Albany,﻿NY,,42.647478,-73.759623,,,,﻿joh_mccloskey_004,﻿Rt. Rev.,﻿John McCloskey,﻿D.D.,,,,,,,1864,﻿,﻿,﻿Albany,Albany
+﻿alb.ny.0001,﻿cathedral,﻿Cathedral of the Immaculate Conception,English,,,,,,﻿Albany City,﻿Albany,﻿NY,,42.647478,-73.759623,,,,﻿joh_mccloskey_003,﻿Rt. Rev.,﻿John McCloskey,﻿D.D.,,,,,,,1864,﻿,﻿,﻿Albany,Albany
 ﻿alb.ny.0001,﻿cathedral,﻿Cathedral of the Immaculate Conception,English,,,,,,﻿Albany City,﻿Albany,﻿NY,,42.647478,-73.759623,,,,﻿e_p_wadhams_001,﻿Rev.,﻿Edgar P. Wadhams,,﻿Pastor,,,,,,1864,﻿,﻿,﻿Albany,Albany
 ﻿alb.ny.0001,﻿cathedral,﻿Cathedral of the Immaculate Conception,English,,,,,,﻿Albany City,﻿Albany,﻿NY,,42.647478,-73.759623,,,,﻿osw_m_oconnor_001,﻿Rev.,﻿Oswald Moore O'Connor,,,,,,,,1864,﻿,﻿,﻿Albany,Albany
 ﻿alb.ny.0002,﻿church,﻿St. Joseph's,English,,,,,,﻿Albany City,﻿Albany,﻿NY,,42.6569339,-73.7514357,,,,﻿joh_j_conroy_001,﻿Very Rev.,﻿John J. Conroy,,"﻿V.G., Pastor",,,,,,1864,﻿,﻿,﻿Albany,Albany

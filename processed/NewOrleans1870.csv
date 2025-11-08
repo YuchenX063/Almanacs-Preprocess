@@ -90,7 +90,7 @@
 ﻿new.la.0050,﻿chapel,﻿Chapel of the Junction,English,,,,,,﻿The Junction,﻿Arnaudville,﻿LA,,30.39958648,-91.93215743,,,,﻿j_f_vialeton_001,﻿Rev.,﻿J. F. Vialeton,﻿S.J.,﻿Pastor,,,,,,1870,﻿,﻿,﻿New Orleans,NewOrleans
 ﻿new.la.0051,﻿church,﻿St. Francis of Sales,English,,,,﻿Terre Bonne Parish,,﻿Houma,﻿Houma,﻿LA,,29.59470324,-90.72231946,,,,﻿m_gonellaz_001,﻿Rev.,﻿M. Gonellaz,,﻿Pastor,,,,,,1870,﻿,﻿,﻿New Orleans,NewOrleans
 ﻿new.la.0052,﻿church,﻿St. Gabriel,English,,,,﻿Iberville Parish,,,,﻿LA,,30.2899179,-91.4048249,,,,,﻿Rev.,﻿— Dubernard,,﻿Pastor,,,,,,1870,﻿,﻿,﻿New Orleans,NewOrleans
-﻿new.la.0053,﻿church,﻿St. Raphael,English,,,,﻿Iberville Parish,,,,﻿LA,,30.2899179,-91.4048249,,,,,﻿Rev. Mr.,﻿Vallé,,﻿Pastor,,,,,,1870,﻿,﻿,﻿New Orleans,NewOrleans
+﻿new.la.0053,﻿church,﻿St. Raphael,English,,,,﻿Iberville Parish,,,,﻿LA,,30.2899179,-91.4048249,,,,﻿vallé_001,﻿Rev. Mr.,﻿Vallé,,﻿Pastor,,,,,,1870,﻿,﻿,﻿New Orleans,NewOrleans
 ﻿new.la.0054,﻿church,﻿Conception,English,,,,,,﻿Ile Piquante,﻿Ile Piquante,﻿LA,,29.9035383,-91.7337272,﻿new.la.0061,﻿Attended from New Iberia,,,,,,,,,,,,1870,﻿,﻿,﻿New Orleans,NewOrleans
 ﻿new.la.0055,﻿church,not recorded,English,,,,﻿East Feliciana Parish,,﻿Jackson,﻿Jackson,﻿LA,,30.8374036,-91.2176087,,,,﻿m_smith_001,﻿Rev.,﻿M. Smith,,﻿Pastor,,,,,,1870,﻿,﻿,﻿New Orleans,NewOrleans
 ﻿new.la.0056,﻿church,﻿Assumption,English,,,,﻿Lafourche Parish,,,,﻿LA,,29.6952295,-90.5257823,,,,,﻿Rev.,﻿— Bouchet,,﻿Pastor,,,,,,1870,﻿,﻿,﻿New Orleans,NewOrleans
@@ -118,7 +118,7 @@
 ﻿new.la.0074,﻿church,﻿St. Michael,English,,,,,,,﻿Convent,﻿LA,,30.0099895,-90.82719853,,,,﻿f_chavas_001,﻿Rev.,﻿F. Chavas,﻿S.M.,﻿Assistant,,,,,,1870,﻿,﻿,﻿New Orleans,NewOrleans
 ﻿new.la.0074,﻿church,﻿St. Michael,English,,,,,,,﻿Convent,﻿LA,,30.0099895,-90.82719853,,,,﻿m_renaudier_001,﻿Rev.,﻿M. Renaudier,﻿S.M.,﻿Assistant,,,,,,1870,﻿,﻿,﻿New Orleans,NewOrleans
 ﻿new.la.0075,﻿church,﻿St. Nicholas' Church,English,,,,﻿Iberia Parish,,﻿Patoutville,﻿Patoutville,﻿LA,,29.91024027,-91.7314675,,,,﻿ari_plotin_001,﻿Rev.,﻿Aristide Hotin,,﻿Pastor,,,,,,1870,﻿,﻿,﻿New Orleans,NewOrleans
-﻿new.la.0076,﻿church,not recorded,English,,,,,,﻿Villeplate,﻿Villeplate,﻿LA,,30.6879749,-92.2715157,,,,,﻿Rev. Mr.,﻿Forge,,﻿Pastor,,,,,,1870,﻿,﻿,﻿New Orleans,NewOrleans
+﻿new.la.0076,﻿church,not recorded,English,,,,,,﻿Villeplate,﻿Villeplate,﻿LA,,30.6879749,-92.2715157,,,,﻿forge_001,﻿Rev. Mr.,﻿Forge,,﻿Pastor,,,,,,1870,﻿,﻿,﻿New Orleans,NewOrleans
 ﻿new.la.0077,﻿church,not recorded,English,,,,,,﻿Royville,﻿Youngsville,﻿LA,,30.09745228,-91.99071354,,,,﻿h_lecozic_001,﻿Rev.,﻿H. Lecozic,,﻿Pastor,,,,,,1870,﻿,﻿,﻿New Orleans,NewOrleans
 ﻿new.la.0078,﻿church,not recorded,English,,,,,,﻿St. Martinville,﻿St. Martinville,﻿LA,,30.1231441,-91.8294817,,,,﻿m_jan_001,﻿Very Rev.,﻿M. Jan,,﻿Pastor,,,,,,1870,﻿,﻿,﻿New Orleans,NewOrleans
 ﻿new.la.0079,﻿church,﻿St. Bernard,English,,,,﻿St. Bernard Parish,,﻿Terre aux Boeufs,﻿Terre aux Boeufs,﻿LA,,29.8794786,-89.8130124,,,,﻿ves_rivoallan_001,﻿Rev.,﻿Ves. Rivoallan,,﻿Pastor,,,,,,1870,﻿,﻿,﻿New Orleans,NewOrleans

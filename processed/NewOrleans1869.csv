@@ -11,7 +11,7 @@
 ﻿new.la.0004,﻿church,﻿Immaculate Conception,English,,﻿Barrone street,,,,﻿New Orleans,﻿New Orleans,﻿LA,,﻿29.953707,﻿-90.071516,,,,﻿j_j_duffo_001,﻿Rev.,﻿J. J. Duffo,﻿S.J.,﻿Assistant,,,,,,1869,﻿,﻿,﻿New Orleans,NewOrleans
 ﻿new.la.0005,﻿church,﻿St. Augustine's,English,,,,,,﻿New Orleans,﻿New Orleans,﻿LA,,﻿29.965189,﻿-90.066071,,,,﻿j_b_jobert_001,﻿Rev.,﻿J. B. Jobert,,﻿Pastor,,,,,,1869,﻿,﻿,﻿New Orleans,NewOrleans
 ﻿new.la.0005,﻿church,﻿St. Augustine's,English,,,,,,﻿New Orleans,﻿New Orleans,﻿LA,,﻿29.965189,﻿-90.066071,,,,﻿j_subileau_001,﻿Rev.,﻿J. Subileau,,﻿Assistant,,,,,,1869,﻿,﻿,﻿New Orleans,NewOrleans
-﻿new.la.0005,﻿church,﻿St. Augustine's,English,,,,,,﻿New Orleans,﻿New Orleans,﻿LA,,﻿29.965189,﻿-90.066071,,,,,﻿Rev. Mr.,﻿Borias,,﻿Assistant,,,,,,1869,﻿,﻿,﻿New Orleans,NewOrleans
+﻿new.la.0005,﻿church,﻿St. Augustine's,English,,,,,,﻿New Orleans,﻿New Orleans,﻿LA,,﻿29.965189,﻿-90.066071,,,,﻿borias_001,﻿Rev. Mr.,﻿Borias,,﻿Assistant,,,,,,1869,﻿,﻿,﻿New Orleans,NewOrleans
 ﻿new.la.0006,﻿church,﻿St. Joseph's,English,,,,,,﻿New Orleans,﻿New Orleans,﻿LA,,﻿29.955592,﻿-90.077504,,,,﻿t_smith_001,﻿Rev.,﻿T. Smith,﻿C.M.,﻿Pastor,,,,,,1869,﻿,﻿,﻿New Orleans,NewOrleans
 ﻿new.la.0006,﻿church,﻿St. Joseph's,English,,,,,,﻿New Orleans,﻿New Orleans,﻿LA,,﻿29.955592,﻿-90.077504,,,,﻿cha_boglioli_001,﻿Rev.,﻿C. Boglioli,﻿C.M.,﻿Assistant,,,,,,1869,﻿,﻿,﻿New Orleans,NewOrleans
 ﻿new.la.0006,﻿church,﻿St. Joseph's,English,﻿to which is attached the care of three large hospitals,,,,,﻿New Orleans,﻿New Orleans,﻿LA,,﻿29.955592,﻿-90.077504,,,,﻿m_rubi_001,﻿Rev.,﻿M. Rubi,﻿C.M.,﻿Assistant,,,,,,1869,﻿,﻿,﻿New Orleans,NewOrleans
@@ -79,7 +79,7 @@
 ﻿new.la.0050,﻿chapel,﻿Chapel of the Junction,English,,,,,,﻿The Junction,﻿Arnaudville,﻿LA,,﻿30.399586,﻿-91.932157,,,,,﻿Rev.,﻿---------,﻿S.J.,﻿Pastor,,,,,,1869,﻿,﻿,﻿New Orleans,NewOrleans
 ﻿new.la.0051,﻿church,﻿St. Francis of Sales,English,,,,﻿Terre Bonne Parish,,﻿Houma,﻿Houma,﻿LA,,﻿29.594703,﻿-90.722319,,,,﻿m_gonellaz_001,﻿Rev.,﻿M. Gonellaz,,﻿Pastor,,,,,,1869,﻿,﻿,﻿New Orleans,NewOrleans
 ﻿new.la.0052,﻿church,﻿St. Gabriel,English,,,,﻿Iberville Parish,,,,﻿LA,,﻿30.289918,﻿-91.404825,,,,﻿dubernard_001,﻿Rev.,﻿Dubernard,,﻿Pastor,,,,,,1869,﻿,﻿,﻿New Orleans,NewOrleans
-﻿new.la.0053,﻿church,﻿St. Raphael,English,,,,﻿Iberville Parish,,,,﻿LA,,﻿30.289918,﻿-91.404825,,,,,﻿Rev. Mr.,﻿Vallé,,﻿Pastor,,,,,,1869,﻿,﻿,﻿New Orleans,NewOrleans
+﻿new.la.0053,﻿church,﻿St. Raphael,English,,,,﻿Iberville Parish,,,,﻿LA,,﻿30.289918,﻿-91.404825,,,,﻿vallé_001,﻿Rev. Mr.,﻿Vallé,,﻿Pastor,,,,,,1869,﻿,﻿,﻿New Orleans,NewOrleans
 ﻿new.la.0054,﻿church,﻿Conception,English,,,,,,﻿Ile Piquante,﻿Ile Piquante,﻿LA,,﻿29.903538,﻿-91.733727,﻿new.la.0061,﻿Attended from New Iberia,,,,,,,,,,,,1869,﻿,﻿,﻿New Orleans,NewOrleans
 ﻿new.la.0055,﻿church,not recorded,English,,,,﻿East Feliciana Parish,,﻿Jackson,﻿Jackson,﻿LA,,﻿30.837404,﻿-91.217609,,,,﻿m_scolard_001,﻿Rev.,﻿M. Scolard,,﻿Pastor,,,,,,1869,﻿,﻿,﻿New Orleans,NewOrleans
 ﻿new.la.0056,﻿church,﻿Assumption,English,,,,﻿Lafourche Parish,,,,﻿LA,,﻿29.69523,﻿-90.525782,,,,,﻿Rev.,﻿— Bouchet,,﻿Pastor,,,,,,1869,﻿,﻿,﻿New Orleans,NewOrleans
@@ -109,7 +109,7 @@
 ﻿new.la.0074,﻿church,﻿St. Michael,English,,,,,,,﻿New Orleans,﻿LA,,﻿30.009989,﻿-90.827199,,,,﻿f_bellanger_001,﻿Rev.,﻿F. Bellanger,﻿S.M.,﻿Pastor,,,,,,1869,﻿,﻿,﻿New Orleans,NewOrleans
 ﻿new.la.0074,﻿church,﻿St. Michael,English,,,,,,,﻿New Orleans,﻿LA,,﻿30.009989,﻿-90.827199,,,,﻿f_chavas_001,﻿Rev.,﻿F. Chavas,﻿S.M.,﻿Assistant,,,,,,1869,﻿,﻿,﻿New Orleans,NewOrleans
 ﻿new.la.0074,﻿church,﻿St. Michael,English,,,,,,,﻿New Orleans,﻿LA,,﻿30.009989,﻿-90.827199,,,,﻿m_renaudier_001,﻿Rev.,﻿M. Renaudier,﻿S.M.,﻿Assistant,,,,,,1869,﻿,﻿,﻿New Orleans,NewOrleans
-﻿new.la.0076,﻿church,not recorded,English,,,,,,﻿Villeplate,﻿Villeplate,﻿LA,,﻿30.687975,﻿-92.271516,,,,,﻿Rev. Mr.,﻿Forge,,﻿Pastor,,,,,,1869,﻿,﻿,﻿New Orleans,NewOrleans
+﻿new.la.0076,﻿church,not recorded,English,,,,,,﻿Villeplate,﻿Villeplate,﻿LA,,﻿30.687975,﻿-92.271516,,,,﻿forge_001,﻿Rev. Mr.,﻿Forge,,﻿Pastor,,,,,,1869,﻿,﻿,﻿New Orleans,NewOrleans
 ﻿new.la.0077,﻿church,not recorded,English,,,,,,﻿Royville,﻿Rayville,﻿LA,,﻿30.097452,﻿-91.990714,,,,﻿h_lecozic_001,﻿Rev.,﻿H. Lecozic,,﻿Pastor,,,,,,1869,﻿,﻿,﻿New Orleans,NewOrleans
 ﻿new.la.0078,﻿church,not recorded,English,,,,,,﻿St. Martinville,﻿St. Martinville,﻿LA,,﻿30.123144,﻿-91.829482,,,,﻿m_jan_001,﻿Very Rev.,﻿M. Jan,,﻿Pastor,,,,,,1869,﻿,﻿,﻿New Orleans,NewOrleans
 ﻿new.la.0079,﻿church,﻿St. Bernard,English,,,,﻿St. Bernard Parish,,﻿Terre aux Boeufs,﻿Terre aux Boeufs,﻿LA,,﻿29.879479,﻿-89.813012,,,,﻿m_jacquet_001,﻿Rev.,﻿M. Jacquet,,﻿Pastor,,,,,,1869,﻿,﻿,﻿New Orleans,NewOrleans

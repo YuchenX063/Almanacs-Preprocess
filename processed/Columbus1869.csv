@@ -88,27 +88,27 @@
 ﻿col.oh.0088,﻿convent,﻿Convent of the Sisters of the Good Shepard,English,,,﻿near Columbus,,,﻿Franklin,,﻿OH,,40.4172871,-82.907123,,,,,﻿Sister,﻿Gertrude,,﻿Superior,,,,,,1869,﻿,﻿,﻿Columbus,Columbus
 ﻿col.oh.0089,﻿hospital,﻿St. Francis' Hospital,English,,,,,,,,﻿OH,,39.1354892,-84.6048434,,,,,﻿Sister,﻿Desideria,,﻿Superior,,﻿sisters,﻿14 sisters,﻿Franciscan Sisters of the Poor,,1869,﻿,﻿,﻿Columbus,Columbus
 ﻿col.oh.0089,﻿hospital,﻿St. Francis' Hospital,English,,,,,,,,﻿OH,,39.1354892,-84.6048434,,,,﻿b_hillebrand_001,﻿Rev.,﻿B. Hillebrand,,﻿Chaplain,,﻿sisters,﻿14 sisters,﻿Franciscan Sisters of the Poor,,1869,﻿,﻿,﻿Columbus,Columbus
-﻿col.oh.0001_02,﻿school,"﻿St. Patrick's Schools, for boys",English,,,,,,,﻿Columbus,﻿OH,,40.4172871,-82.907123,,,,,,,,,,﻿pupils,﻿240 pupils,﻿Sisters of Notre Dame,,1869,﻿,﻿,﻿Columbus,Columbus
-﻿col.oh.0001_02,﻿school,"﻿St. Patrick's Schools, for boys",English,,,,,,,﻿Columbus,﻿OH,,40.4172871,-82.907123,,,,,,,,,,﻿sister,﻿9 sisters teaching the parish schools,﻿Sisters of Notre Dame,,1869,﻿,﻿,﻿Columbus,Columbus
+﻿col.oh.0001_02,﻿school,"﻿St. Patrick's Schools, for boys",English,,,,,,,﻿Columbus,﻿OH,,41.5152608,-81.2492978,,,,,,,,,,﻿pupils,﻿240 pupils,﻿Sisters of Notre Dame,,1869,﻿,﻿,﻿Columbus,Columbus
+﻿col.oh.0001_02,﻿school,"﻿St. Patrick's Schools, for boys",English,,,,,,,﻿Columbus,﻿OH,,41.5152608,-81.2492978,,,,,,,,,,﻿sister,﻿9 sisters teaching the parish schools,﻿Sisters of Notre Dame,,1869,﻿,﻿,﻿Columbus,Columbus
 ﻿col.oh.0001_03,﻿school,"﻿St. Patrick's Schools, for girls",English,,,,,,,﻿Columbus,﻿OH,,40.4172871,-82.907123,,,,,,,,,,﻿pupils,﻿230 pupils,﻿Sisters of Notre Dame,,1869,﻿,﻿,﻿Columbus,Columbus
 ﻿col.oh.0001_03,﻿school,"﻿St. Patrick's Schools, for girls",English,,,,,,,﻿Columbus,﻿OH,,40.4172871,-82.907123,,,,,,,,,,﻿sister,﻿9 sisters teaching the parish schools,﻿Sisters of Notre Dame,,1869,﻿,﻿,﻿Columbus,Columbus
 ﻿col.oh.0002_02,﻿school,"﻿Holy Cross Parish Schools, for boys and girls",English,,,,,,,﻿Columbus,﻿OH,,40.4172871,-82.907123,,,,,,,,,,﻿pupils,﻿400 pupils,﻿Sisters of Notre Dame,,1869,﻿,﻿,﻿Columbus,Columbus
 ﻿col.oh.0002_02,﻿school,"﻿Holy Cross Parish Schools, for boys and girls",English,,,,,,,﻿Columbus,﻿OH,,40.4172871,-82.907123,,,,,,,,,,﻿sister,﻿9 sisters teaching the parish schools,﻿Sisters of Notre Dame,,1869,﻿,﻿,﻿Columbus,Columbus
 ﻿col.oh.0003_02,﻿school,"﻿St. Mary's Parish Schools, for boys and girls",English,,,,,,,﻿Columbus,﻿OH,,40.4172871,-82.907123,,,,,,,,,,﻿pupils,﻿150 pupils,﻿Sisters of Notre Dame,,1869,﻿,﻿,﻿Columbus,Columbus
 ﻿col.oh.0003_02,﻿school,"﻿St. Mary's Parish Schools, for boys and girls",English,,,,,,,﻿Columbus,﻿OH,,40.4172871,-82.907123,,,,,,,,,,﻿sister,﻿9 sisters teaching the parish schools,﻿Sisters of Notre Dame,,1869,﻿,﻿,﻿Columbus,Columbus
-﻿col.oh.0084_02,﻿school,﻿St. Thomas Aquinas' Parish Schools,English,﻿boys and girls,,,,,﻿Zanesville,,﻿OH,,40.4172871,-82.907123,,,,,,,,,,﻿pupils,﻿350 pupils,,,1869,﻿,﻿,﻿Columbus,Columbus
-﻿col.oh.0085_02,﻿school,﻿St. Nicholas',English,﻿boys and girls,,,,,﻿Zanesville,,﻿OH,,40.4172871,-82.907123,,,,,,,,,,﻿pupils,﻿100 pupils,,,1869,﻿,﻿,﻿Columbus,Columbus
-﻿col.oh.0056_02,﻿school,﻿St. Francis de Sales',English,﻿boys,,,,,﻿Newark,,﻿OH,,40.4172871,-82.907123,,,,,,,,,,﻿pupils,﻿200 pupils,﻿Sisters of Charity,,1869,﻿,﻿,﻿Columbus,Columbus
+﻿col.oh.0084_02,﻿school,﻿St. Thomas Aquinas' Parish Schools,English,﻿boys and girls,,,,,﻿Zanesville,,﻿OH,,40.5425341,-84.3895701,,,,,,,,,,﻿pupils,﻿350 pupils,,,1869,﻿,﻿,﻿Columbus,Columbus
+﻿col.oh.0085_02,﻿school,﻿St. Nicholas',English,﻿boys and girls,,,,,﻿Zanesville,,﻿OH,,40.5425341,-84.3895701,,,,,,,,,,﻿pupils,﻿100 pupils,,,1869,﻿,﻿,﻿Columbus,Columbus
+﻿col.oh.0056_02,﻿school,﻿St. Francis de Sales',English,﻿boys,,,,,﻿Newark,,﻿OH,,40.5425341,-84.3895701,,,,,,,,,,﻿pupils,﻿200 pupils,﻿Sisters of Charity,,1869,﻿,﻿,﻿Columbus,Columbus
 ﻿col.oh.0040_02,﻿school,﻿St. Mary's,English,,,,,,﻿Lancaster,,﻿OH,,40.5425341,-84.3895701,,,,,,,,,,﻿pupils,﻿250 pupils,,,1869,﻿,﻿,﻿Columbus,Columbus
-﻿col.oh.0025_02,﻿school,﻿St. Mary's,English,,,,,,﻿Delaware,,﻿OH,,40.5425341,-84.3895701,,,,,,,,,,﻿pupils,﻿150 pupils,,,1869,﻿,﻿,﻿Columbus,Columbus
-﻿col.oh.0064_02,﻿school,﻿St. Peter's,English,,,,,,﻿Steubenville,,﻿OH,,40.5425341,-84.3895701,,,,,,,,,,﻿pupils,﻿250 pupils,﻿Sisters of Charity,,1869,﻿,﻿,﻿Columbus,Columbus
-﻿col.oh.0037_02,﻿school,﻿St. Lawrence's,English,,,,,,﻿Ironton,,﻿OH,,40.5425341,-84.3895701,,,,,,,,,,﻿pupils,﻿90 pupils,,,1869,﻿,﻿,﻿Columbus,Columbus
-﻿col.oh.0038_02,﻿school,﻿St. Joseph's,English,,,,,,﻿Ironton,,﻿OH,,41.0283514,-81.2946492,,,,,,,,,,﻿pupils,﻿100 pupils,,,1869,﻿,﻿,﻿Columbus,Columbus
-﻿col.oh.0019_02,﻿school,﻿St. Joseph's,English,,,,,,﻿Circleville,,﻿OH,,41.0283514,-81.2946492,,,,,,,,,,﻿pupils,﻿100 pupils,,,1869,﻿,﻿,﻿Columbus,Columbus
-﻿col.oh.0062_02,﻿school,﻿Holy Redeemer,English,,,,,,﻿Portsmouth,,﻿OH,,40.4172871,-82.907123,,,,,,,,,,﻿pupils,﻿90 pupils,,,1869,﻿,﻿,﻿Columbus,Columbus
-﻿col.oh.0058_02,﻿school,﻿St. Mary's,English,,,,,,﻿Pine Grove,,﻿OH,,40.5425341,-84.3895701,,,,,,,,,,﻿pupils,﻿75 pupils,,,1869,﻿,﻿,﻿Columbus,Columbus
-﻿col.oh.0010_02,﻿school,﻿St. Mary's,English,,,,,,﻿Beaver,,﻿OH,,40.5425341,-84.3895701,,,,,,,,,,﻿pupils,﻿100 pupils,,,1869,﻿,﻿,﻿Columbus,Columbus
-﻿col.oh.0059_02,﻿school,﻿Sacred Heart,English,,,,,,﻿Pomeroy,,﻿OH,,44.786903,-95.3516784,,,,,,,,,,﻿pupils,﻿180 pupils,,,1869,﻿,﻿,﻿Columbus,Columbus
-﻿col.oh.0015_02,﻿school,﻿St. Joseph's,English,,,,,,﻿Canal Dover,,﻿OH,,41.0283514,-81.2946492,,,,,,,,,,﻿pupils,﻿— pupils,,,1869,﻿,﻿,﻿Columbus,Columbus
+﻿col.oh.0025_02,﻿school,﻿St. Mary's,English,,,,,,﻿Delaware,,﻿OH,,41.0283514,-81.2946492,,,,,,,,,,﻿pupils,﻿150 pupils,,,1869,﻿,﻿,﻿Columbus,Columbus
+﻿col.oh.0064_02,﻿school,﻿St. Peter's,English,,,,,,﻿Steubenville,,﻿OH,,41.0283514,-81.2946492,,,,,,,,,,﻿pupils,﻿250 pupils,﻿Sisters of Charity,,1869,﻿,﻿,﻿Columbus,Columbus
+﻿col.oh.0037_02,﻿school,﻿St. Lawrence's,English,,,,,,﻿Ironton,,﻿OH,,40.4172871,-82.907123,,,,,,,,,,﻿pupils,﻿90 pupils,,,1869,﻿,﻿,﻿Columbus,Columbus
+﻿col.oh.0038_02,﻿school,﻿St. Joseph's,English,,,,,,﻿Ironton,,﻿OH,,40.5425341,-84.3895701,,,,,,,,,,﻿pupils,﻿100 pupils,,,1869,﻿,﻿,﻿Columbus,Columbus
+﻿col.oh.0019_02,﻿school,﻿St. Joseph's,English,,,,,,﻿Circleville,,﻿OH,,40.5425341,-84.3895701,,,,,,,,,,﻿pupils,﻿100 pupils,,,1869,﻿,﻿,﻿Columbus,Columbus
+﻿col.oh.0062_02,﻿school,﻿Holy Redeemer,English,,,,,,﻿Portsmouth,,﻿OH,,44.786903,-95.3516784,,,,,,,,,,﻿pupils,﻿90 pupils,,,1869,﻿,﻿,﻿Columbus,Columbus
+﻿col.oh.0058_02,﻿school,﻿St. Mary's,English,,,,,,﻿Pine Grove,,﻿OH,,41.0283514,-81.2946492,,,,,,,,,,﻿pupils,﻿75 pupils,,,1869,﻿,﻿,﻿Columbus,Columbus
+﻿col.oh.0010_02,﻿school,﻿St. Mary's,English,,,,,,﻿Beaver,,﻿OH,,40.4238947,-81.4898501,,,,,,,,,,﻿pupils,﻿100 pupils,,,1869,﻿,﻿,﻿Columbus,Columbus
+﻿col.oh.0059_02,﻿school,﻿Sacred Heart,English,,,,,,﻿Pomeroy,,﻿OH,,40.4238947,-81.4898501,,,,,,,,,,﻿pupils,﻿180 pupils,,,1869,﻿,﻿,﻿Columbus,Columbus
+﻿col.oh.0015_02,﻿school,﻿St. Joseph's,English,,,,,,﻿Canal Dover,,﻿OH,,40.4238947,-81.4898501,,,,,,,,,,﻿pupils,﻿— pupils,,,1869,﻿,﻿,﻿Columbus,Columbus
 ﻿col.oh.0108,﻿school,﻿St. Peter's,English,,,,﻿Tucarawas County,,,,﻿OH,,40.4238947,-81.4898501,,,,,,,,,,﻿pupils,﻿— pupils,,,1869,﻿,﻿,﻿Columbus,Columbus
 ﻿col.oh.0042_02,﻿school,﻿St. Peter's,English,,,,,,﻿Lick Run,,﻿OH,,40.4238947,-81.4898501,,,,,,,,,,﻿pupils,﻿— pupils,,,1869,﻿,﻿,﻿Columbus,Columbus
