@@ -3,7 +3,7 @@
 ﻿buf.ny.0001,﻿cathedral,﻿St. Joseph's Cathedral,English,,,,﻿Erie County,,﻿Buffalo,﻿Buffalo,﻿NY,,,,,,,﻿d_moore_001,﻿Rev.,﻿D. Moore,,,,,,,,1869,﻿,﻿,﻿Buffalo,Buffalo
 ﻿buf.ny.0001,﻿cathedral,﻿St. Joseph's Cathedral,English,,,,﻿Erie County,,﻿Buffalo,﻿Buffalo,﻿NY,,,,,,,﻿j_mcevoy_001,﻿Rev.,﻿J. McEvoy,,,,,,,,1869,﻿,﻿,﻿Buffalo,Buffalo
 ﻿buf.ny.0006,﻿church,﻿St. Louis',﻿German,,,,﻿Erie County,,﻿Buffalo,﻿Buffalo,﻿NY,,,,,,,﻿jos_m_sorg_001,﻿Rev.,﻿Jos. M. Sorg,,,,,,,,1869,﻿,﻿,﻿Buffalo,Buffalo
-﻿buf.ny.0008,﻿church,﻿St. Mary's,﻿German,,,,﻿Erie County,,﻿Buffalo,﻿Buffalo,﻿NY,,,,,,,﻿jb_hespelein_001,﻿Rev.,﻿J.B. Hespelein,﻿C.SS.R.,﻿Rector,,,,,,1869,﻿,﻿,﻿Buffalo,Buffalo
+﻿buf.ny.0008,﻿church,﻿St. Mary's,﻿German,,,,﻿Erie County,,﻿Buffalo,﻿Buffalo,﻿NY,,,,,,,﻿j_b_hespelein_001,﻿Rev.,﻿J. B. Hespelein,﻿C.SS.R.,﻿Rector,,,,,,1869,﻿,﻿,﻿Buffalo,Buffalo
 ﻿buf.ny.0007,﻿church,﻿St. Boniface,﻿German,,,,﻿Erie County,,﻿Buffalo,﻿Buffalo,﻿NY,,,,,,,﻿nic_sorg_001,﻿Rev.,﻿Nicholas Sorg,,,,,,,,1869,﻿,﻿,﻿Buffalo,Buffalo
 ﻿buf.ny.0011,﻿church,﻿St. Peter's,﻿French,,,,﻿Erie County,,﻿Buffalo,﻿Buffalo,﻿NY,,,,,,,﻿le-burton_001,﻿Rev.,﻿Le Burton,,,,,,,,1869,﻿,﻿,﻿Buffalo,Buffalo
 ﻿buf.ny.0009,﻿church,﻿St. Michael's,﻿German,,,,﻿Erie County,,﻿Buffalo,﻿Buffalo,﻿NY,,,,,,,﻿jos_m_durthaller_001,﻿Rev.,﻿J. Durthaller,﻿S.J.,﻿Superior,,,,,,1869,﻿,﻿,﻿Buffalo,Buffalo
@@ -39,7 +39,7 @@
 ﻿buf.ny.0022,﻿chapel,﻿-------,English,,,,﻿Erie County,,﻿Aurora,,,,,,﻿buf.ny.0005,﻿Attended from the Holy Angels',,,,,,,,,,,,1869,﻿,﻿,﻿Buffalo,Buffalo
 ﻿buf.ny.0100,﻿church,﻿St. Joseph's,English,﻿frame church,,,﻿Orleans County,,﻿Albion,﻿Albion,﻿NY,,,,,,,﻿p_bradley_001,﻿Rev.,﻿P. Bradley,,,,,,,,1869,﻿,﻿,﻿Buffalo,Buffalo
 ﻿buf.ny.0023,﻿church,not recorded,English,﻿frame church,,,,,,,,,,,,,,﻿mic_odwyer_001,﻿Rev.,﻿Michael O'Dwyer,,,,,,,,1869,﻿,﻿,﻿Buffalo,Buffalo
-﻿buf.ny.0024,﻿church,﻿St. Bonaventure's,English,﻿frame church,,,﻿Allegany County,,﻿Allegany,﻿Allegany,﻿NY,,,,,,,﻿jn_arrent_001,﻿Rev.,﻿J.N. Arrent,,,,,,,,1869,﻿,﻿,﻿Buffalo,Buffalo
+﻿buf.ny.0024,﻿church,﻿St. Bonaventure's,English,﻿frame church,,,﻿Allegany County,,﻿Allegany,﻿Allegany,﻿NY,,,,,,,﻿j_n_arrent_001,﻿Rev.,﻿J. N. Arrent,,,,,,,,1869,﻿,﻿,﻿Buffalo,Buffalo
 ﻿buf.ny.0174,﻿church,﻿St. John's,English,,,,﻿Allegany County,,﻿Andover,﻿Andover,﻿NY,,,,﻿buf.ny.0023,﻿Attended from Akron,,,,,,,,,,,,1869,﻿,﻿,﻿Buffalo,Buffalo
 ﻿buf.ny.0096,﻿church,﻿St. James',English,﻿brick church,,,﻿Allegany County,,﻿Angelica,﻿Angelica,﻿NY,,,,,,,﻿p_moynihan_001,﻿Rev.,﻿P. Moynihan,,,,,,,,1869,﻿,﻿,﻿Buffalo,Buffalo
 ﻿buf.ny.0096,﻿church,﻿St. James',English,﻿brick church,,,﻿Erie County,,﻿Angola,﻿Angola,﻿NY,,,,,,,﻿j_castaldi_001,﻿Rev.,﻿J. Castaldi,,,﻿(absent),,,,,1869,﻿,﻿,﻿Buffalo,Buffalo
@@ -92,7 +92,7 @@
 ﻿buf.ny.0067,﻿church,﻿St. Martin's,English,,,,﻿Erie County,,﻿Langford,﻿Langford,﻿NY,,,,,,,﻿joh_t_cahill_001,﻿Rev.,﻿John T. Cahill,,,,,,,,1869,﻿,﻿,﻿Buffalo,Buffalo
 ﻿buf.ny.0116,﻿church,﻿St. Peter's,English,,,,﻿Niagara County,,﻿Lewiston,﻿Lewiston,﻿NY,,,,,,,﻿wil_j_mcnab_001,﻿Rev.,﻿William J. McNab,,,,,,,,1869,﻿,﻿,﻿Buffalo,Buffalo
 ﻿buf.ny.0183,﻿church,﻿St. Francis',English,﻿brick church,,,﻿Genesee County,,﻿Le Roy,﻿Le Roy,﻿NY,,,,,﻿Attended from Penn Yan.,,,,,,,,,,,,1869,﻿,﻿,﻿Buffalo,Buffalo
-﻿buf.ny.0033,﻿church,not recorded,﻿German,,,,,,,,,,,,,,,﻿fn_sester_001,﻿Rev.,﻿F.N. Sester,,,,,,,,1869,﻿,﻿,﻿Buffalo,Buffalo
+﻿buf.ny.0033,﻿church,not recorded,﻿German,,,,,,,,,,,,,,,﻿f_n_sester_001,﻿Rev.,﻿F. N. Sester,,,,,,,,1869,﻿,﻿,﻿Buffalo,Buffalo
 ﻿buf.ny.0034,﻿church,not recorded,﻿German,﻿frame church,,,﻿Steuben County,,﻿Liberty,﻿Liberty,﻿NY,,,,,,,﻿jos_zoegel_001,﻿Rev.,﻿Jos. Zoegle,,,,,,,,1869,﻿,﻿,﻿Buffalo,Buffalo
 ﻿buf.ny.0084,﻿church,not recorded,English,﻿frame church,,,,﻿Cattaraugus County,﻿Little Valley,﻿Little Valley,,,,,,,,﻿joh_touhy_001,﻿Rev.,﻿John Touhy,,,,,,,,1869,﻿,﻿,﻿Buffalo,Buffalo
 ﻿buf.ny.0080,﻿church,﻿St. John the Baptist,English,,,,﻿Niagara County,,﻿Lockport,﻿Lockport,﻿NY,,,,﻿buf.ny.0078,﻿Attended from Batavia,,,,,,,,,,,,1869,﻿,﻿,﻿Buffalo,Buffalo
@@ -115,7 +115,7 @@
 ﻿buf.ny.0111,﻿church,not recorded,English,﻿frame church,,,﻿Wyoming County,,﻿Perry,﻿Perry,﻿NY,,,,,,,﻿fr_clark_001,﻿Rev.,﻿Fr. Clark,,,,,,,,1869,﻿,﻿,﻿Buffalo,Buffalo
 ﻿buf.ny.0082,﻿church,not recorded,English,,,,﻿Allegany County,,﻿Pike,,,,,,﻿buf.ny.0023,﻿Attended from Akron,,,,,,,,,,,,1869,﻿,﻿,﻿Buffalo,Buffalo
 ﻿buf.ny.0091,﻿church,﻿Assumption B.V.M.,﻿German,﻿brick church,,,﻿Wyoming County,,﻿Portageville,﻿Portageville,﻿NY,,,,,,,﻿joh_soemer_001,﻿Rev.,﻿John Soemer,,,,,,,,1869,﻿,﻿,﻿Buffalo,Buffalo
-﻿buf.ny.0107,﻿church,not recorded,English,﻿frame church,,,﻿Cattaraugus County,,﻿Randolph,﻿Randolph,﻿NY,,,,,,,﻿dm_winands_001,﻿Rev.,﻿D.M. Winands,,,,,,,,1869,﻿,﻿,﻿Buffalo,Buffalo
+﻿buf.ny.0107,﻿church,not recorded,English,﻿frame church,,,﻿Cattaraugus County,,﻿Randolph,﻿Randolph,﻿NY,,,,,,,﻿d_m_winands_001,﻿Rev.,﻿D. M. Winands,,,,,,,,1869,﻿,﻿,﻿Buffalo,Buffalo
 ﻿buf.ny.0117,﻿church,not recorded,English,,,,﻿Steuben County,,﻿Rexville,,﻿NY,,,,﻿buf.ny.0118,﻿Attended from Portageville,,,,,,,,,,,,1869,﻿,﻿,﻿Buffalo,Buffalo
 ﻿buf.ny.0187,﻿church,not recorded,English,,,,﻿Allegany County,,﻿Rushford,,﻿NY,,,,﻿buf.ny.0118,﻿Attended from Portageville,,,,,,,,,,,,1869,﻿,﻿,﻿Buffalo,Buffalo
 ﻿buf.ny.0118,﻿church,not recorded,English,,,,﻿Cattaraugus County,,﻿Salamanca,﻿Salamanca,﻿NY,,,,,,,﻿f_cook_001,﻿Rev.,﻿F. Cook,,,,,,,,1869,﻿,﻿,﻿Buffalo,Buffalo
@@ -146,8 +146,8 @@
 ﻿buf.ny.0095,﻿church,not recorded,English,﻿frame church,,,,,,,,,,,﻿buf.ny.0084,﻿Attended from Lewiston,,,,,,,,,,,,1869,﻿,﻿,﻿Buffalo,Buffalo
 ﻿buf.ny.0171,﻿seminary,not recorded,English,,,,,,,,,,,,,,,,,,,,,﻿Seminarist,﻿16 seminarists there and at other seminaries,,,1869,﻿,﻿,﻿Buffalo,Buffalo
 ﻿buf.ny.0121,﻿seminary,not recorded,English,,,,,,,,,,,,,,,﻿rob_e_rice_001,﻿Rev.,﻿Robert E.V. Rice,﻿C.M.,﻿Superior,,﻿Student,﻿225 students,﻿under the charge of the Reverend Fathers of the Congregation of the Mission,,1869,﻿,﻿,﻿Buffalo,Buffalo
-﻿buf.ny.0121,﻿seminary,not recorded,English,,,,,,,,,,,,,,,﻿td_okeefe_001,﻿Rev.,﻿T.D. O'Keefe,﻿C.M.,,,﻿Student,﻿225 students,﻿under the charge of the Reverend Fathers of the Congregation of the Mission,,1869,﻿,﻿,﻿Buffalo,Buffalo
-﻿buf.ny.0121,﻿seminary,not recorded,English,,,,,,,,,,,,,,,﻿tm_odonoghue_001,﻿Rev.,﻿T.M. O'Donoghue,﻿C.M.,,,﻿Student,﻿225 students,﻿under the charge of the Reverend Fathers of the Congregation of the Mission,,1869,﻿,﻿,﻿Buffalo,Buffalo
+﻿buf.ny.0121,﻿seminary,not recorded,English,,,,,,,,,,,,,,,﻿t_d_okeefe_001,﻿Rev.,﻿T. D. O'Keefe,﻿C.M.,,,﻿Student,﻿225 students,﻿under the charge of the Reverend Fathers of the Congregation of the Mission,,1869,﻿,﻿,﻿Buffalo,Buffalo
+﻿buf.ny.0121,﻿seminary,not recorded,English,,,,,,,,,,,,,,,﻿t_m_odonoghue_001,﻿Rev.,﻿T. M. O'Donoghue,﻿C.M.,,,﻿Student,﻿225 students,﻿under the charge of the Reverend Fathers of the Congregation of the Mission,,1869,﻿,﻿,﻿Buffalo,Buffalo
 ﻿buf.ny.0121,﻿seminary,not recorded,English,,,,,,,,,,,,,,,﻿joh_v_lamy_001,﻿Rev.,﻿John V. Lamy,﻿C.M.,,,﻿Student,﻿225 students,﻿under the charge of the Reverend Fathers of the Congregation of the Mission,,1869,﻿,﻿,﻿Buffalo,Buffalo
 ﻿buf.ny.0121,﻿seminary,not recorded,English,,,,,,,,,,,,,,,﻿j_w_hickey_001,﻿Rev.,﻿J. W. Hickey,﻿C.M.,,,﻿Student,﻿225 students,﻿under the charge of the Reverend Fathers of the Congregation of the Mission,,1869,﻿,﻿,﻿Buffalo,Buffalo
 ﻿buf.ny.0121,﻿seminary,not recorded,English,,,,,,,,,,,,,,,﻿g_burns_001,﻿Rev.,﻿G. Burns,﻿C.M.,,,﻿Student,﻿225 students,﻿under the charge of the Reverend Fathers of the Congregation of the Mission,,1869,﻿,﻿,﻿Buffalo,Buffalo
@@ -166,7 +166,7 @@
 ﻿buf.ny.0122,"﻿college, convent",﻿St. Mary's Convent of the Redemptorist,English,,,,﻿Cattaraugus County,,﻿Buffalo,,﻿NY,,,,,,,﻿leo_mckeirnan_001,﻿Rev.,﻿Leonard McKeirnan,﻿O.S.F.,,,﻿student,﻿120 students,,,1869,﻿,﻿,﻿Buffalo,Buffalo
 ﻿buf.ny.0123,﻿academy,not recorded,English,,,,,,,,,,,,,,,,﻿Sister,﻿Theresa,,﻿Superior,,﻿pupil,﻿60 pupils,﻿under the Sisters of the Third Order of St. Francis,,1869,﻿,﻿,﻿Buffalo,Buffalo
 ﻿buf.ny.0124,﻿college,not recorded,English,,,,,,,,,,,,,,,,,,,,,﻿boy,"﻿Boys, 450","﻿under care of Christian Brothers, and clergy-men for the classics",,1869,﻿,﻿,﻿Buffalo,Buffalo
-﻿buf.ny.0093_02,﻿convent,not recorded,English,,,,,,,,,,,,,,,﻿jb_hespelein_001,﻿Rev.,﻿J.B. Hespelein,﻿C.SS.R.,﻿Rector,,﻿lay brother,﻿and 5 lay Brothers,,,1869,﻿,﻿,﻿Buffalo,Buffalo
+﻿buf.ny.0093_02,﻿convent,not recorded,English,,,,,,,,,,,,,,,﻿j_b_hespelein_001,﻿Rev.,﻿J. B. Hespelein,﻿C.SS.R.,﻿Rector,,﻿lay brother,﻿and 5 lay Brothers,,,1869,﻿,﻿,﻿Buffalo,Buffalo
 ﻿buf.ny.0093_02,﻿convent,﻿St. Mary's Retreat (Passionist),English,,,,,,﻿Dunkirk,,﻿NY,,,,,,,﻿wil_luckam_001,﻿Rev.,"﻿William Luck,am",﻿C.SS.R.,,,﻿lay brother,﻿and 5 lay Brothers,,,1869,﻿,﻿,﻿Buffalo,Buffalo
 ﻿buf.ny.0093_02,﻿convent,﻿St. Mary's Retreat (Passionist),English,,,,,,﻿Dunkirk,,﻿NY,,,,,,,﻿geo_beranek_001,﻿Rev.,﻿George Beranek,﻿C.SS.R.,,,﻿lay brother,﻿and 5 lay Brothers,,,1869,﻿,﻿,﻿Buffalo,Buffalo
 ﻿buf.ny.0093_02,﻿convent,﻿St. Mary's Retreat (Passionist),English,,,,,,﻿Dunkirk,,﻿NY,,,,,,,﻿ber_klaphake_001,﻿Rev.,﻿Bernard Klaphake,﻿C.SS.R.,,,﻿lay brother,﻿and 5 lay Brothers,,,1869,﻿,﻿,﻿Buffalo,Buffalo
