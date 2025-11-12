@@ -1,171 +1,171 @@
 ﻿instID,church_type,instName,language,instNote,placeName,region,county_orig,county_reg,city_orig,city_reg,state_orig,state_reg,latitude,longitude,attendingInstID,attendingChurch,attendingChurchFrequency,persID,persTitle,persName,persSuffix,persRole,persNote,memberType,member,affiliated,order,year,Unnamed: 30,Unnamed: 31,Unnamed: 32,Unnamed: 33,Unnamed: 34,Unnamed: 35,Unnamed: 36,Unnamed: 37,Unnamed: 38,Unnamed: 39,attendingPersID,attendingChurchNote,diocese,diocese_reg
-﻿bos.ma.0001,﻿cathedral,﻿Cathedral Chapel,English,﻿new land bought,,,,,﻿Boston,﻿Boston,﻿MA,,,,,,,﻿joh_b_fitzpatrick_001,﻿Rt. Rev.,﻿John B. Fitzpatrick,﻿D.D.,,,,,,,1865,,,,,,,,,,,﻿,﻿,﻿Boston,Boston
-﻿bos.ma.0001,﻿cathedral,﻿Cathedral Chapel,English,﻿new land bought,,,,,﻿Boston,﻿Boston,﻿MA,,,,,,,﻿jam_a_healy_001,﻿Rev.,﻿James A. Healy,,,,,,,,1865,,,,,,,,,,,﻿,﻿,﻿Boston,Boston
-﻿bos.ma.0001,﻿cathedral,﻿Cathedral Chapel,English,﻿new land bought,,,,,﻿Boston,﻿Boston,﻿MA,,,,,,,﻿hil_tucker_001,﻿Rev.,﻿Hilary Tucker,,,,,,,,1865,,,,,,,,,,,﻿,﻿,﻿Boston,Boston
-﻿bos.ma.0001,﻿cathedral,﻿Cathedral Chapel,English,﻿new land bought,,,,,﻿Boston,﻿Boston,﻿MA,,,,,,,﻿a_m_baret_001,﻿Rev.,﻿A. M. Baret,,,,,,,,1865,,,,,,,,,,,﻿,﻿,﻿Boston,Boston
-﻿bos.ma.0004,﻿church,﻿St. James',English,,,,,,﻿Boston,﻿Boston,﻿MA,,,,,,,﻿joh_j_williams_001,﻿Very Rev.,﻿John J. Williams,﻿V.G.,,,,,,,1865,,,,,,,,,,,﻿,﻿,﻿Boston,Boston
-﻿bos.ma.0004,﻿church,﻿St. James',English,,,,,,﻿Boston,﻿Boston,﻿MA,,,,,,,﻿p_mccahill_001,﻿Rev.,﻿P. McCahill,,,,,,,,1865,,,,,,,,,,,﻿,﻿,﻿Boston,Boston
-﻿bos.ma.0004,﻿church,﻿St. James',English,,,,,,﻿Boston,﻿Boston,﻿MA,,,,,,,﻿ber_oreilly_001,﻿Rev.,﻿Bernard O'Reilly,,,,,,,,1865,,,,,,,,,,,﻿,﻿,﻿Boston,Boston
+﻿bos.ma.0001,﻿cathedral,﻿Cathedral Chapel,English,﻿new land bought,,,,,﻿Boston,﻿Boston,﻿MA,,,,,,,,﻿Rt. Rev.,﻿John B. Fitzpatrick,﻿D.D.,,,,,,,1865,,,,,,,,,,,﻿,﻿,﻿Boston,Boston
+﻿bos.ma.0001,﻿cathedral,﻿Cathedral Chapel,English,﻿new land bought,,,,,﻿Boston,﻿Boston,﻿MA,,,,,,,,﻿Rev.,﻿James A. Healy,,,,,,,,1865,,,,,,,,,,,﻿,﻿,﻿Boston,Boston
+﻿bos.ma.0001,﻿cathedral,﻿Cathedral Chapel,English,﻿new land bought,,,,,﻿Boston,﻿Boston,﻿MA,,,,,,,,﻿Rev.,﻿Hilary Tucker,,,,,,,,1865,,,,,,,,,,,﻿,﻿,﻿Boston,Boston
+﻿bos.ma.0001,﻿cathedral,﻿Cathedral Chapel,English,﻿new land bought,,,,,﻿Boston,﻿Boston,﻿MA,,,,,,,,﻿Rev.,﻿A. M. Baret,,,,,,,,1865,,,,,,,,,,,﻿,﻿,﻿Boston,Boston
+﻿bos.ma.0004,﻿church,﻿St. James',English,,,,,,﻿Boston,﻿Boston,﻿MA,,,,,,,,﻿Very Rev.,﻿John J. Williams,﻿V.G.,,,,,,,1865,,,,,,,,,,,﻿,﻿,﻿Boston,Boston
+﻿bos.ma.0004,﻿church,﻿St. James',English,,,,,,﻿Boston,﻿Boston,﻿MA,,,,,,,,﻿Rev.,﻿P. McCahill,,,,,,,,1865,,,,,,,,,,,﻿,﻿,﻿Boston,Boston
+﻿bos.ma.0004,﻿church,﻿St. James',English,,,,,,﻿Boston,﻿Boston,﻿MA,,,,,,,,﻿Rev.,﻿Bernard O'Reilly,,,,,,,,1865,,,,,,,,,,,﻿,﻿,﻿Boston,Boston
 ﻿bos.ma.0002,﻿church,﻿St. Mary's,English,,,,,,﻿Boston,﻿Boston,﻿MA,,,,,,,﻿rob_w_brady_001,﻿Rev.,﻿Robert W. Brady,﻿S.J.,,,,,,,1865,,,,,,,,,,,﻿,﻿,﻿Boston,Boston
-﻿bos.ma.0002,﻿church,﻿St. Mary's,English,,,,,,﻿Boston,﻿Boston,﻿MA,,,,,,,﻿fra_mcatee_002,﻿Rev.,﻿Francis McAtee,﻿S.J.,,,,,,,1865,,,,,,,,,,,﻿,﻿,﻿Boston,Boston
+﻿bos.ma.0002,﻿church,﻿St. Mary's,English,,,,,,﻿Boston,﻿Boston,﻿MA,,,,,,,,﻿Rev.,﻿Francis McAtee,﻿S.J.,,,,,,,1865,,,,,,,,,,,﻿,﻿,﻿Boston,Boston
 ﻿bos.ma.0002,﻿church,﻿St. Mary's,English,,,,,,﻿Boston,﻿Boston,﻿MA,,,,,,,﻿den_okane_001,﻿Rev.,﻿D. O'Kane,﻿S.J.,,,,,,,1865,,,,,,,,,,,﻿,﻿,﻿Boston,Boston
 ﻿bos.ma.0002,﻿church,﻿St. Mary's,English,,,,,,﻿Boston,﻿Boston,﻿MA,,,,,,,﻿tho_sheehan_001,﻿Rev.,﻿Thos. Sheerin,﻿S.J.,,,,,,,1865,,,,,,,,,,,﻿,﻿,﻿Boston,Boston
 ﻿bos.ma.0020,﻿chapel,﻿St. Joseph's Chapel,English,,,,,,﻿Boston,﻿Boston,﻿MA,,,,,,,﻿r_w_brady_001,﻿Rev.,﻿Robert W. Brady,﻿S.J.,,,,,,,1865,,,,,,,,,,,﻿,﻿,﻿Boston,Boston
-﻿bos.ma.0020,﻿chapel,﻿St. Joseph's Chapel,English,,,,,,﻿Boston,﻿Boston,﻿MA,,,,,,,﻿fra_mcatee_002,﻿Rev.,﻿Francis McAtee,﻿S.J.,,,,,,,1865,,,,,,,,,,,﻿,﻿,﻿Boston,Boston
+﻿bos.ma.0020,﻿chapel,﻿St. Joseph's Chapel,English,,,,,,﻿Boston,﻿Boston,﻿MA,,,,,,,,﻿Rev.,﻿Francis McAtee,﻿S.J.,,,,,,,1865,,,,,,,,,,,﻿,﻿,﻿Boston,Boston
 ﻿bos.ma.0020,﻿chapel,﻿St. Joseph's Chapel,English,,,,,,﻿Boston,﻿Boston,﻿MA,,,,,,,﻿den_okane_001,﻿Rev.,﻿D. O'Kane,﻿S.J.,,,,,,,1865,,,,,,,,,,,﻿,﻿,﻿Boston,Boston
 ﻿bos.ma.0020,﻿chapel,﻿St. Joseph's Chapel,English,,,,,,﻿Boston,﻿Boston,﻿MA,,,,,,,﻿tho_sheehan_001,﻿Rev.,﻿Thos. Sheerin,﻿S.J.,,,,,,,1865,,,,,,,,,,,﻿,﻿,﻿Boston,Boston
-﻿bos.ma.0003,﻿church,﻿St. Patrick's,English,,,,,,﻿Boston,﻿Boston,﻿MA,,,,,,,﻿tho_lynch_001,﻿Rev.,﻿Thomas Lynch,,﻿Pastor,,,,,,1865,,,,,,,,,,,﻿,﻿,﻿Boston,Boston
-﻿bos.ma.0003,﻿church,﻿St. Patrick's,English,,,,,,﻿Boston,﻿Boston,﻿MA,,,,,,,﻿j_n_baratta_001,﻿Rev.,﻿J. N. Baratta,,,,,,,,1865,,,,,,,,,,,﻿,﻿,﻿Boston,Boston
-﻿bos.ma.0005,﻿church,﻿Church of the Most Holy Trinity,English,,,,,,﻿Boston,﻿Boston,﻿MA,,,,,,,﻿ern_reiter_001,﻿Rev.,﻿Ernest Reiter,﻿S.J.,,,,,,,1865,,,,,,,,,,,﻿,﻿,﻿Boston,Boston
+﻿bos.ma.0003,﻿church,﻿St. Patrick's,English,,,,,,﻿Boston,﻿Boston,﻿MA,,,,,,,,﻿Rev.,﻿Thomas Lynch,,﻿Pastor,,,,,,1865,,,,,,,,,,,﻿,﻿,﻿Boston,Boston
+﻿bos.ma.0003,﻿church,﻿St. Patrick's,English,,,,,,﻿Boston,﻿Boston,﻿MA,,,,,,,,﻿Rev.,﻿J. N. Baratta,,,,,,,,1865,,,,,,,,,,,﻿,﻿,﻿Boston,Boston
+﻿bos.ma.0005,﻿church,﻿Church of the Most Holy Trinity,English,,,,,,﻿Boston,﻿Boston,﻿MA,,,,,,,,﻿Rev.,﻿Ernest Reiter,﻿S.J.,,,,,,,1865,,,,,,,,,,,﻿,﻿,﻿Boston,Boston
 ﻿bos.ma.0005,﻿church,﻿Church of the Most Holy Trinity,English,,,,,,﻿Boston,﻿Boston,﻿MA,,,,,,,﻿pet_manns_001,﻿Rev.,﻿Peter Manns,﻿S.J.,,,,,,,1865,,,,,,,,,,,﻿,﻿,﻿Boston,Boston
-﻿bos.ma.0006,﻿church,﻿St. Vincent's,English,,,,,,﻿Boston,﻿Boston,﻿MA,,,,,,,﻿mic_moran_001,﻿Rev.,﻿Michael Moran,,﻿Pastor,,,,,,1865,,,,,,,,,,,﻿,﻿,﻿Boston,Boston
-﻿bos.ma.0006,﻿church,﻿St. Vincent's,English,,,,,,﻿Boston,﻿Boston,﻿MA,,,,,,,﻿joh_mcshane_001,﻿Rev.,﻿John McShane,,,,,,,,1865,,,,,,,,,,,﻿,﻿,﻿Boston,Boston
-﻿bos.ma.0007,﻿church,﻿St. Stephen's,English,,,,,,﻿Boston,﻿Boston,﻿MA,,,,,,,﻿geo_f_haskins_001,﻿Rev.,﻿Geo. F. Haskins,,,,,,,,1865,,,,,,,,,,,﻿,﻿,﻿Boston,Boston
-﻿bos.ma.0007,﻿church,﻿St. Stephen's,English,,,,,,﻿Boston,﻿Boston,﻿MA,,,,,,,﻿tho_sheehan_001,﻿Rev.,﻿Thomas Sheehan,,,,,,,,1865,,,,,,,,,,,﻿,﻿,﻿Boston,Boston
-﻿bos.ma.0007,﻿church,﻿St. Stephen's,English,,,,,,﻿Boston,﻿Boston,﻿MA,,,,,,,﻿fra_lasco_002,﻿Rev.,﻿Francis Lasco,,,,,,,,1865,,,,,,,,,,,﻿,﻿,﻿Boston,Boston
+﻿bos.ma.0006,﻿church,﻿St. Vincent's,English,,,,,,﻿Boston,﻿Boston,﻿MA,,,,,,,,﻿Rev.,﻿Michael Moran,,﻿Pastor,,,,,,1865,,,,,,,,,,,﻿,﻿,﻿Boston,Boston
+﻿bos.ma.0006,﻿church,﻿St. Vincent's,English,,,,,,﻿Boston,﻿Boston,﻿MA,,,,,,,,﻿Rev.,﻿John McShane,,,,,,,,1865,,,,,,,,,,,﻿,﻿,﻿Boston,Boston
+﻿bos.ma.0007,﻿church,﻿St. Stephen's,English,,,,,,﻿Boston,﻿Boston,﻿MA,,,,,,,,﻿Rev.,﻿Geo. F. Haskins,,,,,,,,1865,,,,,,,,,,,﻿,﻿,﻿Boston,Boston
+﻿bos.ma.0007,﻿church,﻿St. Stephen's,English,,,,,,﻿Boston,﻿Boston,﻿MA,,,,,,,,﻿Rev.,﻿Thomas Sheehan,,,,,,,,1865,,,,,,,,,,,﻿,﻿,﻿Boston,Boston
+﻿bos.ma.0007,﻿church,﻿St. Stephen's,English,,,,,,﻿Boston,﻿Boston,﻿MA,,,,,,,,﻿Rev.,﻿Francis Lasco,,,,,,,,1865,,,,,,,,,,,﻿,﻿,﻿Boston,Boston
 ﻿bos.ma.0009,﻿church,﻿St. Joseph's,English,,,,,,﻿Boston,﻿Boston,﻿MA,,,,,,,﻿p_j_canny_001,﻿Rev.,﻿P. J. Canney,,﻿Pastor,,,,,,1865,,,,,,,,,,,﻿,﻿,﻿Boston,Boston
 ﻿bos.ma.0009,﻿church,﻿St. Joseph's,English,,,,,,﻿Boston,﻿Boston,﻿MA,,,,,,,﻿nun_gilberto_001,﻿Rev.,﻿Aloysius Giliberto,,,,,,,,1865,,,,,,,,,,,﻿,﻿,﻿Boston,Boston
-﻿bos.ma.0008,﻿church,﻿Immaculate Conception,English,,,,,,﻿Boston,﻿Boston,﻿MA,,,,,,,﻿joh_bapst_002,﻿Rev.,﻿John Bapst,﻿S.J.,,,,,,,1865,,,,,,,,,,,﻿,﻿,﻿Boston,Boston
-﻿bos.ma.0008,﻿church,﻿Immaculate Conception,English,,,,,,﻿Boston,﻿Boston,﻿MA,,,,,,,﻿ric_j_whyte_001,﻿Rev.,﻿Richard J. Whyte,﻿S.J.,,,,,,,1865,,,,,,,,,,,﻿,﻿,﻿Boston,Boston
-﻿bos.ma.0008,﻿church,﻿Immaculate Conception,English,,,,,,﻿Boston,﻿Boston,﻿MA,,,,,,,﻿jam_power_004,﻿Rev.,﻿James Power,﻿S.S.,,,,,,,1865,,,,,,,,,,,﻿,﻿,﻿Boston,Boston
+﻿bos.ma.0008,﻿church,﻿Immaculate Conception,English,,,,,,﻿Boston,﻿Boston,﻿MA,,,,,,,,﻿Rev.,﻿John Bapst,﻿S.J.,,,,,,,1865,,,,,,,,,,,﻿,﻿,﻿Boston,Boston
+﻿bos.ma.0008,﻿church,﻿Immaculate Conception,English,,,,,,﻿Boston,﻿Boston,﻿MA,,,,,,,,﻿Rev.,﻿Richard J. Whyte,﻿S.J.,,,,,,,1865,,,,,,,,,,,﻿,﻿,﻿Boston,Boston
+﻿bos.ma.0008,﻿church,﻿Immaculate Conception,English,,,,,,﻿Boston,﻿Boston,﻿MA,,,,,,,,﻿Rev.,﻿James Power,﻿S.S.,,,,,,,1865,,,,,,,,,,,﻿,﻿,﻿Boston,Boston
 ﻿bos.ma.0010,﻿church,﻿SS. Peter and Paul,English,,,,,,,﻿Boston,﻿MA,,,,,,,﻿wil_a_blenkinsop_001,﻿Rev.,﻿Wm. A. Blenkinsop,,,,,,,,1865,,,,,,,,,,,﻿,﻿,﻿Boston,Boston
 ﻿bos.ma.0010,﻿church,﻿SS. Peter and Paul,English,,,,,,,﻿Boston,﻿MA,,,,,,,﻿ant_molinari_001,﻿Rev.,﻿J. A. Molinai,,,,,,,,1865,,,,,,,,,,,﻿,﻿,﻿Boston,Boston
-﻿bos.ma.0010,﻿church,﻿SS. Peter and Paul,English,,,,,,,﻿Boston,﻿MA,,,,,,,﻿d_v_dolcetti_001,﻿Rev.,﻿D. V. Dolcetti,,,,,,,,1865,,,,,,,,,,,﻿,﻿,﻿Boston,Boston
+﻿bos.ma.0010,﻿church,﻿SS. Peter and Paul,English,,,,,,,﻿Boston,﻿MA,,,,,,,,﻿Rev.,﻿D. V. Dolcetti,,,,,,,,1865,,,,,,,,,,,﻿,﻿,﻿Boston,Boston
 ﻿bos.ma.0011,﻿church,﻿Gate of Heaven,English,,,,,,,﻿Boston,﻿MA,,,,﻿bos.ma.0010,﻿Attended from SS. Peter and Paul's Church,,,,,,,,,,,,1865,,,,,,,,,,,﻿,﻿,﻿Boston,Boston
 ﻿bos.ma.0031,﻿church,﻿St. Augustine's,English,,,,,,﻿Boston(?),﻿Andover,﻿MA,,,,﻿bos.ma.0010,﻿Attended from SS. Peter and Paul Church,,,,,,,,,,,,1865,,,,,,,,,,,﻿,﻿,﻿Boston,Boston
-﻿bos.ma.0013,﻿church,﻿Most Holy Redeemer,English,﻿Lot for a new church bought,,,,,﻿Boston,﻿Boston,﻿MA,,,,,,,﻿jam_fitton_001,﻿Rev.,﻿James Fitton,,,,,,,,1865,,,,,,,,,,,﻿,﻿,﻿Boston,Boston
-﻿bos.ma.0055,﻿church,﻿St. Mary's,English,,,,,,﻿Charlestown,﻿Charlestown,﻿MA,,,,,,,﻿emi_gerbi_001,﻿Rev. F.,﻿Emiliano Gerbi,﻿O.S.F.,,,,,,,1865,,,,,,,,,,,﻿,﻿,﻿Boston,Boston
-﻿bos.ma.0055,﻿church,﻿St. Mary's,English,,,,,,﻿Charlestown,﻿Charlestown,﻿MA,,,,,,,﻿bonaventura_001,﻿Rev. F.,﻿Bonaventura,﻿O.S.F.,,,,,,,1865,,,,,,,,,,,﻿,﻿,﻿Boston,Boston
-﻿bos.ma.0056,﻿church,﻿St. Francis of Sales,English,,,,,,﻿Charlestown,﻿Charlestown,﻿MA,,,,,,,﻿geo_a_hamilton_002,﻿Rev.,﻿Geo. A. Hamilton,,,,,,,,1865,,,,,,,,,,,﻿,﻿,﻿Boston,Boston
-﻿bos.ma.0056,﻿church,﻿St. Francis of Sales,English,,,,,,﻿Charlestown,﻿Charlestown,﻿MA,,,,,,,﻿fra_keany_001,﻿Rev.,﻿Francis Keany,,,,,,,,1865,,,,,,,,,,,﻿,﻿,﻿Boston,Boston
+﻿bos.ma.0013,﻿church,﻿Most Holy Redeemer,English,﻿Lot for a new church bought,,,,,﻿Boston,﻿Boston,﻿MA,,,,,,,,﻿Rev.,﻿James Fitton,,,,,,,,1865,,,,,,,,,,,﻿,﻿,﻿Boston,Boston
+﻿bos.ma.0055,﻿church,﻿St. Mary's,English,,,,,,﻿Charlestown,﻿Charlestown,﻿MA,,,,,,,,﻿Rev. F.,﻿Emiliano Gerbi,﻿O.S.F.,,,,,,,1865,,,,,,,,,,,﻿,﻿,﻿Boston,Boston
+﻿bos.ma.0055,﻿church,﻿St. Mary's,English,,,,,,﻿Charlestown,﻿Charlestown,﻿MA,,,,,,,,﻿Rev. F.,﻿Bonaventura,﻿O.S.F.,,,,,,,1865,,,,,,,,,,,﻿,﻿,﻿Boston,Boston
+﻿bos.ma.0056,﻿church,﻿St. Francis of Sales,English,,,,,,﻿Charlestown,﻿Charlestown,﻿MA,,,,,,,,﻿Rev.,﻿Geo. A. Hamilton,,,,,,,,1865,,,,,,,,,,,﻿,﻿,﻿Boston,Boston
+﻿bos.ma.0056,﻿church,﻿St. Francis of Sales,English,,,,,,﻿Charlestown,﻿Charlestown,﻿MA,,,,,,,,﻿Rev.,﻿Francis Keany,,,,,,,,1865,,,,,,,,,,,﻿,﻿,﻿Boston,Boston
 ﻿bos.ma.0058,﻿church,﻿St. Rose,English,,,,,,﻿Chelsea,﻿Chelsea,﻿MA,,,,,,,﻿p_strain_001,﻿Rev.,﻿Patrick Strain,,﻿Pastor,,,,,,1865,,,,,,,,,,,﻿,﻿,﻿Boston,Boston
 ﻿bos.ma.0058,﻿church,﻿St. Rose,English,,,,,,﻿Chelsea,﻿Chelsea,﻿MA,,,,,,,﻿p_j_harkins_001,﻿Rev.,﻿Patrick Harkins,,,,,,,,1865,,,,,,,,,,,﻿,﻿,﻿Boston,Boston
 ﻿bos.ma.0113,﻿church,﻿St. Mary's,English,,,,,,﻿Lynn,﻿Lynn,﻿MA,,,,﻿bos.ma.0058,﻿Attended from Chelsea,,,,,,,,,,,,1865,,,,,,,,,,,﻿,﻿,﻿Boston,Boston
 ﻿bos.ma.0125,﻿church,not recorded,English,﻿church lot bought,,,,,﻿Nahant,﻿Nahant,﻿MA,,,,,,,,,,,,,,,,,1865,,,,,,,,,,,﻿,﻿,﻿Boston,Boston
 ﻿bos.ma.0244,﻿church,﻿St. Joseph's,English,,,,,,﻿Roxbury,,﻿MA,,,,,,,﻿pat_obeirne_001,﻿Rev.,﻿Patrick O'Beirne,,﻿Pastor,,,,,,1865,,,,,,,,,,,﻿,﻿,﻿Boston,Boston
 ﻿bos.ma.0244,﻿church,﻿St. Joseph's,English,,,,,,﻿Roxbury,,﻿MA,,,,,,,﻿w_j_denvir_001,﻿Rev.,﻿Wm. J. J. Denvir,,,,,,,,1865,,,,,,,,,,,﻿,﻿,﻿Boston,Boston
-﻿bos.ma.0244,﻿church,﻿St. Joseph's,English,,,,,,﻿Roxbury,,﻿MA,,,,,,,﻿joh_brennan_001,﻿Rev.,﻿John Brennan,,,,,,,,1865,,,,,,,,,,,﻿,﻿,﻿Boston,Boston
-﻿bos.ma.0212,﻿chapel,﻿Chapel of the Angel Guardian,English,,,,,,﻿Roxbury,﻿Boston,﻿MA,,,,,,,﻿geo_f_haskins_001,﻿Rev.,﻿Geo. F. Haskins,,﻿Pastor,,,,,,1865,,,,,,,,,,,﻿,﻿,﻿Boston,Boston
-﻿bos.ma.0212,﻿chapel,﻿Chapel of the Angel Guardian,English,,,,,,﻿Roxbury,﻿Boston,﻿MA,,,,,,,﻿tho_griffin_001,﻿Rev.,﻿Thomas Griffin,,,,,,,,1865,,,,,,,,,,,﻿,﻿,﻿Boston,Boston
+﻿bos.ma.0244,﻿church,﻿St. Joseph's,English,,,,,,﻿Roxbury,,﻿MA,,,,,,,,﻿Rev.,﻿John Brennan,,,,,,,,1865,,,,,,,,,,,﻿,﻿,﻿Boston,Boston
+﻿bos.ma.0212,﻿chapel,﻿Chapel of the Angel Guardian,English,,,,,,﻿Roxbury,﻿Boston,﻿MA,,,,,,,,﻿Rev.,﻿Geo. F. Haskins,,﻿Pastor,,,,,,1865,,,,,,,,,,,﻿,﻿,﻿Boston,Boston
+﻿bos.ma.0212,﻿chapel,﻿Chapel of the Angel Guardian,English,,,,,,﻿Roxbury,﻿Boston,﻿MA,,,,,,,,﻿Rev.,﻿Thomas Griffin,,,,,,,,1865,,,,,,,,,,,﻿,﻿,﻿Boston,Boston
 ﻿bos.ma.0066,﻿church,﻿St. Mary's,English,,,,,,﻿Dedham,﻿Dedham,﻿MA,,,,﻿bos.ma.0244,﻿Attended from St. Joseph's Roxbury,,,,,,,,,,,,1865,,,,,,,,,,,﻿,﻿,﻿Boston,Boston
 ﻿bos.ma.0067,﻿church,﻿St. Catharine's,English,,,,,,﻿South Dedham,﻿Dedham,﻿MA,,,,﻿bos.ma.0244,﻿Attended from St. Joseph's Roxbury,,,,,,,,,,,,1865,,,,,,,,,,,﻿,﻿,﻿Boston,Boston
 ﻿bos.ma.0050,﻿church,﻿Assumption,English,,,,,,﻿Brookline,﻿Brookline,﻿MA,,,,,,,﻿jos_m_finotti_001,﻿Rev.,﻿J. M. Finotti,,,,,,,,1865,,,,,,,,,,,﻿,﻿,﻿Boston,Boston
 ﻿bos.ma.0048,﻿church,﻿St. Columba,English,,,,,,﻿Brighton,﻿Brighton,﻿MA,,,,﻿bos.ma.0050,﻿Attended from Brookline,,,,,,,,,,,,1865,,,,,,,,,,,﻿,﻿,﻿Boston,Boston
-﻿bos.ma.0054,﻿church,﻿St. Mary's,English,,,,,,﻿Canton,﻿Canton,﻿MA,,,,,,,﻿joh_flattely_001,﻿Rev.,﻿John Flattely,,,,,,,,1865,,,,,,,,,,,﻿,﻿,﻿Boston,Boston
+﻿bos.ma.0054,﻿church,﻿St. Mary's,English,,,,,,﻿Canton,﻿Canton,﻿MA,,,,,,,,﻿Rev.,﻿John Flattely,,,,,,,,1865,,,,,,,,,,,﻿,﻿,﻿Boston,Boston
 ﻿bos.ma.0167,﻿church,﻿Immaculate Conception,English,,,,,,﻿Stoughton,﻿Stoughton,﻿MA,,,,﻿bos.ma.0054,﻿Attended from Canton,,,,,,,,,,,,1865,,,,,,,,,,,﻿,﻿,﻿Boston,Boston
 ﻿bos.ma.0235,﻿church,﻿St. Gregory's,English,,,,,,﻿Milton,﻿Dorchester,﻿MA,,,,,,,﻿tho_r_mcnulty_001,﻿Rev.,﻿Thomas McNulty,,,,,,,,1865,,,,,,,,,,,﻿,﻿,﻿Boston,Boston
 ﻿bos.ma.0245,﻿church,﻿----,English,,,,,,﻿Dorchester,﻿Dorchester,﻿MA,,,,﻿bos.ma.0235,﻿Attended from Milton,,,,,,,,,,,,1865,,,,,,,,,,,﻿,﻿,﻿Boston,Boston
-﻿bos.ma.0152,﻿church,﻿Immaculate Conception,English,,,,,,﻿Salem,﻿Salem,﻿MA,,,,,,,﻿mic_hartney_001,﻿Rev.,﻿Michael Hartney,,,,,,,,1865,,,,,,,,,,,﻿,﻿,﻿Boston,Boston
+﻿bos.ma.0152,﻿church,﻿Immaculate Conception,English,,,,,,﻿Salem,﻿Salem,﻿MA,,,,,,,,﻿Rev.,﻿Michael Hartney,,,,,,,,1865,,,,,,,,,,,﻿,﻿,﻿Boston,Boston
 ﻿bos.ma.0151,﻿church,﻿St. James',English,,,,,,﻿Salem,﻿Salem,﻿MA,,,,,,,﻿tho_shahan_001,﻿Rev.,﻿Thomas H. Shahan,,,,,,,,1865,,,,,,,,,,,﻿,﻿,﻿Boston,Boston
 ﻿bos.ma.0116,﻿church,﻿Star of the Sea,English,,,,,,﻿Marblehead,﻿Marblehead,﻿MA,,,,﻿bos.ma.0151,"﻿Attended from St. James, Salem",,,,,,,,,,,,1865,,,,,,,,,,,﻿,﻿,﻿Boston,Boston
-﻿bos.ma.0064,﻿church,﻿Visitation B.V.M.,English,,,,,,﻿North-Danvers,﻿Danvers,﻿MA,,,,,,,﻿cha_rainoni_001,﻿Rev.,﻿Charles Rainoni,,,,,,,,1865,,,,,,,,,,,﻿,﻿,﻿Boston,Boston
+﻿bos.ma.0064,﻿church,﻿Visitation B.V.M.,English,,,,,,﻿North-Danvers,﻿Danvers,﻿MA,,,,,,,,﻿Rev.,﻿Charles Rainoni,,,,,,,,1865,,,,,,,,,,,﻿,﻿,﻿Boston,Boston
 ﻿bos.ma.0080,﻿church,﻿St. Ann's,English,,,,,,﻿Gloucester,﻿Gloucester,﻿MA,,,,,,,﻿lui_acquarone_001,﻿Rev.,﻿L. Acquarone,,,,,,,,1865,,,,,,,,,,,﻿,﻿,﻿Boston,Boston
 ﻿bos.ma.0149,﻿church,﻿St. Joachim's,English,,,,,,﻿Rockport,﻿Rockport,﻿MA,,,,﻿bos.ma.0080,﻿Attended from Gloucester,,,,,,,,,,,,1865,,,,,,,,,,,﻿,﻿,﻿Boston,Boston
-﻿bos.ma.0131,﻿church,﻿St. Mary's,English,,,,,,﻿Newburyport,﻿Newburyport,﻿MA,,,,,,,﻿hen_lennon_001,﻿Rev.,﻿Henry Lennon,,﻿Pastor,,,,,,1865,,,,,,,,,,,﻿,﻿,﻿Boston,Boston
+﻿bos.ma.0131,﻿church,﻿St. Mary's,English,,,,,,﻿Newburyport,﻿Newburyport,﻿MA,,,,,,,,﻿Rev.,﻿Henry Lennon,,﻿Pastor,,,,,,1865,,,,,,,,,,,﻿,﻿,﻿Boston,Boston
 ﻿bos.ma.0131,﻿church,﻿St. Mary's,English,,,,,,﻿Newburyport,﻿Newburyport,﻿MA,,,,,,,﻿w_j_daly_001,﻿Rev.,﻿Wm. J. Daly,,,,,,,,1865,,,,,,,,,,,﻿,﻿,﻿Boston,Boston
 ﻿bos.ma.0030,﻿church,﻿----,English,,,,,,﻿Amesbury,﻿Amesbury,﻿MA,,,,﻿bos.ma.0131,﻿Attended from Newburyport,,,,,,,,,,,,1865,,,,,,,,,,,﻿,﻿,﻿Boston,Boston
 ﻿bos.ma.0087,﻿church,﻿St. Gregory's,English,,,,,,﻿Haverhill,﻿Haverhill,﻿MA,,,,,,,﻿j_f_mcdonnell_001,﻿Rev.,﻿John T. McDonnell,﻿O.S.D.,,,,,,,1865,,,,,,,,,,,﻿,﻿,﻿Boston,Boston
-﻿bos.ma.0101,﻿church,﻿Immaculate Conception,English,,,,,,﻿Lawrence,﻿Lawrence,﻿MA,,,,,,,﻿jam_d_taaffe_001,﻿Rev.,﻿James D. Taaffe,﻿O.S.D.,,,,,,,1865,,,,,,,,,,,﻿,﻿,﻿Boston,Boston
-﻿bos.ma.0101,﻿church,﻿Immaculate Conception,English,,,,,,﻿Lawrence,﻿Lawrence,﻿MA,,,,,,,﻿wil_orr_001,﻿Rev.,﻿William Orr,,,,,,,,1865,,,,,,,,,,,﻿,﻿,﻿Boston,Boston
-﻿bos.ma.0102,﻿church,﻿St. Mary's,English,,,,,,﻿Lawrence,﻿Lawrence,﻿MA,,,,,,,﻿amb_a_mullen_002,﻿Rev.,﻿Ambrose A. Mullen,﻿O.S.A.,,,,,,,1865,,,,,,,,,,,﻿,﻿,﻿Boston,Boston
+﻿bos.ma.0101,﻿church,﻿Immaculate Conception,English,,,,,,﻿Lawrence,﻿Lawrence,﻿MA,,,,,,,,﻿Rev.,﻿James D. Taaffe,﻿O.S.D.,,,,,,,1865,,,,,,,,,,,﻿,﻿,﻿Boston,Boston
+﻿bos.ma.0101,﻿church,﻿Immaculate Conception,English,,,,,,﻿Lawrence,﻿Lawrence,﻿MA,,,,,,,,﻿Rev.,﻿William Orr,,,,,,,,1865,,,,,,,,,,,﻿,﻿,﻿Boston,Boston
+﻿bos.ma.0102,﻿church,﻿St. Mary's,English,,,,,,﻿Lawrence,﻿Lawrence,﻿MA,,,,,,,,﻿Rev.,﻿Ambrose A. Mullen,﻿O.S.A.,,,,,,,1865,,,,,,,,,,,﻿,﻿,﻿Boston,Boston
 ﻿bos.ma.0102,﻿church,﻿St. Mary's,English,,,,,,﻿Lawrence,﻿Lawrence,﻿MA,,,,,,,﻿mic_f_gallagher_001,﻿Rev.,﻿M. F. Galligher,﻿O.S.F.,,,,,,,1865,,,,,,,,,,,﻿,﻿,﻿Boston,Boston
-﻿bos.ma.0102,﻿church,﻿St. Mary's,English,,,,,,﻿Lawrence,﻿Lawrence,﻿MA,,,,,,,﻿edw_a_daley_001,﻿Rev.,﻿Edward A. Daley,﻿O.S.A.,,,,,,,1865,,,,,,,,,,,﻿,﻿,﻿Boston,Boston
+﻿bos.ma.0102,﻿church,﻿St. Mary's,English,,,,,,﻿Lawrence,﻿Lawrence,﻿MA,,,,,,,,﻿Rev.,﻿Edward A. Daley,﻿O.S.A.,,,,,,,1865,,,,,,,,,,,﻿,﻿,﻿Boston,Boston
 ﻿bos.ma.0031,﻿church,﻿St. Augustine's,English,,,,,,﻿Andover,﻿Andover,﻿MA,,,,﻿bos.ma.0102,﻿Attended from St. Mary's Lawrence,,,,,,,,,,,,1865,,,,,,,,,,,﻿,﻿,﻿Boston,Boston
 ﻿bos.ma.0051,﻿church,﻿St. Peter's,English,,,,,,﻿Old Cambridge,﻿Cambridge,﻿MA,,,,,,,﻿m_p_dougherty_001,﻿Rev.,﻿Manasses P. Dougherty,,,,,,,,1865,,,,,,,,,,,﻿,﻿,﻿Boston,Boston
 ﻿bos.ma.0052,﻿church,﻿St. John's,English,,,,,,﻿East Cambridge,﻿Cambridge,﻿MA,,,,,,,﻿j_w_donahoe_001,﻿Rev.,﻿John W. Donahue,,,,,,,,1865,,,,,,,,,,,﻿,﻿,﻿Boston,Boston
-﻿bos.ma.0052,﻿church,﻿St. John's,English,,,,,,﻿East Cambridge,﻿Cambridge,﻿MA,,,,,,,﻿ant_rossi_001,﻿Rev.,﻿Antonio Rossi,,,,,,,,1865,,,,,,,,,,,﻿,﻿,﻿Boston,Boston
+﻿bos.ma.0052,﻿church,﻿St. John's,English,,,,,,﻿East Cambridge,﻿Cambridge,﻿MA,,,,,,,,﻿Rev.,﻿Antonio Rossi,,,,,,,,1865,,,,,,,,,,,﻿,﻿,﻿Boston,Boston
 ﻿bos.ma.0190,﻿church,﻿St. Charles',English,,,,,,﻿Woburn,﻿Woburn,﻿MA,,,,,,,﻿joh_qualey_001,﻿Rev.,﻿John Qualey,,,,,,,,1865,,,,,,,,,,,﻿,﻿,﻿Boston,Boston
 ﻿bos.ma.0183,﻿church,﻿St. Patrick's,English,,,,,,﻿Watertown,﻿Watertown,﻿MA,,,,,,,﻿joh_mccarthy_001,﻿Rev.,﻿John McCarty,,,,,,,,1865,,,,,,,,,,,﻿,﻿,﻿Boston,Boston
-﻿bos.ma.0179,﻿church,﻿St. Mary's,English,,,,,,﻿Waltham,﻿Waltham,﻿MA,,,,,,,﻿ber_flood_001,﻿Rev.,﻿Bernard Flood,,,,,,,,1865,,,,,,,,,,,﻿,﻿,﻿Boston,Boston
-﻿bos.ma.0063,﻿church,not recorded,English,﻿church not dedicated,,,,,﻿Concord,﻿Concord,﻿MA,,,,,,,﻿ber_flood_001,﻿Rev.,﻿Bernard Flood,,,,,,,,1865,,,,,,,,,,,﻿,﻿,﻿Boston,Boston
-﻿bos.ma.0114,﻿church,﻿Immaculate Conception,English,,,,,,﻿Malden,﻿Malden,﻿MA,,,,,,,﻿tho_scully_001,﻿Rev.,﻿Thomas Scully,,,,,,,,1865,,,,,,,,,,,﻿,﻿,﻿Boston,Boston
-﻿bos.ma.0148,﻿church,﻿St. Mary's,English,,,,,,﻿South-Reading,,﻿MA,,,,,,,﻿tho_scully_001,﻿Rev.,﻿Thomas Scully,,,,,,,,1865,,,,,,,,,,,﻿,﻿,﻿Boston,Boston
-﻿bos.ma.0108,﻿church,﻿St. Peter's,English,,,,,,﻿Lowell,﻿Lowell,﻿MA,,,,,,,﻿pet_crudden_001,﻿Rev.,﻿Peter Crudden,,﻿Pastor,,,,,,1865,,,,,,,,,,,﻿,﻿,﻿Boston,Boston
-﻿bos.ma.0108,﻿church,﻿St. Peter's,English,,,,,,﻿Lowell,﻿Lowell,﻿MA,,,,,,,﻿ant_romana_001,﻿Rev.,﻿Antonio Romana,,,,,,,,1865,,,,,,,,,,,﻿,﻿,﻿Boston,Boston
-﻿bos.ma.0109,﻿church,﻿St. Patrick's,English,,,,,,﻿Lowell,﻿Lowell,﻿MA,,,,,,,﻿joh_obrien_001,﻿Rev.,﻿John O'Brien,,﻿Pastor,,,,,,1865,,,,,,,,﻿joh_obrien_001,﻿Rev.,﻿John O'Brien,﻿,﻿,﻿Boston,Boston
-﻿bos.ma.0109,﻿church,﻿St. Patrick's,English,,,,,,﻿Lowell,﻿Lowell,﻿MA,,,,,,,﻿pet_hamell_001,﻿Rev.,﻿Peter Hamell,,,,,,,,1865,,,,,,,,,,,﻿,﻿,﻿Boston,Boston
+﻿bos.ma.0179,﻿church,﻿St. Mary's,English,,,,,,﻿Waltham,﻿Waltham,﻿MA,,,,,,,,﻿Rev.,﻿Bernard Flood,,,,,,,,1865,,,,,,,,,,,﻿,﻿,﻿Boston,Boston
+﻿bos.ma.0063,﻿church,not recorded,English,﻿church not dedicated,,,,,﻿Concord,﻿Concord,﻿MA,,,,,,,,﻿Rev.,﻿Bernard Flood,,,,,,,,1865,,,,,,,,,,,﻿,﻿,﻿Boston,Boston
+﻿bos.ma.0114,﻿church,﻿Immaculate Conception,English,,,,,,﻿Malden,﻿Malden,﻿MA,,,,,,,,﻿Rev.,﻿Thomas Scully,,,,,,,,1865,,,,,,,,,,,﻿,﻿,﻿Boston,Boston
+﻿bos.ma.0148,﻿church,﻿St. Mary's,English,,,,,,﻿South-Reading,,﻿MA,,,,,,,,﻿Rev.,﻿Thomas Scully,,,,,,,,1865,,,,,,,,,,,﻿,﻿,﻿Boston,Boston
+﻿bos.ma.0108,﻿church,﻿St. Peter's,English,,,,,,﻿Lowell,﻿Lowell,﻿MA,,,,,,,,﻿Rev.,﻿Peter Crudden,,﻿Pastor,,,,,,1865,,,,,,,,,,,﻿,﻿,﻿Boston,Boston
+﻿bos.ma.0108,﻿church,﻿St. Peter's,English,,,,,,﻿Lowell,﻿Lowell,﻿MA,,,,,,,,﻿Rev.,﻿Antonio Romana,,,,,,,,1865,,,,,,,,,,,﻿,﻿,﻿Boston,Boston
+﻿bos.ma.0109,﻿church,﻿St. Patrick's,English,,,,,,﻿Lowell,﻿Lowell,﻿MA,,,,,,,,﻿Rev.,﻿John O'Brien,,﻿Pastor,,,,,,1865,,,,,,,,﻿joh_obrien_001,﻿Rev.,﻿John O'Brien,﻿,﻿,﻿Boston,Boston
+﻿bos.ma.0109,﻿church,﻿St. Patrick's,English,,,,,,﻿Lowell,﻿Lowell,﻿MA,,,,,,,,﻿Rev.,﻿Peter Hamell,,,,,,,,1865,,,,,,,,,,,﻿,﻿,﻿Boston,Boston
 ﻿bos.ma.0057,﻿church,﻿St. John the Evangelist's,English,,,,,,﻿Chelmsford,﻿Chelmsford,﻿MA,,,,﻿bos.ma.0109,"﻿Attended from St. Patrick, Lowell",,,,,,,,,,,,1865,,,,,,,,,,,﻿,﻿,﻿Boston,Boston
 ﻿bos.ma.0191,﻿church,﻿St. John's,English,,,,,,﻿Worcester,﻿Worcester,﻿MA,,,,,,,﻿p_t_oreilly_001,﻿Rev.,﻿Patrick T. O'Reilly,,,,,,,,1865,,,,,,,,,,,﻿,﻿,﻿Boston,Boston
-﻿bos.ma.0192,﻿church,﻿St. Ann's,English,,,,,,﻿Worcester,﻿Worcester,﻿MA,,,,,,,﻿joh_j_power_001,﻿Rev.,﻿John J. Power,,,,,,,,1865,,,,,,,,,,,﻿,﻿,﻿Boston,Boston
+﻿bos.ma.0192,﻿church,﻿St. Ann's,English,,,,,,﻿Worcester,﻿Worcester,﻿MA,,,,,,,,﻿Rev.,﻿John J. Power,,,,,,,,1865,,,,,,,,,,,﻿,﻿,﻿Boston,Boston
 ﻿bos.ma.0123,﻿church,﻿St. Bridget's,English,,,,,,﻿Millbury,﻿Millbury,﻿MA,,,,﻿bos.ma.0192,﻿Attended from St. Ann's Worcester,,,,,,,,,,,,1865,,,,,,,,,,,﻿,﻿,﻿Boston,Boston
 ﻿bos.ma.0081,﻿church,﻿St. Philip's,English,,,,,,﻿Grafton,﻿Grafton,﻿MA,,,,﻿bos.ma.0192,﻿Attended from St. Ann's Worcester,,,,,,,,,,,,1865,,,,,,,,,,,﻿,﻿,﻿Boston,Boston
-﻿bos.ma.0075,﻿church,﻿St. Bernard's,English,,,,,,﻿Fitchburgh,﻿Fitchburg,﻿MA,,,,,,,﻿edw_turpin_001,﻿Rev.,﻿Edward Turpin,,,,,,,,1865,,,,,,,,,,,﻿,﻿,﻿Boston,Boston
-﻿bos.ma.0084,﻿church,﻿St. Mary's,English,,,,,,﻿Groton,﻿Groton,﻿MA,,,,,,,﻿edw_turpin_001,﻿Rev.,﻿Edward Turpin,,,,,,,,1865,,,,,,,,,,,﻿,﻿,﻿Boston,Boston
-﻿bos.ma.0106,﻿church,﻿St. Leo's,English,,,,,,﻿Leominster,﻿Leominster,﻿MA,,,,,,,﻿edw_turpin_001,﻿Rev.,﻿Edward Turpin,,,,,,,,1865,,,,,,,,,,,﻿,﻿,﻿Boston,Boston
-﻿bos.ma.0171,﻿church,﻿St. Martin's,English,,,,,,﻿Templeton,﻿Templeton,﻿MA,,,,,,,﻿tho_h_bannon_001,﻿Rev.,﻿Thomas H. Bannon,,,,,,,,1865,,,,,,,,,,,﻿,﻿,﻿Boston,Boston
-﻿bos.ma.0036,﻿church,﻿St. Catharine's,English,,,,,,﻿Athol,﻿Athol,﻿MA,,,,,,,﻿tho_h_bannon_001,﻿Rev.,﻿Thomas H. Bannon,,,,,,,,1865,,,,,,,,,,,﻿,﻿,﻿Boston,Boston
-﻿bos.ma.0189,﻿church,﻿St. Edward's,English,,,,,,﻿Winchendon,﻿Winchendon,﻿MA,,,,,,,﻿tho_h_bannon_001,﻿Rev.,﻿Thomas H. Bannon,,,,,,,,1865,,,,,,,,,,,﻿,﻿,﻿Boston,Boston
+﻿bos.ma.0075,﻿church,﻿St. Bernard's,English,,,,,,﻿Fitchburgh,﻿Fitchburg,﻿MA,,,,,,,,﻿Rev.,﻿Edward Turpin,,,,,,,,1865,,,,,,,,,,,﻿,﻿,﻿Boston,Boston
+﻿bos.ma.0084,﻿church,﻿St. Mary's,English,,,,,,﻿Groton,﻿Groton,﻿MA,,,,,,,,﻿Rev.,﻿Edward Turpin,,,,,,,,1865,,,,,,,,,,,﻿,﻿,﻿Boston,Boston
+﻿bos.ma.0106,﻿church,﻿St. Leo's,English,,,,,,﻿Leominster,﻿Leominster,﻿MA,,,,,,,,﻿Rev.,﻿Edward Turpin,,,,,,,,1865,,,,,,,,,,,﻿,﻿,﻿Boston,Boston
+﻿bos.ma.0171,﻿church,﻿St. Martin's,English,,,,,,﻿Templeton,﻿Templeton,﻿MA,,,,,,,,﻿Rev.,﻿Thomas H. Bannon,,,,,,,,1865,,,,,,,,,,,﻿,﻿,﻿Boston,Boston
+﻿bos.ma.0036,﻿church,﻿St. Catharine's,English,,,,,,﻿Athol,﻿Athol,﻿MA,,,,,,,,﻿Rev.,﻿Thomas H. Bannon,,,,,,,,1865,,,,,,,,,,,﻿,﻿,﻿Boston,Boston
+﻿bos.ma.0189,﻿church,﻿St. Edward's,English,,,,,,﻿Winchendon,﻿Winchendon,﻿MA,,,,,,,,﻿Rev.,﻿Thomas H. Bannon,,,,,,,,1865,,,,,,,,,,,﻿,﻿,﻿Boston,Boston
 ﻿bos.ma.0122,﻿church,﻿St. Mary's,English,,,,,,﻿Milford,﻿Milford,﻿MA,,,,,,,﻿p_cuddihy_001,﻿Rev.,﻿Patrick Cuddihy,,﻿Pastor,,,,,,1865,,,,,,,,,,,﻿,﻿,﻿Boston,Boston
-﻿bos.ma.0122,﻿church,﻿St. Mary's,English,,,,,,﻿Milford,﻿Milford,﻿MA,,,,,,,﻿tho_barry_001,﻿Rev.,﻿Thomas Barry,,,,,,,,1865,,,,,,,,,,,﻿,﻿,﻿Boston,Boston
+﻿bos.ma.0122,﻿church,﻿St. Mary's,English,,,,,,﻿Milford,﻿Milford,﻿MA,,,,,,,,﻿Rev.,﻿Thomas Barry,,,,,,,,1865,,,,,,,,,,,﻿,﻿,﻿Boston,Boston
 ﻿bos.ma.0095,﻿church,﻿St. Malachy's,English,,,,,,﻿Hopkinton,﻿Hopkinton,﻿MA,,,,﻿bos.ma.0122,﻿Attended from Milford,,,,,,,,,,,,1865,,,,,,,,,,,﻿,﻿,﻿Boston,Boston
 ﻿bos.ma.0119,﻿church,not recorded,English,﻿church not dedicated,,,,,﻿Medway,﻿Medway,﻿MA,,,,﻿bos.ma.0122,﻿Attended from Milford,,,,,,,,,,,,1865,,,,,,,,,,,﻿,﻿,﻿Boston,Boston
-﻿bos.ma.0168,﻿church,﻿St. George's,English,,,,,,﻿Saxonville,﻿Framingham,﻿MA,,,,,,,﻿joh_walsh_002,﻿Rev.,﻿John Walsh,,,,,,,,1865,,,,,,,,,,,﻿,﻿,﻿Boston,Boston
-﻿bos.ma.0127,﻿church,﻿St. Patrick's,English,,,,,,﻿Natick,﻿Natick,﻿MA,,,,,,,﻿joh_walsh_002,﻿Rev.,﻿John Walsh,,,,,,,,1865,,,,,,,,,,,﻿,﻿,﻿Boston,Boston
+﻿bos.ma.0168,﻿church,﻿St. George's,English,,,,,,﻿Saxonville,﻿Framingham,﻿MA,,,,,,,,﻿Rev.,﻿John Walsh,,,,,,,,1865,,,,,,,,,,,﻿,﻿,﻿Boston,Boston
+﻿bos.ma.0127,﻿church,﻿St. Patrick's,English,,,,,,﻿Natick,﻿Natick,﻿MA,,,,,,,,﻿Rev.,﻿John Walsh,,,,,,,,1865,,,,,,,,,,,﻿,﻿,﻿Boston,Boston
 ﻿bos.ma.0117,﻿church,﻿Immaculate Conception,English,,,,,,﻿Marlboro,﻿Marlboro,﻿MA,,,,,,,﻿joh_a_conlin_001,﻿Rev.,﻿John Conlin,,,,,,,,1865,,,,,,,,,,,﻿,﻿,﻿Boston,Boston
-﻿bos.ma.0061,﻿church,﻿St. John's,English,,,,,,﻿Clinton,﻿Clinton,﻿MA,,,,,,,﻿jam_quinn_004,﻿Rev.,﻿James Quinn,,,,,,,,1865,,,,,,,,,,,﻿,﻿,﻿Boston,Boston
+﻿bos.ma.0061,﻿church,﻿St. John's,English,,,,,,﻿Clinton,﻿Clinton,﻿MA,,,,,,,,﻿Rev.,﻿James Quinn,,,,,,,,1865,,,,,,,,,,,﻿,﻿,﻿Boston,Boston
 ﻿bos.ma.0044,﻿church,﻿St. Luke's,English,,,,,,﻿West Boylston,﻿West Boylston,﻿MA,,,,﻿bos.ma.0061,﻿Attended from Clinton,,,,,,,,,,,,1865,,,,,,,,,,,﻿,﻿,﻿Boston,Boston
 ﻿bos.ma.0043,﻿church,﻿St. Paul's,English,,,,,,﻿Blackstone,﻿Blackstone,﻿MA,,,,,,,﻿e_j_sheridan_001,﻿Rev.,﻿Edward J. Sheridan,,,,,,,,1865,,,,,,,,,,,﻿,﻿,﻿Boston,Boston
 ﻿bos.ma.0175,﻿church,﻿St. Mary's,English,,,,,,﻿Uxbridge,﻿Uxbridge,﻿MA,,,,﻿bos.ma.0043,﻿Attended from Blackstone,,,,,,,,,,,,1865,,,,,,,,,,,﻿,﻿,﻿Boston,Boston
-﻿bos.ma.0184,﻿church,﻿St. Louis,English,,,,,,﻿Webster,﻿Webster,﻿MA,,,,,,,﻿jam_quan_001,﻿Rev.,﻿James Quan,,,,,,,,1865,,,,,,,,,,,﻿,﻿,﻿Boston,Boston
+﻿bos.ma.0184,﻿church,﻿St. Louis,English,,,,,,﻿Webster,﻿Webster,﻿MA,,,,,,,,﻿Rev.,﻿James Quan,,,,,,,,1865,,,,,,,,,,,﻿,﻿,﻿Boston,Boston
 ﻿bos.ma.0161,﻿church,﻿St. Peter's,English,,,,,,﻿Southbridge,﻿Southbridge,﻿MA,,,,﻿bos.ma.0184,﻿Attended from Webster,,,,,,,,,,,,1865,,,,,,,,,,,﻿,﻿,﻿Boston,Boston
 ﻿bos.ma.0039,﻿church,﻿St. Joseph's,English,,,,,,﻿Barre,﻿Barre,﻿MA,,,,﻿bos.ma.0180,﻿Attended from Ware,,,,,,,,,,,,1865,,,,,,,,,,,﻿,﻿,﻿Boston,Boston
 ﻿bos.ma.0137,﻿church,﻿St. Roch's,English,,,,,,﻿Oxford,﻿Oxford,﻿MA,,,,﻿bos.ma.0184,﻿Attended from Webster,,,,,,,,,,,,1865,,,,,,,,,,,﻿,﻿,﻿Boston,Boston
-﻿bos.ma.0145,﻿church,﻿St. John's,English,,,,,,﻿Quincy,﻿Quincy,﻿MA,,,,,,,﻿wil_halley_001,﻿Rev.,﻿William Halley,,,,,,,,1865,,,,,,,,,,,﻿,﻿,﻿Boston,Boston
-﻿bos.ma.0146,﻿church,﻿St. Mary's,English,,,,,,﻿Quincy,﻿Quincy,﻿MA,,,,,,,﻿wil_halley_001,﻿Rev.,﻿William Halley,,,,,,,,1865,,,,,,,,,,,﻿,﻿,﻿Boston,Boston
-﻿bos.ma.0147,﻿church,﻿St. Mary's,English,,,,,,﻿Randolph,﻿Randolph,﻿MA,,,,,,,﻿tho_walsh_005,﻿Rev.,﻿Thomas Walsh,,,,,,,,1865,,,,,,,,,,,﻿,﻿,﻿Boston,Boston
-﻿bos.ma.0027,﻿church,﻿St. Bridget's,English,,,,,,﻿Abington,﻿Abington,﻿MA,,,,,,,﻿a_l_roche_001,﻿Rev.,﻿A. L. Roche,,,,,,,,1865,,,,,,,,,,,﻿,﻿,﻿Boston,Boston
-﻿bos.ma.0187,﻿church,﻿St. Francis Xavier,English,,,,,,﻿Weymouth,﻿Weymouth,﻿MA,,,,,,,﻿a_l_roche_001,﻿Rev.,﻿A. L. Roche,,,,,,,,1865,,,,,,,,,,,﻿,﻿,﻿Boston,Boston
-﻿bos.ma.0170,﻿church,﻿St. Mary's,English,,,,,,﻿Taunton,﻿Taunton,﻿MA,,,,,,,﻿dan_hearne_001,﻿Rev.,﻿Daniel Hearne,,﻿Pastor,,,,,,1865,,,,,,,,,,,﻿,﻿,﻿Boston,Boston
-﻿bos.ma.0170,﻿church,﻿St. Mary's,English,,,,,,﻿Taunton,﻿Taunton,﻿MA,,,,,,,﻿jos_mcphilips_001,﻿Rev.,﻿Joseph McPhilips,,,,,,,,1865,,,,,,,,,,,﻿,﻿,﻿Boston,Boston
-﻿bos.ma.0170,﻿church,﻿St. Mary's,English,,,,,,﻿Taunton,﻿Taunton,﻿MA,,,,,,,﻿jam_tracy_001,﻿Rev.,﻿James Tracy,,,,,,,,1865,,,,,,,,,,,﻿,﻿,﻿Boston,Boston
+﻿bos.ma.0145,﻿church,﻿St. John's,English,,,,,,﻿Quincy,﻿Quincy,﻿MA,,,,,,,,﻿Rev.,﻿William Halley,,,,,,,,1865,,,,,,,,,,,﻿,﻿,﻿Boston,Boston
+﻿bos.ma.0146,﻿church,﻿St. Mary's,English,,,,,,﻿Quincy,﻿Quincy,﻿MA,,,,,,,,﻿Rev.,﻿William Halley,,,,,,,,1865,,,,,,,,,,,﻿,﻿,﻿Boston,Boston
+﻿bos.ma.0147,﻿church,﻿St. Mary's,English,,,,,,﻿Randolph,﻿Randolph,﻿MA,,,,,,,,﻿Rev.,﻿Thomas Walsh,,,,,,,,1865,,,,,,,,,,,﻿,﻿,﻿Boston,Boston
+﻿bos.ma.0027,﻿church,﻿St. Bridget's,English,,,,,,﻿Abington,﻿Abington,﻿MA,,,,,,,,﻿Rev.,﻿A. L. Roche,,,,,,,,1865,,,,,,,,,,,﻿,﻿,﻿Boston,Boston
+﻿bos.ma.0187,﻿church,﻿St. Francis Xavier,English,,,,,,﻿Weymouth,﻿Weymouth,﻿MA,,,,,,,,﻿Rev.,﻿A. L. Roche,,,,,,,,1865,,,,,,,,,,,﻿,﻿,﻿Boston,Boston
+﻿bos.ma.0170,﻿church,﻿St. Mary's,English,,,,,,﻿Taunton,﻿Taunton,﻿MA,,,,,,,,﻿Rev.,﻿Daniel Hearne,,﻿Pastor,,,,,,1865,,,,,,,,,,,﻿,﻿,﻿Boston,Boston
+﻿bos.ma.0170,﻿church,﻿St. Mary's,English,,,,,,﻿Taunton,﻿Taunton,﻿MA,,,,,,,,﻿Rev.,﻿Joseph McPhilips,,,,,,,,1865,,,,,,,,,,,﻿,﻿,﻿Boston,Boston
+﻿bos.ma.0170,﻿church,﻿St. Mary's,English,,,,,,﻿Taunton,﻿Taunton,﻿MA,,,,,,,,﻿Rev.,﻿James Tracy,,,,,,,,1865,,,,,,,,,,,﻿,﻿,﻿Boston,Boston
 ﻿bos.ma.0169,﻿church,﻿Holy Family,English,,,,,,﻿Squabetty,﻿Raynham,﻿MA,,,,﻿bos.ma.0170,﻿Attended from Taunton,,,,,,,,,,,,1865,,,,,,,,,,,﻿,﻿,﻿Boston,Boston
-﻿bos.ma.0074,﻿church,﻿St. Mary's,English,,,,,,﻿Fall River,﻿Fall River,﻿MA,,,,,,,﻿edw_murphy_001,﻿Rev.,﻿Edward Murphy,,,,,,,,1865,,,,,,,,,,,﻿,﻿,﻿Boston,Boston
-﻿bos.ma.0037,﻿church,﻿St. Mary's,English,,,,,,﻿Attleboro,﻿Attleboro,﻿MA,,,,,,,﻿phi_gillick_001,﻿Rev.,﻿Philip Gillick,,,,,,,,1865,,,,,,,,,,,﻿,﻿,﻿Boston,Boston
+﻿bos.ma.0074,﻿church,﻿St. Mary's,English,,,,,,﻿Fall River,﻿Fall River,﻿MA,,,,,,,,﻿Rev.,﻿Edward Murphy,,,,,,,,1865,,,,,,,,,,,﻿,﻿,﻿Boston,Boston
+﻿bos.ma.0037,﻿church,﻿St. Mary's,English,,,,,,﻿Attleboro,﻿Attleboro,﻿MA,,,,,,,,﻿Rev.,﻿Philip Gillick,,,,,,,,1865,,,,,,,,,,,﻿,﻿,﻿Boston,Boston
 ﻿bos.ma.0195,﻿church,not recorded,English,﻿church not dedicated,,,,,﻿Wrentham,﻿Wrentham,﻿MA,,,,,,,,,,,,,,,,,1865,,,,,,,,,,,﻿,﻿,﻿Boston,Boston
 ﻿bos.ma.0129,﻿church,﻿St. Mary's,English,﻿New church lot bought,,,,,﻿New-Bedford,﻿New Bedford,﻿MA,,,,,,,﻿cor_m_foley_001,﻿Rev.,﻿Cornelius M. Foley,,,,,,,,1865,,,,,,,,,,,﻿,﻿,﻿Boston,Boston
 ﻿bos.ma.0126,﻿church,not recorded,English,﻿church not dedicated,,,,,﻿Nantucket,﻿Nantucket,﻿MA,,,,﻿bos.ma.0129,﻿Attended from New-Bedford,,,,,,,,,,,,1865,,,,,,,,,,,﻿,﻿,﻿Boston,Boston
-﻿bos.ma.0154,﻿church,﻿St. Peter's,English,,,,,,﻿Sandwich,﻿Sandwich,﻿MA,,,,,,,﻿j_bertholdi_001,﻿Rev.,﻿J. Bertholdi,,,,,,,,1865,,,,,,,,,,,﻿,﻿,﻿Boston,Boston
-﻿bos.ma.0144,﻿church,﻿Our Lady of Refuge,English,,,,,,﻿Provincetown,﻿Provincetown,﻿MA,,,,,,,﻿j_bertholdi_001,﻿Rev.,﻿J. Bertholdi,,,,,,,,1865,,,,,,,,,,,﻿,﻿,﻿Boston,Boston
+﻿bos.ma.0154,﻿church,﻿St. Peter's,English,,,,,,﻿Sandwich,﻿Sandwich,﻿MA,,,,,,,,﻿Rev.,﻿J. Bertholdi,,,,,,,,1865,,,,,,,,,,,﻿,﻿,﻿Boston,Boston
+﻿bos.ma.0144,﻿church,﻿Our Lady of Refuge,English,,,,,,﻿Provincetown,﻿Provincetown,﻿MA,,,,,,,,﻿Rev.,﻿J. Bertholdi,,,,,,,,1865,,,,,,,,,,,﻿,﻿,﻿Boston,Boston
 ﻿bos.ma.0047,﻿church,﻿St. Thomas Aquinas',English,,,,,,﻿South Bridgwater,﻿South Bridgewater,﻿MA,,,,,,,﻿l_s_mcmahon_001,﻿Rev.,﻿Lawrence S. McMahon,,,,,,,,1865,,,,,,,,,,,﻿,﻿,﻿Boston,Boston
 ﻿bos.ma.0246,﻿church,not recorded,English,﻿church not dedicated,,,,,﻿East Bridgwater,,﻿MA,,,,,,,﻿l_s_mcmahon_001,﻿Rev.,﻿Lawrence S. McMahon,,,,,,,,1865,,,,,,,,,,,﻿,﻿,﻿Boston,Boston
 ﻿bos.ma.0046,﻿church,﻿St. Patrick's,English,,,,,,﻿North Bridgwater,﻿North Bridgewater,﻿MA,,,,,,,﻿t_b_mcnulty_001,﻿Rev.,﻿Thomas B. McNulty,,,,,,,,1865,,,,,,,,,,,﻿,﻿,﻿Boston,Boston
 ﻿bos.ma.0071,﻿church,﻿Immaculate Conception,English,﻿church building,,,,,﻿North-Easton,﻿Easton,﻿MA,,,,﻿bos.ma.0046,﻿Attended from North Bridgewater,,,,,,,,,,,,1865,,,,,,,,,,,﻿,﻿,﻿Boston,Boston
-﻿bos.ma.0060,﻿church,﻿Most Holy Name of Jesus,English,,,,,,﻿Chicopee,﻿Chicopee,﻿MA,,,,,,,﻿pat_healy_001,﻿Rev.,﻿Patrick Healy,,,,,,,,1865,,,,,,,,,,,﻿,﻿,﻿Boston,Boston
+﻿bos.ma.0060,﻿church,﻿Most Holy Name of Jesus,English,,,,,,﻿Chicopee,﻿Chicopee,﻿MA,,,,,,,,﻿Rev.,﻿Patrick Healy,,,,,,,,1865,,,,,,,,,,,﻿,﻿,﻿Boston,Boston
 ﻿bos.ma.0098,﻿church,not recorded,English,﻿church building,,,,,﻿Indian Orchard,﻿Springfield,﻿MA,,,,,,,,,,,,,,,,,1865,,,,,,,,,,,﻿,﻿,﻿Boston,Boston
 ﻿bos.ma.0180,﻿church,﻿St. William's,English,,,,,,﻿Ware,﻿Ware,﻿MA,,,,,,,﻿wil_moran_001,﻿Rev.,﻿Wm. Moran,,,,,,,,1865,,,,,,,,,,,﻿,﻿,﻿Boston,Boston
 ﻿bos.ma.0124,﻿church,﻿St. Patrick's,English,,,,,,﻿Monson,﻿Monson,﻿MA,,,,,,,﻿p_v_moyce_001,﻿Rev.,﻿Patrick V. Moyce,,,,,,,,1865,,,,,,,,,,,﻿,﻿,﻿Boston,Boston
 ﻿bos.ma.0174,﻿church,﻿St. Ann's,English,,,,,,﻿Thorndyke,﻿Palmer,﻿MA,,,,,,,﻿p_v_moyce_001,﻿Rev.,﻿Patrick V. Moyce,,,,,,,,1865,,,,,,,,,,,﻿,﻿,﻿Boston,Boston
 ﻿bos.ma.0163,﻿church,﻿St. Michael's,English,,,,,,﻿Springfield,﻿Springfield,﻿MA,,,,,,,﻿m_p_galligher_001,﻿Rev.,﻿Michael P. Galligher,,﻿Pastor,,,,,,1865,,,,,,,,,,,﻿,﻿,﻿Boston,Boston
-﻿bos.ma.0163,﻿church,﻿St. Michael's,English,,,,,,﻿Springfield,﻿Springfield,﻿MA,,,,,,,﻿tho_osullivan_001,﻿Rev.,﻿Thomas O'Sullivan,,,,,,,,1865,,,,,,,,,,,﻿,﻿,﻿Boston,Boston
+﻿bos.ma.0163,﻿church,﻿St. Michael's,English,,,,,,﻿Springfield,﻿Springfield,﻿MA,,,,,,,,﻿Rev.,﻿Thomas O'Sullivan,,,,,,,,1865,,,,,,,,,,,﻿,﻿,﻿Boston,Boston
 ﻿bos.ma.0186,﻿church,﻿St. Mary's,English,,,,,,﻿Westfield,﻿Westfield,﻿MA,,,,,,,﻿m_x_carroll_001,﻿Rev.,﻿Michael X. Carroll,,,,,,,,1865,,,,,,,,,,,﻿,﻿,﻿Boston,Boston
 ﻿bos.ma.0092,﻿church,﻿St. Jerome's,English,,,,,,﻿Holyoke,﻿Holyoke,﻿MA,,,,,,,﻿jam_sullivan_001,﻿Rev.,﻿James F. Sullivan,,,,,,,,1865,,,,,,,,,,,﻿,﻿,﻿Boston,Boston
 ﻿bos.ma.0134,﻿church,﻿St. Mary's,English,,,,,,﻿Northampton,﻿Northampton,﻿MA,,,,,,,﻿jam_sullivan_001,﻿Rev.,﻿James F. Sullivan,,,,,,,,1865,,,,,,,,,,,﻿,﻿,﻿Boston,Boston
 ﻿bos.ma.0141,﻿church,﻿St. Joseph's,English,,,,,,﻿Pittsfield,﻿Pittsfield,﻿MA,,,,,,,﻿e_purcell_001,﻿Rev.,﻿Edward H. Purcell,,,,,,,,1865,,,,,,,,,,,﻿,﻿,﻿Boston,Boston
 ﻿bos.ma.0141,﻿church,﻿St. Patrick's,English,,,,,,﻿Hinsdale,﻿Pittsfield,﻿MA,,,,,,,﻿e_purcell_001,﻿Rev.,﻿Edward H. Purcell,,,,,,,,1865,,,,,,,,,,,﻿,﻿,﻿Boston,Boston
-﻿bos.ma.0237,﻿church,﻿St. Francis',English,,,,,,﻿North-Adams,,﻿MA,,,,,,,﻿cha_lynch_001,﻿Rev.,﻿Charles Lynch,,,,,,,,1865,,,,,,,,,,,﻿,﻿,﻿Boston,Boston
-﻿bos.ma.0103,﻿church,﻿St. Mary's,English,,,,,,﻿North-Lee,﻿Lee,﻿MA,,,,,,,﻿geo_h_brennan_001,﻿Rev.,﻿Geo. H. Brennan,,,,,,,,1865,,,,,,,,,,,﻿,﻿,﻿Boston,Boston
-﻿bos.ma.0164,﻿church,not recorded,English,,,,,,﻿Stockbridge,﻿Stockbridge,﻿MA,,,,,,,﻿geo_h_brennan_001,﻿Rev.,﻿Geo. H. Brennan,,,,,,,,1865,,,,,,,,,,,﻿,﻿,﻿Boston,Boston
-﻿bos.ma.0247,﻿church,﻿St. Peter's,English,,,,,,﻿Great Barrington,,﻿MA,,,,,,,﻿pet_menietti_001,﻿Rev.,﻿Peter Menietti,,,,,,,,1865,,,,,,,,,,,﻿,﻿,﻿Boston,Boston
+﻿bos.ma.0237,﻿church,﻿St. Francis',English,,,,,,﻿North-Adams,,﻿MA,,,,,,,,﻿Rev.,﻿Charles Lynch,,,,,,,,1865,,,,,,,,,,,﻿,﻿,﻿Boston,Boston
+﻿bos.ma.0103,﻿church,﻿St. Mary's,English,,,,,,﻿North-Lee,﻿Lee,﻿MA,,,,,,,,﻿Rev.,﻿Geo. H. Brennan,,,,,,,,1865,,,,,,,,,,,﻿,﻿,﻿Boston,Boston
+﻿bos.ma.0164,﻿church,not recorded,English,,,,,,﻿Stockbridge,﻿Stockbridge,﻿MA,,,,,,,,﻿Rev.,﻿Geo. H. Brennan,,,,,,,,1865,,,,,,,,,,,﻿,﻿,﻿Boston,Boston
+﻿bos.ma.0247,﻿church,﻿St. Peter's,English,,,,,,﻿Great Barrington,,﻿MA,,,,,,,,﻿Rev.,﻿Peter Menietti,,,,,,,,1865,,,,,,,,,,,﻿,﻿,﻿Boston,Boston
 ﻿bos.ma.0104,﻿church,﻿St. Polycarp's,English,,,,,,﻿Leicester,﻿Leicester,﻿MA,,,,﻿bos.ma.0197,﻿Attended from Holy Cross College,,,,,,,,,,,,1865,,,,,,,,,,,﻿,﻿,﻿Boston,Boston
 ﻿bos.ma.0162,﻿church,﻿St. Mary's,English,,,,,,﻿Spencer,﻿Spencer,﻿MA,,,,﻿bos.ma.0197,﻿Attended from Holy Cross College,,,,,,,,,,,,1865,,,,,,,,,,,﻿,﻿,﻿Boston,Boston
-﻿bos.ma.0197,﻿college,﻿College of the Holy Cross,English,,,,,,﻿Worcester,﻿Worcester,﻿MA,,,,,,,﻿jam_clark_002,﻿Rev.,﻿James Clark,﻿S.J.,﻿President and Prefect of Studieis and Procurator,,﻿student,"﻿students, 100",,,1865,,,,,,,,,,,﻿,﻿,﻿Boston,Boston
+﻿bos.ma.0197,﻿college,﻿College of the Holy Cross,English,,,,,,﻿Worcester,﻿Worcester,﻿MA,,,,,,,,﻿Rev.,﻿James Clark,﻿S.J.,﻿President and Prefect of Studieis and Procurator,,﻿student,"﻿students, 100",,,1865,,,,,,,,,,,﻿,﻿,﻿Boston,Boston
 ﻿bos.ma.0197,﻿college,﻿College of the Holy Cross,English,,,,,,﻿Worcester,﻿Worcester,﻿MA,,,,,,,﻿cha_h_fulmer_001,﻿Rev.,﻿Chas. Fulmer,﻿S.J.,﻿Vice-President and Professor of French,,﻿student,"﻿students, 100",,,1865,,,,,,,,,,,﻿,﻿,﻿Boston,Boston
 ﻿bos.ma.0197,﻿college,﻿College of the Holy Cross,English,,,,,,﻿Worcester,﻿Worcester,﻿MA,,,,,,,﻿liv_vigilante_001,﻿Rev.,﻿Livius Vigilante,﻿S.J.,"﻿Professor of Logic, Metaphysics, and Ethics",,﻿student,"﻿students, 100",,,1865,,,,,,,,,,,﻿,﻿,﻿Boston,Boston
 ﻿bos.ma.0197,﻿college,﻿College of the Holy Cross,English,,,,,,﻿Worcester,﻿Worcester,﻿MA,,,,,,,﻿jam_c_moore_001,﻿Rev.,﻿James Moore,﻿S.J.,﻿Assistant Procurator and Emeritus Professor of French,,﻿student,"﻿students, 100",,,1865,,,,,,,,,,,﻿,﻿,﻿Boston,Boston
-﻿bos.ma.0197,﻿college,﻿College of the Holy Cross,English,,,,,,﻿Worcester,﻿Worcester,﻿MA,,,,,,,﻿jos_ryan_001,﻿Mr.,﻿Joseph Ryan,﻿S.J.,"﻿Professor of Physics, Chemistry and Mathematics",,﻿student,"﻿students, 100",,,1865,,,,,,,,,,,﻿,﻿,﻿Boston,Boston
-﻿bos.ma.0197,﻿college,﻿College of the Holy Cross,English,,,,,,﻿Worcester,﻿Worcester,﻿MA,,,,,,,﻿cha_kelly_002,﻿Rev.,﻿Chas Kelly,﻿S.J.,﻿Professor of Rhetoric and Prefect of Schools,,﻿student,"﻿students, 100",,,1865,,,,,,,,,,,﻿,﻿,﻿Boston,Boston
+﻿bos.ma.0197,﻿college,﻿College of the Holy Cross,English,,,,,,﻿Worcester,﻿Worcester,﻿MA,,,,,,,,﻿Mr.,﻿Joseph Ryan,﻿S.J.,"﻿Professor of Physics, Chemistry and Mathematics",,﻿student,"﻿students, 100",,,1865,,,,,,,,,,,﻿,﻿,﻿Boston,Boston
+﻿bos.ma.0197,﻿college,﻿College of the Holy Cross,English,,,,,,﻿Worcester,﻿Worcester,﻿MA,,,,,,,,﻿Rev.,﻿Chas Kelly,﻿S.J.,﻿Professor of Rhetoric and Prefect of Schools,,﻿student,"﻿students, 100",,,1865,,,,,,,,,,,﻿,﻿,﻿Boston,Boston
 ﻿bos.ma.0197,﻿college,﻿College of the Holy Cross,English,,,,,,﻿Worcester,﻿Worcester,﻿MA,,,,,,,﻿edw_mcgurk_001,﻿Mr.,﻿Ed. McGurk,﻿S.J.,﻿Professor of Poetry,,﻿student,"﻿students, 100",,,1865,,,,,,,,,,,﻿,﻿,﻿Boston,Boston
 ﻿bos.ma.0197,﻿college,﻿College of the Holy Cross,English,,,,,,﻿Worcester,﻿Worcester,﻿MA,,,,,,,﻿m_j_byrnes_001,﻿Mr.,﻿Michael Byrnes,﻿S.J.,"﻿Professors of Latin, Greek, Mathematics",,﻿student,"﻿students, 100",,,1865,,,,,,,,,,,﻿,﻿,﻿Boston,Boston
 ﻿bos.ma.0197,﻿college,﻿College of the Holy Cross,English,,,,,,﻿Worcester,﻿Worcester,﻿MA,,,,,,,﻿wil_j_scanlan_001,﻿Mr.,﻿William Scanlon,﻿S.J.,"﻿Professor of Latin, Greek, and Algebra",,﻿student,"﻿students, 100",,,1865,,,,,,,,,,,﻿,﻿,﻿Boston,Boston
-﻿bos.ma.0197,﻿college,﻿College of the Holy Cross,English,,,,,,﻿Worcester,﻿Worcester,﻿MA,,,,,,,﻿fra_oneill_001,﻿Mr.,﻿Francis O'Neill,﻿S.J.,"﻿Professor of Latin, Greek, and Arithmetic",,﻿student,"﻿students, 100",,,1865,,,,,,,,,,,﻿,﻿,﻿Boston,Boston
-﻿bos.ma.0197,﻿college,﻿College of the Holy Cross,English,,,,,,﻿Worcester,﻿Worcester,﻿MA,,,,,,,﻿wil_carroll_002,﻿Mr.,﻿William Carroll,﻿S.J.,﻿Professor of Latin and Arithmetic,,﻿student,"﻿students, 100",,,1865,,,,,,,,,,,﻿,﻿,﻿Boston,Boston
-﻿bos.ma.0197,﻿college,﻿College of the Holy Cross,English,,,,,,﻿Worcester,﻿Worcester,﻿MA,,,,,,,﻿jam_mcdonough_001,﻿Mr.,﻿James McDonough,﻿S.J.,﻿Prefect of Morals and Professor of Elements,,﻿student,"﻿students, 100",,,1865,,,,,,,,,,,﻿,﻿,﻿Boston,Boston
+﻿bos.ma.0197,﻿college,﻿College of the Holy Cross,English,,,,,,﻿Worcester,﻿Worcester,﻿MA,,,,,,,,﻿Mr.,﻿Francis O'Neill,﻿S.J.,"﻿Professor of Latin, Greek, and Arithmetic",,﻿student,"﻿students, 100",,,1865,,,,,,,,,,,﻿,﻿,﻿Boston,Boston
+﻿bos.ma.0197,﻿college,﻿College of the Holy Cross,English,,,,,,﻿Worcester,﻿Worcester,﻿MA,,,,,,,,﻿Mr.,﻿William Carroll,﻿S.J.,﻿Professor of Latin and Arithmetic,,﻿student,"﻿students, 100",,,1865,,,,,,,,,,,﻿,﻿,﻿Boston,Boston
+﻿bos.ma.0197,﻿college,﻿College of the Holy Cross,English,,,,,,﻿Worcester,﻿Worcester,﻿MA,,,,,,,,﻿Mr.,﻿James McDonough,﻿S.J.,﻿Prefect of Morals and Professor of Elements,,﻿student,"﻿students, 100",,,1865,,,,,,,,,,,﻿,﻿,﻿Boston,Boston
 ﻿bos.ma.0197,﻿college,﻿College of the Holy Cross,English,,,,,,﻿Worcester,﻿Worcester,﻿MA,,,,,,,﻿wil_allsworth_001,﻿Mr.,﻿Wm. Allsworth,﻿S.J.,﻿Prefect of Morals and Professor of Arithmetic,,﻿student,"﻿students, 100",,,1865,,,,,,,,,,,﻿,﻿,﻿Boston,Boston
 ﻿bos.ma.0198,﻿college,﻿Boston College,English,﻿opened,,,,,﻿Boston,﻿Boston,﻿MA,,,,,,,,﻿Rev.,﻿John Bapst,﻿S.J.,,,﻿student,﻿40 students,,,1865,,,,,,,,,,,﻿,﻿,﻿Boston,Boston
-﻿bos.ma.0198,﻿college,﻿Boston College,English,﻿opened,,,,,﻿Boston,﻿Boston,﻿MA,,,,,,,﻿rob_fulton_001,﻿Rev.,﻿Robert Fulton,﻿S.J.,,,﻿student,﻿40 students,,,1865,,,,,,,,,,,﻿,﻿,﻿Boston,Boston
+﻿bos.ma.0198,﻿college,﻿Boston College,English,﻿opened,,,,,﻿Boston,﻿Boston,﻿MA,,,,,,,,﻿Rev.,﻿Robert Fulton,﻿S.J.,,,﻿student,﻿40 students,,,1865,,,,,,,,,,,﻿,﻿,﻿Boston,Boston
 ﻿bos.ma.0198,﻿college,﻿Boston College,English,﻿opened,,,,,﻿Boston,﻿Boston,﻿MA,,,,,,,﻿pet_b_mcdermott_001,﻿Rev.,﻿Peter McDermott,﻿S.J.,,,﻿student,﻿40 students,,,1865,,,,,,,,,,,﻿,﻿,﻿Boston,Boston
 ﻿bos.ma.0198,﻿college,﻿Boston College,English,﻿opened,,,,,﻿Boston,﻿Boston,﻿MA,,,,,,,﻿p_p_fitzpatrick_001,﻿Mr.,﻿Peter P. Fitzpatrick,﻿S.J.,,,﻿student,﻿40 students,,,1865,,,,,,,,,,,﻿,﻿,﻿Boston,Boston
-﻿bos.ma.0198,﻿college,﻿Boston College,English,﻿opened,,,,,﻿Boston,﻿Boston,﻿MA,,,,,,,﻿jam_doonan_001,﻿Mr.,﻿James Doonan,﻿S.J.,,,﻿student,﻿40 students,,,1865,,,,,,,,,,,﻿,﻿,﻿Boston,Boston
+﻿bos.ma.0198,﻿college,﻿Boston College,English,﻿opened,,,,,﻿Boston,﻿Boston,﻿MA,,,,,,,,﻿Mr.,﻿James Doonan,﻿S.J.,,,﻿student,﻿40 students,,,1865,,,,,,,,,,,﻿,﻿,﻿Boston,Boston
 ﻿bos.ma.0211,﻿asylum,﻿Orphan Asylum,English,,﻿Camden street,,,,﻿Boston,﻿Boston,﻿MA,,,,,,,,﻿Sr.,﻿Ann Alexis Schorb,,﻿Sister-Servant,,﻿child,﻿320 children,,,1865,,,,,,,,,,,﻿,﻿,﻿Boston,Boston
 ﻿bos.ma.0211,﻿asylum,﻿Orphan Asylum,English,,﻿Camden street,,,,﻿Boston,﻿Boston,﻿MA,,,,,,,,,,,,,﻿sister,﻿11 sisters,,,1865,,,,,,,,,,,﻿,﻿,﻿Boston,Boston
 ﻿bos.ma.0217,﻿hospital,﻿Carney Hospital,English,,﻿South Boston,,,,﻿Boston,﻿Boston,﻿MA,,,,,,,,,,,,,﻿sister,﻿7 sisters,,,1865,,,,,,,,,,,﻿,﻿,﻿Boston,Boston
@@ -195,7 +195,7 @@
 ﻿bos.ma.0002_02,﻿school,﻿St. Mary's Parochial School for Boys,English,﻿Parochial School for Boys,,,,,﻿Salem,﻿Boston,﻿MA,,,,,,,,﻿Mr.,﻿John Fitzgerald,,﻿Principal,,﻿pupil,"﻿pupils, 250",,,1865,,,,,,,,,,,﻿,﻿,﻿Boston,Boston
 ﻿bos.ma.0002_02,﻿school,﻿St. Mary's Parochial School for Boys,English,﻿Parochial School for Boys,,,,,﻿Salem,﻿Boston,﻿MA,,,,,,,,﻿Miss,﻿C. Shaw,,﻿Assistant,,﻿pupil,"﻿pupils, 250",,,1865,,,,,,,,,,,﻿,﻿,﻿Boston,Boston
 ﻿bos.ma.0002_02,﻿school,﻿St. Mary's Parochial School for Boys,English,﻿Parochial School for Boys,,,,,﻿Salem,﻿Boston,﻿MA,,,,,,,,﻿Miss,﻿M. Shaw,,﻿Assistant,,﻿pupil,"﻿pupils, 250",,,1865,,,,,,,,,,,﻿,﻿,﻿Boston,Boston
-﻿bos.ma.0212,﻿house,﻿House of the Angel Guardian,English,,,,,,﻿Roxbury,﻿Boston,﻿MA,,,,,,,﻿geo_f_haskins_001,﻿Rev.,﻿Geo. F. Haskins,,﻿Rector,,﻿boys,﻿350 boys,,,1865,,,,,,,,,,,﻿,﻿,﻿Boston,Boston
+﻿bos.ma.0212,﻿house,﻿House of the Angel Guardian,English,,,,,,﻿Roxbury,﻿Boston,﻿MA,,,,,,,,﻿Rev.,﻿Geo. F. Haskins,,﻿Rector,,﻿boys,﻿350 boys,,,1865,,,,,,,,,,,﻿,﻿,﻿Boston,Boston
 ﻿bos.ma.0109_02,﻿academy,﻿St. Patrick's Academy and Boarding-School,English,,,,,,﻿Lowell,﻿Lowell,﻿MA,,,,,,,,,,,,,﻿sister,﻿18 sisters,﻿Sisters of Notre Dame,,1865,,,,,,,,,,,﻿,﻿,﻿Boston,Boston
 ﻿bos.ma.0109_02,﻿academy,﻿St. Patrick's Academy and Boarding-School,English,,,,,,﻿Lowell,﻿Lowell,﻿MA,,,,,,,,,,,,,﻿boarder and select scholar,﻿80 borders and select scholars,﻿Sisters of Notre Dame,,1865,,,,,,,,,,,﻿,﻿,﻿Boston,Boston
 ﻿bos.ma.0109_02,﻿academy,﻿St. Patrick's Academy and Boarding-School,English,,,,,,﻿Lowell,﻿Lowell,﻿MA,,,,,,,,,,,,,﻿free school,﻿320,﻿Sisters of Notre Dame,,1865,,,,,,,,,,,﻿,﻿,﻿Boston,Boston
