@@ -70,10 +70,10 @@
 ﻿erie.pa.0119,﻿orphanage,﻿Orphanage at Meadville,English,,,,,,﻿Meadville,,﻿PA,,41.42954464,-78.56972001,,,,,,,,,,﻿sister,"﻿sisters, 5",﻿Sisters of St. Joseph's,,1867,,,,,,,,,,,,﻿,﻿,﻿Erie,Erie
 ﻿erie.pa.0119,﻿orphanage,﻿Orphanage at Meadville,English,,,,,,﻿Meadville,,﻿PA,,41.42954464,-78.56972001,,,,,,,,,,﻿postulant,"﻿postulants, 2",﻿Sisters of St. Joseph's,,1867,,,,,,,,,,,,﻿,﻿,﻿Erie,Erie
 ﻿erie.pa.0118,﻿orphanage,﻿Orphanage at Erie,English,,,,,,﻿Erie,,﻿PA,,41.42954464,-78.56972001,,,,,﻿Sister,﻿-----,,﻿Sister-Servant,,,,﻿Sisters of St. Joseph's,,1867,,,,,,,,,,,,﻿,﻿,﻿Erie,Erie
-﻿erie.pa.0001_04,﻿school,﻿Academy and School of St. Joseph,English,,﻿Fourth and Fifth streets,,,,,﻿Erie,﻿PA,,41.42954464,-78.56972001,,,,,,,,,,﻿pupil,"﻿pupils, 55",﻿Sisters of St. Benedict,,1867,,,,,,,,,,,,﻿,﻿,﻿Erie,Erie
-﻿erie.pa.0001_04,﻿school,﻿Academy and School of St. Joseph,English,,﻿Fourth and Fifth streets,,,,,﻿Erie,﻿PA,,41.42954464,-78.56972001,,,,,,,,,,﻿pupil,"﻿pupils, 55",﻿Pastor of St. Mary's (German) Church,,1867,,,,,,,,,,,,﻿,﻿,﻿Erie,Erie
-﻿erie.pa.0001_02,﻿school,﻿Parochial School,English,"﻿for boys, in the basement of the Cathedral",,,,,,﻿Erie,﻿PA,,41.42954464,-78.56972001,,,,,,,,,,﻿pupil,"﻿pupils, 80",,,1867,,,,,,,,,,,,﻿,﻿,﻿Erie,Erie
-﻿erie.pa.0001_03,﻿school,﻿Parochial School,English,﻿for boys,﻿at St. Patrick's Church,,,,,﻿Erie,﻿PA,,41.42954464,-78.56972001,,,,,,,,,,﻿pupil,"﻿pupils, 75 or 80",,,1867,,,,,,,,,,,,﻿,﻿,﻿Erie,Erie
+﻿erie.pa.0001_02&0001_03,﻿school,﻿Academy and School of St. Joseph,English,,﻿Fourth and Fifth streets,,,,,﻿Erie,﻿PA,,41.42954464,-78.56972001,,,,,,,,,,﻿pupil,"﻿pupils, 55",﻿Sisters of St. Benedict,,1867,,,,,,,,,,,,﻿,﻿,﻿Erie,Erie
+﻿erie.pa.0001_02&0001_03,﻿school,﻿Academy and School of St. Joseph,English,,﻿Fourth and Fifth streets,,,,,﻿Erie,﻿PA,,41.42954464,-78.56972001,,,,,,,,,,﻿pupil,"﻿pupils, 55",﻿Pastor of St. Mary's (German) Church,,1867,,,,,,,,,,,,﻿,﻿,﻿Erie,Erie
+﻿erie.pa.0001_03.01,﻿school,﻿Parochial School,English,"﻿for boys, in the basement of the Cathedral",,,,,,﻿Erie,﻿PA,,41.42954464,-78.56972001,,,,,,,,,,﻿pupil,"﻿pupils, 80",,,1867,,,,,,,,,,,,﻿,﻿,﻿Erie,Erie
+﻿erie.pa.0001_03.02,﻿school,﻿Parochial School,English,﻿for boys,﻿at St. Patrick's Church,,,,,﻿Erie,﻿PA,,41.42954464,-78.56972001,,,,,,,,,,﻿pupil,"﻿pupils, 75 or 80",,,1867,,,,,,,,,,,,﻿,﻿,﻿Erie,Erie
 ﻿erie.pa.0139,﻿school,﻿German School,English,﻿for boys,﻿at St. Mary's Church,,,,,,,,41.42954464,-78.56972001,,,,,,,,,,﻿pupil,"﻿pupils, 75",,,1867,,,,,,,,,,,,﻿,﻿,﻿Erie,Erie
 ﻿erie.pa.0140,﻿infirmary,﻿Infirmary of St. Francis de Sales,English,,﻿Brook Avenue,,,,﻿Richmond,,﻿PA,,41.42954464,-78.56972001,,,,,﻿Sister,﻿Theresa Roche,,﻿Sister-Servant,,﻿Sisters of Charity,,,,1867,,,,,,,,,,,,﻿,﻿,﻿Erie,Erie
 ﻿erie.pa.0141,﻿hospital,﻿St. Vincent's Hospital,English,,,,,,﻿Norfolk,,﻿PA,,41.42954464,-78.56972001,,,,,﻿Sister,﻿Isadore,,﻿Sister-Servant,,,,,,1867,,,,,,,,,,,,﻿,﻿,﻿Erie,Erie

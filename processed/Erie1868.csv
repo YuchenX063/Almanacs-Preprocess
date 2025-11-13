@@ -78,16 +78,16 @@
 ﻿erie.pa.0002_02,﻿priory,﻿Benedictine Priory,English,,﻿St. Mary's.  Ninth Street,,,,﻿Erie,﻿Erie,﻿PA,,42.112405,-80.077346,,,,﻿ben_hegele_001,﻿Rev.,﻿Benno Hegele,,﻿Prior,,,,,,1868,,,,,,,,,,,,﻿,﻿,﻿Erie,Erie
 ﻿erie.pa.0090,﻿convent,﻿St. Joseph's Convent of Benedictine Nuns,English,,,,﻿Elk County,﻿Elk County,﻿St. Mary's,﻿St. Marys,﻿PA,,41.427792,-78.56947,,,,,﻿Mother,﻿Theresa Fogle,,﻿Prioress,,,,,,1868,,,,,,,,,,,,﻿,﻿,﻿Erie,Erie
 ﻿erie.pa.0093,﻿academy,﻿St. Benedict's Academy,English,,,,﻿Elk County,﻿Elk County,﻿St. Mary's,﻿St. Marys,﻿PA,,41.427765,-78.570214,,,,,﻿Sister,﻿Mary Glenn,,﻿Directress,,﻿nuns,﻿Benedictine Nuns,﻿conducted by Benedictine Nuns,,1868,,,,,,,,,,,,﻿,﻿,﻿Erie,Erie
-﻿erie.pa.0001_02&0001_03,﻿academy,﻿Academy for Boys,English,,﻿Fourth street,,,,﻿Erie,,﻿PA,,42.128843,-80.076118,,,,,﻿Brother,﻿Philip,,﻿Superior,,﻿brothers,﻿Franciscan Brothers,﻿conducted by the Franciscan Brothers,,1868,,,,,,,,,,,,﻿,﻿,﻿Erie,Erie
-﻿erie.pa.0001_04,﻿academy,﻿Academy for Girls,English,,﻿Fourth Street,,,,﻿Erie,,﻿PA,,42.128843,-80.076118,,,,,﻿Sister,﻿Ambrosia,,﻿Directress,,﻿sisters,﻿Sisters of St. Joseph,﻿conducted by Sisters of St. Joseph,,1868,,,,,,,,,,,,﻿,﻿,﻿Erie,Erie
-﻿erie.pa.0002_03,﻿academy,﻿Academy for Girls,English,,﻿Ninth Street,,,,﻿Erie,,﻿PA,,42.112405,-80.077346,,,,,﻿Sister,﻿----,,﻿Directress,,﻿nuns,﻿Benedictine Nuns,﻿conducted by Benedictine Nuns,,1868,,,,,,,,,,,,﻿,﻿,﻿Erie,Erie
+﻿erie.pa.0001_02.01,﻿academy,﻿Academy for Boys,English,,﻿Fourth street,,,,﻿Erie,,﻿PA,,42.128843,-80.076118,,,,,﻿Brother,﻿Philip,,﻿Superior,,﻿brothers,﻿Franciscan Brothers,﻿conducted by the Franciscan Brothers,,1868,,,,,,,,,,,,﻿,﻿,﻿Erie,Erie
+﻿erie.pa.0001_02.02,﻿academy,﻿Academy for Girls,English,,﻿Fourth Street,,,,﻿Erie,,﻿PA,,42.128843,-80.076118,,,,,﻿Sister,﻿Ambrosia,,﻿Directress,,﻿sisters,﻿Sisters of St. Joseph,﻿conducted by Sisters of St. Joseph,,1868,,,,,,,,,,,,﻿,﻿,﻿Erie,Erie
+﻿erie.pa.0002_05,﻿academy,﻿Academy for Girls,English,,﻿Ninth Street,,,,﻿Erie,,﻿PA,,42.112405,-80.077346,,,,,﻿Sister,﻿----,,﻿Directress,,﻿nuns,﻿Benedictine Nuns,﻿conducted by Benedictine Nuns,,1868,,,,,,,,,,,,﻿,﻿,﻿Erie,Erie
 ﻿erie.pa.0116,﻿academy,﻿Mother House and Novitiate of the Sisters of St. Bridget,English,,,,,,﻿Titusville,,﻿PA,,41.426109,-78.578245,,,,,﻿Mother,﻿Mary Ann,,﻿Superior,,,,,,1868,,,,,,,,,,,,﻿,﻿,﻿Erie,Erie
 ﻿erie.pa.0117,﻿academy,﻿Academy of the Sisters of St. Bridget,English,,,,,,﻿Titusville,,﻿PA,,41.426109,-78.578245,,,,,﻿Sister,﻿Mary Joseph,,﻿Directress,,﻿sisters,﻿Sisters of St. Bridget,,,1868,,,,,,,,,,,,﻿,﻿,﻿Erie,Erie
-﻿erie.pa.0003_03,﻿orphanage,﻿St. Joseph's Orphanage,English,,,,,,﻿Erie,,﻿PA,,41.511165,-80.369789,,,,,﻿Mother,﻿Martha,,﻿Superior,,﻿sisters,﻿Sisters of St. Joseph,﻿under the care of Sisters of St. Joseph,,1868,,,,,,,,,,,,﻿,﻿,﻿Erie,Erie
+﻿erie.pa.0089_03,﻿orphanage,﻿St. Joseph's Orphanage,English,,,,,,﻿Erie,,﻿PA,,41.427792,-78.56947,,,,,﻿Mother,﻿Martha,,﻿Superior,,﻿sisters,﻿Sisters of St. Joseph,﻿under the care of Sisters of St. Joseph,,1868,,,,,,,,,,,,﻿,﻿,﻿Erie,Erie
 ﻿erie.pa.0119,﻿asylum,﻿Orphan Asylum,English,,,,,,﻿Meadville,,﻿PA,,41.426109,-78.578245,,,,,﻿Mother,﻿Agnes,,﻿Superior,,﻿sisters,﻿Sisters of St. Joseph,﻿under the care of Sisters of St. Joseph,,1868,,,,,,,,,,,,﻿,﻿,﻿Erie,Erie
-﻿erie.pa.0001_05,﻿school,﻿St. Patrick's,English,,,,,,﻿Erie,,﻿PA,,42.128843,-80.076118,,,,,,,,,,﻿children,﻿600 children,,,1868,,,,,,,,,,,,﻿,﻿,﻿Erie,Erie
+﻿erie.pa.0001_03.01&0001_03.02,﻿school,﻿St. Patrick's,English,,,,,,﻿Erie,,﻿PA,,42.128843,-80.076118,,,,,,,,,,﻿children,﻿600 children,,,1868,,,,,,,,,,,,﻿,﻿,﻿Erie,Erie
 ﻿erie.pa.0002_04,﻿school,﻿St. Mary's,English,,,,,,﻿Erie,﻿Erie,﻿PA,,42.112405,-80.077346,,,,,,,,,,﻿children,﻿600 children,,,1868,,,,,,,,,,,,﻿,﻿,﻿Erie,Erie
-﻿erie.pa.0003_04,﻿school,﻿St. Joseph's,English,,,,,,﻿Erie,﻿Erie,﻿PA,,41.511165,-80.369789,,,,,,,,,,﻿children,﻿500 children,,,1868,,,,,,,,,,,,﻿,﻿,﻿Erie,Erie
+﻿erie.pa.0089_04,﻿school,﻿St. Joseph's,English,,,,,,﻿Erie,﻿Erie,﻿PA,,41.427792,-78.56947,,,,,,,,,,﻿children,﻿500 children,,,1868,,,,,,,,,,,,﻿,﻿,﻿Erie,Erie
 ﻿erie.pa.0076_02,﻿school,﻿St. Titus',English,,,,,,﻿Titusville,﻿Titusville,﻿PA,,41.62789,-79.681405,,,,,,,,,,﻿children,﻿250 children,,,1868,,,,,,,,,,,,﻿,﻿,﻿Erie,Erie
 ﻿erie.pa.0048_02,﻿school,﻿St. Agatha's,English,,,,,,﻿Meadville,﻿Meadville,﻿PA,,41.227003,-80.239785,,,,,,,,,,﻿children,﻿200 children,,,1868,,,,,,,,,,,,﻿,﻿,﻿Erie,Erie
 ﻿erie.pa.0047_03,﻿school,﻿St. Bride's,English,,,,,,﻿Meadsville,﻿Meadville,﻿PA,,41.635165,-80.150752,,,,,,,,,,﻿children,﻿250 children,,,1868,,,,,,,,,,,,﻿,﻿,﻿Erie,Erie
