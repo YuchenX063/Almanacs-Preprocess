@@ -3,7 +3,7 @@
 ﻿nyc.ny.0041,﻿cathedral,﻿Cathedral of St. Patrick,English,,,,,﻿New York County,﻿New York,﻿New York City,﻿NY,,40.75845643,-73.97618573,,,,,﻿joh_urquart_901,﻿Rev.,﻿John Urquart,,,,,,,1838,,,﻿,﻿,﻿New York,NewYorkCity
 ﻿nyc.ny.0041,﻿cathedral,﻿Cathedral of St. Patrick,English,,,,,﻿New York County,﻿New York,﻿New York City,﻿NY,,40.75845643,-73.97618573,,,,,﻿wil_starr_901,﻿Rev.,﻿William Starr,,,,,,,1838,,,﻿,﻿,﻿New York,NewYorkCity
 ﻿nyc.ny.0041,﻿cathedral,﻿Cathedral of St. Patrick,English,,,,,﻿New York County,﻿New York,﻿New York City,﻿NY,,40.75845643,-73.97618573,,,,,﻿joh_conroy_901,﻿Rev.,﻿John Conroy,,,,,,,1838,,,﻿,﻿,﻿New York,NewYorkCity
-﻿nyc.ny.0041,﻿cathedral,﻿Cathedral of St. Patrick,English,,,,,﻿New York County,﻿New York,﻿New York City,﻿NY,,40.75845643,-73.97618573,,,,,﻿joh_mccloskey_901,﻿Rev.,﻿John McCloskey,,,,,,,1838,,,﻿,﻿,﻿New York,NewYorkCity
+﻿nyc.ny.0041,﻿cathedral,﻿Cathedral of St. Patrick,English,,,,,﻿New York County,﻿New York,﻿New York City,﻿NY,,40.75845643,-73.97618573,,,,,﻿joh_mccloskey_002,﻿Rev.,﻿John McCloskey,,,,,,,1838,,,﻿,﻿,﻿New York,NewYorkCity
 ﻿nyc.ny.0042,﻿church,﻿St. Peter's,English,,,,,﻿New York County,﻿New York,﻿New York City,﻿NY,﻿NY,40.71243157,-74.00954445,,,,,﻿joh_power_901,﻿Very Rev.,﻿John Power,﻿D. D.,,,,,,1838,,﻿https://spcolr.org/st-peters-church-history,﻿,﻿,﻿New York,NewYorkCity
 ﻿nyc.ny.0043,﻿church,﻿St. Mary's,English,,,,,﻿New York County,﻿New York,﻿New York City,﻿NY,﻿NY,40.71581796,-73.98511226,,,,,﻿wil_j_quarters_901,﻿Rev.,﻿William Quarters,,,,,,,1838,,"﻿https://en.wikipedia.org/wiki/St._Mary_Church_(Grand_Street,_Manhattan)",﻿,﻿,﻿New York,NewYorkCity
 ﻿nyc.ny.0043,﻿church,﻿St. Mary's,English,,,,,﻿New York County,﻿New York,﻿New York City,﻿NY,,40.71581796,-73.98511226,,,,,﻿pat_danaher_901,﻿Rev.,﻿Patrick Danaher,,,,,,,1838,,,﻿,﻿,﻿New York,NewYorkCity
@@ -16,7 +16,7 @@
 ﻿nyc.ny.0044,﻿church,﻿St. James' Church,English,,,,,﻿New York County,﻿New York,,﻿NY,,40.7324967,-74.000619,,,,,﻿and_byrne_902,﻿Rev.,﻿Andrew Byrne,,,,,,,1838,,,﻿,﻿,﻿New York,NewYorkCity
 ﻿nyc.ny.0044,﻿church,﻿St. James' Church,English,,,,,﻿New York County,﻿New York,,﻿NY,,40.7324967,-74.000619,,,,,﻿mcginnis_901,﻿Rev. Mr.,﻿McGinnis,,,,,,,1838,,,﻿,﻿,﻿New York,NewYorkCity
 ﻿nyc.ny.0044,﻿church,﻿St. James' Church,English,,,,,﻿New York County,﻿New York,,﻿NY,,40.7324967,-74.000619,,,,,﻿gillbride_901,﻿Rev. Mr.,﻿Gillbride,,,,,,,1838,,,﻿,﻿,﻿New York,NewYorkCity
-﻿nyc.ny.0044,﻿church,﻿German Church,English,,,,,﻿New York County,﻿New York,,﻿NY,,40.7324967,-74.000619,,,,,﻿joh_raffeiner_901,﻿Rev.,﻿John Raffeiner,,,,,,,1838,,,﻿,﻿,﻿New York,NewYorkCity
+﻿nyc.ny.0044,﻿church,﻿St. James' Church,English,﻿German Church,,,,﻿New York County,﻿New York,,﻿NY,,40.7324967,-74.000619,,,,,﻿joh_raffeiner_901,﻿Rev.,﻿John Raffeiner,,,,,,,1838,,,﻿,﻿,﻿New York,NewYorkCity
 ﻿alb.ny.0003,﻿church,﻿St. Mary's,English,,,,,﻿Albany County,﻿Albany,﻿Albany,﻿NY,﻿NY,42.65181929,-73.75279367,,,,,﻿jos_b_schneller_901,﻿Rev.,﻿Joseph Schneller,,,,,,,1838,,"﻿https://www.hist-stmarys.org/history ; very likely this church. While the cathedral is more prominent, this historic church predates all the rest in the city, and it stands to reason that, based on that fact, the St. Mary's that we see in later years refers to this church.",﻿,﻿,﻿New York,NewYorkCity
 ﻿alb.ny.0003,﻿church,﻿St. Mary's,English,,,,,﻿Albany County,﻿Albany,﻿Albany,﻿NY,,42.65181929,-73.75279367,,,,,﻿haes_901,﻿Rev. Mr.,﻿Haes,,,,,,,1838,,,﻿,﻿,﻿New York,NewYorkCity
 ﻿alb.ny.0003,﻿chapel,﻿New Chapel,English,,,,,﻿Albany County,﻿Albany,﻿Albany,﻿NY,,42.65181929,-73.75279367,,,,,﻿joh_kelly_901,﻿Rev.,﻿John Kelly,,,,,,,1838,,,﻿,﻿,﻿New York,NewYorkCity
@@ -48,9 +48,9 @@
 ﻿nyc.ny.0186,﻿church,not recorded,English,,﻿Sing Sing,,,,,,﻿NY,,41.151667,-73.868889,,,,,﻿fra_marshall_902,﻿Rev.,﻿Francis Marshall,,,,,,,1838,,﻿https://en.wikipedia.org/wiki/Sing_Sing,﻿,﻿,﻿New York,NewYorkCity
 ﻿nyc.ny.0186,﻿church,not recorded,English,,﻿Sing Sing,,,,﻿Ogdensburg,,﻿NY,,41.151667,-73.868889,,,﻿[visited] alternately [by] Rev. Mr. Foley,,﻿foley_901,﻿Rev. Mr.,﻿Foley,,,,,,,1838,,,﻿,﻿,﻿New York,NewYorkCity
 ﻿alb.ny.0302,﻿church,not recorded,English,,,,,,﻿Waddington,,﻿NY,,44.8644999,-75.2041019,,,﻿[visited] alternately [by] Rev. Mr. Foley,,﻿foley_901,﻿Rev. Mr.,﻿Foley,,,,,,,1838,,,﻿,﻿,﻿New York,NewYorkCity
-﻿alb.ny.9005,﻿church,not recorded,English,,,,,,﻿Oswego,,﻿NY,,44.8644999,-75.2041019,,,,,﻿rog_rogers_901,﻿Rev. Mr.,﻿Rogers,,,,,,,1838,,,﻿,﻿,﻿New York,NewYorkCity
-﻿alb.ny.9004,﻿church,not recorded,English,,,,,,﻿Geneva,,﻿NY,,44.8644999,-75.2041019,,,,,﻿rog_rogers_901,﻿Rev. Mr.,﻿Rogers,,,,,,,1838,,,﻿,﻿,﻿New York,NewYorkCity
-﻿roc.ny.0045,﻿church,not recorded,English,,,,,,﻿Seneca Falls,,﻿NY,,44.8644999,-75.2041019,,,,,﻿rog_rogers_901,﻿Rev. Mr.,﻿Rogers,,,,,,,1838,,,﻿,﻿,﻿New York,NewYorkCity
+﻿alb.ny.9005,﻿church,not recorded,English,,,,,,﻿Oswego,,﻿NY,,44.8644999,-75.2041019,,,,,﻿rogers_902,﻿Rev. Mr.,﻿Rogers,,,,,,,1838,,,﻿,﻿,﻿New York,NewYorkCity
+﻿alb.ny.9004,﻿church,not recorded,English,,,,,,﻿Geneva,,﻿NY,,44.8644999,-75.2041019,,,,,﻿rogers_902,﻿Rev. Mr.,﻿Rogers,,,,,,,1838,,,﻿,﻿,﻿New York,NewYorkCity
+﻿roc.ny.0045,﻿church,not recorded,English,,,,,,﻿Seneca Falls,,﻿NY,,44.8644999,-75.2041019,,,,,﻿rogers_902,﻿Rev. Mr.,﻿Rogers,,,,,,,1838,,,﻿,﻿,﻿New York,NewYorkCity
 ﻿alb.ny.0223,﻿church,not recorded,English,,,,,﻿Clinton County,﻿Plattsburg,﻿Plattsburg,﻿NY,﻿NY,44.69951178,-73.45885685,,,,,﻿drummond_902,﻿Rev. Mr.,﻿Drummond,,,,,,,1838,,﻿https://holycrosspbg.org/,﻿,﻿,﻿New York,NewYorkCity
 ﻿roc.ny.0001,﻿church,not recorded,English,,,,,,﻿Rochester,,﻿NY,,44.69951178,-73.45885685,,,,,﻿ber_oreilly_901,﻿Rev.,﻿Bernard O'Reilly,,,,,,,1838,,,﻿,﻿,﻿New York,NewYorkCity
 ﻿roc.ny.0001,﻿church,not recorded,English,,,,,,﻿Rome,,﻿NY,,44.69951178,-73.45885685,,,,,﻿beauchamp_901,﻿Rev. Mr.,﻿Beauchamp,,,,,,,1838,,,﻿,﻿,﻿New York,NewYorkCity
