@@ -3,18 +3,18 @@
 ﻿cha.sc.0001,﻿cathedral,"﻿Cathedral Chapel, St. John the Baptist",English,,,,,,﻿Charleston,﻿Charleston,﻿SC,,32.7764958,-79.9344682,,,,﻿tim_bermingham_001,﻿Very Rev.,﻿T. Birmingham,﻿D.D.,﻿Vicar-General,,,,,,1869,﻿,﻿,﻿Charleston,Charleston
 ﻿cha.sc.0001,﻿cathedral,"﻿Cathedral Chapel, St. John the Baptist",English,,,,,,﻿Charleston,﻿Charleston,﻿SC,,32.7764958,-79.9344682,,,,,﻿Rev.,﻿Daniel J. Quigley,,,,,,,,1869,﻿,﻿,﻿Charleston,Charleston
 ﻿cha.sc.0002,﻿church,﻿St. Mary's,English,,﻿Hasell street,,,,﻿Charleston,﻿Charleston,﻿SC,,32.7817998,-79.9328247,,,,﻿ric_s_baker_001,﻿Very Rev.,﻿R. S. Baker,,,,,,,,1869,﻿,﻿,﻿Charleston,Charleston
-﻿cha.sc.0002,﻿church,﻿St. Mary's,English,,﻿Hasell street,,,,﻿Charleston,﻿Charleston,﻿SC,,32.7817998,-79.9328247,,,,,﻿Rev.,﻿P. Ryan,﻿D.D.,,,,,,,1869,﻿,﻿,﻿Charleston,Charleston
+﻿cha.sc.0002,﻿church,﻿St. Mary's,English,,﻿Hasell street,,,,﻿Charleston,﻿Charleston,﻿SC,,32.7817998,-79.9328247,,,,﻿p_ryan_001,﻿Rev.,﻿P. Ryan,﻿D.D.,,,,,,,1869,﻿,﻿,﻿Charleston,Charleston
 ﻿cha.sc.0002,﻿church,﻿St. Mary's,English,,﻿Hasell street,,,,﻿Charleston,﻿Charleston,﻿SC,,32.7817998,-79.9328247,,,,,﻿Rev.,﻿Claudian B. Northrop,,,,,,,,1869,﻿,﻿,﻿Charleston,Charleston
-﻿cha.sc.0003,﻿church,﻿St. Patrick's,English,,,,,,﻿Charleston,﻿Charleston,﻿SC,,32.7882253,-79.9403921,,,,﻿joh_o_schachte_001,﻿Rev.,﻿John Moore,﻿D.D.,,,,,,,1869,﻿,﻿,﻿Charleston,Charleston
-﻿cha.sc.0003,﻿church,﻿St. Patrick's,English,,,,,,﻿Charleston,﻿Charleston,﻿SC,,32.7882253,-79.9403921,,,,,﻿Rev.,﻿John Schachte,,,﻿1870 includes middle initial O.,,,,,1869,﻿,﻿,﻿Charleston,Charleston
+﻿cha.sc.0003,﻿church,﻿St. Patrick's,English,,,,,,﻿Charleston,﻿Charleston,﻿SC,,32.7882253,-79.9403921,,,,,﻿Rev.,﻿John Moore,﻿D.D.,,,,,,,1869,﻿,﻿,﻿Charleston,Charleston
+﻿cha.sc.0003,﻿church,﻿St. Patrick's,English,,,,,,﻿Charleston,﻿Charleston,﻿SC,,32.7882253,-79.9403921,,,,﻿joh_o_schachte_001,﻿Rev.,﻿John Schachte,,,﻿1870 includes middle initial O.,,,,,1869,﻿,﻿,﻿Charleston,Charleston
 ﻿cha.sc.0004,﻿church,﻿St. Joseph's,English,,,,,,﻿Charleston,﻿Charleston,﻿SC,,32.784352,-79.946823,,,,,﻿Rev.,﻿Charles J. Croghan,,,,,,,,1869,﻿,﻿,﻿Charleston,Charleston
 ﻿cha.sc.0005,﻿church,﻿St. Paul's,﻿German,,,,,,﻿Charleston,﻿Charleston,﻿SC,,32.928229,-79.8559159,,,,,﻿Rev.,﻿Francis J. Shadler,,,,,,,,1869,﻿,﻿,﻿Charleston,Charleston
 ﻿cha.sc.0006,﻿church,﻿St. Peter's,﻿African,,,,,,﻿Charleston,﻿Charleston,﻿SC,,32.81442,-80.0487527,,,,﻿alo_folchi_001,﻿Rev.,﻿A. Folchi,,,﻿different spelling from 1870,,,,,1869,﻿,﻿,﻿Charleston,Charleston
 ﻿cha.sc.0023,﻿church,﻿St. Peter's,English,,,,,,﻿Beaufort,﻿Beaufort,﻿SC,,32.439429,-80.670543,﻿cha.sc.0001,﻿Attended from Charleston,,,,,﻿D.D.,,,,,,,1869,﻿,﻿,﻿Charleston,Charleston
 ﻿cha.sc.0024,﻿church,not recorded,English,,,,,,﻿Hilton Head,﻿Hilton Head,﻿SC,,32.216316,-80.752608,﻿cha.sc.0001,﻿Attended from Charleston,,,﻿Rev.,﻿Joseph P. O'Connell,﻿D.D.,,,,,,,1869,﻿,﻿,﻿Charleston,Charleston
 ﻿cha.sc.0009,﻿church,not recorded,English,,,,,,﻿Georgetown,﻿Georgetown,﻿SC,,33.376834,-79.2944964,﻿cha.sc.0001,﻿Attended from Charleston,,,,,,,,,,,,1869,﻿,﻿,﻿Charleston,Charleston
-﻿cha.sc.0007,﻿church,﻿St. John's,English,﻿name not on 1870,,,,,﻿Sullivan's Island,﻿Sullivan's Island,﻿SC,,32.7607326,-79.8584923,﻿cha.sc.0001,﻿Attended from Charleston,,﻿persico_001,,,,,,,,,,1869,﻿,﻿,﻿Charleston,Charleston
-﻿cha.sc.0021,﻿church,﻿St. Mary's,English,﻿name changes in 1870,,,,,﻿Edgefield,﻿Edgefield,﻿SC,,33.7904312,-81.9303567,﻿cha.sc.0001,,,,﻿Rt. Rev.,﻿Ignatius Persico,,﻿Bishop of Gratianapolis,﻿in part missionary,,,,,1869,﻿,﻿,﻿Charleston,Charleston
+﻿cha.sc.0007,﻿church,﻿St. John's,English,﻿name not on 1870,,,,,﻿Sullivan's Island,﻿Sullivan's Island,﻿SC,,32.7607326,-79.8584923,﻿cha.sc.0001,﻿Attended from Charleston,,,,,,,,,,,,1869,﻿,﻿,﻿Charleston,Charleston
+﻿cha.sc.0021,﻿church,﻿St. Mary's,English,﻿name changes in 1870,,,,,﻿Edgefield,﻿Edgefield,﻿SC,,33.7904312,-81.9303567,﻿cha.sc.0001,,,﻿persico_001,﻿Rt. Rev.,﻿Ignatius Persico,,﻿Bishop of Gratianapolis,﻿in part missionary,,,,,1869,﻿,﻿,﻿Charleston,Charleston
 ﻿cha.sc.0018,﻿church,not recorded,English,,,,,,﻿Aiken,﻿Aiken,﻿SC,,33.5576025,-81.7184673,﻿cha.sc.0021,﻿Attended by Right Rev. Ignatius Persico,,,,,,,,,,,,1869,﻿,﻿,﻿Charleston,Charleston
 ﻿cha.sc.0017,﻿church,not recorded,English,,,,,,﻿Johnson's,﻿Johnston,﻿SC,,33.83114353,-81.80102134,﻿cha.sc.0021,﻿Attended by Right Rev. Ignatius Persico,,,,,,,,,,,,1869,﻿,﻿,﻿Charleston,Charleston
 ﻿cha.sc.0019,﻿church,not recorded,English,,,,,,﻿Graniteville,﻿Graniteville,﻿SC,,33.5633311,-81.8081622,﻿cha.sc.0021,﻿Attended by Right Rev. Ignatius Persico,,,,,,,,,,,,1869,﻿,﻿,﻿Charleston,Charleston
