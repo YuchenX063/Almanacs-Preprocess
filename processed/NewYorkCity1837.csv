@@ -1,8 +1,8 @@
 ﻿instID,church_type,instName,language,instNote,placeName,region,county_orig,county_reg,city_orig,city_reg,state_orig,state_reg,latitude,longitude,attendingInstID,attendingChurch,attendingChurchFrequency,persID,persTitle,persName,persSuffix,persRole,persNote,memberType,member,affiliated,order,year,Unnamed: 30,attendingPersID,attendingChurchNote,diocese,diocese_reg
 ﻿nyc.ny.0041,﻿cathedral,﻿Cathedral of St. Patrick's,English,,,,,﻿New York County,﻿New York,﻿New York City,﻿NY,﻿NY,40.75845643,-73.97618573,,,,﻿joh_dubois_901,﻿Right Rev.,﻿John Dubois,﻿D. D.,,,,,,,1837,﻿https://saintpatrickscathedral.org/historical-timeline,﻿,﻿,﻿New York,NewYorkCity
-﻿nyc.ny.0041,﻿cathedral,﻿Cathedral of St. Patrick's,English,,,,,﻿New York County,﻿New York,﻿New York City,﻿NY,,40.75845643,-73.97618573,,,,﻿and_byrne_902,﻿Rev.,﻿Andrew Byrne,,,,,,,,1837,,﻿,﻿,﻿New York,NewYorkCity
+﻿nyc.ny.0041,﻿cathedral,﻿Cathedral of St. Patrick's,English,,,,,﻿New York County,﻿New York,﻿New York City,﻿NY,,40.75845643,-73.97618573,,,,﻿and_byrne_001,﻿Rev.,﻿Andrew Byrne,,,,,,,,1837,,﻿,﻿,﻿New York,NewYorkCity
 ﻿nyc.ny.0041,﻿cathedral,﻿Cathedral of St. Patrick's,English,,,,,﻿New York County,﻿New York,﻿New York City,﻿NY,,40.75845643,-73.97618573,,,,﻿joh_conroy_901,﻿Rev.,﻿John Conroy,,,,,,,,1837,,﻿,﻿,﻿New York,NewYorkCity
-﻿nyc.ny.0041,﻿cathedral,﻿Cathedral of St. Patrick's,English,,,,,﻿New York County,﻿New York,﻿New York City,﻿NY,,40.75845643,-73.97618573,,,,﻿wil_starr_901,﻿Rev.,﻿Wm. Starr,,,,,,,,1837,,﻿,﻿,﻿New York,NewYorkCity
+﻿nyc.ny.0041,﻿cathedral,﻿Cathedral of St. Patrick's,English,,,,,﻿New York County,﻿New York,﻿New York City,﻿NY,,40.75845643,-73.97618573,,,,﻿wil_starr_001,﻿Rev.,﻿Wm. Starr,,,,,,,,1837,,﻿,﻿,﻿New York,NewYorkCity
 ﻿nyc.ny.0042,﻿church,﻿St. Peter's,English,,,,,﻿New York County,﻿New York,﻿New York City,﻿NY,﻿NY,40.71243157,-74.00954445,,,,﻿joh_power_901,﻿Very Rev.,﻿John Power,﻿D. D.,,,,,,,1837,﻿https://spcolr.org/st-peters-church-history,﻿,﻿,﻿New York,NewYorkCity
 ﻿nyc.ny.0042,﻿church,﻿St. Peter's,English,,,,,﻿New York County,﻿New York,﻿New York City,﻿NY,,40.71243157,-74.00954445,,,,﻿jam_neale_901,﻿Rev.,﻿James Neale,,,,,,,,1837,,﻿,﻿,﻿New York,NewYorkCity
 ﻿nyc.ny.0043,﻿church,﻿St. Mary's,English,,,,,﻿New York County,﻿New York,﻿New York City,﻿NY,﻿NY,40.71581796,-73.98511226,,,,﻿wil_j_quarters_901,﻿Rev.,﻿William Quarters,,,,,,,,1837,"﻿https://en.wikipedia.org/wiki/St._Mary_Church_(Grand_Street,_Manhattan)",﻿,﻿,﻿New York,NewYorkCity
@@ -46,8 +46,8 @@
 ﻿alb.ny.9004,﻿church,not recorded,English,,,,,,﻿Geneva,,﻿NY,,43.3006281,-73.5859487,,,,﻿fra_odonahoe_901,﻿Rev.,﻿Francis O'Donahoe,,,,,,,,1837,,﻿,﻿,﻿New York,NewYorkCity
 ﻿alb.ny.9003,﻿church,not recorded,English,,,,,,﻿Auburn,,﻿NY,,43.3006281,-73.5859487,,,,﻿fra_odonahoe_901,﻿Rev.,﻿Francis O'Donahoe,,,,,,,,1837,,﻿,﻿,﻿New York,NewYorkCity
 ﻿bro.ny.0054,﻿church,not recorded,English,,,,,,﻿Sagharbour,,﻿NY,,43.3006281,-73.5859487,,"﻿[visited] occasionally by Rev. Messrs. Walsh and Dougherty, of Brooklyn.",,﻿walsh_902,﻿Rev. Mr.,﻿Walsh,,,,,,,,1837,,﻿,﻿,﻿New York,NewYorkCity
-﻿bro.ny.0054,﻿church,not recorded,English,,,,,,﻿Sagharbour,,﻿NY,,43.3006281,-73.5859487,,"﻿[visited] occasionally by Rev. Messrs. Walsh and Dougherty, of Brooklyn.",,﻿dougherty_901,﻿Rev. Mr.,﻿Dougherty,,,,,,,,1837,,﻿,﻿,﻿New York,NewYorkCity
-﻿bro.ny.0054,﻿church,not recorded,English,,﻿St. Regis,,,,﻿Sagharbour,,﻿NY,,43.3006281,-73.5859487,,,,﻿j_mnulty_901,﻿Rev. Mr.,﻿McNulty,,,,,,,,1837,,﻿,﻿,﻿New York,NewYorkCity
+﻿bro.ny.0054,﻿church,not recorded,English,,,,,,﻿Sagharbour,,﻿NY,,43.3006281,-73.5859487,,"﻿[visited] occasionally by Rev. Messrs. Walsh and Dougherty, of Brooklyn.",,﻿pat_dougherty_901,﻿Rev. Mr.,﻿Dougherty,,,,,,,,1837,,﻿,﻿,﻿New York,NewYorkCity
+﻿bro.ny.0054,﻿church,not recorded,English,,﻿St. Regis,,,,﻿Sagharbour,,﻿NY,,43.3006281,-73.5859487,,,,﻿j_mcnulty_901,﻿Rev. Mr.,﻿McNulty,,,,,,,,1837,,﻿,﻿,﻿New York,NewYorkCity
 ﻿bro.ny.0054,﻿church,not recorded,English,,﻿St. Regis,,,,﻿Schenectady,,﻿NY,,43.3006281,-73.5859487,,,﻿[visited] once a month [by],﻿joh_kelly_901,﻿Rev.,﻿John Kelly,,,,,,,,1837,,﻿,﻿,﻿New York,NewYorkCity
 ﻿alb.ny.9001,﻿church,not recorded,English,,,,,,﻿Troy,,﻿NY,,43.3006281,-73.5859487,,,,﻿joh_shanahan_901,﻿Rev.,﻿John Shanahan,,,,,,,,1837,﻿Hard to identify which one - there are too many in Troy in later years,﻿,﻿,﻿New York,NewYorkCity
 ﻿alb.ny.9001,﻿church,not recorded,English,,,,,,﻿Utica,,﻿NY,,43.3006281,-73.5859487,,,,﻿wal_j_quarters_901,﻿Rev.,﻿Walter J. Quarters,,,,,,,,1837,,﻿,﻿,﻿New York,NewYorkCity
@@ -60,7 +60,7 @@
 ﻿new.nj.9001,﻿church,not recorded,English,,,,,,﻿Bottle Hill,,﻿NJ,,44.8483135,-74.2993623,,,,,,,,,,,,,,1837,,﻿,﻿,﻿New York,NewYorkCity
 ﻿new.nj.9001,﻿church,not recorded,English,,,,,,﻿Jersey City,,﻿NJ,,44.8483135,-74.2993623,,,,﻿wm_byrnes_901,﻿Rev.,﻿Wm. Byrnes,,,,,,,,1837,,﻿,﻿,﻿New York,NewYorkCity
 ﻿new.nj.0003,﻿church,not recorded,English,,,,,,﻿Newark,,﻿NJ,,44.8483135,-74.2993623,,,,﻿moran_901,﻿Rev. Mr.,﻿Moran,,,,,,,,1837,,﻿,﻿,﻿New York,NewYorkCity
-﻿new.nj.0067,﻿church,not recorded,English,,,,,,﻿New Brunswick,,﻿NJ,,40.4862157,-74.4518188,,,,﻿mcardle_901,﻿Rev. Mr.,﻿McArdle,,,,,,,,1837,,﻿,﻿,﻿New York,NewYorkCity
+﻿new.nj.0067,﻿church,not recorded,English,,,,,,﻿New Brunswick,,﻿NJ,,40.4862157,-74.4518188,,,,﻿ber_mcardle_901,﻿Rev. Mr.,﻿McArdle,,,,,,,,1837,,﻿,﻿,﻿New York,NewYorkCity
 ﻿new.nj.9002,﻿church,not recorded,English,,,,,,﻿Patterson,,﻿NJ,,40.4862157,-74.4518188,,,,﻿pat_duffy_901,﻿Rev.,﻿Patrick Duffy,,,,,,,,1837,,﻿,﻿,﻿New York,NewYorkCity
 ﻿nyc.ny.9006,﻿college,﻿Nyack College,English,"﻿thirty miles north of N. York, on the Hudson River",﻿Hudson River,,,,,,﻿NY,,40.4862157,-74.4518188,,,,,,,,,,,,,,1837,,﻿,﻿,﻿New York,NewYorkCity
 ﻿nyc.ny.9006,﻿academy,﻿St. Mary's Academy,English,"﻿thirty miles north of N. York, on the Hudson River",﻿Hudson River,,,,,,﻿NY,,40.4862157,-74.4518188,,,,,,,,,,﻿sisters,﻿5 sisters,﻿Sisters of Charity,,1837,,﻿,﻿,﻿New York,NewYorkCity
