@@ -11,7 +11,7 @@
 ﻿erie.pa.0132,﻿church,﻿St. Bridget's,English,,,,﻿Erie County,,﻿Union Mills,,﻿PA,,40.273191,-76.886701,﻿erie.pa.0080,"﻿Rev. Thomas Lonergan, of Warren, Warren Co.",,﻿t_lonergan_001,﻿Rev.,﻿T. Lonergan,,,,,,,,1864,﻿,﻿,﻿Erie,Erie
 ﻿erie.pa.0048,﻿church,﻿St. Agatha's,﻿German,,,,﻿Crawford County,,﻿Meadville,﻿Meadville,﻿PA,,41.635165,-80.150752,,,,﻿a_reck_002,﻿Rev.,﻿A. Reek,,,,,,,,1864,﻿,﻿,﻿Erie,Erie
 ﻿erie.pa.0047,﻿church,﻿St. Bride's,English,,,,﻿Crawford County,,﻿Meadville,﻿Meadville,﻿PA,,41.635644,-80.150636,,,,﻿a_r_giliberti_001,﻿Rev.,﻿A. R. Giliberti,,,,,,,,1864,﻿,﻿,﻿Erie,Erie
-﻿erie.pa.0017,﻿church,﻿St. Hippolytus,English,,,,﻿Crawford County,,﻿Mead Township,,﻿PA,,41.6620352,-80.1266814,,,,﻿m_a_de-la-rocque_001,﻿Rev.,﻿M. A. De La Rocque,,,,,,,,1864,﻿,﻿,﻿Erie,Erie
+﻿erie.pa.0017,﻿church,﻿St. Hippolytus,English,,,,﻿Crawford County,,﻿Mead Township,,﻿PA,,41.662035,-80.126681,,,,﻿m_a_de-la-rocque_001,﻿Rev.,﻿M. A. De La Rocque,,,,,,,,1864,﻿,﻿,﻿Erie,Erie
 ﻿erie.pa.0024,﻿church,﻿St. Peter and Paul,English,,,,﻿Crawford County,,﻿Randolph Township,,﻿PA,,41.339785,-78.134172,,,,﻿dav_snively_001,﻿Rev.,﻿David Snively,,,,,,,,1864,﻿,﻿,﻿Erie,Erie
 ﻿erie.pa.0076,﻿church,﻿St. Titus,English,,,,﻿Crawford County,,﻿Titusville,﻿Titusville,﻿PA,,41.62789,-79.681405,,,,﻿m_a_de-la-rocque_001,﻿Rev.,﻿M. A. De La Rocque,,,,,,,,1864,﻿,﻿,﻿Erie,Erie
 ﻿erie.pa.0136,﻿church,﻿St. Stephen's,English,,,,﻿Crawford County,,﻿Oil Creek,,﻿PA,,40.273191,-76.886701,,,,﻿wm_h_oram_001,﻿Rev.,﻿Wm. H. Oram.,,,,,,,,1864,﻿,﻿,﻿Erie,Erie
@@ -63,8 +63,8 @@
 ﻿erie.pa.0128,﻿monastery,﻿Benedictine Monastery,English,,,,,﻿Elk County,﻿St. Marystown,﻿St. Marys,﻿PA,,41.426109,-78.578245,,,,﻿ger_pilz_001,﻿Rev.,﻿Gerard Pilz,﻿O.S.B.,,,﻿lay brother,﻿Ten lay-brothers,,,1864,﻿,﻿,﻿Erie,Erie
 ﻿erie.pa.0128,﻿monastery,﻿Benedictine Monastery,English,,,,,﻿Elk County,﻿St. Marystown,﻿St. Marys,﻿PA,,41.426109,-78.578245,,,,﻿fer_wolf_001,﻿Rev.,﻿Ferdinand Wolf,﻿O.S.B.,,,﻿lay brother,﻿Ten lay-brothers,,,1864,﻿,﻿,﻿Erie,Erie
 ﻿erie.pa.0128,﻿monastery,﻿Benedictine Monastery,English,,,,,﻿Elk County,﻿St. Marystown,﻿St. Marys,﻿PA,,41.426109,-78.578245,,,,﻿ath_hintenach_001,﻿Rev.,﻿Athanasius Hintenach,﻿O.S.B.,,,﻿lay brother,﻿Ten lay-brothers,,,1864,﻿,﻿,﻿Erie,Erie
-﻿erie.pa.0090,﻿convent,﻿Convent of St. Joseph,English,﻿The usual branches of solid and refined education are taught,,,﻿Elk County,﻿Elk County,﻿St. Marystown,﻿St. Marys,﻿PA,,41.427792,-78.56947,,,,,,,,,,,,﻿Conducted by Benedictine Nuns,,1864,﻿,﻿,﻿Erie,Erie
-﻿erie.pa.0093,﻿academy,﻿Academy of St. Benedict,English,﻿The usual branches of solid and refined education are taught,,,﻿Elk County,﻿Elk County,﻿St. Marystown,﻿St. Marys,﻿PA,,41.427765,-78.570214,,,,,,,,,,,,﻿Conducted by Benedictine Nuns,,1864,﻿,﻿,﻿Erie,Erie
+﻿erie.pa.0090&0093,﻿convent,﻿Convent of St. Joseph & Academy of St. Benedict,English,﻿The usual branches of solid and refined education are taught,,,﻿Elk County,﻿Elk County,﻿St. Marystown,﻿St. Marys,﻿PA,,41.641444,-80.151448,,,,,,,,,,,,﻿Conducted by Benedictine Nuns,,1864,﻿,﻿,﻿Erie,Erie
 ﻿erie.pa.0001_02,﻿academy,﻿Academy of St. Joseph's,English,,﻿5th street,,,,﻿Erie,,﻿PA,,42.128843,-80.076118,,,,,﻿Sister,﻿Augustine Shortz,,﻿Directress,,,,﻿by Benedictine Nuns,,1864,﻿,﻿,﻿Erie,Erie
-﻿erie.pa.0001_02,﻿academy,﻿Academy of St. Ann's,English,,﻿5th street,,﻿Jefferson County,,﻿Corsica,,﻿PA,,42.128843,-80.076118,,,,,﻿Sister,﻿Augusta Spencer,,﻿Directress,,,,﻿by Sisters of St. Joseph,,1864,﻿,﻿,﻿Erie,Erie
-﻿erie.pa.0001_02,﻿academy,﻿Academy of St. Hippolyte,English,,"﻿six miles east of Meadville, Pa.",,﻿Jefferson County,,﻿Corsica,,﻿PA,,42.128843,-80.076118,,,,,﻿Sister,﻿Agnes Spencer,,﻿Directress,,,,﻿by Sisters of St. Joseph,,1864,﻿,﻿,﻿Erie,Erie
+﻿erie.pa.0021_02,﻿academy,﻿Academy of St. Ann's,English,,,,﻿Jefferson County,,﻿Corsica,,﻿PA,,41.389661,-79.829674,,,,,﻿Sister,﻿Augusta Spencer,,﻿Directress,,,,﻿by Sisters of St. Joseph,,1864,﻿,﻿,﻿Erie,Erie
+﻿erie.pa.0017_02,﻿academy,﻿Academy of St. Hippolyte,English,,"﻿six miles east of Meadville, Pa.",,,﻿Crawford County,,,﻿PA,,42.052195,-80.187506,,,,,﻿Sister,﻿Agnes Spencer,,﻿Directress,,,,,,1864,﻿,﻿,﻿Erie,Erie
+﻿erie.pa.0017_02,﻿academy,﻿Academy of St. Hippolyte,English,,"﻿six miles east of Meadville, Pa.",,,﻿Crawford County,,,﻿PA,,41.61250747,-80.02173484,,,,,,,,,,,,,,1864,﻿,﻿,﻿Erie,Erie
