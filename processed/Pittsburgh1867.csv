@@ -11,7 +11,7 @@
 ﻿pit.pa.0005,﻿church,﻿Holy Trinity,﻿German,,,,﻿Allegheny County,,﻿Pittsburgh,﻿Pittsburgh,﻿PA,,﻿40.4406248,-79.9958864,,,,﻿ama_kramer_001,﻿Rev.,﻿Amandus Kramer,﻿O.S.B.,,,,,,,1867,﻿,﻿,﻿Pittsburgh,Pittsburgh
 ﻿pit.pa.0005,﻿church,﻿Holy Trinity,﻿German,,,,﻿Allegheny County,,﻿Pittsburgh,﻿Pittsburgh,﻿PA,,﻿40.4406248,-79.9958864,,,,﻿pla_pilz_001,﻿Rev.,﻿Placidus Pilz,﻿O.S.B.,,,,,,,1867,﻿,﻿,﻿Pittsburgh,Pittsburgh
 ﻿pit.pa.0124_05,﻿chapel,﻿St. Mary's Convent Chapel,English,,,,﻿Allegheny County,,﻿Pittsburgh,﻿Pittsburgh,﻿PA,,﻿40.4964057,-80.0005656,﻿pit.pa.0001,﻿attended from the Cathedral,,,,,,,,,,,,1867,﻿,﻿,﻿Pittsburgh,Pittsburgh
-﻿pit.pa.0115_02,﻿chapel,﻿Mercy Hospital,English,,,,﻿Allegheny County,,﻿Pittsburgh,,﻿PA,,﻿40.4964057,-80.0005656,,﻿attended from the Cathedral,,,,,,,,,,,,1867,﻿,﻿,﻿Pittsburgh,Pittsburgh
+﻿pit.pa.0115_02,﻿chapel,﻿Mercy Hospital,English,,,,﻿Allegheny County,,﻿Pittsburgh,,﻿PA,,﻿40.4964057,-80.0005656,﻿pit.pa.0001,﻿attended from the Cathedral,,,,,,,,,,,,1867,﻿,﻿,﻿Pittsburgh,Pittsburgh
 ﻿pit.pa.0008,﻿church,﻿St. Peter's,English,,,,﻿Allegheny County,,﻿Allegheny,﻿Allegheny,﻿PA,,﻿40.3240983,-79.8661762,,,,﻿t_mullen_001,﻿Very Rev.,﻿T. Mullen,,﻿Rector,,,,,,1867,﻿,﻿,﻿Pittsburgh,Pittsburgh
 ﻿pit.pa.0009,﻿church,﻿St. Mary's,﻿German,,,,,,﻿Pittsburg,﻿Pittsburgh,﻿PA,,﻿40.4964057,-80.0005656,,,,﻿j_stibiel_001,﻿Very Rev.,﻿J. Stibiel,,﻿Rector,,,,,,1867,﻿,﻿,﻿Pittsburgh,Pittsburgh
 ﻿pit.pa.0009,﻿church,﻿St. Mary's,﻿German,,,,,,﻿Pittsburg,﻿Pittsburgh,﻿PA,,﻿40.4964057,-80.0005656,,,,﻿j_reiser_001,﻿Rev.,﻿J. Reiser,,﻿Assistant,,,,,,1867,﻿,﻿,﻿Pittsburgh,Pittsburgh
@@ -90,18 +90,18 @@
 ﻿pit.pa.0075,﻿church,﻿St. Joseph's,English,,,,﻿Beaver County,,﻿New-Brighton,﻿New Castle,﻿PA,,﻿41.001438,-80.3484963,,,,﻿j_bigham_001,﻿Rev.,﻿J. Bigham,,,,,,,,1867,﻿,﻿,﻿Pittsburgh,Pittsburgh
 ﻿pit.pa.0076,﻿church,﻿St. Mary's,English,,,,﻿Lawrence County,,﻿Newcastle,﻿New Derry,﻿PA,,﻿40.3484664,-79.3173453,,,,﻿j_a_canavin_001,﻿Rev.,﻿J. A. Canavin,,,,,,,,1867,﻿,﻿,﻿Pittsburgh,Pittsburgh
 ﻿pit.pa.0077,﻿church,﻿St. Martin's,English,,,,﻿Westmoreland County,,﻿New-Derry,﻿Newry,﻿PA,,﻿40.3919675,-78.4339906,,,,﻿jer_kearney_001,﻿Rev.,﻿Jerome Kearney,,,﻿Latrobe,,,,,1867,﻿,﻿,﻿Pittsburgh,Pittsburgh
-﻿pit.pa.0094,﻿church,﻿Church of Immaculate Conception,English,,,,﻿Allegheny County,,﻿New-Germany,,﻿PA,,﻿40.3919675,-78.4339906,,﻿attended from Johnstown,,,,,,,,,,,,1867,﻿,﻿,﻿Pittsburgh,Pittsburgh
+﻿pit.pa.0094,﻿church,﻿Church of Immaculate Conception,English,,,,﻿Allegheny County,,﻿New-Germany,,﻿PA,,﻿40.3919675,-78.4339906,﻿pit.pa.0058,﻿attended from Johnstown,,,,,,,,,,,,1867,﻿,﻿,﻿Pittsburgh,Pittsburgh
 ﻿pit.pa.0078,﻿church,﻿St. Patrick's,English,,,,﻿Blair County,,﻿Newry,,﻿PA,,﻿40.592382,-80.0551695,,,,﻿jam_bradley_001,﻿Rev.,﻿James Bradley,,﻿Rector,,,,,,1867,﻿,﻿,﻿Pittsburgh,Pittsburgh
 ﻿pit.pa.0079,﻿church,not recorded,English,,,,﻿Allegheny County,,﻿Pine Creek,,﻿PA,,﻿40.32916219,-79.64024383,,,,﻿jos_brandstetter_001,﻿Rev.,﻿Joseph Brandstetter,,,,,,,,1867,﻿,﻿,﻿Pittsburgh,Pittsburgh
 ﻿pit.pa.0080,﻿church,﻿new church,English,,,,,,﻿Pennstadt,﻿Perrysville,﻿PA,,﻿40.5347906,-80.0328331,﻿pit.pa.0049,﻿attended from Greensburgh,,,,,,,,,,,,1867,﻿,﻿,﻿Pittsburgh,Pittsburgh
 ﻿pit.pa.0081,﻿church,not recorded,English,﻿church being built,,,﻿Allegheny County,,﻿Perrysville,﻿McKees Rocks,﻿PA,,﻿40.46409582,-80.06665334,,,,﻿j_s_mollinger_001,﻿Rev.,﻿J. S. Mollinger,,,,,,,,1867,﻿,﻿,﻿Pittsburgh,Pittsburgh
 ﻿pit.pa.0082,﻿church,﻿Our Lady Help of Christians,English,,,,﻿Allegheny County,,﻿Robinson Township,﻿Rochester,﻿PA,,﻿40.7022882,-80.2864509,,,,﻿j_stillerich_001,﻿Rev.,﻿J. Stillerich,,,﻿Pittsburgh P.O.,,,,,1867,﻿,﻿,﻿Pittsburgh,Pittsburgh
-﻿pit.pa.0083,﻿church,not recorded,English,,,,﻿Beaver County,,﻿Rochester,,﻿PA,,﻿40.61303049,-78.57754182,,"﻿attended from St. Mary's, Allegheny",,,,,,,,,,,,1867,﻿,﻿,﻿Pittsburgh,Pittsburgh
+﻿pit.pa.0083,﻿church,not recorded,English,,,,﻿Beaver County,,﻿Rochester,,﻿PA,,﻿40.61303049,-78.57754182,﻿pit.pa.0009,"﻿attended from St. Mary's, Allegheny",,,,,,,,,,,,1867,﻿,﻿,﻿Pittsburgh,Pittsburgh
 ﻿pit.pa.0084,﻿church,﻿St. Augustine's,English,,,,﻿Cambria County,,﻿St. Augustine,,﻿PA,,﻿40.2353963,-79.4703885,,,,﻿e_burns_001,﻿Rev.,﻿E. Burns,,﻿Rector,﻿pro tem,,,,,1867,﻿,﻿,﻿Pittsburgh,Pittsburgh
 ﻿pit.pa.0123_03,﻿church,not recorded,English,,﻿St. Xavier's Convent,,﻿Westmoreland County,,,,﻿PA,,﻿40.2353963,-79.4703885,﻿pit.pa.0108,﻿attended from St. Vincent's Abbey,,,,,,,,,,,,1867,﻿,﻿,﻿Pittsburgh,Pittsburgh
 ﻿pit.pa.0085,﻿church,﻿St. Matthew's,English,,,,﻿Indiana County,,﻿Saltsburgh,﻿Saltsburgh,﻿PA,,﻿40.4873082,-79.4471165,﻿pit.pa.0108,﻿attended from St. Vincent's Abbey,,,,,,,,,,,,1867,﻿,﻿,﻿Pittsburgh,Pittsburgh
 ﻿pit.pa.0086,﻿church,not recorded,English,,,,﻿Somerset County,,﻿Sand Patch,,﻿PA,,"﻿39.812702314512876, -78.9710710882938",-78.97107109,,,,﻿p_brown_001,﻿Rev.,﻿P. Brown,,,﻿Cameron's Bottom,,,,,1867,﻿,﻿,﻿Pittsburgh,Pittsburgh
-﻿pit.pa.0088,﻿chapel,﻿Seminary Chapel,English,,﻿near Pittsburgh,,,,﻿Greenwood,﻿Logan Township,﻿PA,,﻿40.53482517,-78.35768523,﻿?,﻿attended by the Clergymen of the Seminary,,,,,,,,,,,,1867,﻿,﻿,﻿Pittsburgh,Pittsburgh
+﻿pit.pa.0107_02,﻿chapel,﻿Seminary Chapel,English,,﻿near Pittsburgh,,,,﻿Greenwood,﻿Logan Township,﻿PA,,﻿40.53482517,-78.35768523,﻿pit.pa.0107,﻿attended by the Clergymen of the Seminary,,,,,,,,,,,,1867,﻿,﻿,﻿Pittsburgh,Pittsburgh
 ﻿pit.pa.0089,﻿church,not recorded,English,,,,﻿Huntingdon County,,﻿Shade Valley,,﻿PA,,﻿40.1679738,-77.83752357,,,,﻿e_gallagher_001,﻿Rev.,﻿E. Gallagher,,,,,,,,1867,﻿,﻿,﻿Pittsburgh,Pittsburgh
 ﻿pit.pa.0090,﻿church,﻿St. Joseph's,English,,,,﻿Allegheny County,,﻿Sharpsburgh,﻿Sharpsburgh,﻿PA,,﻿40.4945131,-79.9264405,,,,﻿p_kerr_001,﻿Rev.,﻿Kerr,,,,,,,,1867,﻿,﻿,﻿Pittsburgh,Pittsburgh
 ﻿pit.pa.0091,﻿church,﻿St. Mary's,﻿German,,,,﻿Allegheny County,,﻿Sharpsburgh,﻿Sharpsburgh,﻿PA,,﻿40.5050851,-79.9363557,,,,﻿j_shell_001,﻿Rev.,﻿J. Shell,,,,,,,,1867,﻿,﻿,﻿Pittsburgh,Pittsburgh

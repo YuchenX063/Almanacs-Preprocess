@@ -1,28 +1,28 @@
 ﻿instID,church_type,instName,language,instNote,placeName,region,county_orig,county_reg,city_orig,city_reg,state_orig,state_reg,latitude,longitude,attendingInstID,attendingChurch,attendingChurchFrequency,persID,persTitle,persName,persSuffix,persRole,persNote,memberType,member,affiliated,order,year,attendingPersID,attendingChurchNote,diocese,diocese_reg
-﻿lac.wi.0001,﻿church,﻿St. Mary's,English,,,,,,﻿La Crosse,﻿La Crosse,﻿WI,,43.80770588,-91.24728115,,,,,﻿Rev.,﻿P. M. Abbelen,,,,,,,,1870,﻿,﻿,﻿La Crosse,LaCrosse
-﻿lac.wi.0001,﻿church,﻿St. Mary's,English,,,,,,﻿La Crosse,﻿La Crosse,﻿WI,,43.80770588,-91.24728115,,,,,﻿Rev.,﻿L. Nicolas,,,﻿attends the missions attached to La Crosse,,,,,1870,﻿,﻿,﻿La Crosse,LaCrosse
-﻿lac.wi.0002,﻿church,﻿St. Joseph's,English,,,,,,﻿La Crosse,,﻿WI,,43.81145314,-91.24877262,,,,,﻿Rev.,﻿H. Kampschroer,,,,,,,,1870,﻿,﻿,﻿La Crosse,LaCrosse
+﻿lac.wi.0001,﻿church,﻿St. Mary's,English,,,,,,﻿La Crosse,﻿La Crosse,﻿WI,,43.80770588,-91.24728115,,,,﻿p_m_abbelen_001,﻿Rev.,﻿P. M. Abbelen,,,,,,,,1870,﻿,﻿,﻿La Crosse,LaCrosse
+﻿lac.wi.0001,﻿church,﻿St. Mary's,English,,,,,,﻿La Crosse,﻿La Crosse,﻿WI,,43.80770588,-91.24728115,,,,﻿l_nicolas_001,﻿Rev.,﻿L. Nicolas,,,﻿attends the missions attached to La Crosse,,,,,1870,﻿,﻿,﻿La Crosse,LaCrosse
+﻿lac.wi.0002,﻿church,﻿St. Joseph's,English,,,,,,﻿La Crosse,,﻿WI,,43.81145314,-91.24877262,,,,﻿h_kampschroer_001,﻿Rev.,﻿H. Kampschroer,,,,,,,,1870,﻿,﻿,﻿La Crosse,LaCrosse
 ﻿lac.wi.0003,﻿church,﻿St. Michael's,English,,,,﻿Sauk County,﻿Sauk County,﻿Baraboo,﻿Baraboo,﻿WI,,43.4710944,-89.7442906,,,﻿vacant,,,,,,,,,,,1870,﻿,﻿,﻿La Crosse,LaCrosse
 ﻿lac.wi.0004,﻿church,﻿Christ Church,English,﻿(Indian),,,﻿La Pointe County,﻿La Pointe County,﻿Bayfield,﻿Bayfield,﻿WI,,46.8107671,-90.81824,,,,﻿j_chebul_002,﻿Rev.,﻿T. Chebul,,,,,,,,1870,﻿,﻿,﻿La Crosse,LaCrosse
-﻿lac.wi.0005,﻿church,﻿St. Joseph's,English,,,,﻿La Crosse County,﻿La Crosse County,﻿Buchanan,﻿Washington,﻿WI,,43.8137751,-91.2519017,,,,,﻿Rev.,﻿G. Noever,,,,,,,,1870,﻿,﻿,﻿La Crosse,LaCrosse
-﻿lac.wi.0006,﻿church,﻿St. Anthony's of Padua,English,,,,﻿Richland County,﻿Richland County,﻿Cazenovia,﻿Cazenovia,﻿WI,,43.5242837,-90.2228512,,,,,﻿Rev.,﻿W. Bernard,,,,,,,,1870,﻿,﻿,﻿La Crosse,LaCrosse
-﻿lac.wi.0007,﻿church,﻿St. Mary's,English,,,,﻿Chippewa County,﻿Chippewa County,﻿Chippewa Falls,﻿Chippewa Falls,﻿WI,,44.93529406,-91.38643499,,,,,﻿Rev.,﻿Ch. Goldsmith,﻿S.T.B.,,,,,,,1870,﻿,﻿,﻿La Crosse,LaCrosse
-﻿lac.wi.0008,﻿church,﻿St. Peter's,English,,,,﻿Chippewa County,﻿Chippewa County,﻿Eagle Point,﻿Eagle Point,﻿WI,,45.0316281,-91.3959901,,,,,﻿Rev.,﻿A. Koke,,,,,,,,1870,﻿,﻿,﻿La Crosse,LaCrosse
-﻿lac.wi.0009,﻿church,﻿St. Patrick's,English,,,,﻿Eau Claire County,﻿Eau Claire County,﻿Eau Claire,﻿Eau Claire,﻿WI,,44.811349,-91.4984941,,,,,﻿Rev.,﻿T. Moder,,,,,,,,1870,﻿,﻿,﻿La Crosse,LaCrosse
-﻿lac.wi.0010,﻿church,﻿St. Henry's,English,,,,﻿Dunn County,﻿Dunn County,﻿Eau Galla,﻿Eau Galle,﻿WI,,44.6974094,-92.0212607,,,,,﻿Rev.,﻿L. Florent,,,,,,,,1870,﻿,﻿,﻿La Crosse,LaCrosse
-﻿lac.wi.0011,﻿church,﻿St. Patrick's,English,,,,﻿St. Croix County,﻿St. Croix County,﻿Erin,﻿Erin Prairie,﻿WI,,45.067181,-92.4485948,,,,,﻿Rev.,﻿H. Quigly,,,,,,,,1870,﻿,﻿,﻿La Crosse,LaCrosse
-﻿lac.wi.0012,﻿church,﻿Immaculate Conception,English,,,,﻿Buffalo County,﻿Buffalo County,﻿Fountain City,﻿Fountain City,﻿WI,,44.1301122,-91.7163595,,,,,﻿Rev.,﻿L. Spitzelberger,,,,,,,,1870,﻿,﻿,﻿La Crosse,LaCrosse
-﻿lac.wi.0013,﻿church,﻿St. James',English,,,,﻿St. Croix County,﻿St. Croix County,﻿Hudson,﻿Hudson,﻿WI,,44.9746896,-92.7568703,,,,,﻿Rev.,﻿Chr. Verweyst,,,,,,,,1870,﻿,﻿,﻿La Crosse,LaCrosse
-﻿lac.wi.0014,﻿church,﻿Nativity B.V.M.,English,,,,﻿Monroe County,﻿Monroe County,﻿Jefferson,﻿Jefferson,﻿WI,,43.7980958,-90.68686839,,,,,﻿Rev.,﻿M. Heiss,,,,,,,,1870,﻿,﻿,﻿La Crosse,LaCrosse
-﻿lac.wi.0015,﻿church,﻿Nativity B.V.M.,English,,,,﻿Richland County,﻿Richland County,﻿Ithaka,﻿Ithaca,﻿WI,,43.33913197,-90.21991705,,,,,﻿Rev.,﻿G. Bean,,,,,,,,1870,﻿,﻿,﻿La Crosse,LaCrosse
-﻿lac.wi.0016,﻿church,﻿St. Mary's,English,,,,﻿Juneau County,﻿Juneau County,﻿Lyndon,﻿Lyndon,﻿WI,,43.6662501,-89.8785765,,,,,﻿Rev.,﻿T. Conroy,,,,,,,,1870,﻿,﻿,﻿La Crosse,LaCrosse
+﻿lac.wi.0005,﻿church,﻿St. Joseph's,English,,,,﻿La Crosse County,﻿La Crosse County,﻿Buchanan,﻿Washington,﻿WI,,43.8137751,-91.2519017,,,,﻿g_noever_001,﻿Rev.,﻿G. Noever,,,,,,,,1870,﻿,﻿,﻿La Crosse,LaCrosse
+﻿lac.wi.0006,﻿church,﻿St. Anthony's of Padua,English,,,,﻿Richland County,﻿Richland County,﻿Cazenovia,﻿Cazenovia,﻿WI,,43.5242837,-90.2228512,,,,﻿w_bernard_001,﻿Rev.,﻿W. Bernard,,,,,,,,1870,﻿,﻿,﻿La Crosse,LaCrosse
+﻿lac.wi.0007,﻿church,﻿St. Mary's,English,,,,﻿Chippewa County,﻿Chippewa County,﻿Chippewa Falls,﻿Chippewa Falls,﻿WI,,44.93529406,-91.38643499,,,,﻿ch_goldsmith_001,﻿Rev.,﻿Ch. Goldsmith,﻿S.T.B.,,,,,,,1870,﻿,﻿,﻿La Crosse,LaCrosse
+﻿lac.wi.0008,﻿church,﻿St. Peter's,English,,,,﻿Chippewa County,﻿Chippewa County,﻿Eagle Point,﻿Eagle Point,﻿WI,,45.0316281,-91.3959901,,,,﻿a_koke_001,﻿Rev.,﻿A. Koke,,,,,,,,1870,﻿,﻿,﻿La Crosse,LaCrosse
+﻿lac.wi.0009,﻿church,﻿St. Patrick's,English,,,,﻿Eau Claire County,﻿Eau Claire County,﻿Eau Claire,﻿Eau Claire,﻿WI,,44.811349,-91.4984941,,,,﻿t_moder_001,﻿Rev.,﻿T. Moder,,,,,,,,1870,﻿,﻿,﻿La Crosse,LaCrosse
+﻿lac.wi.0010,﻿church,﻿St. Henry's,English,,,,﻿Dunn County,﻿Dunn County,﻿Eau Galla,﻿Eau Galle,﻿WI,,44.6974094,-92.0212607,,,,﻿l_florent_001,﻿Rev.,﻿L. Florent,,,,,,,,1870,﻿,﻿,﻿La Crosse,LaCrosse
+﻿lac.wi.0011,﻿church,﻿St. Patrick's,English,,,,﻿St. Croix County,﻿St. Croix County,﻿Erin,﻿Erin Prairie,﻿WI,,45.067181,-92.4485948,,,,﻿h_quigly_001,﻿Rev.,﻿H. Quigly,,,,,,,,1870,﻿,﻿,﻿La Crosse,LaCrosse
+﻿lac.wi.0012,﻿church,﻿Immaculate Conception,English,,,,﻿Buffalo County,﻿Buffalo County,﻿Fountain City,﻿Fountain City,﻿WI,,44.1301122,-91.7163595,,,,﻿l_spitzelberger_001,﻿Rev.,﻿L. Spitzelberger,,,,,,,,1870,﻿,﻿,﻿La Crosse,LaCrosse
+﻿lac.wi.0013,﻿church,﻿St. James',English,,,,﻿St. Croix County,﻿St. Croix County,﻿Hudson,﻿Hudson,﻿WI,,44.9746896,-92.7568703,,,,﻿chr_verweyst_001,﻿Rev.,﻿Chr. Verweyst,,,,,,,,1870,﻿,﻿,﻿La Crosse,LaCrosse
+﻿lac.wi.0014,﻿church,﻿Nativity B.V.M.,English,,,,﻿Monroe County,﻿Monroe County,﻿Jefferson,﻿Jefferson,﻿WI,,43.7980958,-90.68686839,,,,﻿m_heiss_001,﻿Rev.,﻿M. Heiss,,,,,,,,1870,﻿,﻿,﻿La Crosse,LaCrosse
+﻿lac.wi.0015,﻿church,﻿Nativity B.V.M.,English,,,,﻿Richland County,﻿Richland County,﻿Ithaka,﻿Ithaca,﻿WI,,43.33913197,-90.21991705,,,,﻿g_bean_001,﻿Rev.,﻿G. Bean,,,,,,,,1870,﻿,﻿,﻿La Crosse,LaCrosse
+﻿lac.wi.0016,﻿church,﻿St. Mary's,English,,,,﻿Juneau County,﻿Juneau County,﻿Lyndon,﻿Lyndon,﻿WI,,43.6662501,-89.8785765,,,,﻿t_conroy_001,﻿Rev.,﻿T. Conroy,,,,,,,,1870,﻿,﻿,﻿La Crosse,LaCrosse
 ﻿lac.wi.0017,﻿church,﻿Nativity B.V.M.,English,,,,﻿Marathon County,﻿Marathon County,﻿Marathon,﻿Marathon,﻿WI,,44.9304719,-89.8402105,,,﻿vacant,,,,,,,,,,,1870,﻿,﻿,﻿La Crosse,LaCrosse
-﻿lac.wi.0018,﻿church,﻿St. Patrick's,English,,,,﻿Juneau County,﻿Juneau County,﻿Mauston,﻿Mauston,﻿WI,,43.7969551,-90.0731712,,,,,﻿Rev.,﻿P. Lavin,,,,,,,,1870,﻿,﻿,﻿La Crosse,LaCrosse
-﻿lac.wi.0019,﻿church,﻿St. Gabriel's,English,,,,﻿Crawford County,﻿Crawford County,﻿Prairie du Chien,﻿Prairie du Chien,﻿WI,,43.0583485,-91.1461352,,,,,﻿Rev.,﻿L. Lux,,,,,,,,1870,﻿,﻿,﻿La Crosse,LaCrosse
-﻿lac.wi.0020,﻿church,﻿St. James',English,,,,﻿Crawford County,﻿Crawford County,﻿Rising Sun,﻿Rising Sun,﻿WI,,43.417625,-90.956352,,,,,﻿Rev.,﻿P. Montague,,,,,,,,1870,﻿,﻿,﻿La Crosse,LaCrosse
-﻿lac.wi.0021,﻿church,﻿St. Aloysius,English,,,,﻿Sauk County,﻿Sauk County,﻿Sauk City,﻿Sauk City,﻿WI,,43.28139,-89.725801,,,,,﻿Rev.,﻿Ch. Hengen,,,,,,,,1870,﻿,﻿,﻿La Crosse,LaCrosse
-﻿lac.wi.0022,﻿church,﻿St. Wencelaus',﻿Polish,,,,﻿Trempealeau County,﻿Trempealeau County,﻿Trempealeau,﻿Trempealeau,﻿WI,,44.0055185,-91.4420883,,,,,﻿Rev.,﻿Th. Weglikowski,,,,,,,,1870,﻿,﻿,﻿La Crosse,LaCrosse
-﻿lac.wi.0023,﻿church,﻿St. Boniface's,English,,,,﻿Buffalo County,﻿Buffalo County,﻿Waumandee,﻿Waumandee,﻿WI,,44.3014726,-91.706169,,﻿Attended by Rev. L. Spitzelberger,,,﻿Rev.,﻿L. Lay,,,,,,,,1870,﻿,﻿,﻿La Crosse,LaCrosse
+﻿lac.wi.0018,﻿church,﻿St. Patrick's,English,,,,﻿Juneau County,﻿Juneau County,﻿Mauston,﻿Mauston,﻿WI,,43.7969551,-90.0731712,,,,﻿p_lavin_001,﻿Rev.,﻿P. Lavin,,,,,,,,1870,﻿,﻿,﻿La Crosse,LaCrosse
+﻿lac.wi.0019,﻿church,﻿St. Gabriel's,English,,,,﻿Crawford County,﻿Crawford County,﻿Prairie du Chien,﻿Prairie du Chien,﻿WI,,43.0583485,-91.1461352,,,,﻿l_lux_001,﻿Rev.,﻿L. Lux,,,,,,,,1870,﻿,﻿,﻿La Crosse,LaCrosse
+﻿lac.wi.0020,﻿church,﻿St. James',English,,,,﻿Crawford County,﻿Crawford County,﻿Rising Sun,﻿Rising Sun,﻿WI,,43.417625,-90.956352,,,,﻿p_montague_001,﻿Rev.,﻿P. Montague,,,,,,,,1870,﻿,﻿,﻿La Crosse,LaCrosse
+﻿lac.wi.0021,﻿church,﻿St. Aloysius,English,,,,﻿Sauk County,﻿Sauk County,﻿Sauk City,﻿Sauk City,﻿WI,,43.28139,-89.725801,,,,﻿ch_hengen_001,﻿Rev.,﻿Ch. Hengen,,,,,,,,1870,﻿,﻿,﻿La Crosse,LaCrosse
+﻿lac.wi.0022,﻿church,﻿St. Wencelaus',﻿Polish,,,,﻿Trempealeau County,﻿Trempealeau County,﻿Trempealeau,﻿Trempealeau,﻿WI,,44.0055185,-91.4420883,,,,﻿th_weglikowski_001,﻿Rev.,﻿Th. Weglikowski,,,,,,,,1870,﻿,﻿,﻿La Crosse,LaCrosse
+﻿lac.wi.0023,﻿church,﻿St. Boniface's,English,,,,﻿Buffalo County,﻿Buffalo County,﻿Waumandee,﻿Waumandee,﻿WI,,44.3014726,-91.706169,,﻿Attended by Rev. L. Spitzelberger,,﻿l_lay_001,﻿Rev.,﻿L. Lay,,,,,,,,1870,﻿,﻿,﻿La Crosse,LaCrosse
 ﻿lac.wi.0024,﻿station,﻿St. Lawrence's,English,,,,﻿Buffalo County,﻿Buffalo County,﻿Alma,﻿Alma,﻿WI,,44.3215867,-91.9144568,,﻿Attended by Rev. L. Spitzelberger,,,,,,,,,,,,1870,﻿,﻿,﻿La Crosse,LaCrosse
 ﻿lac.wi.0025,﻿station,﻿St. Anne's,English,,,,﻿Buffalo County,﻿Buffalo County,﻿Buffalo City,﻿Buffalo City,﻿WI,,44.2305638,-91.863468,,﻿Attended by Rev. A. Koke,,,,,,,,,,,,1870,﻿,﻿,﻿La Crosse,LaCrosse
 ﻿lac.wi.0026,﻿station,﻿St. Catherine's,English,,,,﻿Chippewa County,﻿Chippewa County,﻿Brush Prairie,﻿Bloomer,﻿WI,,45.1209077,-91.4210511,,﻿Attended by Rev. P. Montague,,,,,,,,,,,,1870,﻿,﻿,﻿La Crosse,LaCrosse
