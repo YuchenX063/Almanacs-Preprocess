@@ -11,7 +11,7 @@
 ﻿bos.ma.0004,﻿church,﻿St. James',English,,,,,,﻿Boston,﻿Boston,﻿MA,,42.3268295,-71.0868117,,,,﻿p_v_moyce_001,﻿Rev.,﻿P. V. Moyce,,,,,,,,1864,,,,,,,,,,,﻿,﻿,﻿Boston,Boston
 ﻿bos.ma.0002,﻿church,﻿St. Mary's,English,,,,,,﻿Boston,﻿Boston,﻿MA,,42.3653068,-71.0574069,,,,﻿rob_w_brady_001,﻿Rev.,﻿Robert W. Brady,﻿S.J.,,,,,,,1864,,,,,,,,,,,﻿,﻿,﻿Boston,Boston
 ﻿bos.ma.0002,﻿church,﻿St. Mary's,English,,,,,,﻿Boston,﻿Boston,﻿MA,,42.3653068,-71.0574069,,,,﻿liv_vigilante_001,﻿Rev.,﻿L. Vigilanti,﻿S.J.,,,,,,,1864,,,,,,,,,,,﻿,﻿,﻿Boston,Boston
-﻿bos.ma.0002,﻿church,﻿St. Mary's,English,,,,,,﻿Boston,﻿Boston,﻿MA,,42.3653068,-71.0574069,,,,﻿j_b_emig_002,,﻿J. B. Emig,﻿S.J.,,,,,,,1864,,,,,,,,,,,﻿,﻿,﻿Boston,Boston
+﻿bos.ma.0002,﻿church,﻿St. Mary's,English,,,,,,﻿Boston,﻿Boston,﻿MA,,42.3653068,-71.0574069,,,,,,﻿J. B. Emig,﻿S.J.,,,,,,,1864,,,,,,,,,,,﻿,﻿,﻿Boston,Boston
 ﻿bos.ma.0002,﻿church,﻿St. Mary's,English,,,,,,﻿Boston,﻿Boston,﻿MA,,42.3653068,-71.0574069,,,,﻿den_okane_001,﻿Rev.,﻿D. O'Kane,﻿S.J.,,,,,,,1864,,,,,,,,,,,﻿,﻿,﻿Boston,Boston
 ﻿bos.ma.0003,﻿church,﻿St. Patrick's,English,,,,,,﻿Boston,﻿Boston,﻿MA,,42.3600825,-71.0588801,,,,﻿tho_lynch_001,﻿Rev.,﻿Thomas Lynch,,,,,,,,1864,,,,,,,,,,,﻿,﻿,﻿Boston,Boston
 ﻿bos.ma.0005,﻿church,﻿Church of the Most Holy Trinity,English,,,,,,﻿Boston,﻿Boston,﻿MA,,42.3600825,-71.0588801,,,,﻿ern_reiter_001,﻿Rev.,﻿Ernest Reiter,﻿S.J.,,,,,,,1864,,,,,,,,,,,﻿,﻿,﻿Boston,Boston
@@ -169,7 +169,7 @@
 ﻿bos.ma.0212,﻿house,﻿House of the Angel Guardian,English,﻿church about to be built,,,,,﻿Roxbury,﻿Boston,﻿MA,,42.3600825,-71.0588801,,,,,,,,,,﻿teacher,﻿4 teachers,,,1864,,,,,,,,,,,﻿,﻿,﻿Boston,Boston
 ﻿bos.ma.0212,﻿house,﻿House of the Angel Guardian,English,﻿church about to be built,,,,,﻿Roxbury,﻿Boston,﻿MA,,42.3600825,-71.0588801,,,,,,,,,,﻿prefect of discipline,﻿3 prefects of discipline,,,1864,,,,,,,,,,,﻿,﻿,﻿Boston,Boston
 ﻿bos.ma.0212,﻿school,﻿Select School for Boys,English,﻿church about to be built,,,,,﻿Roxbury,﻿Boston,﻿MA,,42.3600825,-71.0588801,,,,﻿geo_f_haskins_001,﻿Rev.,﻿George F. Haskins,,﻿Rector,,﻿pupil,﻿30 pupils,,,1864,,,,,,,,,,,﻿,﻿,﻿Boston,Boston
-﻿bos.ma.0212,﻿school,﻿Select School for Boys,English,﻿church about to be built,,,,,﻿Roxbury,﻿Boston,﻿MA,,42.3600825,-71.0588801,,,,﻿b_w_whicher_001,,﻿B. W. Whicher,﻿A.M.,﻿Precentor,,﻿pupil,﻿30 pupils,,,1864,,,,,,,,,,,﻿,﻿,﻿Boston,Boston
+﻿bos.ma.0212,﻿school,﻿Select School for Boys,English,﻿church about to be built,,,,,﻿Roxbury,﻿Boston,﻿MA,,42.3600825,-71.0588801,,,,,,﻿B. W. Whicher,﻿A.M.,﻿Precentor,,﻿pupil,﻿30 pupils,,,1864,,,,,,,,,,,﻿,﻿,﻿Boston,Boston
 ﻿bos.ma.0211,﻿asylum,﻿St. Vincent's Orphan Asylum,English,,﻿Camden street,,,,﻿Boston,﻿Boston,﻿MA,,42.3383401,-71.0818672,,,,,﻿Sr.,﻿Ann Alexis Schorb,,﻿Sister-Servant,,﻿child,﻿280 children,﻿under the care of the Sisters of Charity,,1864,,,,,,,,,,,﻿,﻿,﻿Boston,Boston
 ﻿bos.ma.0200,﻿academy,﻿Academy of the Sisters of Notre Dame,English,,﻿Berkeley street,,,,﻿Boston,﻿Boston,﻿MA,,42.3504407,-71.0726605,,,,,,,,,,,,,,1864,,,,,,,,,,,﻿,﻿,﻿Boston,Boston
 ﻿bos.ma.0200,﻿select school,﻿Academy and Free School of the Sisters of Notre Dame,English,,﻿Lancaster Street,,,,﻿Boston,﻿Boston,﻿MA,,42.3504407,-71.0726605,,,,,﻿Sister,﻿Alphonse Marie,,﻿Superior,,﻿teacher,﻿5  teachers,﻿Sisters of Notre Dame,,1864,,,,,,,,,,,﻿,﻿,﻿Boston,Boston

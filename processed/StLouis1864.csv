@@ -29,7 +29,7 @@
 ﻿stl.mo.0012,﻿church,﻿St. Lawrence O'Toole's,English,﻿residence adjoining,﻿Fourteenth and O'Fallon streets,,,,﻿St. Louis,﻿St. Louis,﻿MO,,38.6388094,-90.1965561,,,,﻿j_henry_001,﻿Rev.,﻿J. Henry,,,,,,,,1864,﻿,﻿,﻿St. Louis,StLouis
 ﻿stl.mo.0012,﻿church,﻿St. Lawrence O'Toole's,English,﻿residence adjoining,﻿Fourteenth and O'Fallon streets,,,,﻿St. Louis,﻿St. Louis,﻿MO,,38.6388094,-90.1965561,,,,﻿m_flannery_001,﻿Rev.,﻿M. Flannery,,,,,,,,1864,﻿,﻿,﻿St. Louis,StLouis
 ﻿stl.mo.0013,﻿church,﻿Immaculate Conception,English,﻿residence adjoining,﻿Eight and Chestnut streets,,,,﻿St. Louis,﻿St. Louis,﻿MO,,38.628813,-90.2013043,,,,﻿p_feehan_001,﻿Rev.,﻿P. Feehan,,,,,,,,1864,﻿,﻿,﻿St. Louis,StLouis
-﻿stl.mo.0013,﻿church,﻿Immaculate Conception,English,﻿residence adjoining,﻿Eight and Chestnut streets,,,,﻿St. Louis,﻿St. Louis,﻿MO,,38.628813,-90.2013043,,,,﻿j_obrien_001,,﻿J. O'Brien,,,,,,,,1864,﻿,﻿,﻿St. Louis,StLouis
+﻿stl.mo.0013,﻿church,﻿Immaculate Conception,English,﻿residence adjoining,﻿Eight and Chestnut streets,,,,﻿St. Louis,﻿St. Louis,﻿MO,,38.628813,-90.2013043,,,,,,﻿J. O'Brien,,,,,,,,1864,﻿,﻿,﻿St. Louis,StLouis
 ﻿stl.mo.0014,﻿church,﻿St. Liborius',﻿German,,﻿New Bremen street,,,,﻿St. Louis,﻿St. Louis,﻿MO,,38.6494069,-90.2176862,,,,﻿s_schweihoff_001,﻿Rev.,﻿S. Schweihoff,,,,,,,,1864,﻿,﻿,﻿St. Louis,StLouis
 ﻿stl.mo.0014,﻿church,﻿St. Liborius',﻿German,,﻿New Bremen street,,,,﻿St. Louis,﻿St. Louis,﻿MO,,38.6494069,-90.2176862,,,,﻿g_v_brunner_001,﻿Rev.,﻿G. V. Brunner,,,,,,,,1864,﻿,﻿,﻿St. Louis,StLouis
 ﻿stl.mo.0016,﻿church,﻿St. Malachy's,English,﻿residence adjoining,﻿Clark and Summit avenues,,,,﻿St. Louis,﻿St. Louis,﻿MO,,38.7120004,-90.2479784,,,,﻿myl_w_tobyn_001,﻿Rev.,﻿M. Tobyn,,,,,,,,1864,﻿,﻿,﻿St. Louis,StLouis
@@ -90,7 +90,7 @@
 ﻿stl.mo.0200,﻿church,﻿St. Joseph's,English,,,,﻿Osage County,,﻿New-Westphalia,,﻿MO,,38.44070295,-91.99638612,,,,﻿w_niederkorn_001,﻿Rev.,﻿W. Niederkorn,﻿S.J.,,,,,,,1864,﻿,﻿,﻿St. Louis,StLouis
 ﻿stl.mo.0221,﻿church,not recorded,English,,,,﻿Clark County,,﻿North Santa Fé,,﻿MO,,40.25911752,-91.61663508,,,,﻿j_murphy_005,﻿Rev.,﻿J. Murphy,,,,,,,,1864,﻿,﻿,﻿St. Louis,StLouis
 ﻿stl.mo.0106,﻿church,﻿St. Joachim,English,,,,﻿Washington County,,﻿Old Mines,﻿Old Mines,﻿MO,,38.0153279,-90.7559644,,,,﻿j_fox_001,﻿Rev.,﻿J. Fox,,,,,,,,1864,﻿,﻿,﻿St. Louis,StLouis
-﻿stl.mo.0106,﻿church,﻿St. Joachim,English,,,,﻿Washington County,,﻿Old Mines,﻿Old Mines,﻿MO,,38.0153279,-90.7559644,,,,﻿l_smyth_001,,﻿L. Smyth,,,,,,,,1864,﻿,﻿,﻿St. Louis,StLouis
+﻿stl.mo.0106,﻿church,﻿St. Joachim,English,,,,﻿Washington County,,﻿Old Mines,﻿Old Mines,﻿MO,,38.0153279,-90.7559644,,,,,,﻿L. Smyth,,,,,,,,1864,﻿,﻿,﻿St. Louis,StLouis
 ﻿stl.mo.0222,﻿church,﻿Our Lady of Dolors,English,,,,﻿Franklin County,,,,﻿MO,,38.41097715,-91.05146684,,﻿------,﻿Visited monthly,,,,,,,,,,,1864,﻿,﻿,﻿St. Louis,StLouis
 ﻿stl.mo.0238,﻿church,﻿St. Francis',English,,,,﻿St. Charles County,,﻿Portage aux Sioux,﻿Portage des Sioux,﻿MO,,38.92574285,-90.34247306,﻿stl.mo.0129,﻿attended from St. Charles,,,,,,,,,,,,1864,﻿,﻿,﻿St. Louis,StLouis
 ﻿stl.mo.0115,﻿church,not recorded,English,,,,﻿Washington County,,﻿Potosi,﻿Potosi,﻿MO,,37.936438,-90.7879086,﻿stl.mo.0106,﻿attended from Old Mines,,,,,,,,,,,,1864,﻿,﻿,﻿St. Louis,StLouis
