@@ -30,7 +30,7 @@
 ﻿alb.ny.0284,﻿church,not recorded,English,,,,,﻿Rensselaer County,﻿Lansingburg,﻿Troy,﻿NY,﻿NY,42.7815416,-73.66411354,,,,﻿joh_shanahan_901,﻿Rev.,﻿John Shanahan,,,,,,,,1836,,﻿,﻿,﻿New York,NewYorkCity
 ﻿alb.ny.9008,﻿church,not recorded,English,,,,,,﻿Lockport,,﻿NY,,42.7815416,-73.66411354,,,,﻿mangan_901,﻿Rev. Mr.,﻿Mangan,,,,,,,,1836,,﻿,﻿,﻿New York,NewYorkCity
 ﻿alb.ny.9009,﻿church,not recorded,English,,,,,,﻿Medina,,﻿NY,,42.7815416,-73.66411354,,,,﻿mangan_901,﻿Rev. Mr.,﻿Mangan,,,,,,,,1836,,﻿,﻿,﻿New York,NewYorkCity
-﻿nyc.ny.0161,﻿church,not recorded,English,,,,,,﻿Newberg,,﻿NY,,42.7815416,-73.66411354,,,,﻿p_oreilly_902,﻿Rev.,﻿P. O'Reilly,,,,,,,,1836,,﻿,﻿,﻿New York,NewYorkCity
+﻿nyc.ny.0161,﻿church,not recorded,English,,,,,,﻿Newberg,,﻿NY,,41.50117266,-74.00982805,,,,﻿p_oreilly_902,﻿Rev.,﻿P. O'Reilly,,,,,,,,1836,,﻿,﻿,﻿New York,NewYorkCity
 ﻿nyc.ny.0175,﻿church,not recorded,English,,,,,﻿Dutchess County,﻿Poughkeepsie,﻿Poughkeepsie,﻿NY,﻿NY,41.70925078,-73.93694958,,,,﻿reilly_901,﻿Rev. Mr.,﻿Reilly,,,,,,,,1836,"﻿https://en.wikipedia.org/wiki/Old_St._Peter%27s_Church_(Poughkeepsie,_New_York)",﻿,﻿,﻿New York,NewYorkCity
 ﻿alb.ny.0223,﻿church,not recorded,English,,,,,﻿Clinton County,﻿Plattsburg,﻿Plattsburg,﻿NY,﻿NY,44.69951178,-73.45885685,,,,﻿rogers_902,﻿Rev. Mr.,﻿Rogers,,,,,,,,1836,﻿https://holycrosspbg.org/,﻿,﻿,﻿New York,NewYorkCity
 ﻿roc.ny.0001,﻿church,﻿St. Patrick's,English,,,,,,﻿Rochester,,﻿NY,,44.69951178,-73.45885685,,,,﻿p_oreilly_901,﻿Rev.,﻿P. O'Reily,,,,,,,,1836,,﻿,﻿,﻿New York,NewYorkCity
@@ -39,21 +39,21 @@
 ﻿alb.ny.0244,﻿church,not recorded,English,,,,,,﻿Sand Hill,,﻿NY,,43.3006281,-73.5859487,,,,﻿joh_kelly_901,﻿Rev.,﻿John Kelly,,,,,,,,1836,,﻿,﻿,﻿New York,NewYorkCity
 ﻿alb.ny.0245,﻿church,not recorded,English,,,,,,﻿Saratoga,,﻿NY,,43.3006281,-73.5859487,,,,﻿joh_kelly_901,﻿Rev.,﻿John Kelly,,,,,,,,1836,,﻿,﻿,﻿New York,NewYorkCity
 ﻿bro.ny.0054,﻿church,not recorded,English,,,,,,﻿Sagharbour,,﻿NY,,43.3006281,-73.5859487,,﻿visited from New York and Brooklyn,,,,,,,,,,,,1836,,﻿,﻿,﻿New York,NewYorkCity
-﻿bro.ny.0054,﻿church,not recorded,English,,,,,,﻿Utica,,﻿NY,,43.3006281,-73.5859487,,,,﻿wil_j_quarters_901,﻿Rev.,﻿W. J. Quarters,,,,,,,,1836,,﻿,﻿,﻿New York,NewYorkCity
-﻿bro.ny.0054,﻿church,not recorded,English,,,,,,﻿Rome,,﻿NY,,43.3006281,-73.5859487,,,,﻿pat_bradley_901,﻿Rev.,﻿Patrick Bradley,,,,,,,,1836,,﻿,﻿,﻿New York,NewYorkCity
+﻿alb.ny.0295,﻿church,not recorded,English,,,,,,﻿Utica,,﻿NY,,43.10104969,-75.22746956,,,,﻿wil_j_quarters_901,﻿Rev.,﻿W. J. Quarters,,,,,,,,1836,,﻿,﻿,﻿New York,NewYorkCity
+﻿alb.ny.0234,﻿church,not recorded,English,,,,,,﻿Rome,,﻿NY,,43.21211596,-75.45555271,,,,﻿pat_bradley_901,﻿Rev.,﻿Patrick Bradley,,,,,,,,1836,,﻿,﻿,﻿New York,NewYorkCity
 ﻿alb.ny.0300,﻿church,not recorded,English,,,,,,﻿Verona,,﻿NY,,43.1381455,-75.5706945,,,,﻿pat_bradley_901,﻿Rev.,﻿Patrick Bradley,,,,,,,,1836,,﻿,﻿,﻿New York,NewYorkCity
-﻿alb.ny.0300,﻿church,not recorded,English,,,,﻿Black River County,,﻿Verona,,﻿NY,,43.1381455,-75.5706945,,,,,﻿Rev.,﻿Patrick Bradley,,,,,,,,1836,,﻿,﻿,﻿New York,NewYorkCity
+﻿alb.ny.9014,﻿church,not recorded,English,,﻿Black River Co.,,,,,,﻿NY,,43.1381455,-75.5706945,,,,,﻿Rev.,﻿Patrick Bradley,,,,,,,,1836,"﻿https://rivercatholics.org/ ; this church says it was founded in 1847, not too long after this, could be that this almanac entry refers to a predecessor to this congregation",﻿,﻿,﻿New York,NewYorkCity
 ﻿alb.ny.9001,﻿church,not recorded,English,,,,,,﻿Troy,,﻿NY,,43.1381455,-75.5706945,,,,﻿joh_shanahan_901,﻿Rev.,﻿J. Shanahan,,,,,,,,1836,﻿Hard to identify which one - there are too many in Troy in later years,﻿,﻿,﻿New York,NewYorkCity
 ﻿nyc.ny.0199,﻿church,not recorded,English,,,,,,﻿West Point,,﻿NY,,41.3914827,-73.9559721,,,,﻿p_oreilly_902,﻿Rev.,﻿P. O'Reilly,,,,,,,,1836,,﻿,﻿,﻿New York,NewYorkCity
 ﻿alb.ny.9010,﻿church,not recorded,English,,,,,,﻿Williamsville,,﻿NY,,41.3914827,-73.9559721,,,,﻿wyatt_901,﻿Rev. Mr.,﻿Wyatt,,,,,,,,1836,,﻿,﻿,﻿New York,NewYorkCity
-﻿alb.ny.9010,﻿church,not recorded,English,,,,,,﻿Ogdensburg,,﻿NY,,41.3914827,-73.9559721,,,,,,,,,﻿no fixed clergymen,,,,,1836,,﻿,﻿,﻿New York,NewYorkCity
+﻿alb.ny.0202,﻿church,not recorded,English,,,,,,﻿Ogdensburg,,﻿NY,,44.6988279,-75.4855595,,,,,,,,,﻿no fixed clergymen,,,,,1836,,﻿,﻿,﻿New York,NewYorkCity
 ﻿alb.ny.0302,﻿church,not recorded,English,,,,,,﻿Waddington,,﻿NY,,44.8644999,-75.2041019,,,,,,,,,﻿no fixed clergymen,,,,,1836,,﻿,﻿,﻿New York,NewYorkCity
 ﻿alb.ny.9011,﻿church,not recorded,English,,,,,,﻿French Mills,,﻿NY,,44.8644999,-75.2041019,,,,,,,,,﻿no fixed clergymen,,,,,1836,,﻿,﻿,﻿New York,NewYorkCity
 ﻿alb.ny.0173,﻿church,not recorded,English,,,,,,﻿Malone Town,,﻿NY,,44.8483135,-74.2993623,,,,,,,,,﻿no fixed clergymen,,,,,1836,,﻿,﻿,﻿New York,NewYorkCity
 ﻿new.nj.9001,﻿church,not recorded,English,,,,,,﻿Bottle Hill,,﻿NJ,,44.8483135,-74.2993623,,,,,,,,,,,,,,1836,,﻿,﻿,﻿New York,NewYorkCity
 ﻿new.nj.0003,﻿church,not recorded,English,,,,,,﻿Newark,,﻿NJ,,44.8483135,-74.2993623,,,,﻿moran_901,﻿Rev. Mr.,﻿Moran,,,,,,,,1836,,﻿,﻿,﻿New York,NewYorkCity
 ﻿new.nj.0067,﻿church,not recorded,English,,,,,,﻿New-Brunswick,,﻿NJ,,40.4862157,-74.4518188,,,,﻿ber_mcardle_901,﻿Rev. Mr.,﻿McArdle,,,,,,,,1836,,﻿,﻿,﻿New York,NewYorkCity
-﻿new.nj.0067,﻿church,not recorded,English,,,,,,﻿Jersey City,,﻿NJ,,40.4862157,-74.4518188,,,,﻿wm_byrnes_901,﻿Rev.,﻿Wm. Burns,,,,,,,,1836,,﻿,﻿,﻿New York,NewYorkCity
+﻿new.nj.0048,﻿church,not recorded,English,,,,,,﻿Jersey City,,﻿NJ,,40.4862157,-74.4518188,,,,﻿wm_byrnes_901,﻿Rev.,﻿Wm. Burns,,,,,,,,1836,,﻿,﻿,﻿New York,NewYorkCity
 ﻿new.nj.9002,﻿church,not recorded,English,,,,,,﻿Patterson,,﻿NJ,,40.4862157,-74.4518188,,,,﻿pat_duffy_901,﻿Rev.,﻿P. Duffy,,,,,,,,1836,,﻿,﻿,﻿New York,NewYorkCity
 ﻿nyc.ny.9007,﻿academy,﻿St. Joseph's Academy,English,,,,,,,,﻿NY,,40.4862157,-74.4518188,,,,,,,,,,﻿sisters,﻿4 sisters,﻿Sisters of Charity,,1836,,﻿,﻿,﻿New York,NewYorkCity
 ﻿nyc.ny.0042_92,﻿school,﻿St. Peter's Free School,English,,,,,,,,﻿NY,,40.4862157,-74.4518188,,,,,,,,,,﻿sisters,﻿3 sisters,﻿Sisters of Charity,,1836,,﻿,﻿,﻿New York,NewYorkCity
@@ -64,4 +64,4 @@
 ﻿bro.ny.9000,﻿asylum,﻿St. Mary's Asylum,English,,,﻿Long Island,,,﻿Brooklyn,,﻿NY,,40.4862157,-74.4518188,,,,,,,,,,﻿sisters,﻿3 sisters,﻿Sisters of Charity,,1836,,﻿,﻿,﻿New York,NewYorkCity
 ﻿alb.ny.9012_91,﻿asylum,﻿St. Joseph's Asylum,English,,,,,,﻿Albany,,﻿NY,,40.4862157,-74.4518188,,,,,,,,,,﻿sisters,﻿5 sisters,﻿Sisters of Charity,,1836,,﻿,﻿,﻿New York,NewYorkCity
 ﻿alb.ny.9012_92,﻿day school,﻿St. Joseph's Day School,English,,,,,,﻿Albany,,﻿NY,,40.4862157,-74.4518188,,,,,,,,,,﻿sisters,﻿5 sisters,﻿Sisters of Charity,,1836,,﻿,﻿,﻿New York,NewYorkCity
-﻿alb.ny.9012_92,﻿asylum,﻿St. Joseph's Day School,English,,,,,,﻿Utica,,﻿NY,,40.4862157,-74.4518188,,,,,,,,,,﻿sisters,﻿3 sisters,﻿Sisters of Charity,,1836,,﻿,﻿,﻿New York,NewYorkCity
+﻿alb.ny.9013,﻿asylum,not recorded,English,,,,,,﻿Utica,,﻿NY,,40.4862157,-74.4518188,,,,,,,,,,﻿sisters,﻿3 sisters,﻿Sisters of Charity,,1836,,﻿,﻿,﻿New York,NewYorkCity
