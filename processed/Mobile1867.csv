@@ -56,7 +56,7 @@
 ﻿mob.al.0048,﻿asylum,﻿Female Orphan Asylum,English,,,,,﻿Mobile County,﻿Mobile,﻿Mobile,﻿AL,,30.72192518,-88.14120639,,,,,﻿Sister,﻿M. Euthelia Hoyte,﻿Superior,,,﻿sister,﻿13 Sisters of Charity,﻿Sisters of Charity,,1867,﻿,﻿,﻿Mobile,Mobile
 ﻿mob.al.0048,﻿asylum,﻿Female Orphan Asylum,English,,,,,﻿Mobile County,﻿Mobile,﻿Mobile,﻿AL,,30.72192518,-88.14120639,,,,,,,,,,﻿inmate,"﻿Inmates of asylum, 103",﻿Sisters of Charity,,1867,﻿,﻿,﻿Mobile,Mobile
 ﻿mob.al.0048,﻿asylum,﻿Female Orphan Asylum,English,,,,,﻿Mobile County,﻿Mobile,﻿Mobile,﻿AL,,30.72192518,-88.14120639,,,,,,,,,,﻿inmate,"﻿day school, about 200",﻿Sisters of Charity,,1867,﻿,﻿,﻿Mobile,Mobile
-﻿mob.al.0049,"﻿asylum, school",﻿Male Orphan Asylum and Industrial School,English,,﻿Lafayette street,,,,,,,,30.68833554,-88.07145232,,,,,,,,,,,,﻿under the direction of Brothers of Christian Instruction,,1867,﻿,﻿,﻿Mobile,Mobile
+﻿mob.al.0049&mob.al.0049_02,"﻿asylum, school",﻿Male Orphan Asylum and Industrial School,English,,﻿Lafayette street,,,,,,,,30.68833554,-88.07145232,,,,,,,,,,,,﻿under the direction of Brothers of Christian Instruction,,1867,﻿,﻿,﻿Mobile,Mobile
 ﻿mob.al.0040,"﻿academy, school",﻿Brothers' Academy and Boarding-School,English,,﻿corner of Lawrence and Massachusetts streets,,,,,,,,30.586272,-88.1955931,,,,,,,,,,,,,,1867,﻿,﻿,﻿Mobile,Mobile
 ﻿mob.al.0040_02,﻿school,﻿Brother's Day-School,English,﻿for boys,,,,,,,,,30.586272,-88.195593,,,,,,,,,,,"﻿average attendance, 450",,,1867,﻿,﻿,﻿Mobile,Mobile
 ﻿mob.al.0042,﻿school,﻿St. Vincent's Parish Schools,English,﻿for girls,﻿corner of Lawrence and Massachusetts streets,,,,,,,,30.586272,-88.1955931,,,,,,,,,,,,﻿conducted by the Sisters of Charity,,1867,﻿,﻿,﻿Mobile,Mobile

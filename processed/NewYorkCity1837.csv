@@ -15,7 +15,7 @@
 ﻿nyc.ny.9004,﻿church,not recorded,English,﻿Dutch Church,,,,,﻿New York,,﻿NY,﻿NY,40.71473086,-73.99915099,,,,﻿joh_raffeiner_901,﻿Rev.,﻿Wm. Raffiner,,,,,,,,1837,,﻿,﻿,﻿New York,NewYorkCity
 ﻿alb.ny.0003,﻿church,﻿St. Mary's,English,,,,,,﻿Albany,﻿Albany,﻿NY,﻿NY,42.65181929,-73.75279367,,,,﻿joh_urquart_901,﻿Rev.,﻿John Urquart,,,,,,,,1837,"﻿https://www.hist-stmarys.org/history ; very likely this church. While the cathedral is more prominent, this historic church predates all the rest in the city, and it stands to reason that, based on that fact, the St. Mary's that we see in later years refers to this church.",﻿,﻿,﻿New York,NewYorkCity
 ﻿alb.ny.0003,﻿church,﻿St. Mary's,English,,,,,,﻿Albany,﻿Albany,﻿NY,,42.65181929,-73.75279367,,,,﻿joh_kelly_901,﻿Rev.,﻿John Kelly,,,,,,,,1837,,﻿,﻿,﻿New York,NewYorkCity
-﻿alb.ny.0003,﻿church,﻿New Church,English,,,,,,﻿Albany,﻿Albany,﻿NY,,42.65181929,-73.75279367,,,,﻿pardoe_901,﻿Rev. Mr.,﻿Pardoe,,,,,,,,1837,,﻿,﻿,﻿New York,NewYorkCity
+﻿alb.ny.0001,﻿church,﻿New Church,English,,,,,,,﻿Albany,﻿NY,,42.65181929,-73.75279367,,,,﻿pardoe_901,﻿Rev. Mr.,﻿Pardoe,,,,,,,,1837,,﻿,﻿,﻿New York,NewYorkCity
 ﻿bro.ny.0001,﻿church,﻿St. James,English,"﻿""L.I.""",,,,,﻿Brooklyn,﻿Brooklyn,﻿NY,﻿NY,40.697056,-73.986667,,,,﻿joh_walsh_901,﻿Rev.,﻿John Walsh,,,,,,,,1837,﻿https://en.wikipedia.org/wiki/Cathedral_Basilica_of_St._James_(Brooklyn) ; https://brooklyncathedral.org/history,﻿,﻿,﻿New York,NewYorkCity
 ﻿bro.ny.0001,﻿church,﻿St. James,English,"﻿""L.I.""",,,,,﻿Brooklyn,﻿Brooklyn,﻿NY,,40.697056,-73.986667,,,,﻿pat_dougherty_901,﻿Rev.,﻿Patrick Dougherty,,,,,,,,1837,,﻿,﻿,﻿New York,NewYorkCity
 ﻿buf.ny.0006,﻿church,not recorded,English,,,,,﻿Erie County,﻿Buffaloe,﻿Buffalo,﻿NY,﻿NY,42.895428,-78.871729,,,,﻿nic_mertz_901,﻿Rev.,﻿Nicholas Mertz,,,,,,,,1837,"﻿https://en.wikipedia.org/wiki/St._Louis_Roman_Catholic_Church#:~:text=Saint%20Louis%20Roman%20Catholic%20Church,Roman%20Catholic%20Diocese%20of%20Buffalo%22. ; while St. Joseph's is more notable, and is the main church in the later almanac years of the 1860s/1870s, it appears that this is the only surviving pre-1833 church in the city. For that reason, I am going with this church as opposed to the one that appears first in the diocese later on.",﻿,﻿,﻿New York,NewYorkCity
@@ -50,23 +50,23 @@
 ﻿alb.ny.9014,﻿church,not recorded,English,,﻿St. Regis,,﻿Black River County,,,,﻿NY,,44.97445488,-74.66830728,,,,﻿j_mcnulty_901,﻿Rev. Mr.,﻿McNulty,,,,,,,,1837,,﻿,﻿,﻿New York,NewYorkCity
 ﻿alb.ny.0247,﻿church,not recorded,English,,,,,,﻿Schenectady,,﻿NY,,42.81425522,-73.93179322,,,﻿[visited] once a month [by],﻿joh_kelly_901,﻿Rev.,﻿John Kelly,,,,,,,,1837,﻿https://www.sjechurch.com/,﻿,﻿,﻿New York,NewYorkCity
 ﻿alb.ny.9001,﻿church,not recorded,English,,,,,,﻿Troy,,﻿NY,,42.81425522,-73.93179322,,,,﻿joh_shanahan_901,﻿Rev.,﻿John Shanahan,,,,,,,,1837,﻿Hard to identify which one - there are too many in Troy in later years,﻿,﻿,﻿New York,NewYorkCity
-﻿alb.ny.9001,﻿church,not recorded,English,,,,,,﻿Utica,,﻿NY,,42.81425522,-73.93179322,,,,﻿wal_j_quarters_901,﻿Rev.,﻿Walter J. Quarters,,,,,,,,1837,,﻿,﻿,﻿New York,NewYorkCity
+﻿alb.ny.0295,﻿church,not recorded,English,,,,,,﻿Utica,,﻿NY,,42.81425522,-73.93179322,,,,﻿wal_j_quarters_901,﻿Rev.,﻿Walter J. Quarters,,,,,,,,1837,,﻿,﻿,﻿New York,NewYorkCity
 ﻿alb.ny.0300,﻿church,not recorded,English,,,,,,﻿Verona,,﻿NY,,43.1381455,-75.5706945,,,,﻿wal_j_quarters_901,﻿Rev.,﻿Walter J. Quarters,,,,,,,,1837,,﻿,﻿,﻿New York,NewYorkCity
-﻿alb.ny.0300,﻿church,not recorded,English,,,,,,﻿Rome,,﻿NY,,43.1381455,-75.5706945,,,,﻿wal_j_quarters_901,﻿Rev.,﻿Walter J. Quarters,,,,,,,,1837,,﻿,﻿,﻿New York,NewYorkCity
+﻿alb.ny.0234,﻿church,not recorded,English,,,,,,﻿Rome,,﻿NY,,43.1381455,-75.5706945,,,,﻿wal_j_quarters_901,﻿Rev.,﻿Walter J. Quarters,,,,,,,,1837,,﻿,﻿,﻿New York,NewYorkCity
 ﻿alb.ny.9010,﻿church,not recorded,English,,,,,,﻿Williamsville,,﻿NY,,43.1381455,-75.5706945,,,,﻿wyatt_901,﻿Rev. Mr.,﻿Wyatt,,,,,,,,1837,,﻿,﻿,﻿New York,NewYorkCity
 ﻿alb.ny.0302,﻿church,not recorded,English,,,,,,﻿Waddington,,﻿NY,,44.8644999,-75.2041019,,,,,,,,,﻿Vacant,,,,,1837,,﻿,﻿,﻿New York,NewYorkCity
 ﻿alb.ny.9011,﻿church,not recorded,English,,,,,,﻿French Mills,,﻿NY,,44.8644999,-75.2041019,,,,,,,,,﻿Vacant,,,,,1837,,﻿,﻿,﻿New York,NewYorkCity
 ﻿alb.ny.0173,﻿church,not recorded,English,,,,,,﻿Malone Town,,﻿NY,,44.8483135,-74.2993623,,,,,,,,,﻿Vacant,,,,,1837,,﻿,﻿,﻿New York,NewYorkCity
 ﻿new.nj.9001,﻿church,not recorded,English,,,,,,﻿Bottle Hill,,﻿NJ,,44.8483135,-74.2993623,,,,,,,,,,,,,,1837,,﻿,﻿,﻿New York,NewYorkCity
-﻿new.nj.9001,﻿church,not recorded,English,,,,,,﻿Jersey City,,﻿NJ,,44.8483135,-74.2993623,,,,﻿wm_byrnes_901,﻿Rev.,﻿Wm. Byrnes,,,,,,,,1837,,﻿,﻿,﻿New York,NewYorkCity
+﻿new.nj.0048,﻿church,not recorded,English,,,,,,﻿Jersey City,,﻿NJ,,44.8483135,-74.2993623,,,,﻿wm_byrnes_901,﻿Rev.,﻿Wm. Byrnes,,,,,,,,1837,,﻿,﻿,﻿New York,NewYorkCity
 ﻿new.nj.0003,﻿church,not recorded,English,,,,,,﻿Newark,,﻿NJ,,44.8483135,-74.2993623,,,,﻿moran_901,﻿Rev. Mr.,﻿Moran,,,,,,,,1837,,﻿,﻿,﻿New York,NewYorkCity
 ﻿new.nj.0067,﻿church,not recorded,English,,,,,,﻿New Brunswick,,﻿NJ,,40.4862157,-74.4518188,,,,﻿ber_mcardle_901,﻿Rev. Mr.,﻿McArdle,,,,,,,,1837,,﻿,﻿,﻿New York,NewYorkCity
 ﻿new.nj.9002,﻿church,not recorded,English,,,,,,﻿Patterson,,﻿NJ,,40.4862157,-74.4518188,,,,﻿pat_duffy_901,﻿Rev.,﻿Patrick Duffy,,,,,,,,1837,,﻿,﻿,﻿New York,NewYorkCity
-﻿nyc.ny.9006,﻿college,﻿Nyack College,English,"﻿thirty miles north of N. York, on the Hudson River",﻿Hudson River,,,,,,﻿NY,,40.4862157,-74.4518188,,,,,,,,,,,,,,1837,,﻿,﻿,﻿New York,NewYorkCity
-﻿nyc.ny.9006,﻿academy,﻿St. Mary's Academy,English,"﻿thirty miles north of N. York, on the Hudson River",﻿Hudson River,,,,,,﻿NY,,40.4862157,-74.4518188,,,,,,,,,,﻿sisters,﻿5 sisters,﻿Sisters of Charity,,1837,,﻿,﻿,﻿New York,NewYorkCity
-﻿nyc.ny.9006,﻿academy,﻿St. Mary's Academy,English,"﻿thirty miles north of N. York, on the Hudson River",﻿Hudson River,,,,,,﻿NY,,40.4862157,-74.4518188,,,,,,,,,,﻿young ladies,﻿60 young ladies,﻿Sisters of Charity,,1837,,﻿,﻿,﻿New York,NewYorkCity
-﻿nyc.ny.9006,﻿school,﻿St. Mary's Free School,English,"﻿thirty miles north of N. York, on the Hudson River",﻿Hudson River,,,,,,﻿NY,,40.4862157,-74.4518188,,,,,,,,,,﻿sisters,﻿5 sisters,﻿Sisters of Charity,,1837,,﻿,﻿,﻿New York,NewYorkCity
-﻿nyc.ny.9006,﻿school,﻿St. Mary's Free School,English,"﻿thirty miles north of N. York, on the Hudson River",﻿Hudson River,,,,,,﻿NY,,40.4862157,-74.4518188,,,,,,,,,,﻿children,﻿seldom less than 300 poor children,﻿Sisters of Charity,,1837,,﻿,﻿,﻿New York,NewYorkCity
+﻿nyc.ny.9006,﻿college,﻿Nyack College,English,"﻿thirty miles north of N. York, on the Hudson River",﻿Hudson River,,,,,﻿Nyack,﻿NY,,40.4862157,-74.4518188,,,,,,,,,,,,,,1837,,﻿,﻿,﻿New York,NewYorkCity
+﻿nyc.ny.9012,﻿academy,﻿St. Mary's Academy,English,,,,,,,﻿New York City,﻿NY,,40.4862157,-74.4518188,,,,,,,,,,﻿sisters,﻿5 sisters,﻿Sisters of Charity,,1837,,﻿,﻿,﻿New York,NewYorkCity
+﻿nyc.ny.9012,﻿academy,﻿St. Mary's Academy,English,,,,,,,﻿New York City,﻿NY,,40.4862157,-74.4518188,,,,,,,,,,﻿young ladies,﻿60 young ladies,﻿Sisters of Charity,,1837,,﻿,﻿,﻿New York,NewYorkCity
+﻿nyc.ny.9012_02,﻿school,﻿St. Mary's Free School,English,,,,,,,﻿New York City,﻿NY,,40.4862157,-74.4518188,,,,,,,,,,﻿sisters,﻿5 sisters,﻿Sisters of Charity,,1837,,﻿,﻿,﻿New York,NewYorkCity
+﻿nyc.ny.9012_02,﻿school,﻿St. Mary's Free School,English,,,,,,,﻿New York City,﻿NY,,40.4862157,-74.4518188,,,,,,,,,,﻿children,﻿seldom less than 300 poor children,﻿Sisters of Charity,,1837,,﻿,﻿,﻿New York,NewYorkCity
 ﻿nyc.ny.9007,﻿academy,﻿St. Joseph's Academy,English,,,,,,,,﻿NY,,40.4862157,-74.4518188,,,,,,,,,,﻿sisters,﻿5 sisters,﻿Sisters of Charity,,1837,,﻿,﻿,﻿New York,NewYorkCity
 ﻿nyc.ny.9008,﻿asylum,﻿Roman Catholic Asylum,English,,,,,,,,﻿NY,,40.4862157,-74.4518188,,,,,,,,,,﻿sisters,﻿15 sisters,﻿Sisters of Charity,,1837,,﻿,﻿,﻿New York,NewYorkCity
 ﻿nyc.ny.9008,﻿asylum,﻿Roman Catholic Asylum,English,,,,,,,,﻿NY,,40.4862157,-74.4518188,,,,,,,,,,﻿orphans,﻿little short of 200,﻿Sisters of Charity,,1837,,﻿,﻿,﻿New York,NewYorkCity
