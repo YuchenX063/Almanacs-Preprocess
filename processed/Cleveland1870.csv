@@ -6,7 +6,7 @@
 ﻿cle.oh.0001,﻿cathedral,﻿St. John the Evangelist's,English,,,,,,﻿Cleveland,﻿Cleveland,﻿OH,,41.5030323,-81.6881089,,,,﻿e_murphy_002,﻿Rev.,﻿E. Murphy,﻿(German),,﻿attends the surrounding missions with Rev. J. Bäcker,,,,,1870,﻿,﻿,﻿Cleveland,Cleveland
 ﻿cle.oh.0001,﻿cathedral,﻿St. John the Evangelist's,English,,,,,,﻿Cleveland,﻿Cleveland,﻿OH,,41.5030323,-81.6881089,,,,﻿j_bäcker_001,﻿Rev.,﻿J. Bäcker,,,﻿attends the surrounding missions in German with Rev. E. Murphy,,,,,1870,﻿,﻿,﻿Cleveland,Cleveland
 ﻿cle.oh.0002,﻿church,﻿St. Patrick's,﻿German,,"﻿West Side, Whitman street",,,,﻿Cleveland,﻿Cleveland,﻿OH,,41.48342555,-81.71151192,,,,﻿jam_v_conlan_001,﻿Very Rev.,﻿J. Conlan,﻿V.G.,,,,,,,1870,﻿,﻿,﻿Cleveland,Cleveland
-﻿cle.oh.0002,﻿church,﻿St. Patrick's,﻿German,,"﻿West Side, Whitman street",,,,﻿Cleveland,﻿Cleveland,﻿OH,,41.48342555,-81.71151192,,,,﻿jam_v_conlan_001,﻿Rev.,﻿J.V. Conlan,,,,,,,,1870,﻿,﻿,﻿Cleveland,Cleveland
+﻿cle.oh.0002,﻿church,﻿St. Patrick's,﻿German,,"﻿West Side, Whitman street",,,,﻿Cleveland,﻿Cleveland,﻿OH,,41.48342555,-81.71151192,,,,﻿jam_v_conlan_001,﻿Rev.,﻿J. V. Conlan,,,,,,,,1870,﻿,﻿,﻿Cleveland,Cleveland
 ﻿cle.oh.0003,﻿church,﻿St. Mary's of the Assumption,﻿German,,﻿West Side,,,,﻿Cleveland,﻿Cleveland,﻿OH,,41.560673,-81.573232,,,,﻿ste_falk_001,﻿Rev.,﻿Stephen Falk,,,,,,,,1870,﻿,﻿,﻿Cleveland,Cleveland
 ﻿cle.oh.0004,﻿church,﻿St. Peter's,﻿German,,﻿Dodge Street,,,,﻿Cleveland,﻿Cleveland,﻿OH,,41.50231,-81.6820698,,,,﻿f_westerholt_001,﻿Very Rev.,﻿F. Westerholt,﻿V.G.,,,,,,,1870,﻿,﻿,﻿Cleveland,Cleveland
 ﻿cle.oh.0004,﻿church,﻿St. Peter's,﻿German,,﻿Dodge Street,,,,﻿Cleveland,﻿Cleveland,﻿OH,,41.50231,-81.6820698,,,,﻿pet_gloden_001,﻿Rev.,﻿Peter Gloden,,,,,,,,1870,﻿,﻿,﻿Cleveland,Cleveland
@@ -63,7 +63,7 @@
 ﻿cle.oh.0052,﻿church,﻿St. John the Evangelist's,English,,,,,﻿Allen County,﻿Delphos,﻿Delphos,﻿OH,,40.8435708,-84.3345305,,,,﻿a_j_hoeffel_001,﻿Rev.,﻿A. J. Hoeffel,,﻿Dean,,,,,,1870,﻿,﻿,﻿Cleveland,Cleveland
 ﻿cle.oh.0053,﻿church,﻿St. John the Baptist,English,,﻿Delphos (near),,,,﻿Delphos,﻿Delphos,﻿OH,,40.843383,-84.341618,,,,﻿fid_brem_001,﻿Rev.,﻿Fidelis Brem,,,,,,,,1870,﻿,﻿,﻿Cleveland,Cleveland
 ﻿cle.oh.0054,﻿church,﻿St. Peter's,English,,,,,﻿Wayne County,﻿Doylestown,﻿Doylestown,﻿OH,,40.9700549,-81.6965168,,,,﻿d_kolopp_001,﻿Rev.,﻿D. Kolopp,,,,,,,,1870,﻿,﻿,﻿Cleveland,Cleveland
-﻿cle.oh.0055,﻿church,not recorded,English,,,,,﻿Columbiana County,﻿Dungannon,﻿Dungannon,﻿OH,,40.7342266,-80.8786955,,,,﻿rwattman_001,﻿Rev.,﻿R.Wattman,,,,,,,,1870,﻿,﻿,﻿Cleveland,Cleveland
+﻿cle.oh.0055,﻿church,not recorded,English,,,,,﻿Columbiana County,﻿Dungannon,﻿Dungannon,﻿OH,,40.7342266,-80.8786955,,,,,﻿Rev.,﻿R. Wattman,,,,,,,,1870,﻿,﻿,﻿Cleveland,Cleveland
 ﻿cle.oh.0056,﻿church,not recorded,English,,,,,﻿Williams County,﻿Edgerton,﻿Edgerton,﻿OH,,41.4486619,-84.7480123,﻿cle.oh.0154,﻿attended from Stryker,,,,,,,,,,,,1870,﻿,﻿,﻿Cleveland,Cleveland
 ﻿cle.oh.0057,﻿church,﻿St. Mary's,English,,,,,﻿Lorain County,﻿Elyria,﻿Elyria,﻿OH,,41.3647744,-82.1056608,,,,﻿l_molon_001,﻿Rev.,﻿L. Molon,,,,,,,,1870,﻿,﻿,﻿Cleveland,Cleveland
 ﻿cle.oh.0058,﻿church,not recorded,English,,,,,﻿Ottawa County,﻿Elmore,﻿Elmore,﻿OH,,41.4761621,-83.2957584,﻿?,﻿attended from Toledo,,,,,,,,,,,,1870,﻿,﻿,﻿Cleveland,Cleveland
