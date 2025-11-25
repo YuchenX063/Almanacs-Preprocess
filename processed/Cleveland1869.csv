@@ -3,8 +3,8 @@
 ﻿cle.oh.0001,﻿cathedral,﻿St. John the Evangelist's,English,,,,,,﻿Cleveland,﻿Cleveland,﻿OH,,41.5030323,-81.6881089,,,,﻿j_f_gallagher_001,﻿Rev.,﻿J. Gallagher,,,,,,,,1869,﻿,﻿,﻿Cleveland,Cleveland
 ﻿cle.oh.0001,﻿cathedral,﻿St. John the Evangelist's,English,,,,,,﻿Cleveland,﻿Cleveland,﻿OH,,41.5030323,-81.6881089,,,,,﻿Rev.,﻿F. O'Riely,,,,,,,,1869,﻿,﻿,﻿Cleveland,Cleveland
 ﻿cle.oh.0001,﻿cathedral,﻿St. John the Evangelist's,English,,,,,,﻿Cleveland,﻿Cleveland,﻿OH,,41.5030323,-81.6881089,,,,,,﻿F. Berthelet,,,,,,,,1869,﻿,﻿,﻿Cleveland,Cleveland
-﻿cle.oh.0002,﻿church,﻿St. Patrick's,English,,﻿Whitman street,,,,﻿Cleveland,﻿Cleveland,﻿OH,,41.48342555,-81.71151192,,,,﻿jam_v_conlan_001,﻿Very Rev.,﻿J. Conlan,﻿V.G.,,,,,,,1869,﻿,﻿,﻿Cleveland,Cleveland
-﻿cle.oh.0002,﻿church,﻿St. Patrick's,English,,﻿Whitman street,,,,﻿Cleveland,﻿Cleveland,﻿OH,,41.48342555,-81.71151192,,,,﻿jam_v_conlan_001,﻿Rev.,﻿J. V. Conlan,,,,,,,,1869,﻿,﻿,﻿Cleveland,Cleveland
+﻿cle.oh.0002,﻿church,﻿St. Patrick's,English,,"﻿Whitman street, W.S.",,,,﻿Cleveland,﻿Cleveland,﻿OH,,41.48342555,-81.71151192,,,,﻿j_conlan_001,﻿Very Rev.,﻿J. Conlan,﻿V.G.,,,,,,,1869,﻿,﻿,﻿Cleveland,Cleveland
+﻿cle.oh.0002,﻿church,﻿St. Patrick's,English,,"﻿Whitman street, W.S.",,,,﻿Cleveland,﻿Cleveland,﻿OH,,41.48342555,-81.71151192,,,,﻿j_v_conlan_001,﻿Rev.,﻿J. V. Conlan,,,,,,,,1869,﻿,﻿,﻿Cleveland,Cleveland
 ﻿cle.oh.0003,﻿church,﻿St. Mary's of the Assumption,English,,﻿West Side,,,,﻿Cleveland,﻿Cleveland,﻿OH,,41.560673,-81.573232,,,,﻿ste_falk_001,﻿Rev.,﻿F. Falk,,,,,,,,1869,﻿,﻿,﻿Cleveland,Cleveland
 ﻿cle.oh.0006,﻿church,﻿St. Bridget's,English,,,,,,﻿Cleveland,﻿Cleveland,﻿OH,,41.4086586,-81.7595426,,,,,﻿Rev.,﻿J. Monahan,,,,,,,,1869,﻿,﻿,﻿Cleveland,Cleveland
 ﻿cle.oh.0007,﻿church,﻿Immaculate Conception,English,,,,,,﻿Cleveland,﻿Cleveland,﻿OH,,41.51475328,-81.6610098,,,,,﻿Rev.,﻿A. Sauvadet,,,,,,,,1869,﻿,﻿,﻿Cleveland,Cleveland
@@ -116,7 +116,7 @@
 ﻿cle.oh.0114,﻿church,﻿Holy Family,English,,,,,﻿Putnam County,﻿New Cleveland,﻿New Cleveland,﻿OH,,41.0648698,-84.0435948,,,,,﻿Rev.,﻿Sabastian Ganter,,,,,,,,1869,﻿,﻿,﻿Cleveland,Cleveland
 ﻿cle.oh.0112,﻿church,not recorded,English,,,,,﻿Stark County,﻿New Berlin,﻿North Canton,﻿OH,,40.875891,-81.4023356,﻿?,﻿attended from Canton,,,,,,,,,,,,1869,﻿,﻿,﻿Cleveland,Cleveland
 ﻿cle.oh.0121,﻿church,﻿St. Patrick's,English,,,,,﻿Huron County,﻿Norwalk,﻿Norwalk,﻿OH,,41.2425531,-82.6157331,,,,﻿t_hally_001,﻿Rev.,﻿T. Hally,,,,,,,,1869,﻿,﻿,﻿Cleveland,Cleveland
-﻿cle.oh.0121,﻿church,﻿St. Peter's,English,,,,,﻿Huron County,﻿Norwalk,﻿Norwalk,﻿OH,,41.2425531,-82.6157331,,,,,﻿Rev.,﻿R. A. Magenhan,,,,,,,,1869,﻿,﻿,﻿Cleveland,Cleveland
+﻿cle.oh.0122&0123,﻿church,﻿St. Peter's,English,,,,,﻿Huron County,﻿Norwalk,﻿Norwalk,﻿OH,,41.2425531,-82.6157331,,,,,﻿Rev.,﻿R. A. Magenhan,,,,,,,,1869,﻿,﻿,﻿Cleveland,Cleveland
 ﻿cle.oh.0115,﻿church,not recorded,English,,,,,﻿Huron County,﻿New London,﻿New London,﻿OH,,41.0850542,-82.3998887,﻿cle.oh.0138,﻿attended from Rawsonville,,,,,,,,,,,,1869,﻿,﻿,﻿Cleveland,Cleveland
 ﻿cle.oh.0119,﻿church,not recorded,English,,,,,﻿Trumbull County,﻿Niles,﻿Niles,﻿OH,,41.1828353,-80.765358,,,,,﻿Rev.,﻿Alexander Sidley,,,,,,,,1869,﻿,﻿,﻿Cleveland,Cleveland
 ﻿cle.oh.0116,﻿church,not recorded,English,,,,,﻿Summit County,﻿New Portage,﻿Barberton,﻿OH,,41.012833,-81.6051221,﻿cle.oh.0017,﻿attended from Akron,,,,,,,,,,,,1869,﻿,﻿,﻿Cleveland,Cleveland
@@ -127,6 +127,7 @@
 ﻿cle.oh.0128,﻿church,not recorded,English,,,,﻿Van Wert County,﻿Putnam County,﻿Ottoville,﻿Ottoville,﻿OH,,40.9322722,-84.3388383,,,,﻿mic_miller_001,﻿Rev.,﻿Michael Miller,,,,,,,,1869,﻿,﻿,﻿Cleveland,Cleveland
 ﻿cle.oh.0127,﻿church,not recorded,English,,,,,﻿Wayne County,﻿Onaville,﻿Orrville,﻿OH,,40.85,-81.761111,﻿cle.oh.0181,﻿attended from Wooster,,,,,,,,,,,,1869,﻿,﻿,﻿Cleveland,Cleveland
 ﻿cle.oh.0125,﻿church,not recorded,English,,,,,﻿Lorain County,﻿Oberlin,﻿Oberlin,﻿OH,,41.2939386,-82.2173786,﻿cle.oh.0138,﻿attended from Rawsonville,,,,,,,,,,,,1869,﻿,﻿,﻿Cleveland,Cleveland
+﻿cle.oh.0133,﻿church,not recorded,English,,,,,﻿Henry County,﻿Poplar Ridge,﻿New Bavaria,﻿OH,,41.19591957,-84.1324399,,,,,,,,,,,,,,1869,﻿,﻿,﻿Cleveland,Cleveland
 ﻿cle.oh.0131,﻿church,﻿St. Alphonsus',English,,,,,﻿Huron County,﻿Peru,﻿Peru Township,﻿OH,,41.2023673,-82.6380661,,,,﻿cha_evrard_001,﻿Rev.,﻿Ch. Evrard,,,,,,,,1869,﻿,﻿,﻿Cleveland,Cleveland
 ﻿cle.oh.0129,﻿church,not recorded,English,,,,,﻿Lake County,﻿Painesville,﻿Painesville,﻿OH,,41.7244885,-81.245657,,,,,﻿Rev.,﻿C. Coquerelle,,,,,,,,1869,﻿,﻿,﻿Cleveland,Cleveland
 ﻿cle.oh.0132,﻿church,not recorded,English,,,,,﻿Wood County,﻿Perrysburgh,﻿Perrysburg,﻿OH,,41.556996,-83.627157,,,,﻿cha_griss_001,﻿Rev.,﻿Ch. Griss,,,,,,,,1869,﻿,﻿,﻿Cleveland,Cleveland
