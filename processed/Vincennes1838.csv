@@ -4,15 +4,15 @@
 ﻿vin.in.0001,﻿cathedral,﻿Cathderal of St. Frances Xavier,English,,,,,﻿Knox County,﻿Vincennes,,﻿IN,,38.679024,-87.53415,,,,﻿n_omeara_901,﻿Rev.,﻿N. O'Meara,,,,,,,,1838,,﻿,﻿,﻿Vincennes,Vincennes
 ﻿vin.in.0001,﻿cathedral,﻿Cathderal of St. Frances Xavier,English,,,,,﻿Knox County,﻿Vincennes,,﻿IN,,38.679024,-87.53415,,,,﻿a_deydier_901,﻿Rev.,﻿A. Deydier,,,,,,,,1838,,﻿,﻿,﻿Vincennes,Vincennes
 ﻿vin.in.9005,﻿church,not recorded,English,,﻿Duchee River,,,,,,﻿IN,,38.679024,-87.53415,﻿vin.in.0001,﻿attended from Vincennes,,,,,,,,,,,,1838,,﻿,﻿,﻿Vincennes,Vincennes
-﻿vin.in.9005,﻿church,not recorded,English,,﻿Duchee River,,,,﻿Carlisle,,﻿IN,,38.679024,-87.53415,﻿vin.in.0001,﻿attended from Vincennes,,,,,,,,,,,,1838,,﻿,﻿,﻿Vincennes,Vincennes
-﻿vin.in.9024,﻿church,not recorded,English,,,,,,﻿Merom,,﻿IN,,38.679024,-87.53415,﻿vin.in.0001,﻿attended from Vincennes,,,,,,,,,,,,1838,,﻿,﻿,﻿Vincennes,Vincennes
-﻿vin.in.9026,﻿church,not recorded,English,,,,,,﻿Shaker's Prairie,,﻿IN,,38.679024,-87.53415,﻿vin.in.0001,﻿attended from Vincennes,,,,,,,,,,,,1838,,﻿,﻿,﻿Vincennes,Vincennes
+﻿for.in.0022,﻿church,not recorded,English,,,,,,﻿Carlisle,,﻿IN,,38.96295112,-87.39973797,﻿vin.in.0001,﻿attended from Vincennes,,,,,,,,,,,,1838,,﻿,﻿,﻿Vincennes,Vincennes
+﻿vin.in.9024,﻿church,not recorded,English,,,,,,﻿Merom,,﻿IN,,38.96295112,-87.39973797,﻿vin.in.0001,﻿attended from Vincennes,,,,,,,,,,,,1838,﻿https://wvcf.org/sullivan-community-tour-1/,﻿,﻿,﻿Vincennes,Vincennes
+﻿vin.in.9026,﻿church,not recorded,English,,,,,,﻿Shaker's Prairie,,﻿IN,,38.96295112,-87.39973797,﻿vin.in.0001,﻿attended from Vincennes,,,,,,,,,,,,1838,,﻿,﻿,﻿Vincennes,Vincennes
 ﻿alt.il.9011,﻿church,not recorded,English,,,,,,﻿Lawrenceville,,﻿IL,,38.731884,-87.688498,﻿vin.in.0001,﻿attended from Vincennes,,,,,,,,,,,,1838,,﻿,﻿,﻿Vincennes,Vincennes
 ﻿alt.il.9011,﻿church,﻿St. Patrick's,English,,,,﻿Davies County,,﻿Lawrenceville,﻿Montgomery,﻿IN,,38.731884,-87.688498,,,,﻿mau_s_palais_901,﻿Rev.,﻿Maurice St. Palais,,,,,,,,1838,﻿https://stpetermontgomery.org/church-history/st-peters-history/,﻿,﻿,﻿Vincennes,Vincennes
 ﻿alt.il.9011,﻿church,﻿St. Patrick's,English,,,,﻿Davies County,,﻿Lawrenceville,﻿Montgomery,﻿IN,,38.731884,-87.688498,,,,﻿vin_baquelin_901,﻿Rev.,﻿Vincent Baquelin,,,,,,,,1838,,﻿,﻿,﻿Vincennes,Vincennes
 ﻿vin.in.9003,﻿church,﻿St. Mary's,English,,,,﻿Davies County,,,,﻿IN,,38.731884,-87.688498,,,,﻿mau_s_palais_901,﻿Rev.,﻿Maurice St. Palais,,,,,,,,1838,,﻿,﻿,﻿Vincennes,Vincennes
 ﻿vin.in.9003,﻿church,﻿St. Mary's,English,,,,﻿Davies County,,,,﻿IN,,38.731884,-87.688498,,,,﻿vin_baquelin_901,﻿Rev.,﻿Vincent Baquelin,,,,,,,,1838,,﻿,﻿,﻿Vincennes,Vincennes
-﻿vin.in.9027,﻿church,not recorded,English,,,,﻿Davies County,,﻿Washington,,﻿IN,,38.731884,-87.688498,,,,﻿sim_lalumiere_901,﻿Rev.,﻿Simon Lalumiere,,,,,,,,1838,,﻿,﻿,﻿Vincennes,Vincennes
+﻿vin.in.0171,﻿church,not recorded,English,,,,﻿Davies County,,﻿Washington,,﻿IN,,38.731884,-87.688498,,,,﻿sim_lalumiere_901,﻿Rev.,﻿Simon Lalumiere,,,,,,,,1838,,﻿,﻿,﻿Vincennes,Vincennes
 ﻿vin.in.0093,﻿station,not recorded,English,,,,,,﻿Mount Pleasant,,﻿IN,,38.731884,-87.688498,,,﻿occasionally visited,,,,,,,,,,,1838,"﻿https://en.wikipedia.org/wiki/Mount_Pleasant_Township,_Delaware_County,_Indiana",﻿,﻿,﻿Vincennes,Vincennes
 ﻿vin.in.0093,﻿station,not recorded,English,,,,,,﻿Jasper,,﻿IN,,38.731884,-87.688498,,,﻿occasionally visited,,,,,,,,,,,1838,,﻿,﻿,﻿Vincennes,Vincennes
 ﻿for.in.0081,﻿church,not recorded,English,,,,,,﻿Logansport,,﻿IN,,40.752475,-86.375266,,,,﻿cla_francois_901,﻿Rev.,﻿Claude Francois,,,,,,,,1838,,﻿,﻿,﻿Vincennes,Vincennes
