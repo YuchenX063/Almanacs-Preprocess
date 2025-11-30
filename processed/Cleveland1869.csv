@@ -1,7 +1,7 @@
 ﻿instID,church_type,instName,language,instNote,placeName,region,county_orig,county_reg,city_orig,city_reg,state_orig,state_reg,latitude,longitude,attendingInstID,attendingChurch,attendingChurchFrequency,persID,persTitle,persName,persSuffix,persRole,persNote,memberType,member,affiliated,order,year,attendingPersID,attendingChurchNote,diocese,diocese_reg
 ﻿cle.oh.0001,﻿cathedral,﻿St. John the Evangelist's,English,,,,,,﻿Cleveland,﻿Cleveland,﻿OH,,41.5030323,-81.6881089,,,,﻿a_rappe_001,﻿Rt. Rev.,﻿A. Rappe,﻿D.D.,,,,,,,1869,﻿,﻿,﻿Cleveland,Cleveland
 ﻿cle.oh.0001,﻿cathedral,﻿St. John the Evangelist's,English,,,,,,﻿Cleveland,﻿Cleveland,﻿OH,,41.5030323,-81.6881089,,,,﻿j_f_gallagher_001,﻿Rev.,﻿J. Gallagher,,,,,,,,1869,﻿,﻿,﻿Cleveland,Cleveland
-﻿cle.oh.0001,﻿cathedral,﻿St. John the Evangelist's,English,,,,,,﻿Cleveland,﻿Cleveland,﻿OH,,41.5030323,-81.6881089,,,,﻿f_oriely_001,﻿Rev.,﻿F. O'Riely,,,,,,,,1869,﻿,﻿,﻿Cleveland,Cleveland
+﻿cle.oh.0001,﻿cathedral,﻿St. John the Evangelist's,English,,,,,,﻿Cleveland,﻿Cleveland,﻿OH,,41.5030323,-81.6881089,,,,,﻿Rev.,﻿F. O'Riely,,,,,,,,1869,﻿,﻿,﻿Cleveland,Cleveland
 ﻿cle.oh.0001,﻿cathedral,﻿St. John the Evangelist's,English,,,,,,﻿Cleveland,﻿Cleveland,﻿OH,,41.5030323,-81.6881089,,,,,,﻿F. Berthelet,,,,,,,,1869,﻿,﻿,﻿Cleveland,Cleveland
 ﻿cle.oh.0002,﻿church,﻿St. Patrick's,English,,"﻿Whitman street, W.S.",,,,﻿Cleveland,﻿Cleveland,﻿OH,,41.48342555,-81.71151192,,,,﻿j_conlan_001,﻿Very Rev.,﻿J. Conlan,﻿V.G.,,,,,,,1869,﻿,﻿,﻿Cleveland,Cleveland
 ﻿cle.oh.0002,﻿church,﻿St. Patrick's,English,,"﻿Whitman street, W.S.",,,,﻿Cleveland,﻿Cleveland,﻿OH,,41.48342555,-81.71151192,,,,﻿j_v_conlan_001,﻿Rev.,﻿J. V. Conlan,,,,,,,,1869,﻿,﻿,﻿Cleveland,Cleveland
@@ -158,7 +158,7 @@
 ﻿cle.oh.0158,﻿church,﻿St. Mary's,English,,,,,﻿Seneca County,﻿Tiffin,﻿Tiffin,﻿OH,,41.1172573,-83.1838661,,,,﻿mic_healy_001,﻿Rev.,﻿Michael Healy,,﻿Dean,,,,,,1869,﻿,﻿,﻿Cleveland,Cleveland
 ﻿cle.oh.0159,﻿church,﻿St. Joseph's,English,,,,,﻿Seneca County,﻿Tiffin,﻿Tiffin,﻿OH,,41.108735,-83.1752995,,,,﻿jos_bihn_001,﻿Rev.,﻿J. Behn,,,,,,,,1869,﻿,﻿,﻿Cleveland,Cleveland
 ﻿cle.oh.0162,﻿church,﻿St. Francis of Sales,English,,,,,﻿Lucas County,﻿Toledo,﻿Toledo,﻿OH,,41.6627992,-83.598385,,,,﻿f_boff_001,﻿Rev.,﻿F. Boff,,﻿Dean,,,,,,1869,﻿,﻿,﻿Cleveland,Cleveland
-﻿cle.oh.0162,﻿church,﻿St. Aloysius',English,,,,,﻿Lucas County,﻿Toledo,﻿Toledo,﻿OH,,41.6627992,-83.598385,,,,,﻿Rev.,﻿C. Viere,,,,,,,,1869,﻿,﻿,﻿Cleveland,Cleveland
+﻿cle.oh.0162,﻿church,﻿St. Aloysius',English,,,,,﻿Lucas County,﻿Toledo,﻿Toledo,﻿OH,,41.6627992,-83.598385,,,,﻿c_viere_001,﻿Rev.,﻿C. Viere,,,,,,,,1869,﻿,﻿,﻿Cleveland,Cleveland
 ﻿cle.oh.0167,﻿church,not recorded,﻿French,,,,,﻿Lucas County,﻿Toledo,﻿Toledo,﻿OH,,41.6528052,-83.5378674,,,,,﻿Rev.,﻿C. Wardy,,,,,,,,1869,﻿,﻿,﻿Cleveland,Cleveland
 ﻿cle.oh.0164,﻿chapel,﻿St. Patrick's,English,,,,,﻿Lucas County,﻿Toledo,﻿Toledo,﻿OH,,41.6489905,-83.5460267,,,,﻿e_hannin_001,﻿Rev.,﻿E. Hannon,,,,,,,,1869,﻿,﻿,﻿Cleveland,Cleveland
 ﻿cle.oh.0168,﻿church,﻿Chapels of Ursuline and Gray Nuns,English,,,,,﻿Lucas County,﻿Toledo,﻿Toledo,﻿OH,,41.6800973,-83.5957565,﻿cle.oh.0186,﻿attended by Rev. F. Wardy,,,,,,,,,,﻿attended by the Jesuit Fathers,,1869,﻿,﻿,﻿Cleveland,Cleveland

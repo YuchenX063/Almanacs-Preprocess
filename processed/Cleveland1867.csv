@@ -1,5 +1,20 @@
 ﻿instID,church_type,instName,language,instNote,placeName,region,county_orig,county_reg,city_orig,city_reg,state_orig,state_reg,latitude,longitude,attendingInstID,attendingChurch,attendingChurchFrequency,persID,persTitle,persName,persSuffix,persRole,persNote,memberType,member,affiliated,order,year,attendingPersID,attendingChurchNote,diocese,diocese_reg
 ﻿cle.oh.0001,﻿cathedral,﻿St. John the Evangelist's,English,,,,,,﻿Cleveland,﻿Cleveland,﻿OH,,41.5030323,-81.6881089,,,,﻿a_rappe_001,﻿Rt. Rev.,﻿A. Rappe,﻿D.D.,,,,,,,1867,﻿,﻿,﻿Cleveland,Cleveland
 ﻿cle.oh.0001,﻿cathedral,﻿St. John the Evangelist's,English,,,,,,﻿Cleveland,﻿Cleveland,﻿OH,,41.5030323,-81.6881089,,,,,﻿Very Rev.,﻿A. Caron,,,,,,,,1867,﻿,﻿,﻿Cleveland,Cleveland
-﻿cle.oh.0001,﻿cathedral,﻿St. John the Evangelist's,English,,,,,,﻿Cleveland,﻿Cleveland,﻿OH,,41.5030323,-81.6881089,,,,,﻿Rev.,﻿----- O'Reilly,,,,,,,,1867,﻿,﻿,﻿Cleveland,Cleveland
+﻿cle.oh.0001,﻿cathedral,﻿St. John the Evangelist's,English,,,,,,﻿Cleveland,﻿Cleveland,﻿OH,,41.5030323,-81.6881089,,,,﻿f_oriely_001,﻿Rev.,﻿----- O'Reilly,,,,,,,,1867,﻿,﻿,﻿Cleveland,Cleveland
 ﻿cle.oh.0001,﻿cathedral,﻿St. John the Evangelist's,English,,,,,,﻿Cleveland,﻿Cleveland,﻿OH,,41.5030323,-81.6881089,,,,,﻿Rev.,﻿F. Gallagher,,,,,,,,1867,﻿,﻿,﻿Cleveland,Cleveland
+﻿cle.oh.0002,﻿church,﻿St. Patrick's,English,,"﻿Bridge street, W.S.",,,,﻿Cleveland,﻿Cleveland,﻿OH,,41.48342555,-81.71151192,,,,﻿j_conlan_001,﻿Very Rev.,﻿J. Conlan,,,,,,,,1867,﻿,﻿,﻿Cleveland,Cleveland
+﻿cle.oh.0002,﻿church,﻿St. Patrick's,English,,"﻿Bridge street, W.S.",,,,﻿Cleveland,﻿Cleveland,﻿OH,,41.48342555,-81.71151192,,,,﻿j_v_conlan_001,﻿Rev.,﻿J. V. Conlan,,,,,,,,1867,﻿,﻿,﻿Cleveland,Cleveland
+﻿cle.oh.0003,﻿church,﻿St. Mary's of the Assumption,English,,﻿West Side,,,,﻿Cleveland,﻿Cleveland,﻿OH,,41.560673,-81.573232,,,,﻿ste_falk_001,﻿Rev.,﻿F. Falk,,,,,,,,1867,﻿,﻿,﻿Cleveland,Cleveland
+﻿cle.oh.0006,﻿church,﻿St. Bridget's,English,,﻿Perry street,,,,﻿Cleveland,﻿Cleveland,﻿OH,,41.4086586,-81.7595426,,,,,﻿Rev.,﻿J. Monahan,,,,,,,,1867,﻿,﻿,﻿Cleveland,Cleveland
+﻿cle.oh.0007,﻿church,﻿Immaculate Conception,English,,,,,,﻿Cleveland,﻿Cleveland,﻿OH,,41.51475328,-81.6610098,,,,,﻿Rev.,﻿A. Sauvadet,,,,,,,,1867,﻿,﻿,﻿Cleveland,Cleveland
+﻿cle.oh.0008,﻿church,﻿St. Augustine's,English,,﻿University Heights,,,,﻿Cleveland,﻿Cleveland,﻿OH,,41.47864034,-81.6859519,,﻿attended from Cathedral,,,,,,,,,,,,1867,﻿,﻿,﻿Cleveland,Cleveland
+﻿cle.oh.0008,﻿church,﻿St. Peter's,English,,﻿Dodge street,,,,﻿Cleveland,﻿Cleveland,﻿OH,,41.47864034,-81.6859519,,,,,﻿Rev.,﻿J. Luhr,,,,,,,,1867,﻿,﻿,﻿Cleveland,Cleveland
+﻿cle.oh.0008,﻿church,﻿St. Joseph's,English,,﻿Kingsman street,,,,﻿Cleveland,﻿Cleveland,﻿OH,,41.47864034,-81.6859519,,,,,﻿Rev.,﻿A. Kräsny,,,,,,﻿Francisan Fathers,,1867,﻿,﻿,﻿Cleveland,Cleveland
+﻿cle.oh.0010,﻿chapel,﻿St. Mary's,English,,﻿Columbus street,,,,﻿Cleveland,﻿Cleveland,﻿OH,,41.49057516,-81.69459997,,,,,﻿Rev.,﻿J. Molony,,,,,,,,1867,﻿,﻿,﻿Cleveland,Cleveland
+﻿cle.oh.0010,﻿chapel,﻿St. Mary's,English,,﻿Columbus street,,,,﻿Cleveland,﻿Cleveland,﻿OH,,41.49057516,-81.69459997,,,,,﻿Very Rev.,﻿A. Caron,,,,,,,,1867,﻿,﻿,﻿Cleveland,Cleveland
+﻿chl.oh.0012&0013,"﻿convent, female orphan asylum",﻿Ursuline Convent and Female Orphan Asylum,English,,,,,,﻿Cleveland,﻿Cleveland,﻿OH,,41.49057516,-81.69459997,,﻿attended from the Cathedral,,,,,,,,,,,,1867,﻿,﻿,﻿Cleveland,Cleveland
+﻿cle.oh.0016,﻿male orphan asylum,﻿St. Vincent's Male Orphan Asylum,English,,﻿West side,,,,﻿Cleveland,﻿Cleveland,﻿OH,,41.49932,-81.6943605,﻿cle.oh.0002,﻿attended from St. Patrick's,,,,,,,,,,,,1867,﻿,﻿,﻿Cleveland,Cleveland
+﻿cle.oh.0017,﻿church,﻿St. Vincent's,English,,,,,﻿Summit County,﻿Akron,﻿Akron,﻿OH,,41.1368367,-81.5987268,,,,﻿m_a_scanlan_001,﻿Rev.,﻿M. A. Scanlan,,,,,,,,1867,﻿,﻿,﻿Cleveland,Cleveland
+﻿cle.oh.0018,﻿church,﻿St. Bernard's,English,,,,,﻿Summit County,﻿Akron,﻿Akron,﻿OH,,41.0785763,-81.5186511,,,,﻿j_braun_001,﻿Rev.,﻿J. Brown,,,,,,,,1867,﻿,﻿,﻿Cleveland,Cleveland
+﻿cle.oh.0025,﻿church,﻿Trinity Church,English,,,,,﻿Lorain County,﻿Avon,﻿Avon,﻿OH,,41.452578,-81.9896439,,,,,﻿Rev.,﻿N. Smith,,,,,,,,1867,﻿,﻿,﻿Cleveland,Cleveland
