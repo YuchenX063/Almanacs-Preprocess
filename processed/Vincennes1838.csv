@@ -15,11 +15,11 @@
 ﻿vin.in.0171,﻿church,not recorded,English,,,,﻿Davies County,,﻿Washington,,﻿IN,,38.731884,-87.688498,,,,﻿sim_lalumiere_901,﻿Rev.,﻿Simon Lalumiere,,,,,,,,1838,,﻿,﻿,﻿Vincennes,Vincennes
 ﻿vin.in.0093,﻿station,not recorded,English,,,,,,﻿Mount Pleasant,,﻿IN,,38.731884,-87.688498,,,﻿occasionally visited,,,,,,,,,,,1838,"﻿https://en.wikipedia.org/wiki/Mount_Pleasant_Township,_Delaware_County,_Indiana",﻿,﻿,﻿Vincennes,Vincennes
 ﻿vin.in.0093,﻿station,not recorded,English,,,,,,﻿Jasper,,﻿IN,,38.731884,-87.688498,,,﻿occasionally visited,,,,,,,,,,,1838,,﻿,﻿,﻿Vincennes,Vincennes
-﻿for.in.0081,﻿church,not recorded,English,,,,,,﻿Logansport,,﻿IN,,40.752475,-86.375266,,,,,﻿Rev.,﻿Claude François,,,,,,,,1838,,﻿,﻿,﻿Vincennes,Vincennes
-﻿for.in.0066,﻿church,not recorded,English,,,,,,﻿Lafayette,,﻿IN,,40.752475,-86.375266,,,,,﻿Rev.,﻿Claude François,,,,,,,,1838,,﻿,﻿,﻿Vincennes,Vincennes
-﻿for.in.0109,﻿church,not recorded,English,,,,,,﻿Peru,,﻿IN,,40.752475,-86.375266,,,,,﻿Rev.,﻿Claude François,,,,,,,,1838,,﻿,﻿,﻿Vincennes,Vincennes
-﻿for.in.0109,﻿church,not recorded,English,,,,,,﻿Williamsport,,﻿IN,,40.752475,-86.375266,,,,,﻿Rev.,﻿Claude François,,,,,,,,1838,,﻿,﻿,﻿Vincennes,Vincennes
-﻿vin.in.9013,﻿church,not recorded,English,,,,,,﻿Miami,,﻿IN,,40.752475,-86.375266,,,,,﻿Rev.,﻿Claude François,,,,,,,,1838,,﻿,﻿,﻿Vincennes,Vincennes
+﻿for.in.0081,﻿church,not recorded,English,,,,,,﻿Logansport,,﻿IN,,40.752475,-86.375266,,,,﻿cla_françois_901,﻿Rev.,﻿Claude François,,,,,,,,1838,,﻿,﻿,﻿Vincennes,Vincennes
+﻿for.in.0066,﻿church,not recorded,English,,,,,,﻿Lafayette,,﻿IN,,40.752475,-86.375266,,,,﻿cla_françois_901,﻿Rev.,﻿Claude François,,,,,,,,1838,,﻿,﻿,﻿Vincennes,Vincennes
+﻿for.in.0109,﻿church,not recorded,English,,,,,,﻿Peru,,﻿IN,,40.752475,-86.375266,,,,﻿cla_françois_901,﻿Rev.,﻿Claude François,,,,,,,,1838,,﻿,﻿,﻿Vincennes,Vincennes
+﻿for.in.0109,﻿church,not recorded,English,,,,,,﻿Williamsport,,﻿IN,,40.752475,-86.375266,,,,﻿cla_françois_901,﻿Rev.,﻿Claude François,,,,,,,,1838,,﻿,﻿,﻿Vincennes,Vincennes
+﻿vin.in.9013,﻿church,not recorded,English,,,,,,﻿Miami,,﻿IN,,40.752475,-86.375266,,,,﻿cla_françois_901,﻿Rev.,﻿Claude François,,,,,,,,1838,,﻿,﻿,﻿Vincennes,Vincennes
 ﻿vin.in.0081,﻿church,not recorded,English,"﻿This mission embraces Shelbyville, Columbus, Indianapolis, &c.",,,,,﻿Madison,,﻿IN,,40.752475,-86.375266,,,,﻿mic_e_shaw_901,﻿Rev.,﻿Michael E. Shaw,,,,,,,,1838,﻿https://sites.google.com/view/historicmadisoninc/hmi-properties/st-michael-the-archangel,﻿,﻿,﻿Vincennes,Vincennes
 ﻿vin.in.9011,﻿church,not recorded,English,,,,﻿Floyd County,,﻿New Albany,,﻿IN,,40.752475,-86.375266,,,,﻿lou_j_neyron_901,﻿Rev.,﻿Louis J. Neyron,,,,,,,,1838,,﻿,﻿,﻿Vincennes,Vincennes
 ﻿alt.il.9010,﻿church,not recorded,English,,,,﻿Floyd County,,﻿the Knobs,﻿Floyds Knobs,﻿IN,,40.752475,-86.375266,,,,﻿lou_j_neyron_901,﻿Rev.,﻿Louis J. Neyron,,,,,,,,1838,,﻿,﻿,﻿Vincennes,Vincennes
@@ -29,7 +29,7 @@
 ﻿vin.in.0100,﻿church,﻿St. Paul's,English,"﻿This mission embraces Salt River, Richmond, Brookville, and Lawrenceburg",,,﻿Dearborn County,,﻿New Alsace,,﻿IN,,40.752475,-86.375266,,,,﻿jos_ferneding_901,﻿Rev.,﻿Joseph Ferneding,,,,,,,,1838,,﻿,﻿,﻿Vincennes,Vincennes
 ﻿vin.in.0100,﻿church,﻿St. Paul's,English,"﻿This mission embraces Salt River, Richmond, Brookville, and Lawrenceburg",,,﻿Dearborn County,,﻿New Alsace,,﻿IN,,40.752475,-86.375266,,,,﻿sta_buteux_901,﻿Rev.,﻿N. Schniederjans,,,,,,,,1838,,﻿,﻿,﻿Vincennes,Vincennes
 ﻿vin.in.0033,﻿church,﻿St. John's,English,,,,﻿Dearborn County,,﻿Dover,,﻿IN,,40.752475,-86.375266,,,,﻿jos_ferneding_901,﻿Rev.,﻿Joseph Ferneding,,,,,,,,1838,,﻿,﻿,﻿Vincennes,Vincennes
-﻿vin.in.0033,﻿church,﻿St. John's,English,,,,﻿Dearborn County,,﻿Dover,,﻿IN,,40.752475,-86.375266,,,,,﻿Rev.,﻿N. Schniederjans,,,,,,,,1838,,﻿,﻿,﻿Vincennes,Vincennes
+﻿vin.in.0033,﻿church,﻿St. John's,English,,,,﻿Dearborn County,,﻿Dover,,﻿IN,,40.752475,-86.375266,,,,﻿n_schniederjans_901,﻿Rev.,﻿N. Schniederjans,,,,,,,,1838,,﻿,﻿,﻿Vincennes,Vincennes
 ﻿vin.in.9023,﻿church,not recorded,English,,,,,,﻿Terrehaute,﻿Terre Haute,﻿IN,,40.752475,-86.375266,,,,﻿s_buteux_901,﻿Rev.,﻿S. Buteux,,,﻿also attends at Thrall's Church,,,,,1838,,﻿,﻿,﻿Vincennes,Vincennes
 ﻿vin.in.0148,﻿church,not recorded,English,,﻿Thrall's Church,,,,,,﻿IN,,40.752475,-86.375266,,,﻿attend[ed] by Rev. S. Buteux,﻿s_buteux_901,﻿Rev.,﻿S. Buteux,,,,,,,,1838,﻿https://spsmw.org/about/history/ ; https://www.archindy.org/criterion/local/2012/10-05/history.html,﻿,﻿,﻿Vincennes,Vincennes
 ﻿vin.in.0148,﻿church,not recorded,English,,﻿Yellow River,,,,﻿Plymouth,,﻿IN,,40.752475,-86.375266,,,,,,,,,,,,,,1838,,﻿,﻿,﻿Vincennes,Vincennes
