@@ -36,7 +36,7 @@
 ﻿alt.il.0032,﻿church,﻿Immaculate Conception,English,,,,﻿Monroe County,﻿Monroe County,﻿Columbia,﻿Columbia,﻿IL,,,,,,,﻿jul_maurer_001,﻿Rev.,﻿Julius Maurer,,,,,,,,1869,﻿,﻿,﻿Alton,Alton
 ﻿alt.il.0033,﻿church,﻿St. Damian's,English,,,,﻿Clinton County,﻿Clinton County,﻿Damiansville,﻿Damiansville,﻿IL,,,,,,,﻿f_chmelicék_001,﻿Rev.,﻿F. Chmelicék,,,,,,,,1869,﻿,﻿,﻿Alton,Alton
 ﻿alt.il.0034,﻿church,﻿St. Patrick's,English,,,,﻿Macon County,﻿Macon County,﻿Decatur,﻿Decatur,﻿IL,,,,,,,﻿a_vogt_001,﻿Rev.,﻿A. Vogt,,,,,,,,1869,﻿,﻿,﻿Alton,Alton
-﻿alt.il.0034,﻿church,﻿St. Patrick's,English,,,,﻿Macon County,﻿Macon County,﻿Decatur,﻿Decatur,﻿IL,,,,,,,﻿r_grant_001,﻿Rev.,﻿R. Grant,,,,,,,,1869,﻿,﻿,﻿Alton,Alton
+﻿alt.il.0034,﻿church,﻿St. Patrick's,English,,,,﻿Macon County,﻿Macon County,﻿Decatur,﻿Decatur,﻿IL,,,,,,,﻿ric_grant_001,﻿Rev.,﻿R. Grant,,,,,,,,1869,﻿,﻿,﻿Alton,Alton
 ﻿alt.il.0035,﻿church,﻿St. Patrick's,English,,,,﻿White County,,﻿Dolan Settlement,,﻿IL,,,,﻿alt.il.0048,﻿Attended from St. John,,,,,,,,,,,,1869,﻿,﻿,﻿Alton,Alton
 ﻿alt.il.0036,﻿church,not recorded,English,,,,﻿Perry County,﻿Perry County,﻿Duquoin,﻿Du Quoin,﻿IL,,,,,,,﻿cha_klocke_001,﻿Rev.,﻿Charles Klocke,,,,,,,,1869,﻿,﻿,﻿Alton,Alton
 ﻿alt.il.0037,﻿church,﻿St. Patrick's,English,,,,﻿St. Clair County,﻿St. Clair County,﻿East St. Louis,﻿East St. Louis,﻿IL,,,,,,,﻿f_h_zabel_001,﻿Rev.,﻿F. H. Zabel,﻿D.D.,,,,,,,1869,﻿,﻿,﻿Alton,Alton
@@ -93,7 +93,7 @@
 ﻿alt.il.0089,﻿church,﻿St. Mary's,English,,,,﻿Pittsfield County,﻿Pike County,﻿Pike,﻿Pittsfield,﻿IL,,39.131018,-88.865679,,,,﻿f_recouvreur_001,﻿Rev.,﻿F. Recouvreur,,,,,,,,1869,﻿,﻿,﻿Alton,Alton
 ﻿alt.il.0090,﻿church,﻿St. Patrick's,English,,,,﻿Gallatin County,,﻿Pond Settlement,,﻿IL,,39.131018,-88.865679,﻿alt.il.0115,﻿Attended from Shawneetown,,,,,,,,,,,,1869,﻿,﻿,﻿Alton,Alton
 ﻿alt.il.0091,﻿church,﻿St. Augustine's,English,,﻿Heckler P.O.,,﻿Monroe County,﻿St. Clair County,﻿Prarie du Long,﻿Prairie Du Long Township,﻿IL,,39.131018,-88.865679,,,,﻿joh_berlage_001,﻿Rev.,﻿John Berlage,,,,,,,,1869,﻿,﻿,﻿Alton,Alton
-﻿alt.il.0092,﻿church,﻿St. Joseph's,English,,,,﻿Randolph County,﻿Randolph County,﻿Prarie du Rocher,﻿Prairie Du Rocher,﻿IL,,39.131018,-88.865679,,,,﻿h_fröhbose_001,﻿Rev.,﻿H. Frohboese,,,,,,,,1869,﻿,﻿,﻿Alton,Alton
+﻿alt.il.0092,﻿church,﻿St. Joseph's,English,,,,﻿Randolph County,﻿Randolph County,﻿Prarie du Rocher,﻿Prairie Du Rocher,﻿IL,,39.131018,-88.865679,,,,﻿h_frohboese_001,﻿Rev.,﻿H. Frohboese,,,,,,,,1869,﻿,﻿,﻿Alton,Alton
 ﻿alt.il.0093,﻿church,﻿St. Boniface's,English,,,,﻿Adams County,﻿Adams County,﻿Quincy,﻿Quincy,﻿IL,,39.131018,-88.865679,,,,﻿h_schäfermeyer_001,﻿Very Rev.,﻿H. Schaefermeyer,,,,,,,,1869,﻿,﻿,﻿Alton,Alton
 ﻿alt.il.0093,﻿church,﻿St. Boniface's,English,,,,﻿Adams County,﻿Adams County,﻿Quincy,﻿Quincy,﻿IL,,39.131018,-88.865679,,,,﻿w_schamoni_001,﻿Rev.,﻿W. Schamoni,,,,,,,,1869,﻿,﻿,﻿Alton,Alton
 ﻿alt.il.0093,﻿church,﻿St. Boniface's,English,,,,﻿Adams County,﻿Adams County,﻿Quincy,﻿Quincy,﻿IL,,39.131018,-88.865679,,,,﻿b_rosmoeller_001,﻿Rev.,﻿B. Rosmoeller,,,,,,,,1869,﻿,﻿,﻿Alton,Alton
@@ -215,7 +215,7 @@
 ﻿alt.il.0216,﻿convent,﻿St. Teresa's Convent of the Franciscan Fathers,English,,,,﻿Effingham County,﻿Effingham County,﻿Teutopolis,﻿Teutopolis,﻿IL,,39.75852162,-90.47123236,,,,﻿ala_andrescheck_001,﻿Rev.,﻿Alardus Andrescheck,﻿O.S.F.,,,,,,,1869,﻿,﻿,﻿Alton,Alton
 ﻿alt.il.0292,﻿residence,"﻿St. Francis Solanus, Residence of the Franciscan Fathers",English,,﻿At St. Francis Solanus Church,,﻿Adams County,﻿Adams County,﻿Quincy,﻿Quincy,﻿IL,,39.75852162,-90.47123236,,,,﻿fer_bergmeyer_001,﻿Rev.,﻿Ferdinand Bergmeyer,﻿O.S.F.,﻿Praeses,,,,,,1869,﻿,﻿,﻿Alton,Alton
 ﻿alt.il.0292,﻿residence,"﻿St. Francis Solanus, Residence of the Franciscan Fathers",English,,﻿At St. Francis Solanus Church,,﻿Adams County,﻿Adams County,﻿Quincy,﻿Quincy,﻿IL,,39.75852162,-90.47123236,,,,﻿ans_müller_001,﻿Rev.,﻿Anselmus Mueller,﻿O.S.F.,,,,,,,1869,﻿,﻿,﻿Alton,Alton
-﻿alt.il.0292,﻿residence,"﻿St. Francis Solanus, Residence of the Franciscan Fathers",English,,﻿At St. Francis Solanus Church,,﻿Adams County,﻿Adams County,﻿Quincy,﻿Quincy,﻿IL,,39.75852162,-90.47123236,,,,﻿chr_beincke_001,﻿Rev.,﻿Chrysostomus Beincke,﻿O.S.F.,,,,,,,1869,﻿,﻿,﻿Alton,Alton
+﻿alt.il.0292,﻿residence,"﻿St. Francis Solanus, Residence of the Franciscan Fathers",English,,﻿At St. Francis Solanus Church,,﻿Adams County,﻿Adams County,﻿Quincy,﻿Quincy,﻿IL,,39.75852162,-90.47123236,,,,﻿chr_beineke_001,﻿Rev.,﻿Chrysostomus Beincke,﻿O.S.F.,,,,,,,1869,﻿,﻿,﻿Alton,Alton
 ﻿alt.il.0292,﻿residence,"﻿St. Francis Solanus, Residence of the Franciscan Fathers",English,,﻿At St. Francis Solanus Church,,﻿Adams County,﻿Adams County,﻿Quincy,﻿Quincy,﻿IL,,39.75852162,-90.47123236,,,,﻿ger_becker_001,﻿Rev.,﻿Gerhardus Becker,﻿O.S.F.,,,,,,,1869,﻿,﻿,﻿Alton,Alton
 ﻿alt.il.0217,﻿college,﻿St. Joseph's Ecclesiastical College,English,,﻿At St. Francis Solanus Church,,﻿Effingham County,﻿Effingham County,﻿Teutopolis,﻿Teutopolis,﻿IL,,39.75852162,-90.47123236,,,,﻿mau_klostermann_001,﻿Rev. P.,﻿Mauritius Klostermann,,﻿Superior,,﻿boarder,﻿75 boarders,,,1869,﻿,﻿,﻿Alton,Alton
 ﻿alt.il.0217,﻿college,﻿St. Joseph's Ecclesiastical College,English,,﻿At St. Francis Solanus Church,,﻿Effingham County,﻿Effingham County,﻿Teutopolis,﻿Teutopolis,﻿IL,,39.75852162,-90.47123236,,,,,,,,,,﻿boarder,﻿75 boarders,﻿Conducted by the Franciscan Fathers,,1869,﻿,﻿,﻿Alton,Alton

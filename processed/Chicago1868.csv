@@ -73,8 +73,8 @@
 ﻿chi.il.0069,﻿church,﻿Immaculate Conception,English,,,,﻿Marshall County,﻿Marshall County,﻿Lacon,﻿Lacon,﻿IL,,﻿41.02749621,-89.40577738,,,,﻿joh_kilkenny_001,﻿Rev.,﻿John Kilkenny,,,,,,,,1868,﻿,﻿,﻿Chicago,Chicago
 ﻿chi.il.0071,﻿church,﻿St. Patrick's,English,,,,﻿La Salle County,﻿La Salle County,﻿La Salle,﻿La Salle,﻿IL,,﻿41.33178105,-89.09574784,,,,﻿mar_anthony_001,﻿Rev.,﻿Mark Anthony,﻿C.M.,,,,,,,1868,﻿,﻿,﻿Chicago,Chicago
 ﻿chi.il.0071,﻿church,﻿St. Patrick's,English,,,,﻿La Salle County,﻿La Salle County,﻿La Salle,﻿La Salle,﻿IL,,﻿41.33178105,-89.09574784,,,,﻿tho_shaw_001,﻿Rev.,﻿Thomas Shaw,﻿C.M.,,,,,,,1868,﻿,﻿,﻿Chicago,Chicago
-﻿chi.il.0073,﻿church,﻿St. Patrick's,English,,,,﻿Logan County,﻿Logan County,﻿Lincoln,﻿Lincoln,﻿IL,,﻿40.15457068,-89.36797216,,,,﻿tho_burk_001,﻿Rev.,﻿Thomas Burk,,,,,,,,1868,﻿,﻿,﻿Chicago,Chicago
-﻿chi.il.0075,﻿church,﻿St. Denis,English,,,,﻿Will County,﻿Will County,﻿Lockport,﻿Lockport,﻿IL,,﻿41.58515142,-88.05697786,,,,﻿joh_macken_001,﻿Rev.,﻿John Macken,,,,,,,,1868,﻿,﻿,﻿Chicago,Chicago
+﻿chi.il.0073,﻿church,﻿St. Patrick's,English,,,,﻿Logan County,﻿Logan County,﻿Lincoln,﻿Lincoln,﻿IL,,﻿40.15457068,-89.36797216,,,,﻿tho_c_bourk_001,﻿Rev.,﻿Thomas Burk,,,,,,,,1868,﻿,﻿,﻿Chicago,Chicago
+﻿chi.il.0075,﻿church,﻿St. Denis,English,,,,﻿Will County,﻿Will County,﻿Lockport,﻿Lockport,﻿IL,,﻿41.58515142,-88.05697786,,,,﻿joh_mackin_001,﻿Rev.,﻿John Macken,,,,,,,,1868,﻿,﻿,﻿Chicago,Chicago
 ﻿chi.il.0075,﻿church,﻿St. Denis,English,,,,﻿Will County,﻿Will County,﻿Lockport,﻿Lockport,﻿IL,,﻿41.58515142,-88.05697786,,,,﻿p_dalton_001,﻿Rev.,﻿P. Dalton,,,,,,,,1868,﻿,﻿,﻿Chicago,Chicago
 ﻿chi.il.0077,﻿church,﻿St. Paul's,English,,,,﻿McDonough,﻿McDonough County,﻿Macomb,﻿Macomb,﻿IL,,﻿40.45862934,-90.67556199,,,,﻿joh_larmer_001,﻿Rev.,﻿John Larmer,,,,,,,,1868,﻿,﻿,﻿Chicago,Chicago
 ﻿chi.il.0078,﻿church,﻿St. Patrick's,English,,,,﻿McHenry County,﻿McHenry County,﻿McHenry,﻿McHenry,﻿IL,,﻿42.34960509,-88.26293916,,,,﻿p_birch_001,﻿Rev.,﻿P. Birch,,,,,,,,1868,﻿,﻿,﻿Chicago,Chicago
@@ -88,7 +88,7 @@
 ﻿chi.il.0087,﻿church,﻿St. Peter's,﻿German,,,,﻿Du Page County,,﻿Napierville,﻿Naperville,﻿IL,,﻿41.77527567,-88.14481739,,,,﻿w_delaporte_001,﻿Rev.,﻿W. Delaporte,,,,,,,,1868,﻿,﻿,﻿Chicago,Chicago
 ﻿chi.il.0088,﻿church,﻿St. Patrick's,English,,,,﻿Hancock County,﻿Hancock County,﻿Nauvoo,﻿Nauvoo,﻿IL,,﻿40.55183391,-91.38472797,,,,﻿hen_reimbold_001,﻿Rev.,﻿Henry Reimbold,,,,,,,,1868,﻿,﻿,﻿Chicago,Chicago
 ﻿chi.il.0089,﻿church,﻿St. Mary's,English,"﻿Post Town, Eleroy",,,﻿Stephenson County,,﻿New Dublin,﻿OGLESBY??,﻿IL,,﻿41.2953126,-89.0595266,,,,﻿t_ackly_001,﻿Rev.,﻿T. Ackly,,,,,,,,1868,﻿,﻿,﻿Chicago,Chicago
-﻿chi.il.0090,﻿church,﻿St. Joseph's,English,,,,,,﻿New Strasburgh,﻿Sauk Village,﻿IL,,﻿41.48812819,-87.57680672,,,,﻿h_boers_001,﻿Rev.,﻿H. Boers,,,,,,,,1868,﻿,﻿,﻿Chicago,Chicago
+﻿chi.il.0090,﻿church,﻿St. Joseph's,English,,,,,,﻿New Strasburgh,﻿Sauk Village,﻿IL,,﻿41.48812819,-87.57680672,,,,﻿hen_boers_001,﻿Rev.,﻿H. Boers,,,,,,,,1868,﻿,﻿,﻿Chicago,Chicago
 ﻿chi.il.0091,﻿church,﻿St. Columba's,English,,,,﻿La Salle County,﻿La Salle County,﻿Ottawa,﻿Ottawa,﻿IL,,﻿41.3455892,-88.8425769,,,,﻿pat_terry_001,﻿Rev.,﻿Patrick Terry,,,,,,,,1868,﻿,﻿,﻿Chicago,Chicago
 ﻿chi.il.0091,﻿church,﻿St. Columba's,English,,,,﻿La Salle County,﻿La Salle County,﻿Ottawa,﻿Ottawa,﻿IL,,﻿41.3455892,-88.8425769,,,,﻿edw_terry_001,﻿Rev.,﻿Edward Terry,,,,,,,,1868,﻿,﻿,﻿Chicago,Chicago
 ﻿chi.il.0092,﻿church,not recorded,﻿German,,,,﻿La Salle County,﻿La Salle County,﻿Ottawa,﻿Ottawa,﻿IL,,﻿41.3455892,-88.8425769,,,,﻿f_noete_001,﻿Rev.,﻿F. Noete,,,,,,,,1868,﻿,﻿,﻿Chicago,Chicago
@@ -98,7 +98,7 @@
 ﻿chi.il.0095,﻿church,﻿St. Patrick's,English,,,,﻿Peoria County,,﻿Peoria,﻿Peoria,﻿IL,,﻿40.68576455,-89.60978174,﻿chi.il.0002,﻿attended from St. Mary's,,,,,,,,,,,,1868,﻿,﻿,﻿Chicago,Chicago
 ﻿chi.il.0096,﻿church,﻿St. Patrick's,English,,,,﻿Tazewell County,﻿Tazewell County,﻿Pekin,﻿Pekin,﻿IL,,﻿40.5547573,-89.6423584,,,,﻿j_w_kenedy_001,﻿Rev.,﻿J. W. Kenedy,,,,,,,,1868,﻿,﻿,﻿Chicago,Chicago
 ﻿chi.il.0097,﻿church,not recorded,English,,,,﻿Lee County,,﻿Perkins's Grove,,﻿IL,,﻿41.59935609,-89.25458922,,,,﻿jos_goldschmidt_001,﻿Rev.,﻿Joseph Goldschmidt,,,,,,,,1868,﻿,﻿,﻿Chicago,Chicago
-﻿chi.il.0098,﻿church,﻿St. Joseph's,﻿German,,,,﻿La Salle County,,﻿Peru,﻿Peru,﻿IL,,﻿41.32832687,-89.13152025,,,,﻿hen_bors_001,﻿Rev.,﻿Henry Bors,,,,,,,,1868,﻿,﻿,﻿Chicago,Chicago
+﻿chi.il.0098,﻿church,﻿St. Joseph's,﻿German,,,,﻿La Salle County,,﻿Peru,﻿Peru,﻿IL,,﻿41.32832687,-89.13152025,,,,﻿hen_boers_001,﻿Rev.,﻿Henry Bors,,,,,,,,1868,﻿,﻿,﻿Chicago,Chicago
 ﻿chi.il.0099,﻿church,﻿St. Mary's,English,,,,﻿La Salle County,,﻿Peru,﻿Peru,﻿IL,,﻿41.32980444,-89.12370581,,,,﻿a_petit_001,﻿Rev.,﻿A. Pettit,,,,,,,,1868,﻿,﻿,﻿Chicago,Chicago
 ﻿chi.il.0101,﻿church,﻿St. Mary's,English,,,,﻿Livingston County,,﻿Pontiac,﻿Pontiac,﻿IL,,﻿40.88147203,-88.62843058,,,,﻿f_quigly_001,﻿Rev.,﻿F. Quigly,,,,,,,,1868,﻿,﻿,﻿Chicago,Chicago
 ﻿chi.il.0103,﻿church,﻿St. James',English,,,,﻿Winnebago County,,﻿Rockford,﻿Rockford,﻿IL,,﻿42.27124179,-89.08502852,,,,﻿j_s_oneil_001,﻿Rev.,﻿J. S. O'Neil,,,,,,,,1868,﻿,﻿,﻿Chicago,Chicago
@@ -235,12 +235,12 @@
 ﻿chi.il.368,﻿seminary,﻿Theological Seminary of St. Mary of the Lake,English,,﻿South-west corner of Chicago Avenue and Cass Street,,,,﻿Chicago,,,,﻿42.26644993,-89.2397529,,,,﻿den_dunn_001,﻿Very Rev.,﻿D. Dunne,﻿D.D.,﻿V.G.,,,,,,1868,﻿,﻿,﻿Chicago,Chicago
 ﻿chi.il.368,﻿seminary,﻿Theological Seminary of St. Mary of the Lake,English,,﻿South-west corner of Chicago Avenue and Cass Street,,,,﻿Chicago,,,,﻿42.26644993,-89.2397529,,,,﻿joh_mcmullen_001,﻿Rev.,﻿J. McMullen,﻿D.D.,,,,,,,1868,﻿,﻿,﻿Chicago,Chicago
 ﻿chi.il.368,﻿seminary,﻿Theological Seminary of St. Mary of the Lake,English,,﻿South-west corner of Chicago Avenue and Cass Street,,,,﻿Chicago,,,,﻿42.26644993,-89.2397529,,,,﻿j_mcgovern_001,﻿Rev.,﻿J. McGovern,﻿D.D.,,,,,,,1868,﻿,﻿,﻿Chicago,Chicago
-﻿chi.il.368,﻿seminary,﻿Theological Seminary of St. Mary of the Lake,English,,﻿South-west corner of Chicago Avenue and Cass Street,,,,﻿Chicago,,,,﻿42.26644993,-89.2397529,,,,﻿t_j_butler_001,﻿Rev.,﻿T. J. Butler,﻿D.D.,,,,,,,1868,﻿,﻿,﻿Chicago,Chicago
+﻿chi.il.368,﻿seminary,﻿Theological Seminary of St. Mary of the Lake,English,,﻿South-west corner of Chicago Avenue and Cass Street,,,,﻿Chicago,,,,﻿42.26644993,-89.2397529,,,,﻿tha_j_butler_001,﻿Rev.,﻿T. J. Butler,﻿D.D.,,,,,,,1868,﻿,﻿,﻿Chicago,Chicago
 ﻿chi.il.368,﻿seminary,﻿Theological Seminary of St. Mary of the Lake,English,,﻿South-west corner of Chicago Avenue and Cass Street,,,,﻿Chicago,,,,﻿42.26644993,-89.2397529,,,,﻿jos_p_roles_001,﻿Rev.,﻿J. P. Roles,,,,,,,,1868,﻿,﻿,﻿Chicago,Chicago
 ﻿chi.il.368,﻿seminary,﻿Theological Seminary of St. Mary of the Lake,English,,﻿South-west corner of Chicago Avenue and Cass Street,,,,﻿Chicago,,,,﻿42.26644993,-89.2397529,,,,﻿j_mcgovern_001,﻿Rev.,﻿James McGovern,﻿D.D.,﻿Rector; Professor of Canon Law and Sacred Liturgy,,,,,,1868,﻿,﻿,﻿Chicago,Chicago
 ﻿chi.il.368,﻿seminary,﻿Theological Seminary of St. Mary of the Lake,English,,﻿South-west corner of Chicago Avenue and Cass Street,,,,﻿Chicago,,,,﻿42.26644993,-89.2397529,,,,﻿joh_mcmullen_001,﻿Rev.,﻿John McMullen,﻿D.D.,"﻿Professor of Sacred Scripture, Metaphysics, and Hebrew",,,,,,1868,﻿,﻿,﻿Chicago,Chicago
 ﻿chi.il.368,﻿seminary,﻿Theological Seminary of St. Mary of the Lake,English,,﻿South-west corner of Chicago Avenue and Cass Street,,,,﻿Chicago,,,,﻿42.26644993,-89.2397529,,,,﻿p_riordan_001,﻿Rev.,﻿P. Riordan,﻿S.T.L.,﻿Professor of Dogmatic Theology,,,,,,1868,﻿,﻿,﻿Chicago,Chicago
-﻿chi.il.368,﻿seminary,﻿Theological Seminary of St. Mary of the Lake,English,,﻿South-west corner of Chicago Avenue and Cass Street,,,,﻿Chicago,,,,﻿42.26644993,-89.2397529,,,,﻿t_j_butler_001,﻿Rev.,﻿T. J. Butler,﻿D.D.,﻿Professor of Moral Theology,,,,,,1868,﻿,﻿,﻿Chicago,Chicago
+﻿chi.il.368,﻿seminary,﻿Theological Seminary of St. Mary of the Lake,English,,﻿South-west corner of Chicago Avenue and Cass Street,,,,﻿Chicago,,,,﻿42.26644993,-89.2397529,,,,﻿tha_j_butler_001,﻿Rev.,﻿T. J. Butler,﻿D.D.,﻿Professor of Moral Theology,,,,,,1868,﻿,﻿,﻿Chicago,Chicago
 ﻿chi.il.368,﻿seminary,﻿Theological Seminary of St. Mary of the Lake,English,,﻿South-west corner of Chicago Avenue and Cass Street,,,,﻿Chicago,,,,﻿42.26644993,-89.2397529,,,,﻿jam_grogan_001,﻿Rev.,﻿James Grogan,,,,,,,,1868,﻿,﻿,﻿Chicago,Chicago
 ﻿chi.il.368,﻿seminary,﻿Theological Seminary of St. Mary of the Lake,English,,﻿South-west corner of Chicago Avenue and Cass Street,,,,﻿Chicago,,,,﻿42.26644993,-89.2397529,,,,﻿jos_p_roles_001,﻿Rev.,﻿P. Roles,,﻿Spiritual Director,,,,,,1868,﻿,﻿,﻿Chicago,Chicago
 ﻿chi.il.0234,﻿academy,﻿La Salle Academy,English,,,,﻿La Salle County,,﻿La Salle,﻿La Salle,﻿IL,,﻿41.3621503,-89.0418249,,,,,,,,,,,,﻿Conducted by the Brothers of the Christian Schools,,1868,﻿,﻿,﻿Chicago,Chicago
