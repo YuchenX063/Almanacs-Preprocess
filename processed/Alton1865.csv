@@ -14,7 +14,7 @@
 ﻿alt.il.0012,﻿church,not recorded,English,,,,﻿Effingham County,﻿Effingham County,﻿Bishop,﻿Bishop Township,﻿IL,,39.0395893,-88.4210006,﻿alt.il.0127,﻿Attended from Teutopolis,,,,,,,,,,,,1865,﻿,﻿,﻿Alton,Alton
 ﻿alt.il.0013,﻿church,﻿St. John's,English,,,,﻿Madison County,﻿St. Louis County,﻿Black Jack,﻿Black Jack,﻿IL,﻿MO,38.9041402,-89.9253233,﻿alt.il.0040,﻿Attended from Edwardsville,,,,,,,,,,,,1865,﻿,﻿,﻿Alton,Alton
 ﻿alt.il.0014,﻿church,not recorded,English,,,,﻿Adams County,﻿Adams County,﻿Bloomfield,﻿Ellington Township,﻿IL,,39.9724918,-91.226486,﻿alt.il.0093,﻿Attended from Quincy,,,,,,,,,,,,1865,﻿,﻿,﻿Alton,Alton
-﻿alt.il.0014,﻿church,not recorded,English,,,,﻿Lawerence County,﻿Adams County,﻿Bridgeport,﻿Ellington Township,﻿IL,,39.9724918,-91.226486,﻿alt.il.0084,﻿Attended from Olney,,,,,,,,,,,,1865,﻿,﻿,﻿Alton,Alton
+﻿alt.il.0016,﻿church,not recorded,English,,,,﻿Lawerence County,,﻿Bridgeport,,﻿IL,,39.9724918,-91.226486,﻿alt.il.0084,﻿Attended from Olney,,,,,,,,,,,,1865,﻿,﻿,﻿Alton,Alton
 ﻿alt.il.0017,﻿church,not recorded,English,,,,﻿Macoupin County,﻿Macoupin County,﻿Brighton,﻿Brighton,﻿IL,,39.0483333,-90.1416667,﻿alt.il.0222,﻿Attended from Alton,,,,,,,,,,,,1865,﻿,﻿,﻿Alton,Alton
 ﻿alt.il.0018,﻿church,﻿Immaculate Conception,English,,﻿News P.O.,,﻿Calhoun County,﻿Calhoun County,﻿Brussels,﻿Brussels,﻿IL,,38.9489532,-90.5879265,,,,﻿joh_mark_001,﻿Rev.,﻿J. Mark,,,,,,,,1865,﻿,﻿,﻿Alton,Alton
 ﻿alt.il.0018,﻿church,﻿Immaculate Conception,English,,﻿News P.O.,,﻿Calhoun County,﻿Calhoun County,﻿Brussels,﻿Brussels,﻿IL,,38.9489532,-90.5879265,,,,﻿f_witthaut_001,﻿Rev.,﻿Fr. Witthaut,,,,,,,,1865,﻿,﻿,﻿Alton,Alton
@@ -55,7 +55,7 @@
 ﻿alt.il.0061,﻿church,not recorded,English,,,,﻿Montgomery County,﻿Montgomery County,﻿Litchfield,﻿Litchfield,﻿IL,,40.0371369,-91.064625,,,,﻿cha_gonant_001,﻿Rev.,﻿Ch. Gonant,,,,,,,,1865,﻿,﻿,﻿Alton,Alton
 ﻿alt.il.0063,﻿church,not recorded,English,,,,﻿Fayette County,﻿Fayette County,﻿London or Howard's Point,﻿Wrights Corner,﻿IL,,40.0371369,-91.064625,﻿alt.il.0127,﻿Attended from Teutopolis,,,,,,,,,,,,1865,﻿,﻿,﻿Alton,Alton
 ﻿alt.il.0065,﻿church,﻿St. Mary's,English,,﻿(Monroe City P.O.),,﻿Madison County,﻿Monroe County,﻿Madonnaville,﻿Madonaville,﻿IL,,40.0371369,-91.064625,,,,﻿l_hinssen_001,﻿Rev.,﻿L. Hinssen,,,,,,,,1865,﻿,﻿,﻿Alton,Alton
-﻿alt.il.0316,﻿church,﻿St. Elizabeth's,English,,,,﻿Madison County,,﻿Marinetown,﻿Marinetown,﻿IL,,40.0371369,-91.064625,﻿alt.il.0054,﻿Attended from Highland,,,,,,,,,,,,1865,﻿,﻿,﻿Alton,Alton
+﻿alti.il.0327,﻿church,﻿St. Elizabeth's,English,,,,﻿Madison County,,﻿Marinetown,﻿Marinetown,﻿IL,,40.0371369,-91.064625,﻿alt.il.0054,﻿Attended from Highland,,,,,,,,,,,,1865,﻿,﻿,﻿Alton,Alton
 ﻿alt.il.0067,﻿church,﻿St. Patrick's,English,,,,﻿Clark County,﻿Clark County,﻿Marshall,﻿Marshall,﻿IL,,40.0371369,-91.064625,﻿alt.il.0087,﻿Attended from Paris,,,,,,,,,,,,1865,﻿,﻿,﻿Alton,Alton
 ﻿alt.il.0068,﻿church,﻿Holy Childhood of Jesus,English,,,,﻿St. Clair County,﻿St. Clair County,﻿Maskoutah,﻿Mascoutah,﻿IL,,40.0371369,-91.064625,,,,﻿p_rosendahl_001,﻿Rev.,﻿P. Rosendahl,,,,,,,,1865,﻿,﻿,﻿Alton,Alton
 ﻿alt.il.0069,﻿church,﻿Immaculate Conception,English,,,,﻿Coles County,﻿Coles County,﻿Mattoon,﻿Mattoon,﻿IL,,40.0371369,-91.064625,,,,﻿jer_sullivan_001,﻿Rev.,﻿Jer. Sullivan,,,,,,,,1865,﻿,﻿,﻿Alton,Alton
@@ -87,7 +87,7 @@
 ﻿alt.il.0095,﻿church,﻿St. Francis Solanus,English,,,,﻿Adams County,﻿Adams County,﻿Quincy,﻿Quincy,﻿IL,,40.0371369,-91.064625,,,,﻿ans_müller_001,﻿Rev.,﻿Anselmus Mueller,﻿O.S.F.,,,,,﻿Franciscan Fathers,,1865,﻿,﻿,﻿Alton,Alton
 ﻿alt.il.0095,﻿church,﻿St. Francis Solanus,English,,,,﻿Adams County,﻿Adams County,﻿Quincy,﻿Quincy,﻿IL,,40.0371369,-91.064625,,,,﻿alo_wiewer_001,﻿Rev.,﻿Aloysius Wiewer,﻿O.S.F.,,,,,﻿Franciscan Fathers,,1865,﻿,﻿,﻿Alton,Alton
 ﻿alt.il.0100,﻿church,﻿St. John Baptist's,English,,,,﻿Randolph County,﻿Randolph County,﻿Red Bud,﻿Red Bud,﻿IL,,40.0371369,-91.064625,,,,﻿joh_f_mohr_001,﻿Rev.,﻿John F. Mohr,,,,,,,,1865,﻿,﻿,﻿Alton,Alton
-﻿alt.il.0100,﻿church,﻿St. John Baptist's,English,,,,﻿Madison County,﻿Madison County,﻿Ridgely,﻿Ridgely,﻿IL,,40.0371369,-91.064625,﻿alt.il.0222,﻿Attended from Alton,,,,,,,,,,,,1865,﻿,﻿,﻿Alton,Alton
+﻿alt.il.0335,﻿church,not recorded,English,,,,﻿Madison County,﻿Madison County,﻿Ridgely,﻿Ridgely,﻿IL,,40.0371369,-91.064625,﻿alt.il.0222,﻿Attended from Alton,,,,,,,,,,,,1865,﻿,﻿,﻿Alton,Alton
 ﻿alt.il.0115,﻿church,not recorded,English,,,,﻿Gallatin County,﻿Gallatin County,﻿Shawneetown,﻿Shawneetown,﻿IL,,40.0371369,-91.064625,,,,﻿s_wegener_001,﻿Rev.,﻿Sylv. Wegener,,,,,,,,1865,﻿,﻿,﻿Alton,Alton
 ﻿alt.il.0116,﻿church,﻿Immaculate Conception,English,﻿vacant,,,﻿Shelby County,﻿Shelby County,﻿Shelbyville,﻿Shelbyville,﻿IL,,40.0371369,-91.064625,,,,,,,,,,,,,,1865,﻿,﻿,﻿Alton,Alton
 ﻿alt.il.0118,﻿church,﻿St. Dominic's,English,,,,﻿Clinton County,﻿Clinton County,﻿Shoal Creek Station,﻿Breese,﻿IL,,40.0371369,-91.064625,,,,﻿aug_reineke_001,﻿Rev.,﻿Aug. Reinecke,,,,,,,,1865,﻿,﻿,﻿Alton,Alton
