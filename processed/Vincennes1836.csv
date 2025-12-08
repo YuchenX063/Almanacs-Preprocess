@@ -13,7 +13,7 @@
 ﻿vin.in.9009,﻿church,not recorded,English,,,,,,﻿Madison,,﻿IN,,40.752475,-86.375266,,,﻿visited occasionally,,,,,,,,,,,1836,,﻿,﻿,﻿Vincennes,Vincennes
 ﻿vin.in.9010,﻿church,﻿St. Paul's,English,﻿a large German congregation,,,﻿Dearborn County,,﻿New Alsace,,﻿IN,,40.752475,-86.375266,,,﻿attended every other Sunday Rev. Joseph Freneding,﻿jos_ferneding_001,﻿Rev.,﻿Joseph Ferneding,,,,,,,,1836,,﻿,﻿,﻿Vincennes,Vincennes
 ﻿vin.in.9011,﻿church,not recorded,English,,,,﻿Floyd County,,﻿New Albany,,﻿IN,,40.752475,-86.375266,,,"﻿attended occasionally [by] Rev. Ignatius Reynolds, of Ky., and Rev. Joseph Ferneding",﻿ign_a_reynolds_901,﻿Rev.,﻿Ignatius Reynolds,,,﻿of Ky.,,,,,1836,,﻿,﻿,﻿Vincennes,Vincennes
-﻿alt.il.9010,﻿church,not recorded,English,,,,﻿Floyd County,,﻿the Knobs,﻿Floyds Knobs,﻿IN,,40.752475,-86.375266,,,"﻿attended occasionally [by] Rev. Ignatius Reynolds, of Ky., and Rev. Joseph Ferneding",,﻿Rev.,﻿Joseph Ferneding,,,,,,,,1836,,﻿,﻿,﻿Vincennes,Vincennes
+﻿vin.in.0217,﻿church,not recorded,English,,,,﻿Floyd County,,﻿the Knobs,﻿Floyds Knobs,﻿IN,,40.752475,-86.375266,,,"﻿attended occasionally [by] Rev. Ignatius Reynolds, of Ky., and Rev. Joseph Ferneding",,﻿Rev.,﻿Joseph Ferneding,,,,,,,,1836,,﻿,﻿,﻿Vincennes,Vincennes
 ﻿for.in.0109,﻿church,not recorded,English,,,,,﻿Miami County,﻿Peru,,﻿IN,,40.752475,-86.375266,,,﻿occasionally visited by Rev. M. Ruff,﻿mat_f_ruff_901,﻿Rev.,﻿M. Ruff,,,,,,,,1836,,﻿,﻿,﻿Vincennes,Vincennes
 ﻿vin.in.9013,﻿church,not recorded,English,,,,,,﻿Miamiport,,﻿IN,,40.752475,-86.375266,,,﻿occasionally visited by Rev. M. Ruff,﻿mat_f_ruff_901,﻿Rev.,﻿M. Ruff,,,,,,,,1836,,﻿,﻿,﻿Vincennes,Vincennes
 ﻿vin.in.9014,﻿church,not recorded,English,,,,,,﻿Wabashtown,,﻿IN,,40.752475,-86.375266,,,﻿occasionally visited by Rev. M. Ruff,﻿mat_f_ruff_901,﻿Rev.,﻿M. Ruff,,,,,,,,1836,,﻿,﻿,﻿Vincennes,Vincennes
@@ -24,10 +24,10 @@
 ﻿vin.in.0127,﻿church,not recorded,English,,,,,,﻿Shelbyville,,﻿IN,,40.752475,-86.375266,,,﻿occasionally attended [by],,,,,,,,,,,1836,,﻿,﻿,﻿Vincennes,Vincennes
 ﻿vin.in.9019,﻿church,not recorded,English,,,,,,﻿Columbus,,﻿IN,,40.752475,-86.375266,,,﻿occasionally attended [by],,,,,,,,,,,1836,,﻿,﻿,﻿Vincennes,Vincennes
 ﻿vin.in.0064,﻿church,not recorded,English,,,,,,﻿Indianapolis,,﻿IN,,40.752475,-86.375266,,,﻿occasionally attended [by],,,,,,,,,,,1836,"﻿https://www.stjohnsindy.org/about-us.html , source mentions officially started in 37. stands to reason this is a precursor congregation, likely out of a house or something",﻿,﻿,﻿Vincennes,Vincennes
-﻿for.in.0127,﻿church,not recorded,English,,,,﻿St. Joseph County,,﻿Southbend,,﻿IN,,40.752475,-86.375266,,,,﻿s_t_badin_901,﻿Rev.,﻿S. T. Badin,,,﻿of Mich.,,,,,1836,,﻿,﻿,﻿Vincennes,Vincennes
-﻿for.in.0127,﻿church,not recorded,English,,,,﻿St. Joseph County,,﻿Southbend,,﻿IN,,40.752475,-86.375266,,,,﻿deseille_902,﻿Rev. Mr.,﻿Descilles,,,﻿of Mich.,,,,,1836,,﻿,﻿,﻿Vincennes,Vincennes
-﻿vin.in.9021,﻿church,﻿St. Mary's of the Lake,English,,,,,,,,﻿IN,,40.752475,-86.375266,,,,﻿s_t_badin_901,﻿Rev.,﻿S. T. Badin,,,﻿of Mich.,,,,,1836,,﻿,﻿,﻿Vincennes,Vincennes
-﻿vin.in.9021,﻿church,﻿St. Mary's of the Lake,English,,,,,,,,﻿IN,,40.752475,-86.375266,,,,﻿deseille_902,﻿Rev. Mr.,﻿Descilles,,,﻿of Mich.,,,,,1836,,﻿,﻿,﻿Vincennes,Vincennes
+﻿for.in.0127,﻿church,not recorded,English,,,,﻿St. Joseph County,,﻿Southbend,﻿South Bend,﻿IN,,40.752475,-86.375266,,,,﻿s_t_badin_901,﻿Rev.,﻿S. T. Badin,,,﻿of Mich.,,,,,1836,,﻿,﻿,﻿Vincennes,Vincennes
+﻿for.in.0127,﻿church,not recorded,English,,,,﻿St. Joseph County,,﻿Southbend,﻿South Bend,﻿IN,,40.752475,-86.375266,,,,﻿deseille_902,﻿Rev. Mr.,﻿Descilles,,,﻿of Mich.,,,,,1836,,﻿,﻿,﻿Vincennes,Vincennes
+﻿for.in.9009,﻿church,﻿St. Mary's of the Lake,English,,,,,,,﻿Culver,﻿IN,,40.752475,-86.375266,,,,﻿s_t_badin_901,﻿Rev.,﻿S. T. Badin,,,﻿of Mich.,,,,,1836,,﻿,﻿,﻿Vincennes,Vincennes
+﻿for.in.9009,﻿church,﻿St. Mary's of the Lake,English,,,,,,,﻿Culver,﻿IN,,40.752475,-86.375266,,,,﻿deseille_902,﻿Rev. Mr.,﻿Descilles,,,﻿of Mich.,,,,,1836,,﻿,﻿,﻿Vincennes,Vincennes
 ﻿vin.in.9022,﻿station,not recorded,English,,﻿Ohio River,,,,,,﻿IN,,40.752475,-86.375266,,"﻿visited by Rev. Elisha Durbin and Rev. Charles Coomes, of Kentucky.",,﻿eli_j_durbin_001,﻿Rev.,﻿Elisha Durbin,,,,,,,,1836,,﻿,﻿,﻿Vincennes,Vincennes
 ﻿vin.in.9022,﻿station,not recorded,English,,﻿Ohio River,,,,,,﻿IN,,40.752475,-86.375266,,,,,﻿Rev.,﻿Charles Coomes,,,﻿of Kentucky.,,,,,1836,,﻿,﻿,﻿Vincennes,Vincennes
 ﻿vin.in.0164,﻿church,not recorded,English,,,,,,﻿Terrehaute,﻿Terre Haute,﻿IN,,40.752475,-86.375266,,,﻿occasionally attended,,,,,,,,,,,1836,﻿https://www.stjoeup.org/about-us,﻿,﻿,﻿Vincennes,Vincennes
