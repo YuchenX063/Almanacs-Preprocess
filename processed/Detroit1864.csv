@@ -8,13 +8,13 @@
 ﻿det.mi.0004,﻿church,﻿Most Holy Trinity,English,,,,﻿Wayne County,﻿Wayne County,﻿Detroit,﻿Detroit,﻿MI,,42.3298381,-83.0604831,,,,﻿fra_j_peeters_001,﻿Rev.,﻿F. J. Peters,,,,,,,,1864,﻿,﻿,﻿Detroit,Detroit
 ﻿det.mi.0004,﻿church,﻿Most Holy Trinity,English,,,,﻿Wayne County,﻿Wayne County,﻿Detroit,﻿Detroit,﻿MI,,42.3298381,-83.0604831,,,,﻿a_f_bleyenbergh_001,﻿Rev.,﻿F. Blyenbergh,,,,,,,,1864,﻿,﻿,﻿Detroit,Detroit
 ﻿det.mi.0003,﻿church,﻿St. Mary's,English,,,,﻿Wayne County,﻿Wayne County,﻿Detroit,﻿Detroit,﻿MI,,42.3271448,-83.1352858,,,,﻿f_n_van-emstede_001,﻿Rev.,﻿F. Van Emstede,﻿C.SS.R.,,,,,,,1864,﻿,﻿,﻿Detroit,Detroit
-﻿det.mi.0003,﻿church,﻿St. Mary's,English,,,,﻿Wayne County,﻿Wayne County,﻿Detroit,﻿Detroit,﻿MI,,42.3271448,-83.1352858,,,,﻿th_majerus_001,﻿Rev.,﻿F. Majerius,﻿C.SS.R.,,,,,,,1864,﻿,﻿,﻿Detroit,Detroit
+﻿det.mi.0003,﻿church,﻿St. Mary's,English,,,,﻿Wayne County,﻿Wayne County,﻿Detroit,﻿Detroit,﻿MI,,42.3271448,-83.1352858,,,,﻿the_majerus_001,﻿Rev.,﻿F. Majerius,﻿C.SS.R.,,,,,,,1864,﻿,﻿,﻿Detroit,Detroit
 ﻿det.mi.0003,﻿church,﻿St. Mary's,English,,,,﻿Wayne County,﻿Wayne County,﻿Detroit,﻿Detroit,﻿MI,,42.3271448,-83.1352858,,,,﻿jul_kuenzer_003,﻿Rev.,﻿Julius Kuenzer,,,,,,,,1864,﻿,﻿,﻿Detroit,Detroit
 ﻿det.mi.0005,﻿church,﻿St. Joseph's,English,,,,﻿Wayne County,﻿Wayne County,﻿Detroit,﻿Detroit,﻿MI,,42.331427,-83.0457538,,,,﻿a_durst_001,﻿Rev.,﻿A. Durst,,,,,,,,1864,﻿,﻿,﻿Detroit,Detroit
 ﻿det.mi.0005,﻿church,﻿St. Joseph's,English,,,,﻿Wayne County,﻿Wayne County,﻿Detroit,﻿Detroit,﻿MI,,42.331427,-83.0457538,,,,﻿joh_f_friedland_001,﻿Rev.,﻿J. Friedland,,,,,,,,1864,﻿,﻿,﻿Detroit,Detroit
 ﻿det.mi.0006,﻿church,﻿St. Patrick's,English,,,,﻿Wayne County,﻿Wayne County,﻿Detroit,﻿Detroit,﻿MI,,42.331427,-83.0457538,,,,﻿jam_hennessey_001,﻿Rev.,﻿J. Hennessy,,,,,,,,1864,﻿,﻿,﻿Detroit,Detroit
 ﻿det.mi.0013,﻿church,﻿St. Anthony's,English,,,,﻿Wayne County,﻿Wayne County,﻿St. Anthony,﻿Detroit,﻿MI,,42.2790746,-83.336188,﻿det.mi.0001,﻿attended from Detroit,﻿went w/ Cathedral b/c largest,,,,,,,,,,,1864,﻿,﻿,﻿Detroit,Detroit
-﻿det.mi.0014,﻿church,﻿Immaculate Conception,English,,,,﻿Lenawee County,﻿Lenawee County,﻿Adrian,﻿Adrian,﻿MI,,41.8975471,-84.0371659,,,,﻿j_kindekens_001,﻿Very Rev.,﻿P. Kindekens,,﻿V.G.,,,,,,1864,﻿,﻿,﻿Detroit,Detroit
+﻿det.mi.0014,﻿church,﻿Immaculate Conception,English,,,,﻿Lenawee County,﻿Lenawee County,﻿Adrian,﻿Adrian,﻿MI,,41.8975471,-84.0371659,,,,﻿jos_kindekens_001,﻿Very Rev.,﻿P. Kindekens,,﻿V.G.,,,,,,1864,﻿,﻿,﻿Detroit,Detroit
 ﻿det.mi.0016,﻿church,not recorded,English,,,,﻿Calhoun County,﻿Calhoun County,﻿Albion,﻿Albion,﻿MI,,42.243097,-84.7530304,﻿det.mi.0109,﻿attended from Marshall,,,,,,,,,,,,1864,﻿,﻿,﻿Detroit,Detroit
 ﻿det.mi.0017,﻿church,not recorded,English,,,,﻿Kent County,﻿Kent County,﻿Alpine,﻿Alpine Township,﻿MI,,43.0662253,-85.7143853,﻿det.mi.0163,﻿attended from Grand Rapids,,,,,,,,,,,,1864,﻿,﻿,﻿Detroit,Detroit
 ﻿det.mi.0018,﻿church,﻿St. Thomas',English,,,,﻿Washtenaw County,﻿Washtenaw County,﻿Ann Arbor,﻿Ann Arbor,﻿MI,,42.2857551,-83.7413768,,,,﻿j_t_stephen_001,﻿Rev.,﻿J. T. Stephen,,,,,,,,1864,﻿,﻿,﻿Detroit,Detroit
@@ -64,7 +64,7 @@
 ﻿det.mi.0075,﻿church,not recorded,English,,,,﻿Genesee County,﻿Genesee County,﻿Gaines,﻿Gaines,﻿MI,,42.8725303,-83.9141254,﻿det.mi.0049,﻿attended from Corunna,,,,,,,,,,,,1864,﻿,﻿,﻿Detroit,Detroit
 ﻿det.mi.0076,﻿church,not recorded,English,,,,﻿Genesee County,﻿Genesee County,﻿Genesee,﻿Genesee,﻿MI,,43.0935147,-83.6135572,﻿det.mi.0071,﻿attended from Flint,,,,,,,,,,,,1864,﻿,﻿,﻿Detroit,Detroit
 ﻿det.mi.0200,﻿church,not recorded,English,,,,﻿Kent County,,﻿German Settlement,,﻿MI,,43.0935147,-83.6135572,﻿det.mi.0077,﻿attended from Grand Rapids,,,,,,,,,,,,1864,﻿,﻿,﻿Detroit,Detroit
-﻿det.mi.0077,﻿church,﻿St. Andrew's,English,,,,﻿Kent County,﻿Kent County,﻿Grand Rapids,﻿Grand Rapids,﻿MI,,43.013943,-85.6426429,,,,﻿j_kindekens_001,﻿Rev.,﻿J. Kindekens,,,,,,,,1864,﻿,﻿,﻿Detroit,Detroit
+﻿det.mi.0077,﻿church,﻿St. Andrew's,English,,,,﻿Kent County,﻿Kent County,﻿Grand Rapids,﻿Grand Rapids,﻿MI,,43.013943,-85.6426429,,,,﻿jos_kindekens_001,﻿Rev.,﻿J. Kindekens,,,,,,,,1864,﻿,﻿,﻿Detroit,Detroit
 ﻿det.mi.0078,﻿church,﻿Immaculate Conception B.M.V.,English,,,,﻿Kent County,﻿Kent County,﻿Grand Rapids,﻿Grand Rapids,﻿MI,,43.013943,-85.6426429,,,,﻿fer_allgayer_001,﻿Rev.,﻿F. Algayer,,,,,,,,1864,﻿,﻿,﻿Detroit,Detroit
 ﻿det.mi.0079,﻿church,not recorded,English,,,,﻿Ottawa County,﻿Ottawa County,﻿Grand Haven,﻿Grand Haven,﻿MI,,43.0630734,-86.2283864,﻿det.mi.0163,﻿attended from Town Wright,,,,,,,,,,,,1864,﻿,﻿,﻿Detroit,Detroit
 ﻿det.mi.0201,﻿church,not recorded,English,,,,﻿Kent County,,﻿Grandville,,,,43.0630734,-86.2283864,﻿det.mi.0077,﻿attended from Grand Rapids,,,,,,,,,,,,1864,﻿,﻿,﻿Detroit,Detroit
@@ -155,9 +155,9 @@
 ﻿det.mi.0181_02,"﻿novitiate, mother house",﻿Servants of the Immaculate Heart of Mary,English,"﻿Mother House in Monroe, Monroe County, Michigan",,,﻿Monroe County,﻿Monroe County,﻿Monroe,﻿Monroe,﻿MI,,42.2411499,-83.6129939,,,,,﻿Sister,﻿Mary Joseph,,﻿Superior,,,,,,1864,﻿,﻿,﻿Detroit,Detroit
 ﻿det.mi.0181_03,﻿school,﻿Young Ladies' Academy,English,,,,﻿Monroe County,﻿Monroe County,﻿Monroe,﻿Monroe,﻿MI,,42.2411499,-83.6129939,,,,,,,,,,,,,,1864,﻿,﻿,﻿Detroit,Detroit
 ﻿det.mi.0181_04,﻿school,﻿select and free schools,English,,,,﻿Monroe County,﻿Monroe County,﻿Monroe,﻿Monroe,﻿MI,,42.2411499,-83.6129939,,,,,,,,,,,,,,1864,﻿,﻿,﻿Detroit,Detroit
-﻿det.mi.0220,﻿school,﻿Young Ladies' Academy and Select School and Parish Schools,English,,﻿Adrian and St. Joseph's,,﻿Wayne County,,﻿Detroit,,,,42.2411499,-83.6129939,,,,﻿th_majerus_001,,,,,,,,,,1864,﻿,﻿,﻿Detroit,Detroit
+﻿det.mi.0220,﻿school,﻿Young Ladies' Academy and Select School and Parish Schools,English,,﻿Adrian and St. Joseph's,,﻿Wayne County,,﻿Detroit,,,,42.2411499,-83.6129939,,,,﻿the_majerus_001,,,,,,,,,,1864,﻿,﻿,﻿Detroit,Detroit
 ﻿det.mi.0178,﻿convent,﻿Redemptorist Convent,English,,﻿98 Croghan street,,﻿Wayne County,﻿Wayne County,﻿Detroit,﻿Detroit,﻿MI,,42.2411499,-83.6129939,,,,﻿f_n_van-emstede_001,﻿Rev.,﻿Francis N. Van Emstede,﻿C.SS.R.,,,﻿lay brothers,3.0,,,1864,﻿,﻿,﻿Detroit,Detroit
-﻿det.mi.0178,﻿convent,﻿Redemptorist Convent,English,,﻿98 Croghan street,,﻿Wayne County,﻿Wayne County,﻿Detroit,﻿Detroit,﻿MI,,42.2411499,-83.6129939,,,,﻿the_majerus_002,﻿Rev.,﻿Theodore Majerus,﻿C.SS.R.,,,﻿lay brothers,3.0,,,1864,﻿,﻿,﻿Detroit,Detroit
+﻿det.mi.0178,﻿convent,﻿Redemptorist Convent,English,,﻿98 Croghan street,,﻿Wayne County,﻿Wayne County,﻿Detroit,﻿Detroit,﻿MI,,42.2411499,-83.6129939,,,,﻿the_majerus_001,﻿Rev.,﻿Theodore Majerus,﻿C.SS.R.,,,﻿lay brothers,3.0,,,1864,﻿,﻿,﻿Detroit,Detroit
 ﻿det.mi.0178,﻿convent,﻿Redemptorist Convent,English,,﻿98 Croghan street,,﻿Wayne County,﻿Wayne County,﻿Detroit,﻿Detroit,﻿MI,,42.2411499,-83.6129939,,,,﻿jul_kuenzer_003,﻿Rev.,﻿Julius Kuenzer,﻿C.SS.R.,,,﻿lay brothers,3.0,,,1864,﻿,﻿,﻿Detroit,Detroit
 ﻿det.mi.0003_02,﻿convent,﻿School Sisters of Notre Dame,English,﻿They conduct the Female Orphan Asylum for German children.,﻿St. Antoine street,,﻿Wayne County,﻿Wayne County,﻿Detroit,﻿Detroit,﻿MI,,42.2411499,-83.6129939,,,,,﻿Sister,﻿Mary Salesia,,﻿Superior,,﻿Sisters,4.0,,,1864,﻿,﻿,﻿Detroit,Detroit
 ﻿det.mi.0003_02,﻿convent,﻿School Sisters of Notre Dame,English,﻿They conduct the Female Orphan Asylum for German children.,﻿St. Antoine street,,﻿Wayne County,﻿Wayne County,﻿Detroit,﻿Detroit,﻿MI,,42.2411499,-83.6129939,,,,,,,,,,﻿Candidates,2.0,,,1864,﻿,﻿,﻿Detroit,Detroit
