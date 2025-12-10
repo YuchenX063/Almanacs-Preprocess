@@ -130,8 +130,8 @@
 ﻿bal.md.0101,﻿church,﻿St. Joseph's,English,,,,﻿St. Mary's County,,,,﻿MD,,38.4421648,-76.7439767,,,﻿every other Sunday,﻿j_b_de-wolf_001,﻿Rev.,﻿J. B. De Wolf,﻿S.J.,,,,,,,1870,﻿,﻿,﻿Baltimore,Baltimore
 ﻿bal.md.0102,﻿church,﻿Sacred Heart,English,,,,﻿St. Mary's County,,,,﻿MD,,38.4421648,-76.7439767,,,﻿every other Sunday,﻿j_b_de-wolf_001,﻿Rev.,﻿J. B. De Wolf,﻿S.J.,﻿from Leonardtown,,,,,,1870,﻿,﻿,﻿Baltimore,Baltimore
 ﻿bal.md.0103,﻿church,﻿St. Mary's,English,,,,﻿Prince George's County,,﻿Piscataway,﻿Piscataway,﻿MD,,38.700556,-76.9725,﻿bal.md.0062,"﻿Attended by Rev. Peter Lenaghan, of Beantown, Charles County",﻿2nd and 4th Sundays,,,,,,,,,,,1870,﻿,﻿,﻿Baltimore,Baltimore
-﻿bal.md.0104,﻿church,﻿St. Mary's,English,,,,,,,,,,38.700556,-76.9725,,,,﻿tho_maher_001,﻿Rev.,﻿Thomas Maher,,,﻿Carmelites,,,,,1870,﻿,﻿,﻿Baltimore,Baltimore
-﻿bal.md.0104,﻿church,﻿St. Mary's,English,,,,﻿Prince George's County,,﻿Marlboro,﻿Upper Marlboro,﻿MD,,38.700556,-76.9725,,,,﻿the_macdonald_001,﻿Rev.,﻿Theodosius MacDonald,,,﻿Carmelites,,,,,1870,﻿,﻿,﻿Baltimore,Baltimore
+﻿bal.md.0104,﻿church,﻿St. Mary's,English,,,,,,,,,,,,,,,﻿tho_maher_001,﻿Rev.,﻿Thomas Maher,,,﻿Carmelites,,,,,1870,﻿,﻿,﻿Baltimore,Baltimore
+﻿bal.md.0104,﻿church,﻿St. Mary's,English,,,,﻿Prince George's County,,﻿Marlboro,﻿Upper Marlboro,﻿MD,,,,,,,﻿the_macdonald_001,﻿Rev.,﻿Theodosius MacDonald,,,﻿Carmelites,,,,,1870,﻿,﻿,﻿Baltimore,Baltimore
 ﻿bal.md.0105,﻿church,﻿St. Mary's,English,,,,﻿Prince George's County,,﻿Laurel Factory,﻿Laurel,﻿MD,,39.0992752,-76.8483061,,,,,,,,,,,,,,1870,﻿,﻿,﻿Baltimore,Baltimore
 ﻿bal.md.0106,﻿church,﻿St. Ignatius',English,,,,﻿Prince George's County,,,,﻿MD,,38.7849211,-76.8720961,﻿bal.md.0104,﻿Attended from Marlboro,﻿once a month,,,,,,,,,,,1870,﻿,﻿,﻿Baltimore,Baltimore
 ﻿bal.md.0107,﻿church,not recorded,English,,,,﻿Prince George's County,﻿Prince George's County,﻿White Marsh,﻿Bowie,﻿MD,,38.98340234,-76.72142683,,,,﻿cha_bague_001,﻿Rev.,﻿Charles Bague,﻿S.J.,,,,,,,1870,﻿,﻿,﻿Baltimore,Baltimore
@@ -330,7 +330,7 @@
 ﻿bal.md.0122_02,﻿school,﻿St. Aloysius' Parish Schools,English,,,,,,﻿Washington,﻿Washington,﻿DC,,38.90154749,-77.00943865,,,,,,,,,,﻿pupil,"﻿Pupils, 600",,,1870,﻿,﻿,﻿Baltimore,Baltimore
 ﻿bal.md.0200,﻿school,﻿St. Mary's Parish School,English,,,,,,﻿Washington,﻿Washington,﻿DC,,38.89945842,-77.01864292,,,,,,,,,,﻿pupil,﻿110 Pupils,,,1870,﻿,﻿,﻿Baltimore,Baltimore
 ﻿bal.md.0117_02,﻿school,﻿St. Matthew's Institute,English,,"﻿K street, between Fourteenth and Fifteenth streets",,,,﻿Washington,﻿Washington,﻿DC,,38.90289002,-77.03323483,,,,,﻿Brother,﻿Tobias,,,,﻿student,﻿100 students,,,1870,﻿,﻿,﻿Baltimore,Baltimore
-﻿bal.md.0117_05,﻿school,﻿St. Matthew's Parochial School,English,,"﻿K street, between Fourteenth and Fifteenth streets",,,,﻿Washington,﻿Washington,﻿DC,,38.90289002,-77.03323483,,,,,,,,,,﻿scholars,﻿100 scholars,,,1870,﻿,﻿,﻿Baltimore,Baltimore
+﻿bal.md.0117_05,﻿school,﻿St. Matthew's Parochial School,English,,"﻿K street, between Fourteenth and Fifteenth streets",,,,﻿Washington,﻿Washington,﻿DC,,38.90289002,-77.03323483,,,,,,,,,,﻿scholar,﻿100 scholars,,,1870,﻿,﻿,﻿Baltimore,Baltimore
 ﻿bal.md.0117_04,﻿school,﻿St. Matthew's School for Girls,English,,"﻿Fifteenth street, near H",,,,﻿Washington,﻿Washington,﻿DC,,38.90042443,-77.03478137,,,,,﻿Sister,﻿Sebastian,,,,﻿scholar,﻿100 scholars,,,1870,﻿,﻿,﻿Baltimore,Baltimore
 ﻿bal.md.0124_02,﻿school,﻿School for Boys,English,,﻿at Trinity Church,,,,﻿Georgetown,﻿Georgetown,﻿DC,,38.9071682,-77.06996884,,,,,,,,,,﻿pupil,"﻿Pupils, 200",,,1870,﻿,﻿,﻿Baltimore,Baltimore
 ﻿bal.md.0205,﻿school,"﻿St. Vincent's School, for Girls",English,,,,,,﻿Washington,﻿Washington,﻿DC,,38.89896467,-76.99268075,,,,,﻿Sister,﻿Mary Blanche,,,,﻿pupil,"﻿Pupils, 260",,,1870,﻿,﻿,﻿Baltimore,Baltimore

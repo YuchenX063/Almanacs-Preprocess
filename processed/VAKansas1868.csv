@@ -93,13 +93,13 @@
 ﻿kc.ks.0104,﻿priory,﻿Benedictine Priory,English,,,,,,﻿Atchison City,﻿Atchison,﻿KS,,34.747599,-92.272597,,,,﻿pir_m_koumly_001,﻿Rev.,﻿Pirmin Koumly,﻿O.S.B.,,,﻿lay brother,﻿4 lay brothers,,,1868,﻿,﻿,﻿VAEastRockyMountains,VAKansas
 ﻿kc.ks.0050_01,﻿priory,﻿Residence of the Society of Jesus,English,,﻿St. Mary's Mission,,,,,,,,38.935552,-96.046743,,,,﻿jf_diels_001,﻿Rev.,﻿J. F. Diels,﻿S.J.,﻿Superior,,,,,,1868,﻿,﻿,﻿VAEastRockyMountains,VAKansas
 ﻿kc.ks.0039_01,﻿priory,﻿Residence of the Society of Jesus,English,,﻿St. Francis de Hieronymo,,,,,,,,37.114248,-94.810595,,,,﻿joh_schoenmakers_001,﻿Rev.,﻿John Schoenmaker,﻿S.J.,﻿Superior,,,,,,1868,﻿,﻿,﻿VAEastRockyMountains,VAKansas
-﻿kc.ks.0080,﻿college,﻿St. Benedict's College,English,,,,,,﻿Atchison City,﻿Atchison,﻿KS,,37.114248,-94.810595,,,,﻿aug_wirth_002,﻿Very Rev.,﻿Augustine Wirth,﻿O.S.B.,﻿President,,,,﻿under the charge of the Fathers of the Order of St. Benedict,,1868,﻿,﻿,﻿VAEastRockyMountains,VAKansas
-﻿kc.ks.0081,"﻿college, seminary",not recorded,English,,,,,,﻿Topeka,﻿Topeka,﻿KS,,37.114248,-94.810595,,,,﻿jam_h_defouri_001,﻿Rev.,﻿J. H. Defouri,,,,,,,,1868,﻿,﻿,﻿VAEastRockyMountains,VAKansas
-﻿kc.ks.0081,"﻿college, seminary",not recorded,English,,,,,,﻿Topeka,﻿Topeka,﻿KS,,37.114248,-94.810595,,,,﻿eug_bononcini_001,﻿Rev.,﻿J. Bononcini,,,,,,,,1868,﻿,﻿,﻿VAEastRockyMountains,VAKansas
+﻿kc.ks.0080,﻿college,﻿St. Benedict's College,English,,,,,,﻿Atchison City,﻿Atchison,﻿KS,,,,,,,﻿aug_wirth_002,﻿Very Rev.,﻿Augustine Wirth,﻿O.S.B.,﻿President,,,,﻿under the charge of the Fathers of the Order of St. Benedict,,1868,﻿,﻿,﻿VAEastRockyMountains,VAKansas
+﻿kc.ks.0081,"﻿college, seminary",not recorded,English,,,,,,﻿Topeka,﻿Topeka,﻿KS,,,,,,,﻿jam_h_defouri_001,﻿Rev.,﻿J. H. Defouri,,,,,,,,1868,﻿,﻿,﻿VAEastRockyMountains,VAKansas
+﻿kc.ks.0081,"﻿college, seminary",not recorded,English,,,,,,﻿Topeka,﻿Topeka,﻿KS,,,,,,,﻿eug_bononcini_001,﻿Rev.,﻿J. Bononcini,,,,,,,,1868,﻿,﻿,﻿VAEastRockyMountains,VAKansas
 ﻿kc.ks.0082,﻿academy,﻿Academy for Young Ladies,English,,,,,,﻿Leavenworth City,﻿Leavenworth,﻿KS,,39.278317,-94.906389,,,,,﻿Mother,﻿Xavier Ross,,﻿Superior,,,,﻿Conducted by the Sisters of Charity,,1868,﻿,﻿,﻿VAEastRockyMountains,VAKansas
-﻿kc.ks.0083,﻿school,﻿day school,English,,,,,,,,,,39.278317,-94.906389,,,,,,,,,,,,﻿Conducted by the Sisters of Charity,,1868,﻿,﻿,﻿VAEastRockyMountains,VAKansas
+﻿kc.ks.0083,﻿school,﻿day school,English,,,,,,,,,,,,,,,,,,,,,,,﻿Conducted by the Sisters of Charity,,1868,﻿,﻿,﻿VAEastRockyMountains,VAKansas
 ﻿kc.ks.0084,﻿hospital,not recorded,English,,,,,,,,,,39.28243,-94.905952,,,,,,,,,,,,﻿Conducted by the Sisters of Charity,,1868,﻿,﻿,﻿VAEastRockyMountains,VAKansas
-﻿kc.ks.0085,﻿asylum,﻿orphan asylum,English,,,,,,,,,,39.28243,-94.905952,,,,,,,,,,,,﻿Conducted by the Sisters of Charity,,1868,﻿,﻿,﻿VAEastRockyMountains,VAKansas
+﻿kc.ks.0085,﻿asylum,﻿orphan asylum,English,,,,,,,,,,,,,,,,,,,,,,,﻿Conducted by the Sisters of Charity,,1868,﻿,﻿,﻿VAEastRockyMountains,VAKansas
 ﻿kc.ks.0105,﻿academy,﻿Academy for Young Ladies,English,,,,,,﻿Lawrence,﻿Lawrence,﻿KS,,34.747599,-92.272597,,,,,,﻿Mary Vincent Kearney,,﻿Sister-Servant,,,,﻿Conducted by the Sisters of Charity,,1868,﻿,﻿,﻿VAEastRockyMountains,VAKansas
 ﻿kc.ks.0050_03,﻿convent,﻿Convent of the Ladies of the Sacred Heart,English,,﻿St. Mary's Mission,,,,,,,,38.935552,-96.046743,,,,,﻿Madame,﻿Lucille Mathevon,,﻿Superior,,,,,,1868,﻿,﻿,﻿VAEastRockyMountains,VAKansas
 ﻿kc.ks.0039_02,﻿convent,﻿Convent of the Sisters of Loretto,English,,﻿St. Francis de Hieronymo,,,,,,,,37.114248,-94.810595,,,,,﻿Mother,﻿Mary,,﻿Superior,,,,,,1868,﻿,﻿,﻿VAEastRockyMountains,VAKansas

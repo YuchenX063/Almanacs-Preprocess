@@ -12,10 +12,10 @@
 ﻿stl.mo.0005,﻿church,﻿St. Michael's,English,﻿residence adjoining,﻿Jefferson street,,,,﻿St. Louis,﻿St. Louis,﻿MO,,38.7882539,-90.3306515,,,,﻿p_obrien_002,﻿Rev.,﻿P. O'Brien,,,,,,,,1865,﻿,﻿,﻿St. Louis,StLouis
 ﻿stl.mo.0005,﻿church,﻿St. Michael's,English,﻿residence adjoining,﻿Jefferson street,,,,﻿St. Louis,﻿St. Louis,﻿MO,,38.7882539,-90.3306515,,,,﻿j_oneil_002,﻿Rev.,﻿J. O'Neil,,,,,,,,1865,﻿,﻿,﻿St. Louis,StLouis
 ﻿stl.mo.0006,﻿church,﻿Holy Trinity,﻿German,﻿residence adjoining,﻿New Bremen,,,,﻿St. Louis,﻿St. Louis,﻿MO,,38.6630835,-90.2013781,,,,﻿j_doebbener_001,﻿Rev.,﻿J. Doebbener,,,,,,,,1865,﻿,﻿,﻿St. Louis,StLouis
-﻿stl.mo.0007,﻿church,﻿St. Vincent de Paul's,English,﻿residence adjoining,﻿Decatur street,,,,﻿St. Louis,﻿St. Louis,﻿MO,,38.6630835,-90.2013781,,,,﻿t_burke_001,﻿Rev.,﻿T. Burke,﻿C.M.,,,,,,,1865,﻿,﻿,﻿St. Louis,StLouis
-﻿stl.mo.0007,﻿church,﻿St. Vincent de Paul's,English,﻿residence adjoining,﻿Decatur street,,,,﻿St. Louis,﻿St. Louis,﻿MO,,38.6630835,-90.2013781,,,,﻿e_m_smyth_001,﻿Rev.,﻿E. M. Smyth,﻿C.M.,,,,,,,1865,﻿,﻿,﻿St. Louis,StLouis
-﻿stl.mo.0007,﻿church,﻿St. Vincent de Paul's,English,﻿residence adjoining,﻿Decatur street,,,,﻿St. Louis,﻿St. Louis,﻿MO,,38.6630835,-90.2013781,,,,﻿i_g_uhland_001,﻿Rev.,﻿I. G. Uhland,﻿C.M.,,,,,,,1865,﻿,﻿,﻿St. Louis,StLouis
-﻿stl.mo.0007,﻿church,﻿St. Vincent de Paul's,English,﻿residence adjoining,﻿Decatur street,,,,﻿St. Louis,﻿St. Louis,﻿MO,,38.6630835,-90.2013781,,,,﻿j_h_koop_001,﻿Rev.,﻿J. H. Koop,﻿C.M.,,,,,,,1865,﻿,﻿,﻿St. Louis,StLouis
+﻿stl.mo.0007,﻿church,﻿St. Vincent de Paul's,English,﻿residence adjoining,﻿Decatur street,,,,﻿St. Louis,﻿St. Louis,﻿MO,,,,,,,﻿t_burke_001,﻿Rev.,﻿T. Burke,﻿C.M.,,,,,,,1865,﻿,﻿,﻿St. Louis,StLouis
+﻿stl.mo.0007,﻿church,﻿St. Vincent de Paul's,English,﻿residence adjoining,﻿Decatur street,,,,﻿St. Louis,﻿St. Louis,﻿MO,,,,,,,﻿e_m_smyth_001,﻿Rev.,﻿E. M. Smyth,﻿C.M.,,,,,,,1865,﻿,﻿,﻿St. Louis,StLouis
+﻿stl.mo.0007,﻿church,﻿St. Vincent de Paul's,English,﻿residence adjoining,﻿Decatur street,,,,﻿St. Louis,﻿St. Louis,﻿MO,,,,,,,﻿i_g_uhland_001,﻿Rev.,﻿I. G. Uhland,﻿C.M.,,,,,,,1865,﻿,﻿,﻿St. Louis,StLouis
+﻿stl.mo.0007,﻿church,﻿St. Vincent de Paul's,English,﻿residence adjoining,﻿Decatur street,,,,﻿St. Louis,﻿St. Louis,﻿MO,,,,,,,﻿j_h_koop_001,﻿Rev.,﻿J. H. Koop,﻿C.M.,,,,,,,1865,﻿,﻿,﻿St. Louis,StLouis
 ﻿stl.mo.0008,﻿church,﻿St. John's,English,﻿residence adjoining,﻿Sixteenth and Chestnut streets,,,,﻿St. Louis,﻿St. Louis,﻿MO,,38.628813,-90.2013043,,,,﻿p_ring_001,﻿Rev.,﻿P. Ring,﻿C.M.,,,,,,,1865,﻿,﻿,﻿St. Louis,StLouis
 ﻿stl.mo.0008,﻿church,﻿St. John's,English,﻿residence adjoining,﻿Sixteenth and Chestnut streets,,,,﻿St. Louis,﻿St. Louis,﻿MO,,38.628813,-90.2013043,,,,﻿c_smyth_001,﻿Rev.,﻿C. Smyth,﻿C.M.,,,,,,,1865,﻿,﻿,﻿St. Louis,StLouis
 ﻿stl.mo.0009,﻿church,﻿Sts. Peter and Paul's,﻿German,﻿residence adjoining,﻿Seventh street and Allen avenue,,,,﻿St. Louis,﻿St. Louis,﻿MO,,38.607361,-90.2027368,,,,﻿f_goller_001,﻿Rev.,﻿J. Goller,,,,,,,,1865,﻿,﻿,﻿St. Louis,StLouis
@@ -49,7 +49,7 @@
 ﻿stl.mo.0207,﻿church,﻿St. Joseph's,English,,,,﻿Knox County,,﻿Edina,﻿Edina,﻿MO,,40.16739062,-92.17260586,,,,﻿b_mcmenomy_001,﻿Rev.,﻿B. McMenomy,,,,,,,,1865,﻿,﻿,﻿St. Louis,StLouis
 ﻿stl.mo.0225,﻿church,not recorded,English,,,,﻿Holt County,,﻿English Grove,,﻿MO,,37.84710029,-92.15816565,﻿stl.mo.0207,﻿visited from St. Joseph's,,,,,,,,,,,,1865,﻿,﻿,﻿St. Louis,StLouis
 ﻿stl.mo.0062,﻿church,﻿St. Ferdinand's,English,,,,﻿St. Louis County,,﻿Florissant,﻿Florissant,﻿MO,,38.789217,-90.322614,,,,﻿jud_f_van-assche_001,﻿Rev.,﻿Judocus F. Van Assche,﻿S.J.,,,,,,,1865,﻿,﻿,﻿St. Louis,StLouis
-﻿stl.mo.0198,﻿church,﻿St. Ann's,English,,,,﻿St. Louis County,,﻿Florissant Road,﻿Florissant,﻿MO,,38.789217,-90.322614,,,,﻿a_van-hulst_001,﻿Rev.,﻿A. Van Hulst,﻿S.J.,,,,,,,1865,﻿,﻿,﻿St. Louis,StLouis
+﻿stl.mo.0198,﻿church,﻿St. Ann's,English,,,,﻿St. Louis County,,﻿Florissant Road,﻿Florissant,﻿MO,,,,,,,﻿a_van-hulst_001,﻿Rev.,﻿A. Van Hulst,﻿S.J.,,,,,,,1865,﻿,﻿,﻿St. Louis,StLouis
 ﻿stl.mo.0066,﻿church,﻿St. Michael's,English,,,,﻿Madison County,,﻿Fredericktown,﻿Fredericktown,﻿MO,,37.5597754,-90.2940069,,,,﻿l_tucker_001,﻿Rev.,﻿L. Tucker,,,,,,,,1865,﻿,﻿,﻿St. Louis,StLouis
 ﻿stl.mo.0068,﻿church,﻿Sacred Heart,English,,,,﻿Gasconade County,,﻿Gasconade,﻿Gasconade,﻿MO,,38.669489,-91.5601667,﻿stl.mo.0200,﻿Visited from Westphalia,,,,,,,,,,,,1865,﻿,﻿,﻿St. Louis,StLouis
 ﻿stl.mo.0072,﻿church,not recorded,English,,,,﻿Marion County,,﻿Hannibal,﻿Hannibal,﻿MO,,39.7083789,-91.3584816,,,,﻿e_ledwith_001,﻿Rev.,﻿E. Ledwith,,,,,,,,1865,﻿,﻿,﻿St. Louis,StLouis
@@ -65,7 +65,7 @@
 ﻿stl.mo.0087,﻿church,not recorded,English,,,,﻿Lewis County,,﻿La Grange,﻿La Grange,﻿MO,,40.0428236,-91.4976544,﻿stl.mo.0137,﻿attended from Marysville,,,,,,,,,,,,1865,﻿,﻿,﻿St. Louis,StLouis
 ﻿stl.mo.0088,﻿church,not recorded,English,,,,﻿Lafayette County,,﻿Lexington,﻿Lexington,﻿MO,,39.1847339,-93.8799426,,,,﻿e_hamell_001,﻿Rev.,﻿E. Hamell,,,,,,,,1865,﻿,﻿,﻿St. Louis,StLouis
 ﻿stj.mo.0024,﻿church,not recorded,English,,,,﻿Clay County,,﻿Liberty,﻿Liberty,﻿MO,,39.240833,-94.418889,,,,﻿d_kennedy_001,﻿Rev.,﻿D. Kennedy,,,,,,,,1865,﻿,﻿,﻿St. Louis,StLouis
-﻿stl.mo.0215,﻿church,﻿St. Ann's,English,﻿vacant,,,﻿St. Genevieve County,,﻿Little Canada,,﻿MO,,39.240833,-94.418889,,,,,,,,,,,,,,1865,﻿,﻿,﻿St. Louis,StLouis
+﻿stl.mo.0215,﻿church,﻿St. Ann's,English,﻿vacant,,,﻿St. Genevieve County,,﻿Little Canada,,﻿MO,,,,,,,,,,,,,,,,,1865,﻿,﻿,﻿St. Louis,StLouis
 ﻿stl.mo.0091,﻿church,not recorded,English,,,,﻿Pike County,,﻿Louisiana,﻿Louisiana,﻿MO,,39.4489351,-91.0515256,,,,﻿j_cummings_001,﻿Rev.,﻿J. Cummings,,,,,,,,1865,﻿,﻿,﻿St. Louis,StLouis
 ﻿stl.mo.0093,﻿church,﻿St. Malachy's,English,,,,﻿St. Louis County,,﻿Manchester,﻿Manchester,﻿MO,,38.5969977,-90.5092882,﻿stl.mo.0084,﻿Attended from Kirkwood,,,,,,,,,,,,1865,﻿,﻿,﻿St. Louis,StLouis
 ﻿stl.mo.0096,﻿church,﻿Assumption,English,,,,﻿St. Louis County,,﻿Maltis Creek,﻿Mattese Creek,﻿MO,,38.48183948,-90.34425058,﻿stl.mo.0097,﻿Attended from Merrimac,,,,,,,,,,,,1865,﻿,﻿,﻿St. Louis,StLouis
@@ -160,7 +160,7 @@
 ﻿stl.mo.0062_02&_03,"﻿convent, academy",﻿Convent and Academy of Loretto,English,,,,,,﻿Florissant,﻿Florissant,﻿MO,,38.7905559,-90.3136682,,,,,﻿Mother,﻿Philomena,,﻿Superior,,,,,,1865,﻿,﻿,﻿St. Louis,StLouis
 ﻿stl.mo.0154,"﻿convent, academy",﻿Convent and Academy of Loretto,English,,,,,,﻿Cape Girardeau,﻿Cape Girardeau,﻿MO,,37.3058839,-89.5181476,,,,,﻿Mother,﻿Rosa Monarch,,﻿Superior,,,,,,1865,﻿,﻿,﻿St. Louis,StLouis
 ﻿stl.mo.0155,"﻿convent, academy",﻿Ursuline Convent and Academy,English,,,,,,﻿St. Louis,﻿St. Louis,﻿MO,,38.6552974,-90.2690466,,,,,﻿Mother,﻿Aloysia Winkler,,﻿Superior,,,,,,1865,﻿,﻿,﻿St. Louis,StLouis
-﻿stl.mo.0156,"﻿house, academy",﻿Mother House and Academy of Sisters of St. Joseph,English,,,,,,﻿Carondelet,﻿Carondelet,﻿MO,,38.5550387,-90.255974,,,,,﻿Mother,﻿St. John,,﻿Superior,,﻿general boarders,"﻿general boarders, 100",,,1865,﻿,﻿,﻿St. Louis,StLouis
+﻿stl.mo.0156,"﻿house, academy",﻿Mother House and Academy of Sisters of St. Joseph,English,,,,,,﻿Carondelet,﻿Carondelet,﻿MO,,38.5550387,-90.255974,,,,,﻿Mother,﻿St. John,,﻿Superior,,﻿general boarder,"﻿general boarders, 100",,,1865,﻿,﻿,﻿St. Louis,StLouis
 ﻿stl.mo.0157,"﻿convent, academy",﻿Convent and Academy of Sisters of St. Joseph,English,,,,,,﻿St. Genevieve,﻿St. Genevieve,﻿MO,,37.9786618,-90.0475582,,,,,﻿Mother,﻿Gabriella,,﻿Superior,,﻿pupil,"﻿Pupils, 250",,,1865,﻿,﻿,﻿St. Louis,StLouis
 ﻿stl.mo.0158,﻿college,﻿College of the Christian Brothers,English,,,,,,﻿St. Louis,﻿St. Louis,﻿MO,,38.6270025,-90.1994042,,,,,﻿Brother,﻿Philip,,﻿Director,,,,,,1865,﻿,﻿,﻿St. Louis,StLouis
 ﻿stl.mo.0159,﻿convent,﻿Convent of the Franciscan Fathers,English,﻿Academy attached,,﻿near Stringtown,﻿St. Louis,﻿St. Louis,,,﻿MO,,37.9642529,-91.8318334,,,,﻿ser_altmicks_001,﻿Rev.,﻿Servatius Altmicks,﻿O.S.F.,﻿Prior,,,,,,1865,﻿,﻿,﻿St. Louis,StLouis
@@ -178,18 +178,18 @@
 ﻿stl.mo.0172,﻿school,﻿Female School of St. Vincent,English,,,,,,,,﻿MO,,37.9642529,-91.8318334,,,,,﻿Sister,﻿Lucina,,﻿Sister-Servant,,﻿pupil,﻿100 pupils,,,1865,﻿,﻿,﻿St. Louis,StLouis
 ﻿stl.mo.0173,﻿house,﻿House of the Good Shepherd,English,,,,,,﻿St. Louis,﻿St. Louis,﻿MO,,38.6270025,-90.1994042,,,,,﻿Sister,"﻿Mary, of the Sacred Heart",,﻿Superior,,,,"﻿to which is attached the House of the Third Order of St. Teresa, for penitents",,1865,﻿,﻿,﻿St. Louis,StLouis
 ﻿stl.mo.0211,﻿convent,﻿St. Joseph's Convent,English,,﻿Morgan and Twenty-Third streets,,,,﻿St. Louis,﻿St. Louis,﻿MO,,38.57254908,-90.25387298,,,,,﻿Mother,﻿M. de Pazzi,,﻿Superior,,﻿professed,﻿8 professed,,,1865,﻿,﻿,﻿St. Louis,StLouis
-﻿stl.mo.0211,﻿convent,﻿St. Joseph's Convent,English,,﻿Morgan and Twenty-Third streets,,,,﻿St. Louis,﻿St. Louis,﻿MO,,38.57254908,-90.25387298,,,,,,,,,,﻿novices,﻿5 novices,,,1865,﻿,﻿,﻿St. Louis,StLouis
-﻿stl.mo.0211,﻿convent,﻿St. Joseph's Convent,English,,﻿Morgan and Twenty-Third streets,,,,﻿St. Louis,﻿St. Louis,﻿MO,,38.57254908,-90.25387298,,,,,,,,,,﻿postulants,﻿2 postulants,,,1865,﻿,﻿,﻿St. Louis,StLouis
-﻿stl.mo.0211,﻿convent,﻿St. Joseph's Convent,English,,﻿Morgan and Twenty-Third streets,,,,﻿St. Louis,﻿St. Louis,﻿MO,,38.57254908,-90.25387298,,,,,,,,,,﻿lay sisters,﻿4 lay sisters,,,1865,﻿,﻿,﻿St. Louis,StLouis
-﻿stl.mo.0203,﻿house,﻿House of Protection,English,,,,,,,﻿St. Louis,﻿MO,,38.66992376,-90.23573351,,,,,,,,,,﻿inmates,﻿40 inmates,﻿conducted by Sisters of Mercy,,1865,﻿,﻿,﻿St. Louis,StLouis
-﻿stl.mo.0204,﻿school,﻿Free School,English,,,,,,,﻿St. Louis,﻿MO,,38.61468372,-90.27006578,,,,,,,,,,﻿children,﻿150 children,﻿conducted by Sisters of Mercy,,1865,﻿,﻿,﻿St. Louis,StLouis
+﻿stl.mo.0211,﻿convent,﻿St. Joseph's Convent,English,,﻿Morgan and Twenty-Third streets,,,,﻿St. Louis,﻿St. Louis,﻿MO,,38.57254908,-90.25387298,,,,,,,,,,﻿novice,﻿5 novices,,,1865,﻿,﻿,﻿St. Louis,StLouis
+﻿stl.mo.0211,﻿convent,﻿St. Joseph's Convent,English,,﻿Morgan and Twenty-Third streets,,,,﻿St. Louis,﻿St. Louis,﻿MO,,38.57254908,-90.25387298,,,,,,,,,,﻿postulant,﻿2 postulants,,,1865,﻿,﻿,﻿St. Louis,StLouis
+﻿stl.mo.0211,﻿convent,﻿St. Joseph's Convent,English,,﻿Morgan and Twenty-Third streets,,,,﻿St. Louis,﻿St. Louis,﻿MO,,38.57254908,-90.25387298,,,,,,,,,,﻿lay sister,﻿4 lay sisters,,,1865,﻿,﻿,﻿St. Louis,StLouis
+﻿stl.mo.0203,﻿house,﻿House of Protection,English,,,,,,,﻿St. Louis,﻿MO,,38.66992376,-90.23573351,,,,,,,,,,﻿inmate,﻿40 inmates,﻿conducted by Sisters of Mercy,,1865,﻿,﻿,﻿St. Louis,StLouis
+﻿stl.mo.0204,﻿school,﻿Free School,English,,,,,,,﻿St. Louis,﻿MO,,38.61468372,-90.27006578,,,,,,,,,,﻿child,﻿150 children,﻿conducted by Sisters of Mercy,,1865,﻿,﻿,﻿St. Louis,StLouis
 ﻿stl.mo.0212,﻿reformatory,﻿La Salle Institute,English,﻿Reformatory for Boys,,,,,,﻿St. Louis,﻿MO,,38.61200108,-90.19865465,,,,,﻿Brother,﻿Polycarp,﻿Superior,,,,,﻿conducted by the Christian Brothers,,1865,﻿,﻿,﻿St. Louis,StLouis
 ﻿stl.mo.0212,﻿reformatory,﻿La Salle Institute,English,﻿Reformatory for Boys,,,,,,﻿St. Louis,﻿MO,,38.61200108,-90.19865465,,,,﻿m_s_cyr_001,﻿Rev.,﻿M. St. Cyr,﻿Chaplain,,,,,﻿conducted by the Christian Brothers,,1865,﻿,﻿,﻿St. Louis,StLouis
 ﻿stl.mo.0175,﻿convent,﻿Convent of the Carmelite Nuns,English,,"﻿at Clay Farm, near Calvary Cemetery",,,,,,﻿MO,,37.9642529,-91.8318334,,,,,﻿Rev. Mother,﻿Gabriel,﻿of the Immaculate Conception,﻿Superior,,,,,,1865,﻿,﻿,﻿St. Louis,StLouis
 ﻿stl.mo.0176,﻿asylum,﻿Deaf and Dumb Asylum,English,,﻿Christy avenue and Beaumont street,,,,﻿St. Louis,﻿St. Louis,﻿MO,,38.6270025,-90.1994042,,,,,﻿Mother,﻿M. Justine,,﻿Superior,,,,﻿conducted by the Sisters of St. Joseph,,1865,﻿,﻿,﻿St. Louis,StLouis
 ﻿stl.mo.0001_02,﻿school,﻿Cathedral Schools,English,,,,,,,,﻿MO,,37.9642529,-91.8318334,,,,,,,,,,﻿pupil,﻿400 pupils,﻿Conducted by Christian Brothers. Sisters of Charity.,,1865,﻿,﻿,﻿St. Louis,StLouis
 ﻿stl.mo.0004_02,﻿school,﻿St. Patrick's,English,,,,,,,,﻿MO,,37.9642529,-91.8318334,,,,,,,,,,﻿pupil,﻿800 pupils,﻿Conducted by Christian Brothers. Sisters of Charity.,,1865,﻿,﻿,﻿St. Louis,StLouis
-﻿stl.mo.0004_02,﻿school,﻿St. Patrick's,English,,,,,,,,﻿MO,,37.9642529,-91.8318334,,,,,,,,,,﻿teachers,﻿2 secular teachers,﻿Conducted by Christian Brothers. Sisters of Charity.,,1865,﻿,﻿,﻿St. Louis,StLouis
+﻿stl.mo.0004_02,﻿school,﻿St. Patrick's,English,,,,,,,,﻿MO,,37.9642529,-91.8318334,,,,,,,,,,﻿teacher,﻿2 secular teachers,﻿Conducted by Christian Brothers. Sisters of Charity.,,1865,﻿,﻿,﻿St. Louis,StLouis
 ﻿stl.mo.0007_02,﻿school,﻿St. Vincent's,English,,,,,,,,﻿MO,,37.9642529,-91.8318334,,,,,,,,,,﻿pupil,﻿350 pupils,﻿conducted by Christian Brothers,,1865,﻿,﻿,﻿St. Louis,StLouis
 ﻿stl.mo.0007_02,﻿school,﻿St. Vincent's,English,,,,,,,,﻿MO,,37.9642529,-91.8318334,,,,,,,,,,﻿pupil,﻿250 pupils,﻿conducted by Sisters of St. Joseph,,1865,﻿,﻿,﻿St. Louis,StLouis
 ﻿stl.mo.0002_02,﻿school,﻿St. Mary's,English,,,,,,,,﻿MO,,37.878942,-89.949277,,,,,,,,,,﻿pupil,﻿400 pupils,﻿Sisters of Notre Dame,,1865,﻿,﻿,﻿St. Louis,StLouis

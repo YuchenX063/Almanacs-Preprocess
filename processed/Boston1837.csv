@@ -2,8 +2,8 @@
 ﻿bos.ma.0001,﻿cathedral,﻿Cathedral of the Holy Cross,English,,,,,﻿Suffolk County,﻿Boston,﻿Boston,﻿MA,﻿MA,42.35606338,-71.05825821,,,,﻿ben_j_fenwick_901,﻿Rt Rev.,﻿Benedict Fenwick,﻿D. D.,,,,,,,1837,﻿https://bostoncathedral.com/history,﻿,﻿,﻿Boston,Boston
 ﻿bos.ma.0001,﻿cathedral,﻿Cathedral of the Holy Cross,English,,,,,﻿Suffolk County,﻿Boston,﻿Boston,﻿MA,,42.35606338,-71.05825821,,,,﻿wil_tyler_901,﻿V. Rev.,﻿William Tyler,,,,,,,,1837,,﻿,﻿,﻿Boston,Boston
 ﻿bos.ma.0001,﻿cathedral,﻿Cathedral of the Holy Cross,English,,,,,﻿Suffolk County,﻿Boston,﻿Boston,﻿MA,,42.35606338,-71.05825821,,,,﻿mic_healy_901,﻿V. Rev.,﻿Michael Healy,,,,,,,,1837,,﻿,﻿,﻿Boston,Boston
-﻿bos.ma.0002,﻿church,﻿St. Mary's,English,,,,,﻿Suffolk County,﻿Boston,,﻿MA,,42.35606338,-71.05825821,,,,﻿wil_wiley_901,﻿Rev.,﻿William Wiley,,,,,,,,1837,,﻿,﻿,﻿Boston,Boston
-﻿bos.ma.0002,﻿church,﻿St. Mary's,English,,,,,﻿Suffolk County,﻿Boston,,﻿MA,,42.35606338,-71.05825821,,,,﻿pat_byrne_901,﻿Rev.,﻿Patrick Byrne,,,,,,,,1837,,﻿,﻿,﻿Boston,Boston
+﻿bos.ma.0002,﻿church,﻿St. Mary's,English,,,,,﻿Suffolk County,﻿Boston,,﻿MA,,,,,,,﻿wil_wiley_901,﻿Rev.,﻿William Wiley,,,,,,,,1837,,﻿,﻿,﻿Boston,Boston
+﻿bos.ma.0002,﻿church,﻿St. Mary's,English,,,,,﻿Suffolk County,﻿Boston,,﻿MA,,,,,,,﻿pat_byrne_901,﻿Rev.,﻿Patrick Byrne,,,,,,,,1837,,﻿,﻿,﻿Boston,Boston
 ﻿bos.ma.0001_02,﻿chapel,﻿St. Aloysius' Chapel,English,"﻿under the Cathedral, is appropriated exclusively to the use of the male children of the Congregation",,,,﻿Suffolk County,﻿Boston,,﻿MA,﻿MA,42.35606338,-71.05825821,,,,﻿jam_conway_901,﻿Rev.,﻿James Conway,,,,,,,,1837,,﻿,﻿,﻿Boston,Boston
 ﻿bos.ma.0012,﻿church,﻿St. Augustin's,English,,﻿South Boston,,,﻿Suffolk County,﻿Boston,﻿Boston,﻿MA,﻿MA,42.334167,-71.049444,,,,﻿joh_mahony_901,﻿Rev.,﻿John Mahony,,,,,,,,1837,﻿https://en.wikipedia.org/wiki/Saint_Augustine_Chapel_and_Cemetery ; https://www.gateofheavenstbrigid.org/st-augustine-cemetery-chapel,﻿,﻿,﻿Boston,Boston
 ﻿bos.ma.0055,﻿church,﻿St. Mary's,English,,,,,﻿Suffolk County,﻿Charlestown,﻿Charlestown,﻿MA,﻿MA,42.37391065,-71.06582063,,,,﻿pat_byrne_901,﻿Rev.,﻿P. Byrne,,,,,,,,1837,﻿https://en.wikipedia.org/wiki/St._Mary_%E2%80%93_St._Catherine_of_Siena_Parish,﻿,﻿,﻿Boston,Boston
@@ -42,4 +42,4 @@
 ﻿bos.ma.0197,﻿seminary,﻿Mount St. James' Seminary,English,,,,,﻿Worcester County,﻿Worcester,﻿Worcester,﻿MA,,42.23908024,-71.8079608,,,,﻿wil_tyler_901,﻿Very Rev.,﻿Wm. Tyler,,﻿Reference,,,,,,1837,,﻿,﻿,﻿Boston,Boston
 ﻿bos.ma.0197,﻿seminary,﻿Mount St. James' Seminary,English,,,,,﻿Worcester County,﻿Worcester,﻿Worcester,﻿MA,,42.23908024,-71.8079608,,,,﻿mic_healy_901,﻿Very Rev.,﻿Michal Healy,,﻿Reference,,,,,,1837,,﻿,﻿,﻿Boston,Boston
 ﻿bos.ma.0197,﻿seminary,﻿Mount St. James' Seminary,English,,,,,﻿Worcester County,﻿Worcester,﻿Worcester,﻿MA,,42.23908024,-71.8079608,,,,﻿wil_wiley_901,﻿Rev.,﻿Wm. Wiley,,﻿Reference,,,,,,1837,,﻿,﻿,﻿Boston,Boston
-﻿bos.ma.9003,﻿school,﻿Free School,English,,,,,﻿Suffolk County,﻿Boston,,﻿MA,,42.23908024,-71.8079608,,,,,,,,,,﻿sisters,﻿4 sisters,﻿Sisters of Charity,,1837,,﻿,﻿,﻿Boston,Boston
+﻿bos.ma.9003,﻿school,﻿Free School,English,,,,,﻿Suffolk County,﻿Boston,,﻿MA,,,,,,,,,,,,,﻿sister,﻿4 sisters,﻿Sisters of Charity,,1837,,﻿,﻿,﻿Boston,Boston

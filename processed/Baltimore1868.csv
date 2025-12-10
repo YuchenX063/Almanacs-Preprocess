@@ -39,7 +39,7 @@
 ﻿bal.md.0026,﻿church,﻿Sts. Peter and Paul,English,﻿German,,,﻿Alleghany County,,﻿Cumberland,﻿Cumberland,﻿MD,,39.652847,-78.767092,,,,﻿tho_maher_001,﻿Rev.,﻿Peter Thomas Maher,,,,,,﻿and other Carmelite Fathers,,1868,﻿,﻿,﻿Baltimore,Baltimore
 ﻿bal.md.0026,﻿church,﻿Sts. Peter and Paul,English,﻿German,,,﻿Alleghany County,,﻿Cumberland,﻿Cumberland,﻿MD,,39.652847,-78.767092,,,,﻿the_macdonald_001,﻿Rev.,﻿Theodoric Macdonald,,,,,,﻿and other Carmelite Fathers,,1868,﻿,﻿,﻿Baltimore,Baltimore
 ﻿bal.md.0027,﻿church,not recorded,English,,,,﻿Alleghany County,,﻿Barton,﻿Barton,﻿MD,,39.530646,-79.017528,﻿bal.md.0025,﻿Attended from Cumberland,﻿4th Sunday,,,,,,,,,,,1868,﻿,﻿,﻿Baltimore,Baltimore
-﻿bal.md.0249,﻿church,﻿St. Mary's,English,,,,﻿Alleghany County,,﻿Bloomington,,﻿MD,,39.530646,-79.017528,,,﻿2d Sunday,,,,,,,,,,,1868,﻿,﻿,﻿Baltimore,Baltimore
+﻿bal.md.0249,﻿church,﻿St. Mary's,English,,,,﻿Alleghany County,,﻿Bloomington,,﻿MD,,,,,,﻿2d Sunday,,,,,,,,,,,1868,﻿,﻿,﻿Baltimore,Baltimore
 ﻿bal.md.0028,﻿church,"﻿Blooming Rose, Mountain Church",English,,,,﻿Alleghany County,,﻿Blooming Rose,﻿Friendsville,﻿MD,,39.656667,-79.439167,﻿bal.md.0035,﻿Attended from Frostburg,﻿once in three months,,,,,,,,,,,1868,﻿,﻿,﻿Baltimore,Baltimore
 ﻿bal.md.0029,﻿church,﻿St. Michael's,English,,,,﻿Alleghany  County,,﻿Frostburg,﻿Frostburgh,﻿MD,,39.657053,-78.927303,,,,﻿la_morgan_001,﻿Rev.,﻿L. Morgan,,,"﻿1st, 3d, and 4th Sundays",,,,,1868,﻿,﻿,﻿Baltimore,Baltimore
 ﻿bal.md.0030,﻿church,not recorded,English,﻿church building,,,﻿Alleghany  County,,﻿Lonaconing,﻿Lonaconing,﻿MD,,39.565923,-78.980304,﻿bal.md.0025,﻿Attended from Cumberland,"﻿on the 2d and 5th Sundays, and holydays of obligation",,,,,,,,,,,1868,﻿,﻿,﻿Baltimore,Baltimore
@@ -70,9 +70,9 @@
 ﻿bal.md.0057,﻿church,﻿St. John's,English,,,,﻿Carroll County,,﻿Westminster,﻿Westminster,﻿MD,,39.575379,-76.995815,﻿bal.md.0056,﻿Attended from Taneytown,﻿2d and 4th Sundays,,,,,,,,,,,1868,﻿,﻿,﻿Baltimore,Baltimore
 ﻿bal.md.0058,﻿church,﻿St. Thomas',English,,,,﻿Carroll County,,﻿New-Windsor,﻿New Windsor,﻿MD,,39.542046,-77.108038,﻿bal.md.0056,﻿Attended from Taneytown,﻿5th Sunday,,,,,,,,,,,1868,﻿,﻿,﻿Baltimore,Baltimore
 ﻿bal.md.0059,﻿church,﻿St. Bartholomew's,English,,,,﻿Carroll County,,﻿Manchester,﻿Manchester,﻿MD,,39.661213,-76.884978,﻿bal.md.0010,"﻿Attended from St. Alphonsus', Baltimore",﻿3rd Sunday,,,,,,,,,,,1868,﻿,﻿,﻿Baltimore,Baltimore
-﻿bal.md.0250,﻿church,not recorded,English,,,,﻿Carroll County,,﻿Uniontown,,﻿MD,,39.661213,-76.884978,﻿bal.md.0056,﻿Visited from Taneytown,﻿occasionally,,,,,,,,,,,1868,﻿,﻿,﻿Baltimore,Baltimore
-﻿bal.md.0251,﻿church,not recorded,English,,,,﻿Carroll County,,﻿Finksburgh,,﻿MD,,39.661213,-76.884978,﻿bal.md.0057,﻿Visited from Taneytown,﻿occasionally,,,,,,,,,,,1868,﻿,﻿,﻿Baltimore,Baltimore
-﻿bal.md.0252,﻿church,not recorded,English,,,,﻿Carroll County,,﻿Hampstead,,﻿MD,,39.661213,-76.884978,﻿bal.md.0058,﻿Visited from Taneytown,﻿occasionally,,,,,,,,,,,1868,﻿,﻿,﻿Baltimore,Baltimore
+﻿bal.md.0250,﻿church,not recorded,English,,,,﻿Carroll County,,﻿Uniontown,,﻿MD,,,,﻿bal.md.0056,﻿Visited from Taneytown,﻿occasionally,,,,,,,,,,,1868,﻿,﻿,﻿Baltimore,Baltimore
+﻿bal.md.0251,﻿church,not recorded,English,,,,﻿Carroll County,,﻿Finksburgh,,﻿MD,,,,﻿bal.md.0057,﻿Visited from Taneytown,﻿occasionally,,,,,,,,,,,1868,﻿,﻿,﻿Baltimore,Baltimore
+﻿bal.md.0252,﻿church,not recorded,English,,,,﻿Carroll County,,﻿Hampstead,,﻿MD,,,,﻿bal.md.0058,﻿Visited from Taneytown,﻿occasionally,,,,,,,,,,,1868,﻿,﻿,﻿Baltimore,Baltimore
 ﻿bal.md.0061,﻿church,not recorded,English,﻿church building,,,﻿Carroll County,,﻿Sykesville,﻿Sykesville,﻿MD,,39.373715,-76.967757,﻿bal.md.0083,﻿Attended from Ellicott's Mills,,,,,,,,,,,,1868,﻿,﻿,﻿Baltimore,Baltimore
 ﻿wil.de.0022,﻿church,﻿St. Elizabeth's,English,,,,﻿Caroline County,,﻿Denton,﻿Denton,﻿MD,,38.885288,-75.834971,﻿bal.md.0256,"﻿Attended from St. Joseph's, near Wye Mills",,,,,,,,,,,,1868,﻿,﻿,﻿Baltimore,Baltimore
 ﻿wil.de.0012,﻿church,﻿St. Francis Xavier's,English,,,,﻿Cecil County,,﻿Bohemia,﻿Chesapeake City,﻿MD,,39.530946,-75.807437,,,,﻿geo_villiger_001,﻿Rev.,﻿George Villiger,﻿S.J.,,﻿2d and 4th Sundays,,,,,1868,﻿,﻿,﻿Baltimore,Baltimore
@@ -118,8 +118,8 @@
 ﻿bal.md.0090,﻿church,﻿St. Rose's,English,,,,﻿Montgomery County,,﻿Seneca,﻿Seneca,﻿MD,,39.078611,-77.339444,,,,﻿hen_spruyt_001,﻿Rev.,﻿Henry Spruyt,,,﻿2d and 4th Sundays,,,,,1868,﻿,﻿,﻿Baltimore,Baltimore
 ﻿bal.md.0091,﻿church,﻿St. Mary's,English,﻿Residence of Rev. Henry Spruyt,,,﻿Montgomery County,,﻿Barnesville,﻿Barnesville,﻿MD,,39.22066,-77.377486,,,,,,,,,,,,,,1868,﻿,﻿,﻿Baltimore,Baltimore
 ﻿bal.md.0092,﻿church,﻿St. Peter's,English,,,,﻿Montgomery County,,﻿Hollin's River,,﻿MD,,39.148545,-77.061849,﻿bal.md.0088,﻿Attended from Rockville,﻿5th Sunday,,,,,,,,,,,1868,﻿,﻿,﻿Baltimore,Baltimore
-﻿bal.md.0253,﻿church,﻿St. Peter's,English,,,,﻿Queen Ann's County,,﻿Queenstown,,﻿MD,,39.148545,-77.061849,,"﻿Attended by Rev. Edward Henchy, S.J., of Wye Mills",,,,,,,,,,,,1868,﻿,﻿,﻿Baltimore,Baltimore
-﻿bal.md.0254,﻿church,not recorded,English,,,,﻿Queen Ann's County,,﻿Kent Island,,﻿MD,,39.148545,-77.061849,,﻿Attended from Annapolis,,,,,,,,,,,,1868,﻿,﻿,﻿Baltimore,Baltimore
+﻿bal.md.0253,﻿church,﻿St. Peter's,English,,,,﻿Queen Ann's County,,﻿Queenstown,,﻿MD,,,,,"﻿Attended by Rev. Edward Henchy, S.J., of Wye Mills",,,,,,,,,,,,1868,﻿,﻿,﻿Baltimore,Baltimore
+﻿bal.md.0254,﻿church,not recorded,English,,,,﻿Queen Ann's County,,﻿Kent Island,,﻿MD,,,,,﻿Attended from Annapolis,,,,,,,,,,,,1868,﻿,﻿,﻿Baltimore,Baltimore
 ﻿bal.md.0093,﻿church,﻿St. Inigoes',English,,,,﻿St. Mary's County,,,,﻿MD,,38.149372,-76.423483,,,,﻿b_pacciarini_001,﻿Rev.,﻿B. Pacciarini,﻿S.J.,,,,,,,1868,﻿,﻿,﻿Baltimore,Baltimore
 ﻿bal.md.0093,﻿church,﻿St. Inigoes',English,,,,﻿St. Mary's County,,,,﻿MD,,38.149372,-76.423483,,,,﻿f_gosbilin_001,﻿Rev.,﻿F. Gosbilin,﻿S.J.,,,,,,,1868,﻿,﻿,﻿Baltimore,Baltimore
 ﻿bal.md.0093,﻿church,﻿St. Inigoes',English,,,,﻿St. Mary's County,,,,﻿MD,,38.149372,-76.423483,,,,﻿tho_finnegan_001,﻿Rev.,﻿Thos. Finnegan,﻿S.J.,,,,,,,1868,﻿,﻿,﻿Baltimore,Baltimore
@@ -334,8 +334,8 @@
 ﻿bal.md.0035_02,﻿school,﻿St. Peter's Parish School,English,,,,,,﻿Westernport,﻿Westernport,﻿MD,,38.975098,-76.487887,,,,,,,,,,﻿pupil,"﻿Pupils, 115",,,1868,﻿,﻿,﻿Baltimore,Baltimore
 ﻿bal.md.0140_03,﻿school,﻿Benevolent School for Girls,English,,﻿at the Visitation Convent,,,,﻿Georgetown,﻿Georgetown,﻿DC,,39.29627,-76.618323,,,,,,,,,,﻿pupil,"﻿Pupils, 125",,,1868,﻿,﻿,﻿Baltimore,Baltimore
 ﻿bal.md.0143_03,﻿school,﻿Benevolent School for Girls,English,,﻿at the Visitation Convent,,,,﻿Frederick,﻿Frederick,﻿MD,,38.89837,-77.025998,,,,,,,,,,﻿pupil,"﻿Pupils, 70",,,1868,﻿,﻿,﻿Baltimore,Baltimore
-﻿bal.md.0232_02,﻿school,﻿School for Girls,English,﻿conducted by Sisters of Charity,﻿at St. Vincent's Asylum,,,,﻿Washington,﻿Washington,﻿DC,,38.89837,-77.025998,,,,,,,,,,﻿pupil,"﻿Pupils, 300",﻿Sisters of Charity,,1868,﻿,﻿,﻿Baltimore,Baltimore
-﻿bal.md.0246,﻿school,﻿School for Small Boys,English,﻿under the charge of Sisters of the Holy Cross,﻿14th and H streets,,,,﻿Washington,﻿Washington,﻿DC,,38.89837,-77.025998,,,,,,,,,,,,﻿Sisters of the Holy Cross,,1868,﻿,﻿,﻿Baltimore,Baltimore
+﻿bal.md.0232_02,﻿school,﻿School for Girls,English,﻿conducted by Sisters of Charity,﻿at St. Vincent's Asylum,,,,﻿Washington,﻿Washington,﻿DC,,,,,,,,,,,,,﻿pupil,"﻿Pupils, 300",﻿Sisters of Charity,,1868,﻿,﻿,﻿Baltimore,Baltimore
+﻿bal.md.0246,﻿school,﻿School for Small Boys,English,﻿under the charge of Sisters of the Holy Cross,﻿14th and H streets,,,,﻿Washington,﻿Washington,﻿DC,,,,,,,,,,,,,,,﻿Sisters of the Holy Cross,,1868,﻿,﻿,﻿Baltimore,Baltimore
 ﻿bal.md.0224,﻿school,﻿School for Colored Children,English,,"﻿St. Martin's, 15th street",,,,﻿Washington,﻿Washington,﻿DC,,38.904202,-77.034506,,,,,,,,,,,,,,1868,﻿,﻿,﻿Baltimore,Baltimore
 ﻿bal.md.0001_04,﻿asylum,﻿St. Mary's Female Orphan Asylum,English,﻿under the charge of the Sisters of Charity,﻿Franklin street,,,,﻿Baltimore,﻿Baltimore,﻿MD,,39.284964,-76.56734,,,,,﻿Sister,﻿Louise,,﻿Sister-Servant,,﻿orphan,"﻿Orphans, 110",﻿Sisters of Charity,,1868,﻿,﻿,﻿Baltimore,Baltimore
 ﻿bal.md.0003_04,﻿asylum,﻿St. Vincent's Male Orphan Asylum,English,﻿under the charge of Brothers of the Christian Schools,﻿Front street,,,,﻿Baltimore,﻿Baltimore,﻿MD,,39.288036,-76.631907,,,,,,,,,,﻿orphan,"﻿Orphans, 60",﻿Brothers of the Christian Schools,,1868,﻿,﻿,﻿Baltimore,Baltimore

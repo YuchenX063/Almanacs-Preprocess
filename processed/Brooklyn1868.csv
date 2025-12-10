@@ -79,8 +79,8 @@
 ﻿bro.ny.0063,﻿church,not recorded,English,,,,﻿,,﻿Yaphank,﻿Yaphank,﻿NY,,,,﻿bro.ny.0057,﻿Attended from Southold,﻿every six weeks,,,,,,,,,,,1868,﻿,﻿,﻿Brooklyn,Brooklyn
 ﻿bro.ny.0064,﻿church,﻿St. Mary's,English,,,,﻿,,﻿Whitestone,﻿Whitestone,﻿NY,,,,﻿bro.ny.0035,﻿Attended from Flushing,,,,,,,,,,,,1868,﻿,﻿,﻿Brooklyn,Brooklyn
 ﻿bro.ny.0067,"﻿convent, academy",﻿Convent of the Academy of the Visitation,English,,﻿corner of Johnson and Pearl streets,,,,﻿Brooklyn,,﻿NY,,,,,,,,﻿Mother,﻿M. Liguori Wernig,,﻿Superioress,,﻿pupil,﻿120 pupils,,,1868,﻿,﻿,﻿Brooklyn,Brooklyn
-﻿bro.ny.0068,﻿convent,﻿St. Francis of Assisium Convent of Sisters of Mercy,English,"﻿Attached to the convent is an industrial school, in which young girls are gratuitously taught, and provided with employment in various branches of industry.",,,,,,,﻿NY,,,,,,,,﻿Mother,﻿Mary Vincent Haire,,﻿Superioress,,﻿pupils,"﻿300 pupils, parish school",,,1868,﻿,﻿,﻿Brooklyn,Brooklyn
-﻿bro.ny.0068,﻿convent,﻿St. Francis of Assisium Convent of Sisters of Mercy,English,"﻿Attached to the convent is an industrial school, in which young girls are gratuitously taught, and provided with employment in various branches of industry.",,,,,,,﻿NY,,,,,,,,,,,,,﻿orphans,﻿70 orphan children,,,1868,﻿,﻿,﻿Brooklyn,Brooklyn
+﻿bro.ny.0068,﻿convent,﻿St. Francis of Assisium Convent of Sisters of Mercy,English,"﻿Attached to the convent is an industrial school, in which young girls are gratuitously taught, and provided with employment in various branches of industry.",,,,,,,﻿NY,,,,,,,,﻿Mother,﻿Mary Vincent Haire,,﻿Superioress,,﻿pupil,"﻿300 pupils, parish school",,,1868,﻿,﻿,﻿Brooklyn,Brooklyn
+﻿bro.ny.0068,﻿convent,﻿St. Francis of Assisium Convent of Sisters of Mercy,English,"﻿Attached to the convent is an industrial school, in which young girls are gratuitously taught, and provided with employment in various branches of industry.",,,,,,,﻿NY,,,,,,,,,,,,,﻿orphan,﻿70 orphan children,,,1868,﻿,﻿,﻿Brooklyn,Brooklyn
 ﻿bro.ny.0068,﻿convent,﻿St. Francis of Assisium Convent of Sisters of Mercy,English,"﻿Attached to the convent is an industrial school, in which young girls are gratuitously taught, and provided with employment in various branches of industry.",,,,,,,﻿NY,,,,,,,,,,,,,﻿pupil,"﻿100, select school",,,1868,﻿,﻿,﻿Brooklyn,Brooklyn
 ﻿bro.ny.0007_04,﻿convent,﻿Convent of the Order of St. Dominic,English,,﻿Montrose and Graham Avenues,,,,﻿Brooklyn,,﻿NY,,,,,,,,,﻿Seraphina Staimer,,﻿Superior,,﻿professed,﻿16 professed,,,1868,﻿,﻿,﻿Brooklyn,Brooklyn
 ﻿bro.ny.0007_04,﻿convent,﻿Convent of the Order of St. Dominic,English,,﻿Montrose and Graham Avenues,,,,﻿Brooklyn,,﻿NY,,,,,,,,,,,,,﻿novice,﻿9 novices,,,1868,﻿,﻿,﻿Brooklyn,Brooklyn
@@ -107,30 +107,30 @@
 ﻿bro.ny.0010_03,﻿hospital,﻿Sisters of the Poor,English,,﻿corner of Warren and Hicks streets,,,,﻿Brooklyn,,﻿NY,,,,,,,,,,,,,﻿postulant,﻿3 postulants,,,1868,﻿,﻿,﻿Brooklyn,Brooklyn
 ﻿bro.ny.0010_03,﻿hospital,﻿Sisters of the Poor,English,,﻿corner of Warren and Hicks streets,,,,﻿Brooklyn,,﻿NY,,,,,,,,,,,,,﻿patient,﻿40 patients,,,1868,﻿,﻿,﻿Brooklyn,Brooklyn
 ﻿bro.ny.0001_02,﻿school,﻿Cathedral Parish School,English,,,,,,,,﻿NY,,40.6970424,-73.98692864,,,,,,,,,,﻿pupil,﻿410 pupils,﻿Under the Christian Brothers,,1868,﻿,﻿,﻿Brooklyn,Brooklyn
-﻿bro.ny.0002_02,﻿school,﻿St. Paul's,English,﻿for boys,,,,,﻿New York City,,﻿NY,,40.6970424,-73.98692864,,,,,,,,,,﻿pupil,﻿320 pupils,﻿under Franciscan Brothers,,1868,﻿,﻿,﻿Brooklyn,Brooklyn
-﻿bro.ny.0002_03,﻿school,﻿St. Paul's,English,﻿for girls,,,,,﻿New York City,,﻿NY,,40.6970424,-73.98692864,,,,,,,,,,﻿pupil,﻿300 pupils,﻿under Sisters of Charity,,1868,﻿,﻿,﻿Brooklyn,Brooklyn
-﻿bro.ny.0003_02,﻿school,﻿Assumption of B.V. Mary,English,,,,,,﻿New York City,,﻿NY,,40.6970424,-73.98692864,,,,,,,,,,﻿child,﻿800 children,,,1868,﻿,﻿,﻿Brooklyn,Brooklyn
-﻿bro.ny.0004_02,﻿school,﻿St. Patrick's,English,,,,,,﻿New York City,,﻿NY,,40.6970424,-73.98692864,,,,,,,,,,﻿boy,﻿250 boys,,,1868,﻿,﻿,﻿Brooklyn,Brooklyn
-﻿bro.ny.0004_02,﻿school,﻿St. Patrick's,English,,,,,,﻿New York City,,﻿NY,,40.6970424,-73.98692864,,,,,,,,,,﻿girl,﻿300 girls,,,1868,﻿,﻿,﻿Brooklyn,Brooklyn
-﻿bro.ny.0005_02,﻿school,﻿SS. Peter and Paul's,English,﻿Taught by Sisters of St. Joseph,,,,,﻿New York City,,﻿NY,,40.6970424,-73.98692864,,,,,,,,,,﻿girl,﻿500 girls,﻿Sisters of St. Joseph,,1868,﻿,﻿,﻿Brooklyn,Brooklyn
-﻿bro.ny.0005_02,﻿school,﻿SS. Peter and Paul's,English,﻿Taught by Sisters of St. Joseph,,,,,﻿New York City,,﻿NY,,40.6970424,-73.98692864,,,,,,,,,,﻿boy,﻿350 boys,﻿Sisters of St. Joseph,,1868,﻿,﻿,﻿Brooklyn,Brooklyn
-﻿bro.ny.0007_02,﻿school,﻿Holy Trinity,English,,,,,,﻿New York City,,﻿NY,,40.6970424,-73.98692864,,,,,,,,,,﻿boy,﻿800 boys,,,1868,﻿,﻿,﻿Brooklyn,Brooklyn
-﻿bro.ny.0007_02,﻿school,﻿Holy Trinity,English,,,,,,﻿New York City,,﻿NY,,40.6970424,-73.98692864,,,,,,,,,,﻿girl,﻿850 girls,,,1868,﻿,﻿,﻿Brooklyn,Brooklyn
+﻿bro.ny.0002_02,﻿school,﻿St. Paul's,English,﻿for boys,,,,,﻿New York City,,﻿NY,,,,,,,,,,,,,﻿pupil,﻿320 pupils,﻿under Franciscan Brothers,,1868,﻿,﻿,﻿Brooklyn,Brooklyn
+﻿bro.ny.0002_03,﻿school,﻿St. Paul's,English,﻿for girls,,,,,﻿New York City,,﻿NY,,,,,,,,,,,,,﻿pupil,﻿300 pupils,﻿under Sisters of Charity,,1868,﻿,﻿,﻿Brooklyn,Brooklyn
+﻿bro.ny.0003_02,﻿school,﻿Assumption of B.V. Mary,English,,,,,,﻿New York City,,﻿NY,,,,,,,,,,,,,﻿child,﻿800 children,,,1868,﻿,﻿,﻿Brooklyn,Brooklyn
+﻿bro.ny.0004_02,﻿school,﻿St. Patrick's,English,,,,,,﻿New York City,,﻿NY,,,,,,,,,,,,,﻿boy,﻿250 boys,,,1868,﻿,﻿,﻿Brooklyn,Brooklyn
+﻿bro.ny.0004_02,﻿school,﻿St. Patrick's,English,,,,,,﻿New York City,,﻿NY,,,,,,,,,,,,,﻿girl,﻿300 girls,,,1868,﻿,﻿,﻿Brooklyn,Brooklyn
+﻿bro.ny.0005_02,﻿school,﻿SS. Peter and Paul's,English,﻿Taught by Sisters of St. Joseph,,,,,﻿New York City,,﻿NY,,,,,,,,,,,,,﻿girl,﻿500 girls,﻿Sisters of St. Joseph,,1868,﻿,﻿,﻿Brooklyn,Brooklyn
+﻿bro.ny.0005_02,﻿school,﻿SS. Peter and Paul's,English,﻿Taught by Sisters of St. Joseph,,,,,﻿New York City,,﻿NY,,,,,,,,,,,,,﻿boy,﻿350 boys,﻿Sisters of St. Joseph,,1868,﻿,﻿,﻿Brooklyn,Brooklyn
+﻿bro.ny.0007_02,﻿school,﻿Holy Trinity,English,,,,,,﻿New York City,,﻿NY,,,,,,,,,,,,,﻿boy,﻿800 boys,,,1868,﻿,﻿,﻿Brooklyn,Brooklyn
+﻿bro.ny.0007_02,﻿school,﻿Holy Trinity,English,,,,,,﻿New York City,,﻿NY,,,,,,,,,,,,,﻿girl,﻿850 girls,,,1868,﻿,﻿,﻿Brooklyn,Brooklyn
 ﻿bro.ny.0008_02,﻿school,﻿St. Joseph's,English,,,,,,,,﻿NY,,40.680444,-73.966389,,,,,,,,,,﻿boy,﻿420 boys,﻿In charge of the Franciscan Brothers,,1868,﻿,﻿,﻿Brooklyn,Brooklyn
 ﻿bro.ny.0008_02,﻿school,﻿St. Joseph's,English,,,,,,,,﻿NY,,40.680444,-73.966389,,,,,,,,,,﻿girl,﻿340 girls,﻿In charge of the Franciscan Brothers,,1868,﻿,﻿,﻿Brooklyn,Brooklyn
-﻿bro.ny.0009_02,﻿school,"﻿St. Mary's, Star of the Sea",English,,,,,,﻿New York City,,﻿NY,,40.680444,-73.966389,,,,,,,,,,﻿boy,﻿200 boys,﻿In charge of the Franciscan Brothers,,1868,﻿,﻿,﻿Brooklyn,Brooklyn
-﻿bro.ny.0009_02,﻿school,"﻿St. Mary's, Star of the Sea",English,,,,,,﻿New York City,,﻿NY,,40.680444,-73.966389,,,,,,,,,,﻿girl,﻿300 girls,﻿In charge of the Franciscan Brothers,,1868,﻿,﻿,﻿Brooklyn,Brooklyn
-﻿bro.ny.0010_02,﻿school,﻿St. Peter's,English,,,,,,﻿New York City,,﻿NY,,40.680444,-73.966389,,,,,,,,,,﻿girl,﻿500 girls,,,1868,﻿,﻿,﻿Brooklyn,Brooklyn
-﻿bro.ny.0010_02,﻿school,﻿St. Peter's,English,,,,,,﻿New York City,,﻿NY,,40.680444,-73.966389,,,,,,,,,,﻿boy,﻿402 boys,,,1868,﻿,﻿,﻿Brooklyn,Brooklyn
-﻿bro.ny.0011_02,﻿school,﻿St. John's,English,,,,,,﻿New York City,,﻿NY,,40.680444,-73.966389,,,,,,,,,,﻿child,﻿130 children,,,1868,﻿,﻿,﻿Brooklyn,Brooklyn
+﻿bro.ny.0009_02,﻿school,"﻿St. Mary's, Star of the Sea",English,,,,,,﻿New York City,,﻿NY,,,,,,,,,,,,,﻿boy,﻿200 boys,﻿In charge of the Franciscan Brothers,,1868,﻿,﻿,﻿Brooklyn,Brooklyn
+﻿bro.ny.0009_02,﻿school,"﻿St. Mary's, Star of the Sea",English,,,,,,﻿New York City,,﻿NY,,,,,,,,,,,,,﻿girl,﻿300 girls,﻿In charge of the Franciscan Brothers,,1868,﻿,﻿,﻿Brooklyn,Brooklyn
+﻿bro.ny.0010_02,﻿school,﻿St. Peter's,English,,,,,,﻿New York City,,﻿NY,,,,,,,,,,,,,﻿girl,﻿500 girls,,,1868,﻿,﻿,﻿Brooklyn,Brooklyn
+﻿bro.ny.0010_02,﻿school,﻿St. Peter's,English,,,,,,﻿New York City,,﻿NY,,,,,,,,,,,,,﻿boy,﻿402 boys,,,1868,﻿,﻿,﻿Brooklyn,Brooklyn
+﻿bro.ny.0011_02,﻿school,﻿St. John's,English,,,,,,﻿New York City,,﻿NY,,,,,,,,,,,,,﻿child,﻿130 children,,,1868,﻿,﻿,﻿Brooklyn,Brooklyn
 ﻿bro.ny.0012_02,﻿school,﻿Immaculate Conception,English,,,,,,,,﻿NY,,40.71051006,-73.94694129,,,,,,,,,,﻿boy,"﻿410 boys, under charge of Franciscan Brothers",,,1868,﻿,﻿,﻿Brooklyn,Brooklyn
 ﻿bro.ny.0012_02,﻿school,﻿Immaculate Conception,English,,,,,,,,﻿NY,,40.71051006,-73.94694129,,,,,,,,,,﻿girl,"﻿400 girls, under the charge of Sisters of St. Joseph",,,1868,﻿,﻿,﻿Brooklyn,Brooklyn
-﻿bro.ny.0017_02,﻿school,﻿Lady of Mercy,English,,,,,,﻿New York City,,﻿NY,,40.71051006,-73.94694129,,,,,,,,,,﻿boy,﻿400 boys,﻿In charge of the Franciscan Brothers,,1868,﻿,﻿,﻿Brooklyn,Brooklyn
-﻿bro.ny.0017_02,﻿school,﻿Lady of Mercy,English,,,,,,﻿New York City,,﻿NY,,40.71051006,-73.94694129,,,,,,,,,,﻿girl,﻿340 girls,﻿In charge of the Franciscan Brothers,,1868,﻿,﻿,﻿Brooklyn,Brooklyn
-﻿bro.ny.0036_02,﻿school,﻿St. Patrick's,English,,,,,,﻿Fort Hamilton,,﻿NY,,40.71051006,-73.94694129,,,,,,,,,,﻿boy,﻿80 boys,,,1868,﻿,﻿,﻿Brooklyn,Brooklyn
-﻿bro.ny.0036_02,﻿school,﻿St. Patrick's,English,,,,,,﻿Fort Hamilton,,﻿NY,,40.71051006,-73.94694129,,,,,,,,,,﻿girl,﻿60 girls,,,1868,﻿,﻿,﻿Brooklyn,Brooklyn
-﻿bro.ny.0035_02,﻿school,﻿St. Michael's,English,,,,,,﻿Flushing,,﻿NY,,40.71051006,-73.94694129,,,,,﻿Brother,﻿Paul,,﻿Superior,,﻿girl,"﻿300 girls, taught by the Sisters of St. Joseph",﻿In charge of the Franciscan Brothers,,1868,﻿,﻿,﻿Brooklyn,Brooklyn
-﻿bro.ny.0035_02,﻿school,﻿St. Michael's,English,,,,,,﻿Flushing,,﻿NY,,40.71051006,-73.94694129,,,,,,,,,,﻿boy,"﻿260 boys, taught by Franciscan Brothers",﻿In charge of the Franciscan Brothers,,1868,﻿,﻿,﻿Brooklyn,Brooklyn
-﻿bro.ny.0013_02,﻿school,﻿St. Boniface's,﻿German,,,,,,﻿New York City,,﻿NY,,40.71051006,-73.94694129,,,,,,,,,,﻿children,﻿180 children,,,1868,﻿,﻿,﻿Brooklyn,Brooklyn
-﻿bro.ny.0021_02,﻿school,﻿Annunciation of B.V. Mary,English,,,,,,﻿New York City,,﻿NY,,40.71051006,-73.94694129,,,,,,,,,,﻿children,﻿150 children,,,1868,﻿,﻿,﻿Brooklyn,Brooklyn
-﻿bro.ny.0022_02,﻿school,﻿St. Nicholas,English,,,,,,﻿New York City,,﻿NY,,40.71051006,-73.94694129,,,,,,,,,,﻿pupil,﻿180 pupils,,,1868,﻿,﻿,﻿Brooklyn,Brooklyn
+﻿bro.ny.0017_02,﻿school,﻿Lady of Mercy,English,,,,,,﻿New York City,,﻿NY,,,,,,,,,,,,,﻿boy,﻿400 boys,﻿In charge of the Franciscan Brothers,,1868,﻿,﻿,﻿Brooklyn,Brooklyn
+﻿bro.ny.0017_02,﻿school,﻿Lady of Mercy,English,,,,,,﻿New York City,,﻿NY,,,,,,,,,,,,,﻿girl,﻿340 girls,﻿In charge of the Franciscan Brothers,,1868,﻿,﻿,﻿Brooklyn,Brooklyn
+﻿bro.ny.0036_02,﻿school,﻿St. Patrick's,English,,,,,,﻿Fort Hamilton,,﻿NY,,,,,,,,,,,,,﻿boy,﻿80 boys,,,1868,﻿,﻿,﻿Brooklyn,Brooklyn
+﻿bro.ny.0036_02,﻿school,﻿St. Patrick's,English,,,,,,﻿Fort Hamilton,,﻿NY,,,,,,,,,,,,,﻿girl,﻿60 girls,,,1868,﻿,﻿,﻿Brooklyn,Brooklyn
+﻿bro.ny.0035_02,﻿school,﻿St. Michael's,English,,,,,,﻿Flushing,,﻿NY,,,,,,,,﻿Brother,﻿Paul,,﻿Superior,,﻿girl,"﻿300 girls, taught by the Sisters of St. Joseph",﻿In charge of the Franciscan Brothers,,1868,﻿,﻿,﻿Brooklyn,Brooklyn
+﻿bro.ny.0035_02,﻿school,﻿St. Michael's,English,,,,,,﻿Flushing,,﻿NY,,,,,,,,,,,,,﻿boy,"﻿260 boys, taught by Franciscan Brothers",﻿In charge of the Franciscan Brothers,,1868,﻿,﻿,﻿Brooklyn,Brooklyn
+﻿bro.ny.0013_02,﻿school,﻿St. Boniface's,﻿German,,,,,,﻿New York City,,﻿NY,,,,,,,,,,,,,﻿child,﻿180 children,,,1868,﻿,﻿,﻿Brooklyn,Brooklyn
+﻿bro.ny.0021_02,﻿school,﻿Annunciation of B.V. Mary,English,,,,,,﻿New York City,,﻿NY,,,,,,,,,,,,,﻿child,﻿150 children,,,1868,﻿,﻿,﻿Brooklyn,Brooklyn
+﻿bro.ny.0022_02,﻿school,﻿St. Nicholas,English,,,,,,﻿New York City,,﻿NY,,,,,,,,,,,,,﻿pupil,﻿180 pupils,,,1868,﻿,﻿,﻿Brooklyn,Brooklyn

@@ -11,12 +11,12 @@
 ﻿ore.or.0010,﻿church,not recorded,English,,,,,,﻿Mount Rainier,﻿Rainier,﻿OR,,46.089135,-122.935978,﻿ore.or.0001,﻿attended from Portland,,,,,,,,,,,,1865,﻿,﻿,﻿Oregon City,OregonCity
 ﻿ore.or.0011,﻿church,not recorded,English,,,,,,﻿St. Helen,﻿St. Helen,﻿OR,,45.858964,-122.82123,﻿ore.or.0001,﻿attended from Portland,,,,,,,,,,,,1865,﻿,﻿,﻿Oregon City,OregonCity
 ﻿ore.or.0012,﻿church,not recorded,English,,,,,,﻿Columbia Bottom,,﻿OR,,45.56986,-122.48664,﻿ore.or.0001,﻿attended from Portland,,,,,,,,,,,,1865,﻿,﻿,﻿Oregon City,OregonCity
-﻿ore.or.0083,﻿church,not recorded,English,,,,,,﻿Cascades,﻿Cascades,﻿OR,,45.56986,-122.48664,,﻿attended from Portland,,,,,,,,,,,,1865,﻿,﻿,﻿Oregon City,OregonCity
+﻿ore.or.0083,﻿church,not recorded,English,,,,,,﻿Cascades,﻿Cascades,﻿OR,,,,,﻿attended from Portland,,,,,,,,,,,,1865,﻿,﻿,﻿Oregon City,OregonCity
 ﻿ore.or.0013,﻿church,not recorded,English,﻿1847,,﻿French Prairie,﻿Marion County,,﻿St. Louis,﻿St. Louis,﻿OR,,45.123267,-122.942632,,,,﻿bar_delorme_001,﻿Very Rev.,﻿B. Delorme,,﻿V.G. Pastor,,,,,,1865,﻿,﻿,﻿Oregon City,OregonCity
 ﻿ore.or.0013,﻿church,not recorded,English,﻿1847,,﻿French Prairie,﻿Marion County,,﻿St. Louis,﻿St. Louis,﻿OR,,45.123267,-122.942632,,,,﻿a_libar_001,﻿Rev.,﻿A. Lebas,,﻿Assistant,,,,,,1865,﻿,﻿,﻿Oregon City,OregonCity
 ﻿ore.or.0005,﻿church,not recorded,English,,,,,,﻿Molala,﻿Molalla,﻿OR,,45.147544,-122.577126,﻿ore.or.0002,﻿attended from St. Louis,,,,,,,,,,,,1865,﻿,﻿,﻿Oregon City,OregonCity
 ﻿ore.or.0015,﻿church,not recorded,English,,,﻿French Prairie,﻿Marion County,,﻿St. Paul,,﻿OR,,45.262342,-122.840374,﻿ore.or.0014,,,﻿joh_f_malo_001,﻿Rev.,﻿John F. Malo,,﻿Pastor,,,,,,1865,﻿,﻿,﻿Oregon City,OregonCity
-﻿ore.or.0083,﻿church,not recorded,English,,,,,,﻿Butteville,﻿Butteville,﻿OR,,45.262342,-122.840374,﻿ore.or.0015,﻿attended from St. Paul,,,,,,,,,,,,1865,﻿,﻿,﻿Oregon City,OregonCity
+﻿ore.or.0083,﻿church,not recorded,English,,,,,,﻿Butteville,﻿Butteville,﻿OR,,,,﻿ore.or.0015,﻿attended from St. Paul,,,,,,,,,,,,1865,﻿,﻿,﻿Oregon City,OregonCity
 ﻿ore.or.0017,﻿church,﻿St. John the Evangelist,English,"﻿blessed April 10, 1864",,,,,﻿Salem,﻿Salem,﻿OR,,44.942898,-123.035096,,,,﻿seb_goens_001,﻿Rev.,﻿Sebastian Goens,,﻿Pastor,,,,,,1865,﻿,﻿,﻿Oregon City,OregonCity
 ﻿ore.or.0025,﻿church,﻿St. Mary's Church,English,"﻿blessed Feb. 17th, 1861",,,,,﻿Corvallis,﻿Corvallis,﻿OR,,44.572976,-123.278457,,﻿attended from Salem,,,,,,﻿Pastor,,,,,,1865,﻿,﻿,﻿Oregon City,OregonCity
 ﻿ore.or.0026,﻿church,not recorded,English,,,,,,﻿Albany,﻿Albany,﻿OR,,44.636511,-123.105928,﻿ore.or.0025,﻿attended from Salem,,,,,,,,,,,,1865,﻿,﻿,﻿Oregon City,OregonCity
@@ -35,14 +35,14 @@
 ﻿ore.or.0040,﻿church,not recorded,English,,,,,,﻿Umpqua City,﻿Umpqua,﻿OR,,43.367451,-123.454694,﻿ore.or.0015,﻿Attended from Portland,,,,,,,,,,,,1865,﻿,﻿,﻿Oregon City,OregonCity
 ﻿ore.or.0041,﻿church,not recorded,English,,,,,,﻿Empire City,﻿Coos Bay,﻿OR,,43.367221,-124.213132,﻿ore.or.0015,﻿Attended from Portland,,,,,,,,,,,,1865,﻿,﻿,﻿Oregon City,OregonCity
 ﻿ore.or.0043,﻿church,not recorded,English,,,,,,﻿Port Oxford,﻿Port Oxford,﻿OR,,43.804133,-120.554201,﻿ore.or.0015,﻿Attended from Portland,,,,,,,,,,,,1865,﻿,﻿,﻿Oregon City,OregonCity
-﻿ore.or.0042,﻿church,not recorded,English,,,"﻿on the Pacific Coast, at the mouth of the Rouge River",,,﻿Ellenburgh,,﻿OR,,43.804133,-120.554201,,,,,,,,,,,,,,1865,﻿,﻿,﻿Oregon City,OregonCity
+﻿ore.or.0042,﻿church,not recorded,English,,,"﻿on the Pacific Coast, at the mouth of the Rouge River",,,﻿Ellenburgh,,﻿OR,,,,,,,,,,,,,,,,,1865,﻿,﻿,﻿Oregon City,OregonCity
 ﻿ore.or.0045,﻿church,﻿St. Joseph's,English,"﻿July 10th, 1859",,,,,﻿Jacksonville,﻿Jacksonville,﻿OR,,42.313458,-122.966986,,,,﻿f_x_blanchet_001,﻿Rev.,﻿F. X. Blanchet,,﻿Pastor,,,,,,1865,﻿,﻿,﻿Oregon City,OregonCity
 ﻿ore.or.0046,﻿church,﻿St. Patrick's,English,"﻿March 17th, 1864",,,,,﻿Allen Gulch,,﻿OR,,42.344757,-123.456874,﻿ore.or.0045,﻿attended from Jacksonville,,,,,,,,,,,,1865,﻿,﻿,﻿Oregon City,OregonCity
 ﻿ore.or.0048,﻿church,not recorded,English,,,,,,﻿Kerbyville,﻿Kerby,﻿OR,,42.440125,-122.926155,﻿ore.or.0045,﻿attended from Jacksonville,,,,,,,,,,,,1865,﻿,﻿,﻿Oregon City,OregonCity
 ﻿ore.or.0047,﻿church,not recorded,English,,,,,,﻿Waldo,﻿Waldo,﻿OR,,43.804133,-120.554201,﻿ore.or.0045,﻿attended from Jacksonville,,,,,,,,,,,,1865,﻿,﻿,﻿Oregon City,OregonCity
 ﻿ore.or.0049,﻿church,not recorded,English,,,,,,﻿Williamsburgh,﻿Williams,﻿OR,,42.218735,-123.273955,﻿ore.or.0045,﻿attended from Jacksonville,,,,,,,,,,,,1865,﻿,﻿,﻿Oregon City,OregonCity
 ﻿ore.or.0050,﻿church,not recorded,English,,,,,,﻿Athhouse,﻿Althouse,﻿OR,,42.344757,-123.456874,﻿ore.or.0045,﻿attended from Jacksonville,,,,,,,,,,,,1865,﻿,﻿,﻿Oregon City,OregonCity
-﻿ore.or.0084,﻿church,not recorded,English,,,﻿Allen Gulch,﻿Josephine County,,﻿Crescent City,﻿Crescent City,﻿CA,,42.344757,-123.456874,﻿ore.or.0045,﻿attended from Jacksonville,,,,,,,,,,,,1865,﻿,﻿,﻿Oregon City,OregonCity
+﻿ore.or.0084,﻿church,not recorded,English,,,﻿Allen Gulch,﻿Josephine County,,﻿Crescent City,﻿Crescent City,﻿CA,,,,﻿ore.or.0045,﻿attended from Jacksonville,,,,,,,,,,,,1865,﻿,﻿,﻿Oregon City,OregonCity
 ﻿ore.or.0018,﻿church,﻿St. Michael's Church,English,"﻿Oct. 12th, 1862",﻿Indian Reservation,,﻿Yamhill County,,﻿Grand Round,﻿Grand Ronde,﻿OR,,45.060113,-123.609277,,,,﻿a_s_croquet_001,﻿Rev.,﻿A. T. Croquet,,﻿Pastor,,,,,,1865,﻿,﻿,﻿Oregon City,OregonCity
 ﻿ore.or.0019,﻿church,﻿St. Patrick's Church,English,,,,﻿Yamhill County,,,,﻿OR,,45.177198,-123.23953,﻿ore.or.0018,﻿attended from St. Michael,,,,,,,,,,,,1865,﻿,﻿,﻿Oregon City,OregonCity
 ﻿ore.or.0020,﻿church,not recorded,English,,,,,,﻿Lafeyette,﻿Lafeyette,﻿OR,,45.243473,-123.112148,﻿ore.or.0018,﻿attended from St. Michael,,,,,,,,,,,,1865,﻿,﻿,﻿Oregon City,OregonCity
@@ -71,7 +71,7 @@
 ﻿ore.or.0072,﻿academy,﻿St. Mary's Academy,English,﻿for young ladies,,,,,﻿Portland,,﻿OR,,45.512531,-122.681274,,,,,,,,,,﻿day-scholar,﻿101 day-scholars,,,1865,﻿,﻿,﻿Oregon City,OregonCity
 ﻿ore.or.0072,﻿academy,﻿St. Mary's Academy,English,﻿for young ladies,,,,,﻿Portland,,﻿OR,,45.512531,-122.681274,,,,,,,,,,﻿orphan,﻿14 orphan boys,,,1865,﻿,﻿,﻿Oregon City,OregonCity
 ﻿ore.or.0073,﻿school,﻿St. Mary's Academy,English,﻿at the Parish School,,,,,﻿Portland,,﻿OR,,45.515232,-122.678385,,,,,,,,,,﻿sister,﻿2 sisters,,,1865,﻿,﻿,﻿Oregon City,OregonCity
-﻿ore.or.0073,﻿school,﻿St. Mary's Academy,English,﻿at the Parish School,,,,,﻿Portland,,﻿OR,,45.515232,-122.678385,,,,,,,,,,﻿girls,﻿49 girls,,,1865,﻿,﻿,﻿Oregon City,OregonCity
+﻿ore.or.0073,﻿school,﻿St. Mary's Academy,English,﻿at the Parish School,,,,,﻿Portland,,﻿OR,,45.515232,-122.678385,,,,,,,,,,﻿girl,﻿49 girls,,,1865,﻿,﻿,﻿Oregon City,OregonCity
 ﻿ore.or.0073,﻿school,﻿St. Mary's Academy,English,﻿at the Parish School,,,,,﻿Portland,,﻿OR,,45.515232,-122.678385,,,,,,,,,,﻿boy,﻿67 boys,,,1865,﻿,﻿,﻿Oregon City,OregonCity
 ﻿ore.or.0076,﻿academy,﻿St. Mary's Academy,English,,,,,,﻿St. Paul,,﻿OR,,45.2125659,-122.9750977,,,,,,,,,,﻿sister,﻿3 sisters,,,1865,﻿,﻿,﻿Oregon City,OregonCity
 ﻿ore.or.0076,﻿academy,﻿St. Mary's Academy,English,,,,,,﻿St. Paul,,﻿OR,,45.2125659,-122.9750977,,,,,,,,,,﻿boarder,﻿33 boarders,,,1865,﻿,﻿,﻿Oregon City,OregonCity

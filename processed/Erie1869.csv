@@ -75,26 +75,26 @@
 ﻿erie.pa.0085_03,﻿priory,﻿Benedictine Priory,English,,﻿Benzinger P.O.,,,﻿Elk County,﻿St. Mary's,﻿St. Marys,﻿PA,,42.128843,-80.076118,,,,﻿pau_wenkmann_001,﻿Rev.,﻿Paulinus Wenkmann,,﻿Prior,,,,,,1869,,,,,,,,,,,,﻿,﻿,﻿Erie,Erie
 ﻿erie.pa.0002_02,﻿priory,﻿Benedictine Priory,English,,﻿St. Mary's.  Ninth Street,,,,﻿Erie,﻿Erie,﻿PA,,42.112405,-80.077346,,,,﻿ben_hegele_001,﻿Rev.,﻿Benno Hegele,,﻿Prior,,,,,,1869,,,,,,,,,,,,﻿,﻿,﻿Erie,Erie
 ﻿erie.pa.0090,﻿convent,﻿St. Joseph's Convent of Benedictine Nuns,English,,,,﻿Elk County,﻿Elk County,﻿St. Mary's,﻿St. Marys,﻿PA,,41.427792,-78.56947,,,,,﻿Mother,﻿Theresa Fogle,,﻿Prioress,,,,,,1869,,,,,,,,,,,,﻿,﻿,﻿Erie,Erie
-﻿erie.pa.0093,﻿academy,﻿St. Benedict's Academy,English,﻿conducted by Benedictine Nuns,,,﻿Elk County,﻿Elk County,﻿St. Mary's,﻿St. Marys,﻿PA,,41.427765,-78.570214,,,,,﻿Sister,﻿Mary Glenn,,﻿Preceptress,,﻿nuns,﻿Benedictine Nuns,,,1869,,,,,,,,,,,,﻿,﻿,﻿Erie,Erie
-﻿erie.pa.0001_02.01,﻿academy,﻿Academy for Girls,English,﻿conducted by Sisters of St. Joseph,﻿Fourth Street,,,,﻿Erie,,﻿PA,,42.128843,-80.076118,,,,,﻿Sister,﻿Agnes,,﻿Directress,,﻿sisters,﻿Sisters of St. Joseph,,,1869,,,,,,,,,,,,﻿,﻿,﻿Erie,Erie
-﻿erie.pa.0001_02.02,﻿academy,﻿Academy for Girls,English,﻿conducted by Benedictine Nuns,﻿Ninth Street,,,,﻿Erie,,﻿PA,,42.128843,-80.076118,,,,,﻿Sister,﻿----,,﻿Directress,,﻿nuns,﻿Benedictine Nuns,,,1869,,,,,,,,,,,,﻿,﻿,﻿Erie,Erie
+﻿erie.pa.0093,﻿academy,﻿St. Benedict's Academy,English,﻿conducted by Benedictine Nuns,,,﻿Elk County,﻿Elk County,﻿St. Mary's,﻿St. Marys,﻿PA,,41.427765,-78.570214,,,,,﻿Sister,﻿Mary Glenn,,﻿Preceptress,,﻿nun,﻿Benedictine Nuns,,,1869,,,,,,,,,,,,﻿,﻿,﻿Erie,Erie
+﻿erie.pa.0001_02.01,﻿academy,﻿Academy for Girls,English,﻿conducted by Sisters of St. Joseph,﻿Fourth Street,,,,﻿Erie,,﻿PA,,42.128843,-80.076118,,,,,﻿Sister,﻿Agnes,,﻿Directress,,﻿sister,﻿Sisters of St. Joseph,,,1869,,,,,,,,,,,,﻿,﻿,﻿Erie,Erie
+﻿erie.pa.0001_02.02,﻿academy,﻿Academy for Girls,English,﻿conducted by Benedictine Nuns,﻿Ninth Street,,,,﻿Erie,,﻿PA,,42.128843,-80.076118,,,,,﻿Sister,﻿----,,﻿Directress,,﻿nun,﻿Benedictine Nuns,,,1869,,,,,,,,,,,,﻿,﻿,﻿Erie,Erie
 ﻿erie.pa.0116,﻿academy,﻿Mother House and Novitiate of St. Bridget,English,,,,,,﻿Titusville,,﻿PA,,41.426109,-78.578245,,,,,﻿Mother,﻿Mary Ann,,﻿Superior,,,,,,1869,,,,,,,,,,,,﻿,﻿,﻿Erie,Erie
-﻿erie.pa.0117,﻿academy,﻿Academy of St. Bridget,English,﻿conducted by Sisters of St. Bridget,,,,,﻿Titusville,,﻿PA,,41.426109,-78.578245,,,,,﻿Sister,﻿Francis,,﻿Directress,,﻿sisters,﻿Sisters of St. Bridget,,,1869,,,,,,,,,,,,﻿,﻿,﻿Erie,Erie
-﻿erie.pa.0089_02,﻿orphanage,﻿St. Joseph's Orphanage,English,﻿under the care of Sisters of St. Joseph,,,,,﻿Erie,,﻿PA,,41.427792,-78.56947,,,,,﻿Mother,﻿Martha,,﻿Superior,,﻿sisters,﻿Sisters of St. Joseph,,,1869,,,,,,,,,,,,﻿,﻿,﻿Erie,Erie
-﻿erie.pa.0119,﻿asylum,﻿Orphan Asylum,English,﻿under the care of Sisters of St. Joseph,,,,,﻿Meadville,,﻿PA,,41.426109,-78.578245,,,,,﻿Mother,﻿Agnes,,﻿Superior,,﻿sisters,﻿Sisters of St. Joseph,,,1869,,,,,,,,,,,,﻿,﻿,﻿Erie,Erie
-﻿erie.pa.0001_03.01&0001_03.02,﻿school,﻿St. Patrick's,English,,,,,,﻿Erie,,﻿PA,,42.128843,-80.076118,,,,,,,,,,﻿children,﻿600 children,,,1869,,,,,,,,,,,,﻿,﻿,﻿Erie,Erie
-﻿erie.pa.0002_04,﻿school,﻿St. Mary's,English,,,,,,﻿Erie,﻿Erie,﻿PA,,42.112405,-80.077346,,,,,,,,,,﻿children,﻿600 children,,,1869,,,,,,,,,,,,﻿,﻿,﻿Erie,Erie
-﻿erie.pa.0089_03,﻿school,﻿St. Joseph's,English,,,,,,﻿Erie,﻿Erie,﻿PA,,41.427792,-78.56947,,,,,,,,,,﻿children,﻿500 children,,,1869,,,,,,,,,,,,﻿,﻿,﻿Erie,Erie
-﻿erie.pa.0076_02,﻿school,﻿St. Titus',English,,,,,,﻿Titusville,﻿Titusville,﻿PA,,41.62789,-79.681405,,,,,,,,,,﻿children,﻿250 children,,,1869,,,,,,,,,,,,﻿,﻿,﻿Erie,Erie
-﻿erie.pa.0048_02,﻿school,﻿St. Agatha's,English,,,,,,﻿Meadville,﻿Meadville,﻿PA,,41.227003,-80.239785,,,,,,,,,,﻿children,﻿200 children,,,1869,,,,,,,,,,,,﻿,﻿,﻿Erie,Erie
-﻿erie.pa.0047_03,﻿school,﻿St. Bride's,English,,,,,,﻿Meadsville,﻿Meadville,﻿PA,,41.635165,-80.150752,,,,,,,,,,﻿children,﻿250 children,,,1869,,,,,,,,,,,,﻿,﻿,﻿Erie,Erie
-﻿erie.pa.0020_02,﻿school,﻿St. Thomas',English,,,,,,﻿Corry,﻿Corry,﻿PA,,41.181175,-79.202262,,,,,,,,,,﻿children,﻿300 children,,,1869,,,,,,,,,,,,﻿,﻿,﻿Erie,Erie
-﻿erie.pa.0121,﻿school,not recorded,English,,,,,,﻿Ceres Township,,﻿PA,,41.426109,-78.578245,,,,,,,,,,﻿children,﻿50 children,,,1869,,,,,,,,,,,,﻿,﻿,﻿Erie,Erie
-﻿erie.pa.0055_02,﻿school,﻿St. Joseph's,English,,,,,,﻿Oil City,﻿Oil City,﻿PA,,40.850058,-78.270571,,,,,,,,,,﻿children,﻿200 children,,,1869,,,,,,,,,,,,﻿,﻿,﻿Erie,Erie
-﻿erie.pa.0106,﻿school,not recorded,English,,,,,,﻿Sharon,﻿Sharon,﻿PA,,41.233112,-80.493403,,,,,,,,,,﻿children,﻿250 children,,,1869,,,,,,,,,,,,﻿,﻿,﻿Erie,Erie
-﻿erie.pa.0122,﻿school,﻿St. Rose of Lima,English,,,,,,﻿Sharon mines,,﻿PA,,41.426109,-78.578245,,,,,,,,,,﻿children,﻿50 children,,,1869,,,,,,,,,,,,﻿,﻿,﻿Erie,Erie
-﻿erie.pa.0108,﻿school,﻿St. Teresa's,English,,,,,,﻿Union,﻿Union City,﻿PA,,41.8995,-79.84533,,,,,,,,,,﻿children,﻿100 children,,,1869,,,,,,,,,,,,﻿,﻿,﻿Erie,Erie
-﻿erie.pa.0032_02,﻿school,﻿St. Mary's,English,,,,,,﻿Frenchville,﻿Frenchville,﻿PA,,41.353673,-79.438101,,,,,,,,,,﻿children,﻿150 children,,,1869,,,,,,,,,,,,﻿,﻿,﻿Erie,Erie
-﻿erie.pa.0057_02,﻿school,﻿SS. Peter and Paul,English,,,,,,﻿Petroleum Centre,﻿Petroleum Center,﻿PA,,41.520894,-79.586994,,,,,,,,,,﻿children,﻿75 children,,,1869,,,,,,,,,,,,﻿,﻿,﻿Erie,Erie
-﻿erie.pa.0035_02,﻿school,﻿St. Mary's,English,,﻿Genesee Township,,,,﻿Genesee Township,,﻿PA,,42.000334,-80.318119,,,,,,,,,,﻿children,﻿75 children,,,1869,,,,,,,,,,,,﻿,﻿,﻿Erie,Erie
-﻿erie.pa.0085_02,﻿school,not recorded,English,,﻿Benzinger P.O.,,,,,,﻿PA,,42.128843,-80.076118,,,,,,,,,,﻿children,﻿400 children,,,1869,,,,,,,,,,,,﻿,﻿,﻿Erie,Erie
+﻿erie.pa.0117,﻿academy,﻿Academy of St. Bridget,English,﻿conducted by Sisters of St. Bridget,,,,,﻿Titusville,,﻿PA,,41.426109,-78.578245,,,,,﻿Sister,﻿Francis,,﻿Directress,,﻿sister,﻿Sisters of St. Bridget,,,1869,,,,,,,,,,,,﻿,﻿,﻿Erie,Erie
+﻿erie.pa.0089_02,﻿orphanage,﻿St. Joseph's Orphanage,English,﻿under the care of Sisters of St. Joseph,,,,,﻿Erie,,﻿PA,,41.427792,-78.56947,,,,,﻿Mother,﻿Martha,,﻿Superior,,﻿sister,﻿Sisters of St. Joseph,,,1869,,,,,,,,,,,,﻿,﻿,﻿Erie,Erie
+﻿erie.pa.0119,﻿asylum,﻿Orphan Asylum,English,﻿under the care of Sisters of St. Joseph,,,,,﻿Meadville,,﻿PA,,41.426109,-78.578245,,,,,﻿Mother,﻿Agnes,,﻿Superior,,﻿sister,﻿Sisters of St. Joseph,,,1869,,,,,,,,,,,,﻿,﻿,﻿Erie,Erie
+﻿erie.pa.0001_03.01&0001_03.02,﻿school,﻿St. Patrick's,English,,,,,,﻿Erie,,﻿PA,,42.128843,-80.076118,,,,,,,,,,﻿child,﻿600 children,,,1869,,,,,,,,,,,,﻿,﻿,﻿Erie,Erie
+﻿erie.pa.0002_04,﻿school,﻿St. Mary's,English,,,,,,﻿Erie,﻿Erie,﻿PA,,42.112405,-80.077346,,,,,,,,,,﻿child,﻿600 children,,,1869,,,,,,,,,,,,﻿,﻿,﻿Erie,Erie
+﻿erie.pa.0089_03,﻿school,﻿St. Joseph's,English,,,,,,﻿Erie,﻿Erie,﻿PA,,41.427792,-78.56947,,,,,,,,,,﻿child,﻿500 children,,,1869,,,,,,,,,,,,﻿,﻿,﻿Erie,Erie
+﻿erie.pa.0076_02,﻿school,﻿St. Titus',English,,,,,,﻿Titusville,﻿Titusville,﻿PA,,41.62789,-79.681405,,,,,,,,,,﻿child,﻿250 children,,,1869,,,,,,,,,,,,﻿,﻿,﻿Erie,Erie
+﻿erie.pa.0048_02,﻿school,﻿St. Agatha's,English,,,,,,﻿Meadville,﻿Meadville,﻿PA,,41.227003,-80.239785,,,,,,,,,,﻿child,﻿200 children,,,1869,,,,,,,,,,,,﻿,﻿,﻿Erie,Erie
+﻿erie.pa.0047_03,﻿school,﻿St. Bride's,English,,,,,,﻿Meadsville,﻿Meadville,﻿PA,,41.635165,-80.150752,,,,,,,,,,﻿child,﻿250 children,,,1869,,,,,,,,,,,,﻿,﻿,﻿Erie,Erie
+﻿erie.pa.0020_02,﻿school,﻿St. Thomas',English,,,,,,﻿Corry,﻿Corry,﻿PA,,41.181175,-79.202262,,,,,,,,,,﻿child,﻿300 children,,,1869,,,,,,,,,,,,﻿,﻿,﻿Erie,Erie
+﻿erie.pa.0121,﻿school,not recorded,English,,,,,,﻿Ceres Township,,﻿PA,,41.426109,-78.578245,,,,,,,,,,﻿child,﻿50 children,,,1869,,,,,,,,,,,,﻿,﻿,﻿Erie,Erie
+﻿erie.pa.0055_02,﻿school,﻿St. Joseph's,English,,,,,,﻿Oil City,﻿Oil City,﻿PA,,40.850058,-78.270571,,,,,,,,,,﻿child,﻿200 children,,,1869,,,,,,,,,,,,﻿,﻿,﻿Erie,Erie
+﻿erie.pa.0106,﻿school,not recorded,English,,,,,,﻿Sharon,﻿Sharon,﻿PA,,41.233112,-80.493403,,,,,,,,,,﻿child,﻿250 children,,,1869,,,,,,,,,,,,﻿,﻿,﻿Erie,Erie
+﻿erie.pa.0122,﻿school,﻿St. Rose of Lima,English,,,,,,﻿Sharon mines,,﻿PA,,41.426109,-78.578245,,,,,,,,,,﻿child,﻿50 children,,,1869,,,,,,,,,,,,﻿,﻿,﻿Erie,Erie
+﻿erie.pa.0108,﻿school,﻿St. Teresa's,English,,,,,,﻿Union,﻿Union City,﻿PA,,41.8995,-79.84533,,,,,,,,,,﻿child,﻿100 children,,,1869,,,,,,,,,,,,﻿,﻿,﻿Erie,Erie
+﻿erie.pa.0032_02,﻿school,﻿St. Mary's,English,,,,,,﻿Frenchville,﻿Frenchville,﻿PA,,41.353673,-79.438101,,,,,,,,,,﻿child,﻿150 children,,,1869,,,,,,,,,,,,﻿,﻿,﻿Erie,Erie
+﻿erie.pa.0057_02,﻿school,﻿SS. Peter and Paul,English,,,,,,﻿Petroleum Centre,﻿Petroleum Center,﻿PA,,41.520894,-79.586994,,,,,,,,,,﻿child,﻿75 children,,,1869,,,,,,,,,,,,﻿,﻿,﻿Erie,Erie
+﻿erie.pa.0035_02,﻿school,﻿St. Mary's,English,,﻿Genesee Township,,,,﻿Genesee Township,,﻿PA,,42.000334,-80.318119,,,,,,,,,,﻿child,﻿75 children,,,1869,,,,,,,,,,,,﻿,﻿,﻿Erie,Erie
+﻿erie.pa.0085_02,﻿school,not recorded,English,,﻿Benzinger P.O.,,,,,,﻿PA,,42.128843,-80.076118,,,,,,,,,,﻿child,﻿400 children,,,1869,,,,,,,,,,,,﻿,﻿,﻿Erie,Erie

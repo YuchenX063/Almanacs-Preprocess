@@ -96,14 +96,14 @@
 ﻿kc.ks.0104,﻿priory,﻿Benedictine Priory,English,,,,,,﻿Atchison City,﻿Atchison,﻿KS,,34.747599,-92.272597,,,,﻿pir_m_koumly_001,﻿Rev.,﻿Pirmin Koumly,﻿O.S.B.,,,﻿lay brother,﻿4 lay brothers,,,1869,﻿,﻿,﻿VAEastRockyMountains,VAKansas
 ﻿kc.ks.0050_01,﻿priory,﻿Residence of the Society of Jesus,English,,﻿St. Mary's Mission,,,,,,﻿KS,,38.935552,-96.046743,,,,﻿jf_diels_001,﻿Rev.,﻿J. F. Diels,﻿S.J.,﻿Superior,,,,,,1869,﻿,﻿,﻿VAEastRockyMountains,VAKansas
 ﻿kc.ks.0039_01,﻿priory,﻿Residence of the Society of Jesus,English,,﻿St. Francis de Hieronymo,,,,,,﻿KS,,37.114248,-94.810595,,,,﻿joh_schoenmakers_001,﻿Rev.,﻿John Schoenmaker,﻿S.J.,﻿Superior,,,,,,1869,﻿,﻿,﻿VAEastRockyMountains,VAKansas
-﻿kc.ks.0080,﻿college,﻿St. Benedict's College,English,,,,,,﻿Atchison City,﻿Atchison,﻿KS,,37.114248,-94.810595,,,,﻿lew_m_fink_001,﻿Very Rev.,﻿L. M. Fink,﻿O.S.B.,﻿President,,,,﻿Under the charge of the Fathers of the Order of St. Benedict,,1869,﻿,﻿,﻿VAEastRockyMountains,VAKansas
-﻿kc.ks.0081,"﻿college, seminary",not recorded,English,,,,,,﻿Topeka,﻿Topeka,﻿KS,,37.114248,-94.810595,,,,﻿jam_h_defouri_001,﻿Rev.,﻿J. H. Defouri,,,,,,,,1869,﻿,﻿,﻿VAEastRockyMountains,VAKansas
-﻿kc.ks.0081,"﻿college, seminary",not recorded,English,,,,,,﻿Topeka,﻿Topeka,﻿KS,,37.114248,-94.810595,,,,﻿fel_swemberg_001,﻿Rev.,﻿F. Swemberg,,,,,,,,1869,﻿,﻿,﻿VAEastRockyMountains,VAKansas
-﻿kc.ks.0081,"﻿college, seminary",not recorded,English,,,,,,﻿Topeka,﻿Topeka,﻿KS,,37.114248,-94.810595,,,,,﻿Mr.,﻿Hayden,,,,,,,,1869,﻿,﻿,﻿VAEastRockyMountains,VAKansas
+﻿kc.ks.0080,﻿college,﻿St. Benedict's College,English,,,,,,﻿Atchison City,﻿Atchison,﻿KS,,,,,,,﻿lew_m_fink_001,﻿Very Rev.,﻿L. M. Fink,﻿O.S.B.,﻿President,,,,﻿Under the charge of the Fathers of the Order of St. Benedict,,1869,﻿,﻿,﻿VAEastRockyMountains,VAKansas
+﻿kc.ks.0081,"﻿college, seminary",not recorded,English,,,,,,﻿Topeka,﻿Topeka,﻿KS,,,,,,,﻿jam_h_defouri_001,﻿Rev.,﻿J. H. Defouri,,,,,,,,1869,﻿,﻿,﻿VAEastRockyMountains,VAKansas
+﻿kc.ks.0081,"﻿college, seminary",not recorded,English,,,,,,﻿Topeka,﻿Topeka,﻿KS,,,,,,,﻿fel_swemberg_001,﻿Rev.,﻿F. Swemberg,,,,,,,,1869,﻿,﻿,﻿VAEastRockyMountains,VAKansas
+﻿kc.ks.0081,"﻿college, seminary",not recorded,English,,,,,,﻿Topeka,﻿Topeka,﻿KS,,,,,,,,﻿Mr.,﻿Hayden,,,,,,,,1869,﻿,﻿,﻿VAEastRockyMountains,VAKansas
 ﻿kc.ks.0082,﻿academy,﻿Academy for Young Ladies,English,,,,,,﻿Leavenworth City,﻿Leavenworth,﻿KS,,39.278317,-94.906389,,,,,﻿Mother,﻿Xavier Ross,,﻿Superior,,,,﻿Conducted by the Sisters of Charity,,1869,﻿,﻿,﻿VAEastRockyMountains,VAKansas
-﻿kc.ks.0083,﻿school,not recorded,English,﻿female day-school,,,,,,,﻿KS,,39.278317,-94.906389,,,,,,,,,,,,﻿conducted by the Sisters of Charity,,1869,﻿,﻿,﻿VAEastRockyMountains,VAKansas
+﻿kc.ks.0083,﻿school,not recorded,English,﻿female day-school,,,,,,,﻿KS,,,,,,,,,,,,,,,﻿conducted by the Sisters of Charity,,1869,﻿,﻿,﻿VAEastRockyMountains,VAKansas
 ﻿kc.ks.0084,﻿hospital,not recorded,English,,,,,,,,﻿KS,,39.28243,-94.905952,,,,,,,,,,,,﻿under charge of the Sisters of Charity,,1869,﻿,﻿,﻿VAEastRockyMountains,VAKansas
-﻿kc.ks.0085,﻿asylum,not recorded,English,﻿orphan asylum,,,,,,,﻿KS,,39.28243,-94.905952,,,,,,,,,,,,﻿under charge of the Sisters of Charity,,1869,﻿,﻿,﻿VAEastRockyMountains,VAKansas
+﻿kc.ks.0085,﻿asylum,not recorded,English,﻿orphan asylum,,,,,,,﻿KS,,,,,,,,,,,,,,,﻿under charge of the Sisters of Charity,,1869,﻿,﻿,﻿VAEastRockyMountains,VAKansas
 ﻿kc.ks.0039_02,﻿convent,﻿Convent of the Sisters of Loretto,English,,﻿St. Francis de Hieronymo,,,,,﻿St. Paul,,﻿KS,37.114248,-94.810595,,,,,﻿Mother,﻿Mary,,﻿Superior,,,,,,1869,﻿,﻿,﻿VAEastRockyMountains,VAKansas
 ﻿kc.ks.0090,"﻿convent, academy",﻿St. Scholastica's Convent and Academy,English,,,,,,﻿Atchison,﻿Atchison,﻿KS,,39.574971,-95.111152,,,,,﻿Mother,﻿Mary Evangelista Kremmeter,﻿O.S.B.,﻿Prioress,,,,﻿Under the Sisters of the Order of St. Benedict,,1869,﻿,﻿,﻿VAEastRockyMountains,VAKansas
 ﻿kc.ks.0090,"﻿convent, academy",﻿St. Scholastica's Convent and Academy,English,,,,,,﻿Atchison,﻿Atchison,﻿KS,,39.574971,-95.111152,,,,,﻿Sister,﻿Ehrentrude Walter,﻿O.S.B.,﻿Directress of the Academy,,,,﻿Under the Sisters of the Order of St. Benedict,,1869,﻿,﻿,﻿VAEastRockyMountains,VAKansas

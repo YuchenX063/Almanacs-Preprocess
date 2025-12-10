@@ -120,13 +120,13 @@
 ﻿dub.ia.0112,﻿church,﻿St. Peter's,English,,,,﻿Delaware County,﻿Delaware County,﻿Petersburg,﻿Petersburg,﻿IA,,42.5549923,-91.2131917,﻿dub.ia.0111,﻿attended from New Vienna,,,,,,,,,,,,1870,﻿,﻿,﻿Dubuque,Dubuque
 ﻿dub.ia.0113,﻿church,not recorded,English,,,,﻿Winneshiek County,﻿Winneshiek County,﻿Old Mission,,﻿IA,,43.12409736,-91.90216195,,,,﻿fre_hannach_001,﻿Rev.,﻿Frederick Hannach,,,,,,,,1870,﻿,﻿,﻿Dubuque,Dubuque
 ﻿dub.ia.0114,﻿church,﻿St. Mary's,English,,,,﻿Mahaska County,﻿Mahaska County,﻿Oscaloosa,﻿Oskaloosa,﻿IA,,41.29472039,-92.6418045,,,,﻿d_j_cogan_001,﻿Rev.,﻿D. J. Cogan,,,,,,,,1870,﻿,﻿,﻿Dubuque,Dubuque
-﻿dub.ia.0115,﻿station,not recorded,English,,,,,,,,,,41.29472039,-92.6418045,﻿dub.ia.0114,﻿attended from Oscaloosa,,,,,,,,,,,,1870,﻿,﻿,﻿Dubuque,Dubuque
+﻿dub.ia.0115,﻿station,not recorded,English,,,,,,,,,,,,﻿dub.ia.0114,﻿attended from Oscaloosa,,,,,,,,,,,,1870,﻿,﻿,﻿Dubuque,Dubuque
 ﻿dub.ia.0116,﻿station,﻿new church in process of erection,English,,,,﻿Jasper County,﻿Jasper County,﻿Monroe,﻿Monroe,﻿IA,,41.5208256,-93.1038129,﻿dub.ia.0114,﻿attended from Oscaloosa,,,,,,,,,,,,1870,﻿,﻿,﻿Dubuque,Dubuque
-﻿dub.ia.0117,﻿church,﻿St. Boniface's,English,﻿new church in process of erection,,,,,,,﻿IA,,41.5208256,-93.1038129,﻿dub.ia.0114,﻿attended from Oscaloosa,,,,,,,,,,,,1870,﻿,﻿,﻿Dubuque,Dubuque
+﻿dub.ia.0117,﻿church,﻿St. Boniface's,English,﻿new church in process of erection,,,,,,,﻿IA,,,,﻿dub.ia.0114,﻿attended from Oscaloosa,,,,,,,,,,,,1870,﻿,﻿,﻿Dubuque,Dubuque
 ﻿dub.ia.0118,﻿station,﻿St. John's,English,,,,,﻿Mahaska County,﻿Eddyville,﻿Eddyville,﻿IA,,41.1605646,-92.6313031,﻿dub.ia.0114,﻿attended from Oscaloosa,,,,,,,,,,,,1870,﻿,﻿,﻿Dubuque,Dubuque
 ﻿dub.ia.0119,﻿church,﻿Visitation of B.V.M.,English,,,,﻿Wapello County,﻿Wapello County,﻿Ottumwa,﻿Ottumwa,﻿IA,,41.02149376,-92.41074297,,,,﻿joh_krekel_001,﻿Rev.,﻿John Krekel,,,,,,,,1870,﻿,﻿,﻿Dubuque,Dubuque
 ﻿dub.ia.0120,﻿church,not recorded,English,,,,﻿Van Buren County,﻿Van Buren County,﻿Farmington,﻿Farmington,﻿IA,,40.6403124,-91.7429429,﻿dub.ia.0119,﻿attended from Ottumwa,,,,,,,,,,,,1870,﻿,﻿,﻿Dubuque,Dubuque
-﻿dub.ia.0121,﻿church,﻿St. Boniface,English,,,,,,,,﻿IA,,40.6403124,-91.7429429,﻿dub.ia.0119,﻿attended from Ottumwa,,,,,,,,,,,,1870,﻿,﻿,﻿Dubuque,Dubuque
+﻿dub.ia.0121,﻿church,﻿St. Boniface,English,,,,,,,,﻿IA,,,,﻿dub.ia.0119,﻿attended from Ottumwa,,,,,,,,,,,,1870,﻿,﻿,﻿Dubuque,Dubuque
 ﻿dub.ia.0122,﻿church,not recorded,English,,,,﻿Van Buren County,﻿Van Buren County,﻿Bonaparte,﻿Bonaparte,﻿IA,,40.6980874,-91.8032228,﻿dub.ia.0119,﻿attended from Ottumwa,,,,,,,,,,,,1870,﻿,﻿,﻿Dubuque,Dubuque
 ﻿dub.ia.0123,﻿church,not recorded,English,,,,﻿Van Buren County,﻿Van Buren County,﻿Summit,,﻿IA,,40.78568202,-91.92855383,﻿dub.ia.0119,﻿attended from Ottumwa,,,,,,,,,,,,1870,﻿,﻿,﻿Dubuque,Dubuque
 ﻿dub.ia.0124,﻿church,not recorded,English,,,,﻿Davis County,﻿Davis County,﻿Bloomington,﻿Bloomfield,﻿IA,,40.75604,-92.411254,﻿dub.ia.0119,﻿attended from Ottumwa,,,,,,,,,,,,1870,﻿,﻿,﻿Dubuque,Dubuque
@@ -134,7 +134,7 @@
 ﻿dub.ia.0126,﻿church,not recorded,English,,,,﻿Washington County,﻿Washington County,﻿Richmond,,﻿IA,,41.44826917,-91.70421148,,,,﻿joh_fendricks_001,﻿Rev.,﻿John Fendricks,,,,,,,,1870,﻿,﻿,﻿Dubuque,Dubuque
 ﻿dub.ia.0127,﻿church,﻿SS. Peter and Paul,English,,,,﻿Dubuque County,﻿Dubuque County,﻿Shirlo's Mound,﻿Sherill,﻿IA,,42.60287552,-90.78281697,,,,﻿tho_fraunhofer_001,﻿Rev.,﻿Thomas Fraunhofer,,,,,,,,1870,﻿,﻿,﻿Dubuque,Dubuque
 ﻿dub.ia.0128,﻿church,not recorded,English,,,,,﻿Dubuque County,﻿Ballstown Settlement,﻿Balltown,﻿IA,,42.63788518,-90.86898613,﻿dub.ia.0127,﻿attended from Shirlo's Mound,,,,,,,,,,,,1870,﻿,﻿,﻿Dubuque,Dubuque
-﻿dub.ia.0129,﻿church,not recorded,English,,,,,,﻿Lugwart's Settlement,,﻿IA,,42.63788518,-90.86898613,﻿dub.ia.0127,﻿attended from Shirlo's Mound,,,,,,,,,,,,1870,﻿,﻿,﻿Dubuque,Dubuque
+﻿dub.ia.0129,﻿church,not recorded,English,,,,,,﻿Lugwart's Settlement,,﻿IA,,,,﻿dub.ia.0127,﻿attended from Shirlo's Mound,,,,,,,,,,,,1870,﻿,﻿,﻿Dubuque,Dubuque
 ﻿dub.ia.0130,﻿church,﻿Immaculate Conception,English,,,,﻿Woodbury County,﻿Woodbury County,﻿Sioux City,﻿Sioux City,﻿IA,,42.4783308,-96.3605752,,,,﻿joh_a_hayes_001,﻿Rev.,﻿John A. Hayes,,,,,,,,1870,﻿,﻿,﻿Dubuque,Dubuque
 ﻿dub.ia.0131,﻿church,not recorded,English,,,,,﻿Woodbury County,﻿Smithland,﻿Smithland,﻿IA,,42.229157,-95.9308434,﻿dub.ia.0130,﻿attended from Sioux City,,,,,,,,,,,,1870,﻿,﻿,﻿Dubuque,Dubuque
 ﻿dub.ia.0132,﻿church,not recorded,English,,,,﻿Lee County,,﻿Sugar Creek,,﻿IA,,40.7068663,-91.443469,﻿dub.ia.0095,﻿attended by Rev. L. Wieland of Lyons,,﻿mat_mitchel_001,﻿Rev.,﻿Mathias Mitchel,,,,,,,,1870,﻿,﻿,﻿Dubuque,Dubuque
@@ -143,7 +143,7 @@
 ﻿dub.ia.0135,﻿church,﻿St. Pius,English,,,,﻿Alamakee County,﻿Allamakee County,﻿Cherry Mount,,﻿IA,,43.16724291,-91.28046109,﻿dub.ia.0134,﻿attended from Wexford,,,,,,,,,,,,1870,﻿,﻿,﻿Dubuque,Dubuque
 ﻿dub.ia.0136,﻿church,﻿St. Patrick's,English,,,,﻿Alamakee County,﻿Allamakee County,﻿Paint Rock,,﻿IA,,43.17953825,-91.19181075,﻿dub.ia.0134,﻿attended from Wexford,,,,,,,,,,,,1870,﻿,﻿,﻿Dubuque,Dubuque
 ﻿dub.ia.0137,﻿church,not recorded,English,,,,﻿Alamakee County,﻿Allamakee County,﻿Harper's Ferry,﻿Harper's Ferry,﻿IA,,43.2005358,-91.1531852,﻿dub.ia.0134,﻿attended from Wexford,,,,,,,,,,,,1870,﻿,﻿,﻿Dubuque,Dubuque
-﻿dub.ia.0138,﻿church,not recorded,English,,,,﻿Bremer County,,﻿Waterloo,,﻿IA,,43.2005358,-91.1531852,,,,﻿n_scallan_001,﻿Rev.,﻿N. Scallan,,,,,,,,1870,﻿,﻿,﻿Dubuque,Dubuque
+﻿dub.ia.0138,﻿church,not recorded,English,,,,﻿Bremer County,,﻿Waterloo,,﻿IA,,,,,,,﻿n_scallan_001,﻿Rev.,﻿N. Scallan,,,,,,,,1870,﻿,﻿,﻿Dubuque,Dubuque
 ﻿dub.ia.0139,﻿church,not recorded,English,,,,﻿Alamakee County,﻿Allamakee County,﻿Waukon,﻿Waukon,﻿IA,,43.2694208,-91.475695,,,,﻿jam_mcgowan_001,﻿Rev.,﻿James McGowan,,,,,,,,1870,﻿,﻿,﻿Dubuque,Dubuque
 ﻿dub.ia.0140,﻿church,﻿St. Mary's,English,,,,﻿Muscatine County,﻿Muscatine County,﻿Wilton Junction,﻿Wilton,﻿IA,,41.5879866,-91.0079068,,,,﻿p_a_mccabe_001,﻿Rev.,﻿P. A. McCabe,,,,,,,,1870,﻿,﻿,﻿Dubuque,Dubuque
 ﻿dub.ia.0141,﻿church,﻿Immaculate Conception,English,,,,﻿Bremer County,﻿Bremer County,﻿Waverley,﻿Waverly,﻿IA,,42.7272032,-92.4668511,,,,﻿p_j_murphy_001,﻿Rev.,﻿P. J. R. Murphy,,,,,,,,1870,﻿,﻿,﻿Dubuque,Dubuque

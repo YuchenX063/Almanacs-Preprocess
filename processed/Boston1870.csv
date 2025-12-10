@@ -32,9 +32,9 @@
 ﻿bos.ma.0008,﻿church,﻿Immaculate Conception,English,,,,,,﻿Boston,﻿Boston,﻿MA,,42.3368175,-71.0731746,,,,﻿sta_buteux_001,﻿Rev.,﻿S. Buteux,,,,,,,,1870,﻿,﻿,﻿Boston,Boston
 ﻿bos.ma.0009,﻿church,﻿St. Joseph's,English,,,,,,﻿Boston,﻿Boston,﻿MA,,42.3665655,-71.052568,,,,﻿ber_oreilly_001,﻿Rev.,﻿Bernard O'Reilly,,,,,,,,1870,﻿,﻿,﻿Boston,Boston
 ﻿bos.ma.0009,﻿church,﻿St. Joseph's,English,,,,,,﻿Boston,﻿Boston,﻿MA,,42.3665655,-71.052568,,,,﻿dan_healy_001,﻿Rev.,﻿Daniel Healy,,,,,,,,1870,﻿,﻿,﻿Boston,Boston
-﻿bos.ma.0010,﻿church,﻿SS. Peter and Paul,English,,,,,,﻿Boston,﻿Boston,﻿MA,,42.3665655,-71.052568,,,,﻿wil_a_blenkinsop_001,﻿Rev.,﻿William A. Blenkinsop,,,,,,,,1870,﻿,﻿,﻿Boston,Boston
-﻿bos.ma.0010,﻿church,﻿SS. Peter and Paul,English,,,,,,﻿Boston,﻿Boston,﻿MA,,42.3665655,-71.052568,,,,﻿mic_dolan_001,﻿Rev.,﻿Michael Dolan,,,,,,,,1870,﻿,﻿,﻿Boston,Boston
-﻿bos.ma.0010,﻿church,﻿SS. Peter and Paul,English,,,,,,﻿Boston,﻿Boston,﻿MA,,42.3665655,-71.052568,,,,﻿mic_lane_001,﻿Rev.,﻿Michael Lane,,,,,,,,1870,﻿,﻿,﻿Boston,Boston
+﻿bos.ma.0010,﻿church,﻿SS. Peter and Paul,English,,,,,,﻿Boston,﻿Boston,﻿MA,,,,,,,﻿wil_a_blenkinsop_001,﻿Rev.,﻿William A. Blenkinsop,,,,,,,,1870,﻿,﻿,﻿Boston,Boston
+﻿bos.ma.0010,﻿church,﻿SS. Peter and Paul,English,,,,,,﻿Boston,﻿Boston,﻿MA,,,,,,,﻿mic_dolan_001,﻿Rev.,﻿Michael Dolan,,,,,,,,1870,﻿,﻿,﻿Boston,Boston
+﻿bos.ma.0010,﻿church,﻿SS. Peter and Paul,English,,,,,,﻿Boston,﻿Boston,﻿MA,,,,,,,﻿mic_lane_001,﻿Rev.,﻿Michael Lane,,,,,,,,1870,﻿,﻿,﻿Boston,Boston
 ﻿bos.ma.0011,﻿church,﻿Gate of Heaven,English,,﻿City Point,,,,﻿Boston,﻿Boston,﻿MA,,42.3355553,-71.0304329,,,,﻿emi_gerbi_001,﻿Rev.,﻿Emiliano Gerbi,﻿O.S.F.,,,,,,,1870,﻿,﻿,﻿Boston,Boston
 ﻿bos.ma.0011,﻿church,﻿Gate of Heaven,English,,﻿City Point,,,,﻿Boston,﻿Boston,﻿MA,,42.3355553,-71.0304329,,,,﻿a_j_conterno_001,﻿Rev.,﻿A. J. Conterno,﻿O.S.F.,,,,,,,1870,﻿,﻿,﻿Boston,Boston
 ﻿bos.ma.0011,﻿church,﻿Gate of Heaven,English,,﻿City Point,,,,﻿Boston,﻿Boston,﻿MA,,42.3355553,-71.0304329,,,,﻿v_f_borgialli_001,﻿Rev.,﻿V. F. Borgialli,﻿O.S.F.,,,,,,,1870,﻿,﻿,﻿Boston,Boston
@@ -42,11 +42,11 @@
 ﻿bos.ma.0013,﻿church,﻿Most Holy Redeemer,English,,,,,,﻿Boston,﻿Boston,﻿MA,,42.3714866,-71.0403364,,,,﻿jam_fitton_001,﻿Rev.,﻿James Fitton,,,,,,,,1870,﻿,﻿,﻿Boston,Boston
 ﻿bos.ma.0013,﻿church,﻿Most Holy Redeemer,English,,,,,,﻿Boston,﻿Boston,﻿MA,,42.3714866,-71.0403364,,,,﻿jos_h_cassin_001,﻿Rev.,﻿Joseph H. Cassin,,,,,,,,1870,﻿,﻿,﻿Boston,Boston
 ﻿bos.ma.0013,﻿church,﻿Most Holy Redeemer,English,,,,,,﻿Boston,﻿Boston,﻿MA,,42.3714866,-71.0403364,,,,﻿pet_lamb_001,﻿Rev.,﻿Peter Lamb,,,,,,,,1870,﻿,﻿,﻿Boston,Boston
-﻿bos.ma.0014,﻿church,﻿Our Lady of the Assumption,English,﻿(church building),﻿(church building),,,,﻿Boston,﻿Boston,﻿MA,,42.3714866,-71.0403364,﻿bos.ma.0013,﻿Attended by Rev. Jos. H. Cassin,,,,,,,,,,,,1870,﻿,﻿,﻿Boston,Boston
-﻿bos.ma.0015,﻿church,﻿St. Joseph's,English,,﻿Boston Highlands,,,,﻿Boston,﻿Boston,﻿MA,,42.3714866,-71.0403364,,,,﻿pat_obeirne_001,﻿Rev.,﻿P. O'Beirne,,,,,,,,1870,﻿,﻿,﻿Boston,Boston
-﻿bos.ma.0015,﻿church,﻿St. Joseph's,English,,﻿Boston Highlands,,,,﻿Boston,﻿Boston,﻿MA,,42.3714866,-71.0403364,,,,﻿joh_p_ryan_001,﻿Rev.,﻿John P. Ryan,,,,,,,,1870,﻿,﻿,﻿Boston,Boston
-﻿bos.ma.0016,﻿church,﻿St. Francis de Sales,English,,﻿Boston Highlands,,,,﻿Boston,﻿Boston,﻿MA,,42.3714866,-71.0403364,,,,﻿jam_griffin_001,﻿Rev.,﻿James Griffin,,,,,,,,1870,﻿,﻿,﻿Boston,Boston
-﻿bos.ma.0016,﻿church,﻿St. Francis de Sales,English,,﻿Boston Highlands,,,,﻿Boston,﻿Boston,﻿MA,,42.3714866,-71.0403364,,,,﻿tho_coyle_001,﻿Rev.,﻿Thos. Coyle,,,,,,,,1870,﻿,﻿,﻿Boston,Boston
+﻿bos.ma.0014,﻿church,﻿Our Lady of the Assumption,English,﻿(church building),﻿(church building),,,,﻿Boston,﻿Boston,﻿MA,,,,﻿bos.ma.0013,﻿Attended by Rev. Jos. H. Cassin,,,,,,,,,,,,1870,﻿,﻿,﻿Boston,Boston
+﻿bos.ma.0015,﻿church,﻿St. Joseph's,English,,﻿Boston Highlands,,,,﻿Boston,﻿Boston,﻿MA,,,,,,,﻿pat_obeirne_001,﻿Rev.,﻿P. O'Beirne,,,,,,,,1870,﻿,﻿,﻿Boston,Boston
+﻿bos.ma.0015,﻿church,﻿St. Joseph's,English,,﻿Boston Highlands,,,,﻿Boston,﻿Boston,﻿MA,,,,,,,﻿joh_p_ryan_001,﻿Rev.,﻿John P. Ryan,,,,,,,,1870,﻿,﻿,﻿Boston,Boston
+﻿bos.ma.0016,﻿church,﻿St. Francis de Sales,English,,﻿Boston Highlands,,,,﻿Boston,﻿Boston,﻿MA,,,,,,,﻿jam_griffin_001,﻿Rev.,﻿James Griffin,,,,,,,,1870,﻿,﻿,﻿Boston,Boston
+﻿bos.ma.0016,﻿church,﻿St. Francis de Sales,English,,﻿Boston Highlands,,,,﻿Boston,﻿Boston,﻿MA,,,,,,,﻿tho_coyle_001,﻿Rev.,﻿Thos. Coyle,,,,,,,,1870,﻿,﻿,﻿Boston,Boston
 ﻿bos.ma.0017,﻿church,﻿St. Gregory,English,,﻿Dorchester,,,,﻿Boston,﻿Boston,﻿MA,,42.2757334,-71.0696102,,,,﻿tho_r_mcnulty_001,﻿Rev.,﻿Thos. R. McNulty,,,,,,,,1870,﻿,﻿,﻿Boston,Boston
 ﻿bos.ma.0018,﻿church,﻿Star of the Sea,English,,﻿East Boston,,,,﻿Boston,﻿Boston,﻿MA,,42.3800079,-71.0254241,﻿bos.ma.0013,﻿Attended from the Church of the Most Holy Redeemer,,,,,,,,,,,,1870,﻿,﻿,﻿Boston,Boston
 ﻿bos.ma.0019,﻿chapel,﻿Chapel of the Blessed Virgin,English,,,,,,﻿Boston,﻿Boston,﻿MA,,42.3600825,-71.0588801,﻿bos.ma.0007,﻿Attended from St. Stephen's,,,,,,,,,,,,1870,﻿,﻿,﻿Boston,Boston
@@ -320,8 +320,8 @@
 ﻿bos.ma.0002_03,﻿school,﻿St. Mary's Parochial School for Girls,English,,,,,,,,﻿MA,,42.4072107,-71.3824374,,,,,,,,,,﻿pupil,﻿650 pupils,﻿under the charge of 10 Sisters of Notre Dame,,1870,﻿,﻿,﻿Boston,Boston
 ﻿bos.ma.0005_02,﻿school,﻿German Catholic School for Boys,English,,﻿Church of the Holy Trinity,,,,﻿Boston,﻿Boston,﻿MA,,42.3600825,-71.0588801,,,,,,,,,,﻿teacher,﻿3 teachers,,,1870,﻿,﻿,﻿Boston,Boston
 ﻿bos.ma.0005_02,﻿school,﻿German Catholic School for Boys,English,,﻿Church of the Holy Trinity,,,,﻿Boston,﻿Boston,﻿MA,,42.3600825,-71.0588801,,,,,,,,,,﻿pupil,﻿230 pupils,,,1870,﻿,﻿,﻿Boston,Boston
-﻿bos.ma.0225,﻿school,﻿German Catholic School for Girls,English,,,,,,,,﻿MA,,42.3600825,-71.0588801,,,,,,,,,,﻿sister,﻿3 Sisters of Notre Dame,﻿Sisters of Notre Dame,,1870,﻿,﻿,﻿Boston,Boston
-﻿bos.ma.0225,﻿school,﻿German Catholic School for Girls,English,,,,,,,,﻿MA,,42.3600825,-71.0588801,,,,,,,,,,﻿pupil,﻿220 pupils,﻿Sisters of Notre Dame,,1870,﻿,﻿,﻿Boston,Boston
+﻿bos.ma.0225,﻿school,﻿German Catholic School for Girls,English,,,,,,,,﻿MA,,,,,,,,,,,,,﻿sister,﻿3 Sisters of Notre Dame,﻿Sisters of Notre Dame,,1870,﻿,﻿,﻿Boston,Boston
+﻿bos.ma.0225,﻿school,﻿German Catholic School for Girls,English,,,,,,,,﻿MA,,,,,,,,,,,,,﻿pupil,﻿220 pupils,﻿Sisters of Notre Dame,,1870,﻿,﻿,﻿Boston,Boston
 ﻿bos.ma.0226,﻿school,﻿Parochial School for Girls,English,﻿Parochial School for Girls,﻿South Boston,,,,﻿Boston,﻿Boston,﻿MA,,42.3354829,-71.0456735,,,,,,,,,,﻿sister,﻿23 Sisters of Notre Dame,﻿Sisters of Notre Dame,,1870,﻿,﻿,﻿Boston,Boston
 ﻿bos.ma.0226,﻿school,﻿Parochial School for Girls,English,﻿Parochial School for Girls,﻿South Boston,,,,﻿Boston,﻿Boston,﻿MA,,42.3354829,-71.0456735,,,,,,,,,,﻿pupil,﻿1000 pupils,﻿Sisters of Notre Dame,,1870,﻿,﻿,﻿Boston,Boston
 ﻿bos.ma.0227,﻿school,﻿Parochial School for Girls,English,﻿Parochial School for Girls,﻿East Boston,,,,﻿Boston,﻿Boston,﻿MA,,42.3800079,-71.0254241,,,,,,,,,,﻿sister,﻿12 Sisters of Notre Dame,﻿Sisters of Notre Dame,,1870,﻿,﻿,﻿Boston,Boston

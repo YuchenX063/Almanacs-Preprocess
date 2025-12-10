@@ -3,9 +3,9 @@
 ﻿bos.ma.0001,﻿cathedral,﻿Cathedral of the Holy Cross,English,,,,,﻿Suffolk County,﻿Boston,﻿Boston,﻿MA,,42.35606338,-71.05825821,,,,﻿wil_tyler_901,﻿Very Rev.,﻿Wm. Tyler,,,,,,,,1838,,﻿,﻿,﻿Boston,Boston
 ﻿bos.ma.0001,﻿cathedral,﻿Cathedral of the Holy Cross,English,,,,,﻿Suffolk County,﻿Boston,﻿Boston,﻿MA,,42.35606338,-71.05825821,,,,﻿mic_healy_901,﻿Very Rev.,﻿Michael Healy,,,,,,,,1838,,﻿,﻿,﻿Boston,Boston
 ﻿bos.ma.0001_02,﻿chapel,﻿Chapel of the Holy Cross,English,,,,,﻿Suffolk County,﻿Boston,﻿Boston,﻿MA,,42.35606338,-71.05825821,,,,﻿jam_conway_901,﻿Rev.,﻿James Conway,,,,,,,,1838,,﻿,﻿,﻿Boston,Boston
-﻿bos.ma.0002,﻿church,﻿St. Mary's Church,English,,,,,﻿Suffolk County,﻿Boston,﻿Boston,﻿MA,,42.35606338,-71.05825821,,,,﻿jam_mcdermott_001,﻿Rev.,﻿James McDermott,,,,,,,,1838,,﻿,﻿,﻿Boston,Boston
-﻿bos.ma.0002,﻿church,﻿St. Mary's Church,English,,,,,﻿Suffolk County,﻿Boston,﻿Boston,﻿MA,,42.35606338,-71.05825821,,,,﻿pat_obeirne_001,﻿Rev.,﻿Patrick O'Beirne,,,,,,,,1838,,﻿,﻿,﻿Boston,Boston
-﻿bos.ma.0003,﻿church,﻿St. Prtrick's Church,English,,,,,﻿Suffolk County,﻿Boston,﻿Boston,﻿MA,,42.35606338,-71.05825821,,,,﻿tho_lynch_001,﻿Rev.,﻿Thomas Lynch,,,,,,,,1838,,﻿,﻿,﻿Boston,Boston
+﻿bos.ma.0002,﻿church,﻿St. Mary's Church,English,,,,,﻿Suffolk County,﻿Boston,﻿Boston,﻿MA,,,,,,,﻿jam_mcdermott_001,﻿Rev.,﻿James McDermott,,,,,,,,1838,,﻿,﻿,﻿Boston,Boston
+﻿bos.ma.0002,﻿church,﻿St. Mary's Church,English,,,,,﻿Suffolk County,﻿Boston,﻿Boston,﻿MA,,,,,,,﻿pat_obeirne_001,﻿Rev.,﻿Patrick O'Beirne,,,,,,,,1838,,﻿,﻿,﻿Boston,Boston
+﻿bos.ma.0003,﻿church,﻿St. Prtrick's Church,English,,,,,﻿Suffolk County,﻿Boston,﻿Boston,﻿MA,,,,,,,﻿tho_lynch_001,﻿Rev.,﻿Thomas Lynch,,,,,,,,1838,,﻿,﻿,﻿Boston,Boston
 ﻿bos.ma.0012,﻿church,﻿St. Augustin's,English,,﻿South Boston,,,﻿Suffolk County,﻿Boston,﻿Boston,﻿MA,﻿MA,42.334167,-71.049444,,,,﻿joh_mahony_901,﻿Rev.,﻿John Mahoney,,,,,,,,1838,﻿https://en.wikipedia.org/wiki/Saint_Augustine_Chapel_and_Cemetery ; https://www.gateofheavenstbrigid.org/st-augustine-cemetery-chapel,﻿,﻿,﻿Boston,Boston
 ﻿bos.ma.0055,﻿church,﻿St. Mary's,English,,,,,﻿Suffolk County,﻿Charlestown,﻿Charlestown,﻿MA,﻿MA,42.37391065,-71.06582063,,,,﻿pat_byrne_901,﻿Rev.,﻿Patrick Byrne,,,,,,,,1838,﻿https://en.wikipedia.org/wiki/St._Mary_%E2%80%93_St._Catherine_of_Siena_Parish,﻿,﻿,﻿Boston,Boston
 ﻿bos.ma.0074,﻿church,not recorded,English,﻿church not dedicated,,,,﻿Bristol County,﻿Fall River,﻿Fall River,﻿MA,﻿MA,41.6989912,-71.1575452,,﻿attended occassionally by Rev. John Corry,﻿occasionally,﻿joh_corry_901,﻿Rev.,﻿John Corry,,,﻿Vacant,,,,,1838,,﻿,﻿,﻿Boston,Boston
@@ -40,4 +40,4 @@
 ﻿bos.ma.0197,﻿seminary,﻿Mount St. James' Seminary,English,,,,,﻿Worcester County,﻿Worcester,,﻿MA,,42.23908,-71.807961,,,,﻿jam_fitton_001,﻿Rev.,﻿James Fitton,,﻿President,,,,,,1838,﻿https://college.holycross.edu/projects/worcester/neighbors/holycross.htm,﻿,﻿,﻿Boston,Boston
 ﻿bos.ma.0197,﻿seminary,﻿Mount St. James' Seminary,English,,,,,﻿Worcester County,﻿Worcester,,﻿MA,,42.23908,-71.807961,,,,,,﻿Joseph Brigden,,﻿Principal,,,,,,1838,,﻿,﻿,﻿Boston,Boston
 ﻿bos.ma.9000,﻿convent,﻿Ursuline Convent,English,,﻿Mount Benedict,,,﻿Suffolk County,﻿Charlestown,,﻿MA,,42.38777424,-71.08335499,,,,,,,,,,,,,,1838,,﻿,﻿,﻿Boston,Boston
-﻿bos.ma.9003,﻿school,not recorded,English,,﻿Hamilton Street,,,﻿Suffolk County,﻿Boston,,﻿MA,,42.38777424,-71.08335499,,,,,,,,,,﻿sisters,﻿4 sisters,﻿Sisters of Charity,,1838,,﻿,﻿,﻿Boston,Boston
+﻿bos.ma.9003,﻿school,not recorded,English,,﻿Hamilton Street,,,﻿Suffolk County,﻿Boston,,﻿MA,,,,,,,,,,,,,﻿sisters,﻿4 sisters,﻿Sisters of Charity,,1838,,﻿,﻿,﻿Boston,Boston

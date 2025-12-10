@@ -12,7 +12,7 @@
 ﻿ore.or.0010,﻿church,not recorded,English,,,,,,﻿Mount Ranier,﻿Ranier,﻿OR,,46.089135,-122.935978,﻿ore.or.0001,﻿attended from Portland,,,,,,,,,,,,1867,﻿,﻿,﻿Oregon City,OregonCity
 ﻿ore.or.0011,﻿church,not recorded,English,,,,,,﻿St. Helen,﻿St. Helen,﻿OR,,45.858964,-122.82123,﻿ore.or.0001,﻿attended from Portland,,,,,,,,,,,,1867,﻿,﻿,﻿Oregon City,OregonCity
 ﻿ore.or.0012,﻿church,not recorded,English,,,,,,﻿Columbia Bottom,,﻿OR,,45.56986,-122.48664,﻿ore.or.0001,﻿attended from Portland,,,,,,,,,,,,1867,﻿,﻿,﻿Oregon City,OregonCity
-﻿ore.or.0081,﻿church,not recorded,English,,,,,,﻿Cascades,﻿Cascades,﻿OR,,45.56986,-122.48664,,﻿attended from Portland,,,,,,,,,,,,1867,﻿,﻿,﻿Oregon City,OregonCity
+﻿ore.or.0081,﻿church,not recorded,English,,,,,,﻿Cascades,﻿Cascades,﻿OR,,,,,﻿attended from Portland,,,,,,,,,,,,1867,﻿,﻿,﻿Oregon City,OregonCity
 ﻿ore.or.0013,﻿church,﻿St. Louis's Church,English,,﻿French Prairie,,﻿Marion County,,,﻿Saint Louis,﻿OR,,45.12326666,-122.9426323,,,,﻿bar_delorme_001,﻿Very Rev.,﻿B. Delorme,,﻿V.G. Pastor,,,,,,1867,﻿,﻿,﻿Oregon City,OregonCity
 ﻿ore.or.0013,﻿church,﻿St. Louis's Church,English,,﻿French Prairie,,﻿Marion County,,,﻿Saint Louis,﻿OR,,45.12326666,-122.9426323,,,,﻿a_libar_001,﻿Rev.,﻿A. Lebas,,﻿Assistant,,,,,,1867,﻿,﻿,﻿Oregon City,OregonCity
 ﻿ore.or.0005,﻿church,not recorded,English,,﻿Molala,,,,﻿Molala,﻿Molalla,﻿OR,,45.147544,-122.577126,﻿ore.or.0002,﻿attended from St. Louis,,,,,,,,,,,,1867,﻿,﻿,﻿Oregon City,OregonCity
@@ -58,7 +58,7 @@
 ﻿ore.or.0066,﻿church,not recorded,English,,﻿on John Day tributary,,,,﻿Olive Creek,﻿Olive Creek,﻿OR,,43.804133,-120.554201,﻿ore.or.0062,﻿attended from Canyon City,,,,,,,,,,,,1867,﻿,﻿,﻿Oregon City,OregonCity
 ﻿ore.or.0067,﻿church,not recorded,English,,﻿on John Day tributary,,,,﻿Middle Fork,﻿Middle Creek,﻿OR,,44.500096,-118.088096,﻿ore.or.0062,﻿attended from Canyon City,,,,,,,,,,,,1867,﻿,﻿,﻿Oregon City,OregonCity
 ﻿ore.or.0087,﻿church,not recorded,English,,﻿on John Day tributary,,,,﻿Vincent Creek,﻿Vincent Creek,﻿OR,,43.79263,-123.77728,﻿ore.or.0062,﻿attended from Canyon City,,,,,,,,,,,,1867,﻿,﻿,﻿Oregon City,OregonCity
-﻿ore.or.0082,﻿church,not recorded,English,,﻿on John Day tributary,,,,﻿Independence,﻿Independence,﻿OR,,43.79263,-123.77728,﻿ore.or.0062,﻿attended from Canyon City,,,,,,,,,,,,1867,﻿,﻿,﻿Oregon City,OregonCity
+﻿ore.or.0082,﻿church,not recorded,English,,﻿on John Day tributary,,,,﻿Independence,﻿Independence,﻿OR,,,,﻿ore.or.0062,﻿attended from Canyon City,,,,,,,,,,,,1867,﻿,﻿,﻿Oregon City,OregonCity
 ﻿ore.or.0071,﻿church,not recorded,English,,﻿on John Day tributary,,,,﻿Granite Creek,﻿Granite Creek,﻿OR,,43.804133,-120.554201,﻿ore.or.0062,﻿attended from Canyon City,,,,,,,,,,,,1867,﻿,﻿,﻿Oregon City,OregonCity
 ﻿ore.or.0060,﻿church,not recorded,English,,﻿on Powder River,,,,﻿Auburn,﻿Auburn,﻿OR,,44.693804,-117.931859,﻿ore.or.0058,﻿attended from Canyon City,,,,,,,,,,,,1867,﻿,﻿,﻿Oregon City,OregonCity
 ﻿ore.or.0058,﻿mission,not recorded,English,﻿no chapel,﻿Umatilla Indian Reservation,﻿East of the Cascade Range,,,﻿Umatilla,﻿Umatilla,﻿OR,,45.670408,-118.68359,,,,﻿g_a_vermersch_001,﻿Rev.,﻿G. Adolphe Vermersch,,﻿Pastor,,,,,,1867,﻿,﻿,﻿Oregon City,OregonCity

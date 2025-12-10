@@ -12,10 +12,10 @@
 ﻿stl.mo.0005,﻿church,﻿St. Michael's,English,﻿residence adjoining,﻿Jefferson street,,,,﻿St. Louis,﻿St. Louis,﻿MO,,38.7882539,-90.3306515,,,,﻿p_obrien_002,﻿Rev.,﻿P. O'Brien,,,,,,,,1864,﻿,﻿,﻿St. Louis,StLouis
 ﻿stl.mo.0006,﻿church,﻿Holy Trinity,﻿German,﻿residence adjoining,﻿New Bremen,,,,﻿St. Louis,﻿St. Louis,﻿MO,,38.6630835,-90.2013781,,,,﻿j_doebbener_001,﻿Rev.,﻿J. Doeblener,,,,,,,,1864,﻿,﻿,﻿St. Louis,StLouis
 ﻿stl.mo.0006,﻿church,﻿Holy Trinity,﻿German,﻿residence adjoining,﻿New Bremen,,,,﻿St. Louis,﻿St. Louis,﻿MO,,38.6630835,-90.2013781,,,,﻿f_brinkhoff_001,﻿Rev.,﻿F. Brinkhoff,,,,,,,,1864,﻿,﻿,﻿St. Louis,StLouis
-﻿stl.mo.0007,﻿church,﻿St. Vincent de Paul's,English,﻿residence adjoining,﻿Decatur street,,,,﻿St. Louis,﻿St. Louis,﻿MO,,38.6630835,-90.2013781,,,,﻿t_burke_001,﻿Rev.,﻿T. Burke,﻿C.M.,,,,,,,1864,﻿,﻿,﻿St. Louis,StLouis
-﻿stl.mo.0007,﻿church,﻿St. Vincent de Paul's,English,﻿residence adjoining,﻿Decatur street,,,,﻿St. Louis,﻿St. Louis,﻿MO,,38.6630835,-90.2013781,,,,﻿e_m_smyth_001,﻿Rev.,﻿E. M. Smyth,﻿C.M.,,,,,,,1864,﻿,﻿,﻿St. Louis,StLouis
-﻿stl.mo.0007,﻿church,﻿St. Vincent de Paul's,English,﻿residence adjoining,﻿Decatur street,,,,﻿St. Louis,﻿St. Louis,﻿MO,,38.6630835,-90.2013781,,,,﻿i_g_uhland_001,﻿Rev.,﻿J. G. Uhland,﻿C.M.,,,,,,,1864,﻿,﻿,﻿St. Louis,StLouis
-﻿stl.mo.0007,﻿church,﻿St. Vincent de Paul's,English,﻿residence adjoining,﻿Decatur street,,,,﻿St. Louis,﻿St. Louis,﻿MO,,38.6630835,-90.2013781,,,,﻿h_coope_001,﻿Rev.,﻿H. Coope,﻿C.M.,,,,,,,1864,﻿,﻿,﻿St. Louis,StLouis
+﻿stl.mo.0007,﻿church,﻿St. Vincent de Paul's,English,﻿residence adjoining,﻿Decatur street,,,,﻿St. Louis,﻿St. Louis,﻿MO,,,,,,,﻿t_burke_001,﻿Rev.,﻿T. Burke,﻿C.M.,,,,,,,1864,﻿,﻿,﻿St. Louis,StLouis
+﻿stl.mo.0007,﻿church,﻿St. Vincent de Paul's,English,﻿residence adjoining,﻿Decatur street,,,,﻿St. Louis,﻿St. Louis,﻿MO,,,,,,,﻿e_m_smyth_001,﻿Rev.,﻿E. M. Smyth,﻿C.M.,,,,,,,1864,﻿,﻿,﻿St. Louis,StLouis
+﻿stl.mo.0007,﻿church,﻿St. Vincent de Paul's,English,﻿residence adjoining,﻿Decatur street,,,,﻿St. Louis,﻿St. Louis,﻿MO,,,,,,,﻿i_g_uhland_001,﻿Rev.,﻿J. G. Uhland,﻿C.M.,,,,,,,1864,﻿,﻿,﻿St. Louis,StLouis
+﻿stl.mo.0007,﻿church,﻿St. Vincent de Paul's,English,﻿residence adjoining,﻿Decatur street,,,,﻿St. Louis,﻿St. Louis,﻿MO,,,,,,,﻿h_coope_001,﻿Rev.,﻿H. Coope,﻿C.M.,,,,,,,1864,﻿,﻿,﻿St. Louis,StLouis
 ﻿stl.mo.0008,﻿church,﻿St. John's,English,﻿residence adjoining,﻿Sixteenth and Chestnut streets,,,,﻿St. Louis,﻿St. Louis,﻿MO,,38.628813,-90.2013043,,,,﻿p_ring_001,﻿Rev.,﻿P. Ring,﻿C.M.,,,,,,,1864,﻿,﻿,﻿St. Louis,StLouis
 ﻿stl.mo.0008,﻿church,﻿St. John's,English,﻿residence adjoining,﻿Sixteenth and Chestnut streets,,,,﻿St. Louis,﻿St. Louis,﻿MO,,38.628813,-90.2013043,,,,﻿c_smyth_001,﻿Rev.,﻿C. Smyth,﻿C.M.,,,,,,,1864,﻿,﻿,﻿St. Louis,StLouis
 ﻿stl.mo.0009,﻿church,﻿Sts. Peter and Paul's,﻿German,﻿residence adjoining,﻿Seventh street,,,,﻿St. Louis,﻿St. Louis,﻿MO,,38.607361,-90.2027368,,,,﻿g_goller_001,﻿Rev.,﻿G. Goller,,,,,,,,1864,﻿,﻿,﻿St. Louis,StLouis
@@ -59,12 +59,12 @@
 ﻿stl.mo.0058,﻿church,﻿St. Columbkille,English,,,,﻿Franklin County,,﻿Downpatrick,﻿Downpatrick,﻿MO,,38.3953601,-91.135302,﻿stl.mo.0038,﻿Attended from Armagh,,,,,,,,,,,,1864,﻿,﻿,﻿St. Louis,StLouis
 ﻿stl.mo.0207,﻿church,﻿St. Joseph's,English,,,,﻿Knox County,,﻿Edina,﻿Edina,﻿MO,,40.16739062,-92.17260586,,,,﻿b_mcmenomy_001,﻿Rev.,﻿B. McMenomy,,,,,,,,1864,﻿,﻿,﻿St. Louis,StLouis
 ﻿stl.mo.0225,﻿church,not recorded,English,,,,﻿Holt County,,﻿English Grove,,﻿MO,,37.84710029,-92.15816565,﻿stl.mo.0207,﻿visited from St. Joseph's,,,,,,,,,,,,1864,﻿,﻿,﻿St. Louis,StLouis
-﻿stl.mo.0198,﻿church,﻿St. Ann's,English,,,,﻿St. Louis County,,﻿Florissant Road,﻿Florissant,﻿MO,,37.84710029,-92.15816565,,,,﻿a_van-hulst_001,﻿Rev.,﻿A. Van Hulst,﻿S.J.,,,,,,,1864,﻿,﻿,﻿St. Louis,StLouis
+﻿stl.mo.0198,﻿church,﻿St. Ann's,English,,,,﻿St. Louis County,,﻿Florissant Road,﻿Florissant,﻿MO,,,,,,,﻿a_van-hulst_001,﻿Rev.,﻿A. Van Hulst,﻿S.J.,,,,,,,1864,﻿,﻿,﻿St. Louis,StLouis
 ﻿stl.mo.0066,﻿church,﻿St. Michael's,English,,,,﻿Madison County,,﻿Fredericktown,﻿Fredericktown,﻿MO,,37.5597754,-90.2940069,,,,﻿l_tucker_001,﻿Rev.,﻿L. Tucker,,,,,,,,1864,﻿,﻿,﻿St. Louis,StLouis
 ﻿stl.mo.0068,﻿church,﻿Sacred Heart,English,,,,﻿Gasconade County,,﻿Gasconade,﻿Gasconade,﻿MO,,38.669489,-91.5601667,﻿stl.mo.0200,﻿Visited from Westphalia,,,,,,,,,,,,1864,﻿,﻿,﻿St. Louis,StLouis
 ﻿stl.mo.0072,﻿church,not recorded,English,,,,﻿Marion County,,﻿Hannibal,﻿Hannibal,﻿MO,,39.7083789,-91.3584816,,,,﻿e_ledwith_001,﻿Rev.,﻿E. Ledwith,,,,,,,,1864,﻿,﻿,﻿St. Louis,StLouis
 ﻿stl.mo.0073,﻿church,﻿St. Francis Xavier's,English,,﻿Taos P.O.,,﻿Osage County,,﻿Harr's Settlement,,﻿MO,,38.3853377,-91.9099238,,,,﻿f_helias_001,﻿Rev.,﻿F. Helias,﻿S.J.,,﻿(Taos P.O.),,,,,1864,﻿,﻿,﻿St. Louis,StLouis
-﻿stl.mo.0234,﻿church,not recorded,English,,,,﻿St. Charles County,,,,,,38.3853377,-91.9099238,﻿stl.mo.0129,﻿attended from St. Charles,﻿monthly,,,,,,,,,,,1864,﻿,﻿,﻿St. Louis,StLouis
+﻿stl.mo.0234,﻿church,not recorded,English,,,,﻿St. Charles County,,,,,,,,﻿stl.mo.0129,﻿attended from St. Charles,﻿monthly,,,,,,,,,,,1864,﻿,﻿,﻿St. Louis,StLouis
 ﻿stl.mo.0075,﻿church,not recorded,English,,,,﻿Jackson County,,﻿Independence,﻿Independence,﻿MO,,39.0911161,-94.4155068,,,,﻿d_kennedy_001,﻿Rev.,﻿D. Kennedy,,,,,,,,1864,﻿,﻿,﻿St. Louis,StLouis
 ﻿stl.mo.0199,﻿church,﻿St. Thomas',English,,,,﻿Osage County,,﻿Indian Bottom,,﻿MO,,38.13069005,-90.41224098,﻿stl.mo.0200,﻿Attended from Westphalia,,,,,,,,,,,,1864,﻿,﻿,﻿St. Louis,StLouis
 ﻿stl.mo.0076,﻿church,﻿St. Stephen's,English,﻿vacant,,,﻿Monroe County,,﻿Indian Creek,﻿Indian Creek,﻿MO,,39.5944853,-91.7768291,,,,,,,,,,,,,,1864,﻿,﻿,﻿St. Louis,StLouis
@@ -76,7 +76,7 @@
 ﻿stl.mo.0087,﻿church,not recorded,English,,,,﻿Lewis County,,﻿La Grange,﻿La Grange,﻿MO,,40.0428236,-91.4976544,﻿stl.mo.0137,﻿attended from St. Marysville,,,,,,,,,,,,1864,﻿,﻿,﻿St. Louis,StLouis
 ﻿stl.mo.0088,﻿church,not recorded,English,,,,﻿Lafayette County,,﻿Lexington,﻿Lexington,﻿MO,,39.1847339,-93.8799426,,,,﻿e_hamell_001,﻿Rev.,﻿E. Hamell,,,,,,,,1864,﻿,﻿,﻿St. Louis,StLouis
 ﻿stj.mo.0024,﻿church,not recorded,English,,,,﻿Clay County,,﻿Liberty,﻿Liberty,﻿MO,,39.240833,-94.418889,,,,﻿d_kennedy_001,﻿Rev.,﻿D. Kennedy,,,,,,,,1864,﻿,﻿,﻿St. Louis,StLouis
-﻿stl.mo.0215,﻿church,﻿St. Ann's,English,,,,﻿St. Genevieve County,,﻿Little Canada,,﻿MO,,39.240833,-94.418889,,,,﻿j_anselm_001,﻿Rev.,﻿J. Anselm,,,,,,,,1864,﻿,﻿,﻿St. Louis,StLouis
+﻿stl.mo.0215,﻿church,﻿St. Ann's,English,,,,﻿St. Genevieve County,,﻿Little Canada,,﻿MO,,,,,,,﻿j_anselm_001,﻿Rev.,﻿J. Anselm,,,,,,,,1864,﻿,﻿,﻿St. Louis,StLouis
 ﻿stl.mo.0091,﻿church,not recorded,English,,,,﻿Pike County,,﻿Louisiana,﻿Louisiana,﻿MO,,39.4489351,-91.0515256,,﻿attended from Millwood,,,,,,,,,,,,1864,﻿,﻿,﻿St. Louis,StLouis
 ﻿stl.mo.0236,﻿church,not recorded,English,,,,﻿Saline County,,﻿Marshall,,﻿MO,,39.12218802,-93.19424507,﻿stl.mo.0088,﻿attended from Lexington,,,,,,,,,,,,1864,﻿,﻿,﻿St. Louis,StLouis
 ﻿stl.mo.0237,﻿church,not recorded,English,﻿vacant,,,﻿Warren County,,﻿Marthasville,,﻿MO,,38.62770936,-91.05952604,,,,,,,,,,,,,,1864,﻿,﻿,﻿St. Louis,StLouis
@@ -116,11 +116,11 @@
 ﻿stl.mo.0144,﻿church,﻿St. Francis Borgia's,English,,,,﻿Franklin County,,﻿Washington,﻿Washington,﻿MO,,38.5581072,-91.0120878,,,,﻿m_seisl_001,﻿Rev.,﻿M. Seisl,﻿S.J.,,,,,,,1864,﻿,﻿,﻿St. Louis,StLouis
 ﻿stl.mo.0144,﻿church,﻿St. Francis Borgia's,English,,,,﻿Franklin County,,﻿Washington,﻿Washington,﻿MO,,38.5581072,-91.0120878,,,,﻿j_peuckert_001,﻿Rev.,﻿J. Peuckert,﻿S.J.,,,,,,,1864,﻿,﻿,﻿St. Louis,StLouis
 ﻿stl.mo.0208,﻿church,not recorded,English,﻿vacant,,,﻿Platt County,﻿Platte County,﻿Weston,﻿Weston,﻿MO,,39.405556,-94.889167,,,,,,,,,,,,,,1864,﻿,﻿,﻿St. Louis,StLouis
-﻿stl.mo.0147,﻿seminary,﻿Theological Seminary,English,,,,,,﻿Cape Girardeau,﻿Cape Girardeau,﻿MO,,37.3058839,-89.5181476,,,,﻿j_alizeri_001,﻿Rev.,﻿F. Alizeri,﻿C.M.,,,﻿seminarists,﻿14 seminarists,,,1864,﻿,﻿,﻿St. Louis,StLouis
-﻿stl.mo.0147,﻿seminary,﻿Theological Seminary,English,,,,,,﻿Cape Girardeau,﻿Cape Girardeau,﻿MO,,37.3058839,-89.5181476,,,,﻿j_mcgill_002,﻿Rev.,﻿J. McGill,﻿C.M.,﻿President,,﻿seminarists,﻿14 seminarists,,,1864,﻿,﻿,﻿St. Louis,StLouis
-﻿stl.mo.0147,﻿seminary,﻿Theological Seminary,English,,,,,,﻿Cape Girardeau,﻿Cape Girardeau,﻿MO,,37.3058839,-89.5181476,,,,﻿joh_f_mcgerry_001,﻿Rev.,﻿J. F. McGerry,﻿C.M.,,,﻿seminarists,﻿14 seminarists,,,1864,﻿,﻿,﻿St. Louis,StLouis
-﻿stl.mo.0147,﻿seminary,﻿Theological Seminary,English,,,,,,﻿Cape Girardeau,﻿Cape Girardeau,﻿MO,,37.3058839,-89.5181476,,,,﻿j_t_landry_002,﻿Rev.,﻿J. T. Landry,﻿C.M.,,,﻿seminarists,﻿14 seminarists,,,1864,﻿,﻿,﻿St. Louis,StLouis
-﻿stl.mo.0147,﻿seminary,﻿Theological Seminary,English,,,,,,﻿Cape Girardeau,﻿Cape Girardeau,﻿MO,,37.3058839,-89.5181476,,,,﻿p_m_oreagan_001,﻿Rev.,﻿M. O'Reagan,﻿C.M.,,,﻿seminarists,﻿14 seminarists,,,1864,﻿,﻿,﻿St. Louis,StLouis
+﻿stl.mo.0147,﻿seminary,﻿Theological Seminary,English,,,,,,﻿Cape Girardeau,﻿Cape Girardeau,﻿MO,,37.3058839,-89.5181476,,,,﻿j_alizeri_001,﻿Rev.,﻿F. Alizeri,﻿C.M.,,,﻿seminarist,﻿14 seminarists,,,1864,﻿,﻿,﻿St. Louis,StLouis
+﻿stl.mo.0147,﻿seminary,﻿Theological Seminary,English,,,,,,﻿Cape Girardeau,﻿Cape Girardeau,﻿MO,,37.3058839,-89.5181476,,,,﻿j_mcgill_002,﻿Rev.,﻿J. McGill,﻿C.M.,﻿President,,﻿seminarist,﻿14 seminarists,,,1864,﻿,﻿,﻿St. Louis,StLouis
+﻿stl.mo.0147,﻿seminary,﻿Theological Seminary,English,,,,,,﻿Cape Girardeau,﻿Cape Girardeau,﻿MO,,37.3058839,-89.5181476,,,,﻿joh_f_mcgerry_001,﻿Rev.,﻿J. F. McGerry,﻿C.M.,,,﻿seminarist,﻿14 seminarists,,,1864,﻿,﻿,﻿St. Louis,StLouis
+﻿stl.mo.0147,﻿seminary,﻿Theological Seminary,English,,,,,,﻿Cape Girardeau,﻿Cape Girardeau,﻿MO,,37.3058839,-89.5181476,,,,﻿j_t_landry_002,﻿Rev.,﻿J. T. Landry,﻿C.M.,,,﻿seminarist,﻿14 seminarists,,,1864,﻿,﻿,﻿St. Louis,StLouis
+﻿stl.mo.0147,﻿seminary,﻿Theological Seminary,English,,,,,,﻿Cape Girardeau,﻿Cape Girardeau,﻿MO,,37.3058839,-89.5181476,,,,﻿p_m_oreagan_001,﻿Rev.,﻿M. O'Reagan,﻿C.M.,,,﻿seminarist,﻿14 seminarists,,,1864,﻿,﻿,﻿St. Louis,StLouis
 ﻿stl.mo.0209,﻿seminary,﻿St. Mary's Preparatory Seminary,English,,,,﻿Perry County,,﻿Barrens,﻿Perryville,﻿MO,,37.726667,-89.884167,,,,﻿b_mcmenomy_001,﻿Rev.,﻿P. McMenomy,﻿C.M.,﻿Superior,,﻿student,﻿80 students,,,1864,﻿,﻿,﻿St. Louis,StLouis
 ﻿stl.mo.0209,﻿seminary,﻿St. Mary's Preparatory Seminary,English,,,,﻿Perry County,,﻿Barrens,﻿Perryville,﻿MO,,37.726667,-89.884167,,,,﻿ric_j_fitzgerald_001,﻿Rev.,﻿R. Fitzgerald,﻿C.M.,﻿Assistant Superior,,﻿student,﻿80 students,,,1864,﻿,﻿,﻿St. Louis,StLouis
 ﻿stl.mo.0209,﻿seminary,﻿St. Mary's Preparatory Seminary,English,,,,﻿Perry County,,﻿Barrens,﻿Perryville,﻿MO,,37.726667,-89.884167,,,,﻿dan_mccarthy_001,﻿Rev.,﻿D. McCarthy,﻿C.M.,﻿Procurator,,﻿student,﻿80 students,,,1864,﻿,﻿,﻿St. Louis,StLouis
@@ -188,15 +188,15 @@
 ﻿stl.mo.0007_02,﻿school,﻿St. Vincent's,English,,,,,,,,﻿MO,,37.9642529,-91.8318334,,,,,,,,,,﻿pupil,﻿600 pupils,﻿conducted by Christian Brothers and Sisters of St. Joseph,,1864,﻿,﻿,﻿St. Louis,StLouis
 ﻿stl.mo.0002_02,﻿school,﻿St. Mary's,English,,,,,,,,﻿MO,,37.878942,-89.949277,,,,,,,,,,﻿pupil,﻿300 pupils,﻿Sisters of Notre Dame,,1864,﻿,﻿,﻿St. Louis,StLouis
 ﻿stl.mo.0002_02,﻿school,﻿St. Mary's,English,,,,,,,,﻿MO,,37.878942,-89.949277,,,,,,,,,,﻿secular teacher,﻿1 secular teacher,﻿Sisters of Notre Dame,,1864,﻿,﻿,﻿St. Louis,StLouis
-﻿stl.mo.0002_02,﻿school,﻿St. Mary's,English,,,,,,,,﻿MO,,37.878942,-89.949277,,,,,,,,,,﻿sisters of Notre Dame,﻿3 sisters of Notre Dame,﻿Sisters of Notre Dame,,1864,﻿,﻿,﻿St. Louis,StLouis
+﻿stl.mo.0002_02,﻿school,﻿St. Mary's,English,,,,,,,,﻿MO,,37.878942,-89.949277,,,,,,,,,,﻿sisters of notre dame,﻿3 sisters of Notre Dame,﻿Sisters of Notre Dame,,1864,﻿,﻿,﻿St. Louis,StLouis
 ﻿stl.mo.0012_02,﻿school,﻿St. Lawrence's,English,,,,,,,,﻿MO,,37.9642529,-91.8318334,,,,,,,,,,﻿pupil,﻿425 pupils,﻿conducted by Christian Brothers and Sisters of St. Joseph,,1864,﻿,﻿,﻿St. Louis,StLouis
 ﻿stl.mo.0003_02,﻿school,﻿St. Francis Xavier's,English,,,,,,,,﻿MO,,38.63168764,-90.19243435,,,,,,,,,,﻿pupil,﻿630 pupils,﻿conducted by teachers under the direction of the Jesuit Fathers,,1864,﻿,﻿,﻿St. Louis,StLouis
 ﻿stl.mo.0009_02,﻿school,﻿Sts. Peter and Paul,English,,,,,,,,﻿MO,,38.607361,-90.2027368,,,,,,,,,,﻿pupil,﻿700 pupils,﻿conducted by Brothers and Sisters of Notre Dame,,1864,﻿,﻿,﻿St. Louis,StLouis
 ﻿stl.mo.0009_02,﻿school,﻿Sts. Peter and Paul,English,,,,,,,,﻿MO,,38.607361,-90.2027368,,,,,,,,,,﻿secular teacher,﻿2 secular teachers,﻿conducted by Brothers and Sisters of Notre Dame,,1864,﻿,﻿,﻿St. Louis,StLouis
-﻿stl.mo.0009_02,﻿school,﻿Sts. Peter and Paul,English,,,,,,,,﻿MO,,38.607361,-90.2027368,,,,,,,,,,﻿sisters of Notre Dame,﻿6 sisters of Notre Dame,﻿conducted by Brothers and Sisters of Notre Dame,,1864,﻿,﻿,﻿St. Louis,StLouis
+﻿stl.mo.0009_02,﻿school,﻿Sts. Peter and Paul,English,,,,,,,,﻿MO,,38.607361,-90.2027368,,,,,,,,,,﻿sisters of notre dame,﻿6 sisters of Notre Dame,﻿conducted by Brothers and Sisters of Notre Dame,,1864,﻿,﻿,﻿St. Louis,StLouis
 ﻿stl.mo.0011_02,﻿school,﻿St. Joseph's,English,,,,,,,,﻿MO,,38.6378004,-90.1969904,,,,,,,,,,﻿pupil,﻿600 pupils,﻿conducted by secular teachers and Sisters of Notre Dame,,1864,﻿,﻿,﻿St. Louis,StLouis
 ﻿stl.mo.0011_02,﻿school,﻿St. Joseph's,English,,,,,,,,﻿MO,,38.6378004,-90.1969904,,,,,,,,,,﻿secular teacher,﻿2 secular teachers,﻿conducted by secular teachers and Sisters of Notre Dame,,1864,﻿,﻿,﻿St. Louis,StLouis
-﻿stl.mo.0011_02,﻿school,﻿St. Joseph's,English,,,,,,,,﻿MO,,38.6378004,-90.1969904,,,,,,,,,,﻿sisters of Notre Dame,﻿4 sisters of Notre Dame,﻿conducted by secular teachers and Sisters of Notre Dame,,1864,﻿,﻿,﻿St. Louis,StLouis
+﻿stl.mo.0011_02,﻿school,﻿St. Joseph's,English,,,,,,,,﻿MO,,38.6378004,-90.1969904,,,,,,,,,,﻿sisters of notre dame,﻿4 sisters of Notre Dame,﻿conducted by secular teachers and Sisters of Notre Dame,,1864,﻿,﻿,﻿St. Louis,StLouis
 ﻿stl.mo.0008_02,﻿school,﻿St. John's,English,,,,,,,,﻿MO,,38.628813,-90.2013043,,,,,,,,,,﻿pupil,﻿400 pupils,﻿conducted by Christian Brothers and Sisters of St. Joseph,,1864,﻿,﻿,﻿St. Louis,StLouis
 ﻿stl.mo.0005_02,﻿school,﻿St. Michael's,English,,,,,,,,﻿MO,,38.7882539,-90.3306515,,,,,,,,,,﻿pupil,﻿200 pupils,﻿conducted by secular teachers,,1864,﻿,﻿,﻿St. Louis,StLouis
 ﻿stl.mo.0014_02,﻿school,﻿St. Liborius',English,,,,,,,,﻿MO,,38.6494069,-90.2176862,,,,,,,,,,﻿pupil,﻿180 pupils,﻿conducted by secular teachers and Sisters of Notre Dame,,1864,﻿,﻿,﻿St. Louis,StLouis

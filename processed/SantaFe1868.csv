@@ -70,9 +70,9 @@
 ﻿san.nm.0065,﻿chapel,﻿Chapel of San Francisco,English,,﻿Indian Pueblo,﻿La Cañada,,,﻿Nombe,﻿Nambé Pueblo,﻿NM,,35.893359,-105.982522,﻿san.nm.0063,﻿attended from Cañada,,,,,,,,,,,,1868,﻿,﻿,﻿Sante Fé,SantaFe
 ﻿san.nm.0066,﻿chapel,﻿San Antonio's Chapel,English,,,﻿La Cañada,,,﻿El Quemado,﻿Cordova,﻿NM,,34.972731,-105.032363,﻿san.nm.0063,﻿attended from Cañada,,,,,,,,,,,,1868,﻿,﻿,﻿Sante Fé,SantaFe
 ﻿san.nm.0067,﻿chapel,﻿Chapel of N. Senora,English,,,﻿La Cañada,,,﻿Las Truchas,﻿Truchas,﻿NM,,36.044183,-105.812756,﻿san.nm.0063,﻿attended from Cañada,,,,,,,,,,,,1868,﻿,﻿,﻿Sante Fé,SantaFe
-﻿san.nm.0215,﻿church,﻿Parish Church,English,,,,,,﻿Las Cruces,﻿Las Cruces,﻿NM,,36.044183,-105.812756,,,,﻿man_chaves_001,﻿Rev.,﻿Manuel Chaves,,,,,,,,1868,﻿,﻿,﻿Sante Fé,SantaFe
-﻿san.nm.0216,﻿chapel,not recorded,English,,,,,,﻿Donana,﻿Dona Ana,﻿NM,,36.044183,-105.812756,,﻿attended from Las Cruces,,,,,,,,,,,,1868,﻿,﻿,﻿Sante Fé,SantaFe
-﻿san.nm.0226,﻿chapel,not recorded,English,﻿chapel building,,,,,﻿Tularoso,﻿Tularosa,﻿NM,,36.044183,-105.812756,,﻿attended from Las Cruces,,,,,,,,,,,,1868,﻿,﻿,﻿Sante Fé,SantaFe
+﻿san.nm.0215,﻿church,﻿Parish Church,English,,,,,,﻿Las Cruces,﻿Las Cruces,﻿NM,,,,,,,﻿man_chaves_001,﻿Rev.,﻿Manuel Chaves,,,,,,,,1868,﻿,﻿,﻿Sante Fé,SantaFe
+﻿san.nm.0216,﻿chapel,not recorded,English,,,,,,﻿Donana,﻿Dona Ana,﻿NM,,,,,﻿attended from Las Cruces,,,,,,,,,,,,1868,﻿,﻿,﻿Sante Fé,SantaFe
+﻿san.nm.0226,﻿chapel,not recorded,English,﻿chapel building,,,,,﻿Tularoso,﻿Tularosa,﻿NM,,,,,﻿attended from Las Cruces,,,,,,,,,,,,1868,﻿,﻿,﻿Sante Fé,SantaFe
 ﻿san.nm.0068,﻿church,﻿Parish Church of Na. Sen. de los Dolores,English,,,﻿Las Vegas,,,﻿Las Vegas,﻿Las Vegas,﻿NM,,35.594214,-105.222798,,,,﻿jos_m_coudert_001,﻿Rev.,﻿José Maria Coudert,,,,,,,,1868,﻿,﻿,﻿Sante Fé,SantaFe
 ﻿san.nm.0069,﻿chapel,not recorded,English,,,﻿Las Vegas,,,﻿Plasa Ariba,,﻿NM,,34.972731,-105.032363,﻿san.nm.0068,﻿attended from Las Vegas,,,,,,,,,,,,1868,﻿,﻿,﻿Sante Fé,SantaFe
 ﻿san.nm.0070,﻿chapel,﻿Chapel of Na. Sen. del Refugio,English,,,﻿Las Vegas,,,﻿Los Vigiles,﻿Los Vigiles,﻿NM,,35.649487,-105.263621,﻿san.nm.0068,﻿attended from Las Vegas,,,,,,,,,,,,1868,﻿,﻿,﻿Sante Fé,SantaFe
@@ -110,7 +110,7 @@
 ﻿san.nm.0099,﻿chapel,﻿Santa Clara,English,,﻿Indian Pueblo,﻿San Ildefonzo,,,,﻿Santa Clara Pueblo,﻿NM,,35.974546,-106.090472,﻿san.nm.0098,﻿Attended from San Ildefonzo,,,,,,,,,,,,1868,﻿,﻿,﻿Sante Fé,SantaFe
 ﻿san.nm.0100,﻿chapel,﻿Chapel of San José,English,,,﻿San Ildefonzo,,,﻿Chama,﻿Chama,﻿NM,,36.902791,-106.579217,﻿san.nm.0098,﻿Attended from San Ildefonzo,,,,,,,,,,,,1868,﻿,﻿,﻿Sante Fé,SantaFe
 ﻿san.nm.0101,﻿chapel,not recorded,English,,,﻿San Ildefonzo,,,﻿Los Ranchitos,﻿Española,﻿NM,,35.948945,-106.074048,﻿san.nm.0098,﻿Attended from San Ildefonzo,,,,,,,,,,,,1868,﻿,﻿,﻿Sante Fé,SantaFe
-﻿san.nm.0102,﻿chapel,﻿San Antonio,English,,,﻿San Ildefonzo,,,,﻿Hanover,﻿NM,,35.948945,-106.074048,﻿san.nm.0098,﻿Attended from San Ildefonzo,,,,,,,,,,,,1868,﻿,﻿,﻿Sante Fé,SantaFe
+﻿san.nm.0102,﻿chapel,﻿San Antonio,English,,,﻿San Ildefonzo,,,,﻿Hanover,﻿NM,,,,﻿san.nm.0098,﻿Attended from San Ildefonzo,,,,,,,,,,,,1868,﻿,﻿,﻿Sante Fé,SantaFe
 ﻿san.nm.0103,﻿chapel,not recorded,English,,,﻿San Ildefonzo,,,﻿Chupangue,﻿Guachupangue,﻿NM,,35.982801,-106.08419,﻿san.nm.0098,﻿Attended from San Ildefonzo,,,,,,,,,,,,1868,﻿,﻿,﻿Sante Fé,SantaFe
 ﻿san.nm.0104,﻿chapel,not recorded,English,,﻿Indian Pueblo,﻿San Ildefonzo,,,﻿Pohuaque,﻿Pojoaque,﻿NM,,35.892803,-106.023078,﻿san.nm.0098,﻿Attended from San Ildefonzo,,,,,,,,,,,,1868,﻿,﻿,﻿Sante Fé,SantaFe
 ﻿san.nm.0105,﻿church,﻿San Juan de los Cavalleros,English,,﻿Indian Pueblo,﻿San Juan de los Cavalleros,,,,﻿Ohkay Owingeh,﻿NM,,36.052801,-106.070579,,,,﻿pet_lassaigne_001,﻿Rev.,﻿Peter Lassaigne,,,,,,,,1868,﻿,﻿,﻿Sante Fé,SantaFe
@@ -128,17 +128,17 @@
 ﻿san.nm.0117,﻿chapel,not recorded,English,,,﻿San Miguel del Vado,,,﻿La Cuesta,﻿Villanueva,﻿NM,,35.266753,-105.36134,﻿san.nm.0133,﻿Attended from San Miguel,,,,,,,,,,,,1868,﻿,﻿,﻿Sante Fé,SantaFe
 ﻿san.nm.0118,﻿chapel,not recorded,English,,,﻿San Miguel del Vado,,,﻿Bernal,﻿Bernal,﻿NM,,35.392823,-105.317509,﻿san.nm.0133,﻿Attended from San Miguel,,,,,,,,,,,,1868,﻿,﻿,﻿Sante Fé,SantaFe
 ﻿san.nm.0119,﻿chapel,not recorded,English,,,﻿San Miguel del Vado,,,﻿Rio La Vaca,,﻿NM,,34.972731,-105.032363,﻿san.nm.0133,﻿Attended from San Miguel,,,,,,,,,,,,1868,﻿,﻿,﻿Sante Fé,SantaFe
-﻿san.nm.0227,﻿church,not recorded,English,,﻿Indian Pueblo,,,,﻿Santo Domingo,﻿Kewa Pueblo,﻿NM,,34.972731,-105.032363,﻿san.nm.0041,﻿attended from Bernalillo,,,,,,,,,,,,1868,﻿,﻿,﻿Sante Fé,SantaFe
-﻿san.nm.0120,﻿chapel,﻿Na. Sen. de Guadalupe,English,,,﻿Santo Domingo,,,﻿Peña Blanca,﻿Peña Blanca,﻿NM,,34.972731,-105.032363,,﻿attended from S. Domingo,,,,,,,,,,,,1868,﻿,﻿,﻿Sante Fé,SantaFe
-﻿san.nm.0243,﻿church,not recorded,English,﻿new church building,,﻿Santo Domingo,,,﻿Peña Blanca,﻿Peña Blanca,﻿NM,,34.972731,-105.032363,,﻿attended from S. Domingo,,,,,,,,,,,,1868,﻿,﻿,﻿Sante Fé,SantaFe
+﻿san.nm.0227,﻿church,not recorded,English,,﻿Indian Pueblo,,,,﻿Santo Domingo,﻿Kewa Pueblo,﻿NM,,,,﻿san.nm.0041,﻿attended from Bernalillo,,,,,,,,,,,,1868,﻿,﻿,﻿Sante Fé,SantaFe
+﻿san.nm.0120,﻿chapel,﻿Na. Sen. de Guadalupe,English,,,﻿Santo Domingo,,,﻿Peña Blanca,﻿Peña Blanca,﻿NM,,,,,﻿attended from S. Domingo,,,,,,,,,,,,1868,﻿,﻿,﻿Sante Fé,SantaFe
+﻿san.nm.0243,﻿church,not recorded,English,﻿new church building,,﻿Santo Domingo,,,﻿Peña Blanca,﻿Peña Blanca,﻿NM,,,,,﻿attended from S. Domingo,,,,,,,,,,,,1868,﻿,﻿,﻿Sante Fé,SantaFe
 ﻿san.nm.0121,﻿chapel,﻿Santa Rosa,English,,,﻿Santo Domingo,,,﻿Cubero,﻿Cubero,﻿NM,,35.084783,-107.522465,,﻿Attended from San Domingo,,,,,,,,,,,,1868,﻿,﻿,﻿Sante Fé,SantaFe
 ﻿san.nm.0122,﻿chapel,not recorded,English,,﻿Indian Pueblo,﻿Santo Domingo,,,﻿San Felipe,﻿San Felipe Pueblo,﻿NM,,35.402183,-106.443724,,﻿Attended from San Domingo,,,,,,,,,,,,1868,﻿,﻿,﻿Sante Fé,SantaFe
 ﻿san.nm.0123,﻿chapel,﻿Chapel of San Buenaventura,English,,﻿Indian Pueblo,﻿Santo Domingo,,,﻿Cochiti,﻿Cochiti Pueblo,﻿NM,,35.60892,-106.350304,,﻿Attended from San Domingo,,,,,,,,,,,,1868,﻿,﻿,﻿Sante Fé,SantaFe
-﻿san.nm.0219,﻿chapel,﻿Chapel of San Buenaventura,English,,,﻿Santo Domingo,,,﻿Placer de Dolores,,﻿NM,,35.60892,-106.350304,,﻿Attended from San Domingo,,,,,,,,,,,,1868,﻿,﻿,﻿Sante Fé,SantaFe
+﻿san.nm.0219,﻿chapel,﻿Chapel of San Buenaventura,English,,,﻿Santo Domingo,,,﻿Placer de Dolores,,﻿NM,,,,,﻿Attended from San Domingo,,,,,,,,,,,,1868,﻿,﻿,﻿Sante Fé,SantaFe
 ﻿san.nm.0124,﻿chapel,﻿Chapel of San Buenaventura,English,,,﻿Santo Domingo,,,﻿Placer de San Francisco,,﻿NM,,34.972731,-105.032363,,﻿Attended from San Domingo,,,,,,,,,,,,1868,﻿,﻿,﻿Sante Fé,SantaFe
-﻿san.nm.0228,﻿church,﻿Parish Church of San Juan Nepomuceno,English,,,,,,﻿Sabinal,﻿Sabinal,﻿NM,,34.972731,-105.032363,,﻿Attended from Belen,,,,,,,,,,,,1868,﻿,﻿,﻿Sante Fé,SantaFe
-﻿san.nm.0229,﻿chapel,not recorded,English,,,,,,﻿La Jolla,﻿La Joya,﻿NM,,34.972731,-105.032363,,﻿Attended from Belen,,,,,,,,,,,,1868,﻿,﻿,﻿Sante Fé,SantaFe
-﻿san.nm.0230,﻿chapel,not recorded,English,,,,,,﻿La Jollita,,﻿NM,,34.972731,-105.032363,,﻿Attended from Belen,,,,,,,,,,,,1868,﻿,﻿,﻿Sante Fé,SantaFe
+﻿san.nm.0228,﻿church,﻿Parish Church of San Juan Nepomuceno,English,,,,,,﻿Sabinal,﻿Sabinal,﻿NM,,,,,﻿Attended from Belen,,,,,,,,,,,,1868,﻿,﻿,﻿Sante Fé,SantaFe
+﻿san.nm.0229,﻿chapel,not recorded,English,,,,,,﻿La Jolla,﻿La Joya,﻿NM,,,,,﻿Attended from Belen,,,,,,,,,,,,1868,﻿,﻿,﻿Sante Fé,SantaFe
+﻿san.nm.0230,﻿chapel,not recorded,English,,,,,,﻿La Jollita,,﻿NM,,,,,﻿Attended from Belen,,,,,,,,,,,,1868,﻿,﻿,﻿Sante Fé,SantaFe
 ﻿san.nm.0126,﻿church,﻿Parish Church of Na. Sen. de Guadalupe,English,,,﻿Sapello,,,﻿Sapello,﻿Sapello,﻿NM,,35.77282,-105.253344,,,,﻿j_fialon_001,﻿Rev.,﻿J. Fialon,,,,,,,,1868,﻿,﻿,﻿Sante Fé,SantaFe
 ﻿san.nm.0127,﻿chapel,not recorded,English,,,﻿Sapello,,,﻿Monton de Alamos,﻿Sapello,﻿NM,,35.730842,-105.151253,﻿san.nm.0126,﻿Attended from Sapello,,,,,,,,,,,,1868,﻿,﻿,﻿Sante Fé,SantaFe
 ﻿san.nm.0128,﻿chapel,not recorded,English,﻿two chapels,,﻿Sapello,,,﻿Las Manuelitas,﻿Sapello,﻿NM,,35.819563,-105.297311,﻿san.nm.0126,﻿Attended from Sapello,,,,,,,,,,,,1868,﻿,﻿,﻿Sante Fé,SantaFe
@@ -155,8 +155,8 @@
 ﻿san.nm.0138,﻿chapel,not recorded,English,,,﻿Socorro,,,﻿La Parida,,﻿NM,,34.117818,-106.883616,﻿san.nm.0133,﻿Attended from Socorro,,,,,,,,,,,,1868,﻿,﻿,﻿Sante Fé,SantaFe
 ﻿san.nm.0139,﻿chapel,not recorded,English,,,﻿Socorro,,,﻿El Tajo,,﻿NM,,34.082141,-106.864151,﻿san.nm.0133,﻿Attended from Socorro,,,,,,,,,,,,1868,﻿,﻿,﻿Sante Fé,SantaFe
 ﻿san.nm.0140,﻿chapel,not recorded,English,,,﻿Socorro,,,﻿San Antonio,﻿San Antonio,﻿NM,,33.915384,-106.867586,﻿san.nm.0133,﻿Attended from Socorro,,,,,,,,,,,,1868,﻿,﻿,﻿Sante Fé,SantaFe
-﻿san.nm.0220,﻿chapel,not recorded,English,,,﻿Socorro,,,﻿El Paraje,﻿Paraje,﻿NM,,33.915384,-106.867586,﻿san.nm.0133,﻿Attended from Socorro,,﻿j_valesy_001,,,,,,,,,,1868,﻿,﻿,﻿Sante Fé,SantaFe
-﻿san.nm.0221,﻿chapel,not recorded,English,,,﻿Socorro,,,﻿Cañada Alamosa,﻿Cañada Alamosa,﻿NM,,33.915384,-106.867586,﻿san.nm.0133,﻿Attended from Socorro,,,,,,,,,,,,1868,﻿,﻿,﻿Sante Fé,SantaFe
+﻿san.nm.0220,﻿chapel,not recorded,English,,,﻿Socorro,,,﻿El Paraje,﻿Paraje,﻿NM,,,,﻿san.nm.0133,﻿Attended from Socorro,,﻿j_valesy_001,,,,,,,,,,1868,﻿,﻿,﻿Sante Fé,SantaFe
+﻿san.nm.0221,﻿chapel,not recorded,English,,,﻿Socorro,,,﻿Cañada Alamosa,﻿Cañada Alamosa,﻿NM,,,,﻿san.nm.0133,﻿Attended from Socorro,,,,,,,,,,,,1868,﻿,﻿,﻿Sante Fé,SantaFe
 ﻿san.nm.0141,﻿church,﻿Parish Church of Na. Sen. de Guadalupe,English,,,﻿Taos,,,﻿Taos,﻿Taos,﻿NM,,36.407213,-105.573379,,,,﻿gab_ussel_001,﻿Rev.,﻿Gabriel Ussel,﻿Pastor,,,,,,,1868,﻿,﻿,﻿Sante Fé,SantaFe
 ﻿san.nm.0141,﻿church,﻿Parish Church of Na. Sen. de Guadalupe,English,,,﻿Taos,,,﻿Taos,﻿Taos,﻿NM,,36.407213,-105.573379,,,,﻿mr_valezy_001,﻿Rev.,﻿Mr. Valezy,﻿Assistant,,,,,,,1868,﻿,﻿,﻿Sante Fé,SantaFe
 ﻿san.nm.0142,﻿chapel,﻿St. Joseph's Chapel,English,,,﻿Taos,,,,,﻿NM,,34.972731,-105.032363,﻿san.nm.0141,﻿Attended by the same clergy,,,,,,,,,,,,1868,﻿,﻿,﻿Sante Fé,SantaFe
@@ -177,29 +177,29 @@
 ﻿san.nm.0157,﻿chapel,not recorded,English,,,﻿Tome,,,﻿La Ladera,﻿Chimayo,﻿NM,,35.991999,-105.937086,﻿san.nm.0155,﻿Attended from Tome,,,,,,,,,,,,1868,﻿,﻿,﻿Sante Fé,SantaFe
 ﻿san.nm.0158,﻿chapel,not recorded,English,,,﻿Tome,,,﻿Casa Colorada,﻿Casa Colorada,﻿NM,,34.57395,-105.937086,﻿san.nm.0155,﻿Attended from Tome,,,,,,,,,,,,1868,﻿,﻿,﻿Sante Fé,SantaFe
 ﻿den.co.0001,﻿church,﻿Parish Church of the Immaculate Conception,English,,,,﻿Arapahoe County,﻿City and County of Denver,﻿Denver City,﻿Denver,﻿CO,﻿CO,39.739236,-104.990251,,,,﻿jp_macheboeuf_002,﻿Very Rev.,﻿J.P. Macheboeuf,﻿V.G.,﻿Pastor,,,,,,1868,﻿,﻿,﻿Sante Fé,SantaFe
-﻿san.nm.0166,﻿church,not recorded,English,,,,,,﻿Doil's Ranch,﻿Doyle Settlement,﻿CO,﻿CO,39.739236,-104.990251,﻿den.co.0001,﻿attended from Denver,,,,,,,,,,,,1868,﻿,﻿,﻿Sante Fé,SantaFe
-﻿den.co.0041,﻿chapel,not recorded,English,,,,,,﻿El Badito,﻿Badito,﻿CO,﻿CO,39.739236,-104.990251,﻿den.co.0001,﻿attended from Denver,,,,,,,,,,,,1868,﻿,﻿,﻿Sante Fé,SantaFe
+﻿san.nm.0166,﻿church,not recorded,English,,,,,,﻿Doil's Ranch,﻿Doyle Settlement,﻿CO,﻿CO,,,﻿den.co.0001,﻿attended from Denver,,,,,,,,,,,,1868,﻿,﻿,﻿Sante Fé,SantaFe
+﻿den.co.0041,﻿chapel,not recorded,English,,,,,,﻿El Badito,﻿Badito,﻿CO,﻿CO,,,﻿den.co.0001,﻿attended from Denver,,,,,,,,,,,,1868,﻿,﻿,﻿Sante Fé,SantaFe
 ﻿den.co.0016,﻿church,﻿St. Patrick's,English,,,,﻿Gilpin County,﻿Gilpin County,﻿Central City,﻿Central City,﻿CO,﻿CO,39.8019,-105.5142,,,,﻿jb_raverdy_002,﻿Rev.,﻿J.B. Raverdy,,,,,,,,1868,﻿,﻿,﻿Sante Fé,SantaFe
-﻿den.co.0041,﻿chapel,not recorded,English,﻿Mexican Population. New chapel building.,,,﻿Huerfano County,﻿Huerfano County,﻿El Badito,﻿Badito,﻿CO,﻿CO,39.8019,-105.5142,﻿den.co.0037,﻿attended from Trinidad City,,,,,,,,,,,,1868,﻿,﻿,﻿Sante Fé,SantaFe
+﻿den.co.0041,﻿chapel,not recorded,English,﻿Mexican Population. New chapel building.,,,﻿Huerfano County,﻿Huerfano County,﻿El Badito,﻿Badito,﻿CO,﻿CO,,,﻿den.co.0037,﻿attended from Trinidad City,,,,,,,,,,,,1868,﻿,﻿,﻿Sante Fé,SantaFe
 ﻿den.co.0012,﻿chapel,﻿Chapel of St. Joseph,English,,,,﻿Jefferson County,﻿Jefferson County,﻿Golden City,﻿Golden,﻿CO,﻿CO,39.731705,-105.196073,﻿den.co.0001,﻿Attended from Denver,,,,,,,,,,,,1868,﻿,﻿,﻿Sante Fé,SantaFe
 ﻿den.co.0037,﻿church,not recorded,English,﻿new parish church building,,,﻿Animas County,﻿Las Animas County,﻿Trinidad City,﻿Trinidad,﻿CO,﻿CO,37.176802,-104.52102,,,,﻿a_verinare_001,﻿Rev.,﻿A. Verinare,,,,,,,,1868,﻿,﻿,﻿Sante Fé,SantaFe
 ﻿den.co.0024,﻿church,not recorded,English,﻿new parish church,,,﻿Costilla County,﻿Costilla County,﻿La Costilla,,﻿CO,﻿CO,37.182517,-105.236122,,,,﻿lou_merle_001,﻿Rev.,﻿Louis Merle,,,,,,,,1868,﻿,﻿,﻿Sante Fé,SantaFe
 ﻿den.co.0029,﻿church,not recorded,English,﻿new church,,,﻿Costilla County,﻿Costilla County,﻿La Culebra,﻿San Acasio,﻿CO,﻿CO,37.209662,-105.566525,﻿den.co.0024,﻿Attended from La Costilla,,,,,,,,,,,,1868,﻿,﻿,﻿Sante Fé,SantaFe
-﻿den.co.0059,﻿chapel,﻿chapel building of San Nicasio,English,,,,﻿Costilla County,﻿Costilla County,﻿Plasa Abajo,﻿La Plaza Abajo,﻿CO,﻿CO,37.209662,-105.566525,﻿den.co.0024,﻿Attended from La Costilla,,,,,,,,,,,,1868,﻿,﻿,﻿Sante Fé,SantaFe
-﻿den.co.0060,﻿chapel,﻿Chapel of San Luis,English,,,,﻿Costilla County,﻿Costilla County,﻿Plasa Isl Medio,﻿La Plaza Medio,﻿CO,﻿CO,37.209662,-105.566525,﻿den.co.0024,﻿Attended from La Costilla,,,,,,,,,,,,1868,﻿,﻿,﻿Sante Fé,SantaFe
-﻿den.co.0061,﻿chapel,not recorded,English,,,,﻿Costilla County,﻿Costilla County,﻿Plasa Ariba,﻿Plaza Ariba,﻿CO,﻿CO,37.209662,-105.566525,﻿den.co.0024,﻿Attended from La Costilla,,,,,,,,,,,,1868,﻿,﻿,﻿Sante Fé,SantaFe
-﻿den.co.0042,﻿chapel,not recorded,English,,,,﻿Costilla County,﻿Costilla County,﻿Vallecito,﻿Vallecito,﻿CO,﻿CO,37.209662,-105.566525,﻿den.co.0024,﻿Attended from La Costilla,,,,,,,,,,,,1868,﻿,﻿,﻿Sante Fé,SantaFe
-﻿den.co.0062,﻿chapel,not recorded,English,﻿two chapels,,,﻿Costilla County,﻿Costilla County,﻿Rio Colorado,,﻿CO,﻿CO,37.209662,-105.566525,﻿den.co.0024,﻿Attended from La Costilla,,,,,,,,,,,,1868,﻿,﻿,﻿Sante Fé,SantaFe
+﻿den.co.0059,﻿chapel,﻿chapel building of San Nicasio,English,,,,﻿Costilla County,﻿Costilla County,﻿Plasa Abajo,﻿La Plaza Abajo,﻿CO,﻿CO,,,﻿den.co.0024,﻿Attended from La Costilla,,,,,,,,,,,,1868,﻿,﻿,﻿Sante Fé,SantaFe
+﻿den.co.0060,﻿chapel,﻿Chapel of San Luis,English,,,,﻿Costilla County,﻿Costilla County,﻿Plasa Isl Medio,﻿La Plaza Medio,﻿CO,﻿CO,,,﻿den.co.0024,﻿Attended from La Costilla,,,,,,,,,,,,1868,﻿,﻿,﻿Sante Fé,SantaFe
+﻿den.co.0061,﻿chapel,not recorded,English,,,,﻿Costilla County,﻿Costilla County,﻿Plasa Ariba,﻿Plaza Ariba,﻿CO,﻿CO,,,﻿den.co.0024,﻿Attended from La Costilla,,,,,,,,,,,,1868,﻿,﻿,﻿Sante Fé,SantaFe
+﻿den.co.0042,﻿chapel,not recorded,English,,,,﻿Costilla County,﻿Costilla County,﻿Vallecito,﻿Vallecito,﻿CO,﻿CO,,,﻿den.co.0024,﻿Attended from La Costilla,,,,,,,,,,,,1868,﻿,﻿,﻿Sante Fé,SantaFe
+﻿den.co.0062,﻿chapel,not recorded,English,﻿two chapels,,,﻿Costilla County,﻿Costilla County,﻿Rio Colorado,,﻿CO,﻿CO,,,﻿den.co.0024,﻿Attended from La Costilla,,,,,,,,,,,,1868,﻿,﻿,﻿Sante Fé,SantaFe
 ﻿den.co.0031,﻿church,﻿Parish Church of Na. Sen. de Guadalupe,English,,,,﻿Conejos County,﻿Conejos County,﻿Los Conejos,﻿Antonito,﻿CO,﻿CO,37.088186,-106.020078,,,,﻿m_rolly_002,﻿Rev.,﻿M. Rolly,,,,,,,,1868,﻿,﻿,﻿Sante Fé,SantaFe
-﻿den.co.0032,﻿chapel,not recorded,English,,,,﻿Conejos County,﻿Conejos County,﻿El Cerito,﻿Los Cerritos,﻿CO,﻿CO,37.088186,-106.020078,﻿den.co.0031,﻿Attended from Los Conejos,,,,,,,,,,,,1868,﻿,﻿,﻿Sante Fé,SantaFe
+﻿den.co.0032,﻿chapel,not recorded,English,,,,﻿Conejos County,﻿Conejos County,﻿El Cerito,﻿Los Cerritos,﻿CO,﻿CO,,,﻿den.co.0031,﻿Attended from Los Conejos,,,,,,,,,,,,1868,﻿,﻿,﻿Sante Fé,SantaFe
 ﻿den.co.0034,﻿chapel,not recorded,English,,,,﻿Conejos County,﻿Conejos County,﻿Los Pinos,﻿Ortiz,﻿CO,﻿CO,37.301718,-107.606332,﻿den.co.0031,﻿Attended from Los Conejos,,,,,,,,,,,,1868,﻿,﻿,﻿Sante Fé,SantaFe
-﻿san.nm.0222,﻿church,﻿San Xavier del Bac,English,﻿fine old brick church,,,,,,,﻿AZ,,37.301718,-107.606332,,,,﻿j_salpointe_001,﻿Very Rev.,﻿J. Salpointe,,,,,,,,1868,﻿,﻿,﻿Sante Fé,SantaFe
-﻿san.nm.0223,﻿church,﻿Tuscon Parish Church,English,,,,,,,,﻿AZ,,37.301718,-107.606332,,,,﻿f_boucard_001,﻿Rev.,﻿F. Boucard,,﻿Pastor,,,,,,1868,﻿,﻿,﻿Sante Fé,SantaFe
-﻿san.nm.0224,﻿chapel,﻿Chapel of San Augustin,English,,,,,,,,﻿AZ,,37.301718,-107.606332,,﻿Attended by the same,,,,,,,,,,,,1868,﻿,﻿,﻿Sante Fé,SantaFe
-﻿san.nm.0225,﻿church,not recorded,English,,,,,,﻿Prescott City,﻿Prescott City,﻿AZ,,37.301718,-107.606332,,,,﻿p_bernal_001,﻿Rev.,﻿P. Bernal,,﻿Pastor,,,,,,1868,﻿,﻿,﻿Sante Fé,SantaFe
-﻿tuc.az.0001,﻿church,not recorded,English,,,,,,﻿La Paz,﻿La Paz,﻿AZ,,37.301718,-107.606332,,﻿Attended from Prescott,,,,,,,,,,,,1868,﻿,﻿,﻿Sante Fé,SantaFe
-﻿tuc.az.0002,﻿church,not recorded,English,,,,,,﻿Weaver,﻿Weaver,﻿AZ,,37.301718,-107.606332,,﻿Attended from Prescott,,,,,,,,,,,,1868,﻿,﻿,﻿Sante Fé,SantaFe
-﻿san.nm.0231,﻿seminary,﻿Preparatory Seminary of San Francisco,English,,,,,,,,,,37.301718,-107.606332,,,,,,,,,,﻿seminarian,﻿a few seminarians,,,1868,﻿,﻿,﻿Sante Fé,SantaFe
+﻿san.nm.0222,﻿church,﻿San Xavier del Bac,English,﻿fine old brick church,,,,,,,﻿AZ,,,,,,,﻿j_salpointe_001,﻿Very Rev.,﻿J. Salpointe,,,,,,,,1868,﻿,﻿,﻿Sante Fé,SantaFe
+﻿san.nm.0223,﻿church,﻿Tuscon Parish Church,English,,,,,,,,﻿AZ,,,,,,,﻿f_boucard_001,﻿Rev.,﻿F. Boucard,,﻿Pastor,,,,,,1868,﻿,﻿,﻿Sante Fé,SantaFe
+﻿san.nm.0224,﻿chapel,﻿Chapel of San Augustin,English,,,,,,,,﻿AZ,,,,,﻿Attended by the same,,,,,,,,,,,,1868,﻿,﻿,﻿Sante Fé,SantaFe
+﻿san.nm.0225,﻿church,not recorded,English,,,,,,﻿Prescott City,﻿Prescott City,﻿AZ,,,,,,,﻿p_bernal_001,﻿Rev.,﻿P. Bernal,,﻿Pastor,,,,,,1868,﻿,﻿,﻿Sante Fé,SantaFe
+﻿tuc.az.0001,﻿church,not recorded,English,,,,,,﻿La Paz,﻿La Paz,﻿AZ,,,,,﻿Attended from Prescott,,,,,,,,,,,,1868,﻿,﻿,﻿Sante Fé,SantaFe
+﻿tuc.az.0002,﻿church,not recorded,English,,,,,,﻿Weaver,﻿Weaver,﻿AZ,,,,,﻿Attended from Prescott,,,,,,,,,,,,1868,﻿,﻿,﻿Sante Fé,SantaFe
+﻿san.nm.0231,﻿seminary,﻿Preparatory Seminary of San Francisco,English,,,,,,,,,,,,,,,,,,,,,﻿seminarian,﻿a few seminarians,,,1868,﻿,﻿,﻿Sante Fé,SantaFe
 ﻿san.nm.0159,﻿college,﻿San Miguel College,English,,,,,,,,﻿NM,,35.683659,-105.937666,,,,,﻿Brother,﻿Gondulfe,﻿Director,,,,,,,1868,﻿,﻿,﻿Sante Fé,SantaFe
 ﻿san.nm.0159,﻿college,﻿San Miguel College,English,,,,,,,,﻿NM,,35.683659,-105.937666,,,,,,,,,,,,﻿Under the direction of the Christian Brothers,,1868,﻿,﻿,﻿Sante Fé,SantaFe
 ﻿san.nm.0159,﻿college,﻿San Miguel College,English,,,,,,,,﻿NM,,35.683659,-105.937666,,,,,,,,,,﻿pupil,﻿about 300 pupils,﻿Under the direction of the Christian Brothers,,1868,﻿,﻿,﻿Sante Fé,SantaFe
@@ -210,7 +210,7 @@
 ﻿san.nm.0162,﻿school,﻿Schools of the Sisters of Loretto,English,,,,,,﻿Taos,﻿Taos,﻿NM,,36.408234,-105.576055,,,,,,,,,,,,,,1868,﻿,﻿,﻿Sante Fé,SantaFe
 ﻿san.nm.0163,﻿school,﻿Schools of the Sisters of Loretto,English,,,,,,﻿Mora,﻿Mora,﻿NM,,35.974223,-105.330006,,,,,,,,,,,,,,1868,﻿,﻿,﻿Sante Fé,SantaFe
 ﻿san.nm.0164,﻿school,﻿Schools of the Sisters of Loretto,English,,,,,,﻿Albuquerque,﻿Albuquerque,﻿NM,,35.096926,-106.669938,,,,,,,,,,,,,,1868,﻿,﻿,﻿Sante Fé,SantaFe
-﻿san.nm.0232,﻿school,﻿School of the Chrisitan Brothers,English,,,,,,﻿Taos,﻿Taos,﻿NM,,35.096926,-106.669938,,,,,,,,,,,,,,1868,﻿,﻿,﻿Sante Fé,SantaFe
+﻿san.nm.0232,﻿school,﻿School of the Chrisitan Brothers,English,,,,,,﻿Taos,﻿Taos,﻿NM,,,,,,,,,,,,,,,,,1868,﻿,﻿,﻿Sante Fé,SantaFe
 ﻿san.nm.0165,﻿school,﻿School of the Chrisitan Brothers,English,,,,,,﻿Mora,﻿Mora,﻿NM,,35.541607,-105.584027,,,,,,,,,,,,,,1868,﻿,﻿,﻿Sante Fé,SantaFe
 ﻿den.co.0054,"﻿convent, academy",﻿St. Mary's Convent and Academy of the Sisters of Loretto,English,,,,,,﻿Denver,﻿Denver,﻿CO,﻿CO,39.63391,-104.96097,,,,,,,,,,,,﻿Sisters of Loretto,,1868,﻿,﻿,﻿Sante Fé,SantaFe
 ﻿den.co.0063,﻿school,﻿Boy's School,English,,,,,,﻿Denver,﻿Denver,﻿CO,﻿CO,35.686616,-105.936468,,,,,,,,,,,,,,1868,﻿,﻿,﻿Sante Fé,SantaFe
