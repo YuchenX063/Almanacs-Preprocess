@@ -239,7 +239,7 @@
 ﻿stp.mn.0227_04,﻿academy,﻿St. Gertrude's Academy,English,﻿under charge of Nuns of St. Benedict,,,,,﻿Shakopee,,,,,,,,,,﻿Sister,﻿Clara,,﻿Prioress,,﻿nun,﻿Six nuns,,,1869,231.0,﻿,﻿,﻿St. Paul,StPaul
 ﻿stp.mn.0230_02,﻿academy,﻿Bethlehem Academy,English,,,,﻿Faribault County,,,,﻿MN,,,,,,,,﻿Sister,﻿Gertrude,,﻿Superior,,,﻿5 sisters,﻿under charge of Sisters of the Third Order of St. Dominic,,1869,232.0,﻿,﻿,﻿St. Paul,StPaul
 ﻿stp.mn.0230_02,﻿academy,﻿Bethlehem Academy,English,,,,﻿Faribault County,,,,﻿MN,,,,,,,,,,,,,,﻿30 boarders and day-scholars,﻿under charge of Sisters of the Third Order of St. Dominic,,1869,237.0,﻿,﻿,﻿St. Paul,StPaul
-﻿stp.mn.0240,﻿school,not recorded,English,,,,,,﻿Mankato,,,,44.165224,-93.996714,,,,,﻿Sister,﻿Ambrosia,,﻿Superior,,﻿sister,﻿Five sisters,﻿under charge of Sisters of Notre Dame,,1869,233.0,﻿,﻿,﻿St. Paul,StPaul
+﻿stp.mn.0240,﻿school,not recorded,English,,,,,,﻿Mankato,,,,44.165224,-93.996714,,,,,﻿Sister,﻿Ambrosia,,﻿Superior,,﻿religious,﻿Five sisters,﻿under charge of Sisters of Notre Dame,,1869,233.0,﻿,﻿,﻿St. Paul,StPaul
 ﻿stp.mn.0228_02,﻿college,﻿St. John's College,English,﻿under the direction of the Benedictine Fathers,"﻿in connection with the Abbey of St. Louis on the Lake, Clinton P.O.",,﻿Stearns County,,,,﻿MN,,45.579768,-94.393892,,,,﻿r_seidenbusch_001,﻿Rt. Rev.,﻿R. Seidenbusch,,﻿Superior,,,,,,1869,235.0,﻿,﻿,﻿St. Paul,StPaul
 ﻿stp.mn.0229,﻿academy,﻿St. Joseph's Academy,English,,,,,,﻿St. Paul,,﻿MN,,,,,,,,,,,,,,﻿80 boarders and day-scholars,﻿Sisters of St. Joseph,,1869,236.0,﻿,﻿,﻿St. Paul,StPaul
 ﻿stp.mn.0231,﻿academy,﻿St. Benedict's Academy,English,,,,﻿Stearns County,,﻿St. Joseph,,﻿MN,,,,,,,,,,,,,,,﻿Sisters of St. Benedict,,1869,238.0,﻿,﻿,﻿St. Paul,StPaul
@@ -250,14 +250,14 @@
 ﻿stp.mn.0238,﻿school,not recorded,English,,,,,,﻿St. Anthony,,﻿MN,,44.996278,-93.263946,,,,,,,,,,,﻿140 scholars,﻿School under direction of the Sisters of St. Joseph,,1869,243.0,﻿,﻿,﻿St. Paul,StPaul
 ﻿stp.mn.0258,﻿school,not recorded,English,﻿German Catholic School,,,,,﻿St. Anthony,,,,,,,,,,,,,,,,﻿60 scholars,,,1869,244.0,﻿,﻿,﻿St. Paul,StPaul
 ﻿stp.mn.0227_02,﻿school,not recorded,English,,,,,,﻿Shakopee,﻿Shakopee,﻿MN,﻿MN,44.77175,-93.501973,,,,,,,,,,,,﻿School under direction of the Sisters of St. Benedict,,1869,245.0,﻿,﻿,﻿St. Paul,StPaul
-﻿stp.mn.0240,﻿school,not recorded,English,,,,,,﻿Mankato,,,,44.165224,-93.996714,,,,,,,,,,﻿sister,﻿250 scholars,﻿School under direction of the Sisters of Notre Dame,,1869,246.0,﻿,﻿,﻿St. Paul,StPaul
+﻿stp.mn.0240,﻿school,not recorded,English,,,,,,﻿Mankato,,,,44.165224,-93.996714,,,,,,,,,,﻿religious,﻿250 scholars,﻿School under direction of the Sisters of Notre Dame,,1869,246.0,﻿,﻿,﻿St. Paul,StPaul
 ﻿stp.mn.0230_03,﻿school,not recorded,English,"﻿Parochial Schools, under direction of the Sisters of St. Dominic",,,﻿Faribault County,,,﻿Faribault,﻿MN,,44.977753,-93.265011,,,,,,,,,,,﻿225 scholars,﻿under direction of the Sisters of St. Dominic,,1869,247.0,﻿,﻿,﻿St. Paul,StPaul
 ﻿stp.mn.0242,﻿school,not recorded,English,﻿Catholic Schools,,,,,﻿St. Cloud,,,,,,,,,,,,,,,,﻿200 scholars,,,1869,248.0,﻿,﻿,﻿St. Paul,StPaul
 ﻿stp.mn.0259,﻿school,not recorded,English,﻿School under charge of secular teachers,,,,,﻿Carver,,,,,,,,,,,,,,,,,,,1869,249.0,﻿,﻿,﻿St. Paul,StPaul
 ﻿stp.mn.0225_05,﻿hospital,﻿St. Joseph's Hospital,English,﻿under charge of the Sisters of St. Joseph,,,,,﻿St. Paul,,﻿MN,,,,,,,,﻿Sister,﻿Alphonsus,,﻿Superior,,,,,,1869,251.0,﻿,﻿,﻿St. Paul,StPaul
 ﻿stp.mn.0225_05,﻿hospital,﻿St. Joseph's Hospital,English,﻿under charge of the Sisters of St. Joseph,,,,,﻿St. Paul,,﻿MN,,,,,,,,﻿Sister,﻿Mary Antoinette,,﻿Superior,﻿listed with the Order,,,,,1869,252.0,﻿,﻿,﻿St. Paul,StPaul
 ﻿stp.mn.0225_03,﻿asylum,﻿St. Joseph's Orphan Asylum,English,,,,,,﻿St. Paul,,﻿MN,,44.947505,-93.101232,,,,,﻿Sister,﻿Mary Antoinette,,﻿Superior,﻿listed with the Order,,﻿72 orphans,﻿under charge of the Sisters of St. Joseph,,1869,253.0,﻿,﻿,﻿St. Paul,StPaul
-﻿stp.mn.0236_02,﻿house,﻿House of the Good Shepherd,English,,,,,,﻿St. Paul,﻿St. Paul,,,,,,,,,,,,,,﻿sister,﻿Five sisters,﻿Sisters of the Good Shepard,,1869,254.0,﻿,﻿,﻿St. Paul,StPaul
+﻿stp.mn.0236_02,﻿house,﻿House of the Good Shepherd,English,,,,,,﻿St. Paul,﻿St. Paul,,,,,,,,,,,,,,﻿religious,﻿Five sisters,﻿Sisters of the Good Shepard,,1869,254.0,﻿,﻿,﻿St. Paul,StPaul
 ﻿stp.mn.0227_03,﻿asylum,﻿Orphan Asylum,English,,,,,,﻿Shakopee,,﻿MN,,44.77175,-93.501973,,,,,,,,,,,,﻿under charge of Sisters of St. Benedict,,1869,255.0,﻿,﻿,﻿St. Paul,StPaul
 ﻿stp.mn.0262,﻿asylum,﻿Orphan Asylum,English,,,,﻿Faribault County,,,,,,,,,,,﻿geo_keller_001,﻿Rev.,﻿Geo. Keller,,,,,,,,1869,256.0,﻿,﻿,﻿St. Paul,StPaul
 ﻿stp.mn.0262,﻿asylum,﻿Orphan Asylum,English,,,,﻿Faribault County,,,,,,,,,,,,,,,,,,,,,1869,261.0,﻿,﻿,﻿St. Paul,StPaul

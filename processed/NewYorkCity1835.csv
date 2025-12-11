@@ -55,13 +55,13 @@
 ﻿new.nj.0067,﻿church,not recorded,English,,,,,,﻿New-Brunswick,,﻿NJ,,40.4862157,-74.4518188,,,,,,,,,,,,,,1835,,﻿,﻿,﻿New York,NewYorkCity
 ﻿new.nj.0048,﻿church,not recorded,English,,,,,,﻿Jersey City,,﻿NJ,,40.72270527,-74.04379159,,,,﻿wm_byrnes_901,﻿Rev.,﻿Wm. Burns,,,,,,,,1835,"﻿https://www.nj.com/hudson/2014/12/st_marys_church_in_jersey_city_marks_its_160th_anniversary.html ; probably the precursor for this church, second oldest in the city after st josephs. which is not mentioned",﻿,﻿,﻿New York,NewYorkCity
 ﻿new.nj.9002,﻿church,not recorded,English,,,,,,﻿Patterson,,﻿NJ,,40.91272494,-74.17248052,,,,﻿pat_duffy_901,﻿Rev.,﻿P. Duffy,,,,,,,,1835,,﻿,﻿,﻿New York,NewYorkCity
-﻿nyc.ny.9007,﻿academy,﻿St. Joseph's Academy,English,,,,,,,,﻿NY,,,,,,,,,,,,,﻿sister,﻿4 sisters,﻿Sisters of Charity,,1835,,﻿,﻿,﻿New York,NewYorkCity
-﻿nyc.ny.0042_92,﻿school,﻿St. Peter's Free School,English,,,,,,,,﻿NY,,40.712432,-74.009544,,,,,,,,,,﻿sister,﻿3 sisters,﻿Sisters of Charity,,1835,,﻿,﻿,﻿New York,NewYorkCity
-﻿nyc.ny.9008,﻿asylum,﻿Roman Catholic Asylum,English,,,,,,,,﻿NY,,,,,,,,,,,,,﻿sister,﻿10 sisters,﻿Sisters of Charity,,1835,,﻿,﻿,﻿New York,NewYorkCity
-﻿nyc.ny.9009,﻿free school,﻿Roman Catholic Free School,English,,,,,,,,﻿NY,,,,,,,,,,,,,﻿sister,﻿10 sisters,﻿Sisters of Charity,,1835,,﻿,﻿,﻿New York,NewYorkCity
-﻿nyc.ny.9010,﻿school,﻿St. Mary's School,English,,,,,,,,﻿NY,,,,,,,,,,,,,﻿sister,﻿4 sisters,﻿Sisters of Charity,,1835,,﻿,﻿,﻿New York,NewYorkCity
-﻿nyc.ny.9011,﻿asylum,﻿Roman Catholic Half-Orphan Asylum,English,,,,,,,,﻿NY,,,,,,,,,,,,,﻿sister,﻿5 sisters,﻿Sisters of Charity,,1835,,﻿,﻿,﻿New York,NewYorkCity
-﻿bro.ny.9000,﻿asylum,﻿St. Mary's Asylum,English,,﻿Long Island,,,﻿Kings County,﻿Brooklyn,,﻿NY,,,,,,,,,,,,,﻿sister,﻿3 sisters,﻿Sisters of Charity,,1835,,﻿,﻿,﻿New York,NewYorkCity
-﻿alb.ny.9012_91,﻿asylum,﻿St. Joseph's Asylum,English,,,,,﻿Albany County,﻿Albany,,﻿NY,,,,,,,,,,,,,﻿sister,﻿5 sisters,﻿Sisters of Charity,,1835,,﻿,﻿,﻿New York,NewYorkCity
-﻿alb.ny.9012_92,﻿day school,﻿St. Joseph's Day School,English,,,,,﻿Albany County,﻿Albany,,﻿NY,,,,,,,,,,,,,﻿sister,﻿5 sisters,﻿Sisters of Charity,,1835,,﻿,﻿,﻿New York,NewYorkCity
-﻿alb.ny.9013,﻿asylum,not recorded,English,,,,,,﻿Utica,,﻿NY,,,,,,,,,,,,,﻿sister,﻿3 sisters,﻿Sisters of Charity,,1835,,﻿,﻿,﻿New York,NewYorkCity
+﻿nyc.ny.9007,﻿academy,﻿St. Joseph's Academy,English,,,,,,,,﻿NY,,,,,,,,,,,,,﻿religious,﻿4 sisters,﻿Sisters of Charity,,1835,,﻿,﻿,﻿New York,NewYorkCity
+﻿nyc.ny.0042_92,﻿school,﻿St. Peter's Free School,English,,,,,,,,﻿NY,,40.712432,-74.009544,,,,,,,,,,﻿religious,﻿3 sisters,﻿Sisters of Charity,,1835,,﻿,﻿,﻿New York,NewYorkCity
+﻿nyc.ny.9008,﻿asylum,﻿Roman Catholic Asylum,English,,,,,,,,﻿NY,,,,,,,,,,,,,﻿religious,﻿10 sisters,﻿Sisters of Charity,,1835,,﻿,﻿,﻿New York,NewYorkCity
+﻿nyc.ny.9009,﻿free school,﻿Roman Catholic Free School,English,,,,,,,,﻿NY,,,,,,,,,,,,,﻿religious,﻿10 sisters,﻿Sisters of Charity,,1835,,﻿,﻿,﻿New York,NewYorkCity
+﻿nyc.ny.9010,﻿school,﻿St. Mary's School,English,,,,,,,,﻿NY,,,,,,,,,,,,,﻿religious,﻿4 sisters,﻿Sisters of Charity,,1835,,﻿,﻿,﻿New York,NewYorkCity
+﻿nyc.ny.9011,﻿asylum,﻿Roman Catholic Half-Orphan Asylum,English,,,,,,,,﻿NY,,,,,,,,,,,,,﻿religious,﻿5 sisters,﻿Sisters of Charity,,1835,,﻿,﻿,﻿New York,NewYorkCity
+﻿bro.ny.9000,﻿asylum,﻿St. Mary's Asylum,English,,﻿Long Island,,,﻿Kings County,﻿Brooklyn,,﻿NY,,,,,,,,,,,,,﻿religious,﻿3 sisters,﻿Sisters of Charity,,1835,,﻿,﻿,﻿New York,NewYorkCity
+﻿alb.ny.9012_91,﻿asylum,﻿St. Joseph's Asylum,English,,,,,﻿Albany County,﻿Albany,,﻿NY,,,,,,,,,,,,,﻿religious,﻿5 sisters,﻿Sisters of Charity,,1835,,﻿,﻿,﻿New York,NewYorkCity
+﻿alb.ny.9012_92,﻿day school,﻿St. Joseph's Day School,English,,,,,﻿Albany County,﻿Albany,,﻿NY,,,,,,,,,,,,,﻿religious,﻿5 sisters,﻿Sisters of Charity,,1835,,﻿,﻿,﻿New York,NewYorkCity
+﻿alb.ny.9013,﻿asylum,not recorded,English,,,,,,﻿Utica,,﻿NY,,,,,,,,,,,,,﻿religious,﻿3 sisters,﻿Sisters of Charity,,1835,,﻿,﻿,﻿New York,NewYorkCity

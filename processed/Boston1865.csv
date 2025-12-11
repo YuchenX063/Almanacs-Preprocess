@@ -167,42 +167,42 @@
 ﻿bos.ma.0198,﻿college,﻿Boston College,English,﻿opened,,,,,﻿Boston,﻿Boston,﻿MA,,,,,,,﻿p_p_fitzpatrick_001,﻿Mr.,﻿Peter P. Fitzpatrick,﻿S.J.,,,﻿student,﻿40 students,,,1865,,,,,,,,,,,﻿,﻿,﻿Boston,Boston
 ﻿bos.ma.0198,﻿college,﻿Boston College,English,﻿opened,,,,,﻿Boston,﻿Boston,﻿MA,,,,,,,﻿jam_doonan_001,﻿Mr.,﻿James Doonan,﻿S.J.,,,﻿student,﻿40 students,,,1865,,,,,,,,,,,﻿,﻿,﻿Boston,Boston
 ﻿bos.ma.0211,﻿asylum,﻿Orphan Asylum,English,,﻿Camden street,,,,﻿Boston,﻿Boston,﻿MA,,,,,,,,﻿Sr.,﻿Ann Alexis Schorb,,﻿Sister-Servant,,﻿child,﻿320 children,,,1865,,,,,,,,,,,﻿,﻿,﻿Boston,Boston
-﻿bos.ma.0211,﻿asylum,﻿Orphan Asylum,English,,﻿Camden street,,,,﻿Boston,﻿Boston,﻿MA,,,,,,,,,,,,,﻿sister,﻿11 sisters,,,1865,,,,,,,,,,,﻿,﻿,﻿Boston,Boston
-﻿bos.ma.0217,﻿hospital,﻿Carney Hospital,English,,﻿South Boston,,,,﻿Boston,﻿Boston,﻿MA,,,,,,,,,,,,,﻿sister,﻿7 sisters,,,1865,,,,,,,,,,,﻿,﻿,﻿Boston,Boston
+﻿bos.ma.0211,﻿asylum,﻿Orphan Asylum,English,,﻿Camden street,,,,﻿Boston,﻿Boston,﻿MA,,,,,,,,,,,,,﻿religious,﻿11 sisters,,,1865,,,,,,,,,,,﻿,﻿,﻿Boston,Boston
+﻿bos.ma.0217,﻿hospital,﻿Carney Hospital,English,,﻿South Boston,,,,﻿Boston,﻿Boston,﻿MA,,,,,,,,,,,,,﻿religious,﻿7 sisters,,,1865,,,,,,,,,,,﻿,﻿,﻿Boston,Boston
 ﻿bos.ma.0217,﻿hospital,﻿Carney Hospital,English,,﻿South Boston,,,,﻿Boston,﻿Boston,﻿MA,,,,,,,,,,,,,﻿patient,﻿25 patients,,,1865,,,,,,,,,,,﻿,﻿,﻿Boston,Boston
 ﻿bos.ma.0200,﻿academy,﻿Academy,English,,﻿Berkeley street,,,,﻿Boston,﻿Boston,﻿MA,,,,,,,,,,,,,﻿sister (select school),﻿6 sisters,﻿Sisters of Notre Dame,,1865,,,,,,,,,,,﻿,﻿,﻿Boston,Boston
 ﻿bos.ma.0200,﻿academy,﻿Academy,English,,﻿Berkeley street,,,,﻿Boston,﻿Boston,﻿MA,,,,,,,,,,,,,﻿pupil (select school),﻿64 pupils,﻿Sisters of Notre Dame,,1865,,,,,,,,,,,﻿,﻿,﻿Boston,Boston
 ﻿bos.ma.0200,﻿academy,﻿Academy,English,,﻿Berkeley street,,,,﻿Boston,﻿Boston,﻿MA,,,,,,,,,,,,,﻿sister (night school),﻿11 sisters,﻿Sisters of Notre Dame,,1865,,,,,,,,,,,﻿,﻿,﻿Boston,Boston
 ﻿bos.ma.0200,﻿academy,﻿Academy,English,,﻿Berkeley street,,,,﻿Boston,﻿Boston,﻿MA,,,,,,,,,,,,,﻿pupil (night school),﻿227 pupils,﻿Sisters of Notre Dame,,1865,,,,,,,,,,,﻿,﻿,﻿Boston,Boston
 ﻿bos.ma.0200,﻿school,﻿Academy,English,,﻿Lancaster Street,,,,﻿Boston,﻿Boston,﻿MA,,,,,,,,,,,,,﻿teacher,﻿9 teachers,﻿Sisters of Notre Dame,,1865,,,,,,,,,,,﻿,﻿,﻿Boston,Boston
-﻿bos.ma.0200,﻿school,﻿Academy,English,,﻿Lancaster Street,,,,﻿Boston,﻿Boston,﻿MA,,,,,,,,,,,,,﻿pupil,﻿592 pupils,﻿Sisters of Notre Dame,,1865,,,,,,,,,,,﻿,﻿,﻿Boston,Boston
-﻿bos.ma.0010_02,﻿school,not recorded,English,﻿2 schools,﻿South Boston,,,,﻿Boston,﻿Boston,﻿MA,,,,,,,,,,,,,﻿sister,﻿26 Sisters of Notre Dame,﻿Sisters of Notre Dame,,1865,,,,,,,,,,,﻿,﻿,﻿Boston,Boston
-﻿bos.ma.0010_02,﻿school,not recorded,English,﻿2 schools,﻿South Boston,,,,﻿Boston,﻿Boston,﻿MA,,,,,,,,,,,,,﻿pupil,﻿970 pupils,﻿Sisters of Notre Dame,,1865,,,,,,,,,,,﻿,﻿,﻿Boston,Boston
-﻿bos.ma.0227,﻿school,not recorded,English,,﻿East Boston,,,,﻿Boston,﻿Boston,﻿MA,,,,,,,,,,,,,﻿sister,﻿10 Sisters of Notre Dame,﻿Sisters of Notre Dame,,1865,,,,,,,,,,,﻿,﻿,﻿Boston,Boston
-﻿bos.ma.0227,﻿school,not recorded,English,,﻿East Boston,,,,﻿Boston,﻿Boston,﻿MA,,,,,,,,,,,,,﻿pupil,﻿550 pupils,﻿Sisters of Notre Dame,,1865,,,,,,,,,,,﻿,﻿,﻿Boston,Boston
-﻿bos.ma.0005_02,﻿school,not recorded,English,,﻿Church of the Holy Trinity (German),,,,﻿Boston,﻿Boston,﻿MA,,,,,,,,,,,,,﻿sister,﻿3 sisters,﻿Sisters of Notre Dame,,1865,,,,,,,,,,,﻿,﻿,﻿Boston,Boston
-﻿bos.ma.0005_02,﻿school,not recorded,English,,﻿Church of the Holy Trinity (German),,,,﻿Boston,﻿Boston,﻿MA,,,,,,,,,,,,,﻿pupil,﻿213 pupils,﻿Sisters of Notre Dame,,1865,,,,,,,,,,,﻿,﻿,﻿Boston,Boston
+﻿bos.ma.0200,﻿school,﻿Academy,English,,﻿Lancaster Street,,,,﻿Boston,﻿Boston,﻿MA,,,,,,,,,,,,,﻿student,﻿592 pupils,﻿Sisters of Notre Dame,,1865,,,,,,,,,,,﻿,﻿,﻿Boston,Boston
+﻿bos.ma.0010_02,﻿school,not recorded,English,﻿2 schools,﻿South Boston,,,,﻿Boston,﻿Boston,﻿MA,,,,,,,,,,,,,﻿religious,﻿26 Sisters of Notre Dame,﻿Sisters of Notre Dame,,1865,,,,,,,,,,,﻿,﻿,﻿Boston,Boston
+﻿bos.ma.0010_02,﻿school,not recorded,English,﻿2 schools,﻿South Boston,,,,﻿Boston,﻿Boston,﻿MA,,,,,,,,,,,,,﻿student,﻿970 pupils,﻿Sisters of Notre Dame,,1865,,,,,,,,,,,﻿,﻿,﻿Boston,Boston
+﻿bos.ma.0227,﻿school,not recorded,English,,﻿East Boston,,,,﻿Boston,﻿Boston,﻿MA,,,,,,,,,,,,,﻿religious,﻿10 Sisters of Notre Dame,﻿Sisters of Notre Dame,,1865,,,,,,,,,,,﻿,﻿,﻿Boston,Boston
+﻿bos.ma.0227,﻿school,not recorded,English,,﻿East Boston,,,,﻿Boston,﻿Boston,﻿MA,,,,,,,,,,,,,﻿student,﻿550 pupils,﻿Sisters of Notre Dame,,1865,,,,,,,,,,,﻿,﻿,﻿Boston,Boston
+﻿bos.ma.0005_02,﻿school,not recorded,English,,﻿Church of the Holy Trinity (German),,,,﻿Boston,﻿Boston,﻿MA,,,,,,,,,,,,,﻿religious,﻿3 sisters,﻿Sisters of Notre Dame,,1865,,,,,,,,,,,﻿,﻿,﻿Boston,Boston
+﻿bos.ma.0005_02,﻿school,not recorded,English,,﻿Church of the Holy Trinity (German),,,,﻿Boston,﻿Boston,﻿MA,,,,,,,,,,,,,﻿student,﻿213 pupils,﻿Sisters of Notre Dame,,1865,,,,,,,,,,,﻿,﻿,﻿Boston,Boston
 ﻿bos.ma.0199,﻿school,not recorded,English,,,,,,﻿Roxbury,,﻿MA,,,,,,,,,,,,,﻿boarder,﻿40 boarders,﻿Sisters of Notre Dame,,1865,,,,,,,,,,,﻿,﻿,﻿Boston,Boston
 ﻿bos.ma.0199,﻿school,not recorded,English,,,,,,﻿Roxbury,,﻿MA,,,,,,,,,,,,,﻿pupil (free school),﻿100 pupils,﻿Sisters of Notre Dame,,1865,,,,,,,,,,,﻿,﻿,﻿Boston,Boston
-﻿bos.ma.0199,﻿school,not recorded,English,,,,,,﻿Roxbury,,﻿MA,,,,,,,,,,,,,﻿sister,﻿7 sisters,﻿Sisters of Notre Dame,,1865,,,,,,,,,,,﻿,﻿,﻿Boston,Boston
-﻿bos.ma.0151_03,﻿school,not recorded,English,,﻿St. James' Church (2 free schools),,,,,﻿Salem,﻿MA,,,,,,,,,,,,,﻿sister,﻿5 sisters,,,1865,,,,,,,,,,,﻿,﻿,﻿Boston,Boston
-﻿bos.ma.0151_03,﻿school,not recorded,English,,﻿St. James' Church (2 free schools),,,,,﻿Salem,﻿MA,,,,,,,,,,,,,﻿pupil,﻿400 pupils,,,1865,,,,,,,,,,,﻿,﻿,﻿Boston,Boston
+﻿bos.ma.0199,﻿school,not recorded,English,,,,,,﻿Roxbury,,﻿MA,,,,,,,,,,,,,﻿religious,﻿7 sisters,﻿Sisters of Notre Dame,,1865,,,,,,,,,,,﻿,﻿,﻿Boston,Boston
+﻿bos.ma.0151_03,﻿school,not recorded,English,,﻿St. James' Church (2 free schools),,,,,﻿Salem,﻿MA,,,,,,,,,,,,,﻿religious,﻿5 sisters,,,1865,,,,,,,,,,,﻿,﻿,﻿Boston,Boston
+﻿bos.ma.0151_03,﻿school,not recorded,English,,﻿St. James' Church (2 free schools),,,,,﻿Salem,﻿MA,,,,,,,,,,,,,﻿student,﻿400 pupils,,,1865,,,,,,,,,,,﻿,﻿,﻿Boston,Boston
 ﻿bos.ma.0151_02,﻿school,﻿St. James' Male School,English,,﻿St. James' Church,,,,﻿Salem,﻿Salem,﻿MA,,,,,,,,,,,,,﻿teacher,﻿3 teachers,,,1865,,,,,,,,,,,﻿,﻿,﻿Boston,Boston
-﻿bos.ma.0151_02,﻿school,﻿St. James' Male School,English,,﻿St. James' Church,,,,﻿Salem,﻿Salem,﻿MA,,,,,,,,,,,,,﻿pupil,﻿300 pupils,,,1865,,,,,,,,,,,﻿,﻿,﻿Boston,Boston
+﻿bos.ma.0151_02,﻿school,﻿St. James' Male School,English,,﻿St. James' Church,,,,﻿Salem,﻿Salem,﻿MA,,,,,,,,,,,,,﻿student,﻿300 pupils,,,1865,,,,,,,,,,,﻿,﻿,﻿Boston,Boston
 ﻿bos.ma.0152_02,﻿school,not recorded,English,﻿Parochial School for Girls,﻿Church of the Immaculate Conception,,,,﻿Salem,﻿Salem,﻿MA,,,,,,,,﻿Sister,﻿Mary Felicienne,,﻿Superioress,,﻿teacher,﻿7 teachers,,,1865,,,,,,,,,,,﻿,﻿,﻿Boston,Boston
-﻿bos.ma.0152_02,﻿school,not recorded,English,﻿Parochial School for Girls,﻿Church of the Immaculate Conception,,,,﻿Salem,﻿Salem,﻿MA,,,,,,,,,,,,,﻿pupil,﻿400 pupils,,,1865,,,,,,,,,,,﻿,﻿,﻿Boston,Boston
+﻿bos.ma.0152_02,﻿school,not recorded,English,﻿Parochial School for Girls,﻿Church of the Immaculate Conception,,,,﻿Salem,﻿Salem,﻿MA,,,,,,,,,,,,,﻿student,﻿400 pupils,,,1865,,,,,,,,,,,﻿,﻿,﻿Boston,Boston
 ﻿bos.ma.0002_02,﻿school,﻿St. Mary's Parochial School for Boys,English,,,,,,﻿Boston,﻿Boston,﻿MA,,,,,,,,,,,,,﻿attendance,"﻿average attendance, 450",,,1865,,,,,,,,,,,﻿,﻿,﻿Boston,Boston
-﻿bos.ma.0002_02,﻿school,﻿St. Mary's Parochial School for Boys,English,﻿Parochial School for Boys,,,,,﻿Salem,﻿Boston,﻿MA,,,,,,,,﻿Mr.,﻿John Fitzgerald,,﻿Principal,,﻿pupil,"﻿pupils, 250",,,1865,,,,,,,,,,,﻿,﻿,﻿Boston,Boston
-﻿bos.ma.0002_02,﻿school,﻿St. Mary's Parochial School for Boys,English,﻿Parochial School for Boys,,,,,﻿Salem,﻿Boston,﻿MA,,,,,,,,﻿Miss,﻿C. Shaw,,﻿Assistant,,﻿pupil,"﻿pupils, 250",,,1865,,,,,,,,,,,﻿,﻿,﻿Boston,Boston
-﻿bos.ma.0002_02,﻿school,﻿St. Mary's Parochial School for Boys,English,﻿Parochial School for Boys,,,,,﻿Salem,﻿Boston,﻿MA,,,,,,,,﻿Miss,﻿M. Shaw,,﻿Assistant,,﻿pupil,"﻿pupils, 250",,,1865,,,,,,,,,,,﻿,﻿,﻿Boston,Boston
-﻿bos.ma.0212,﻿house,﻿House of the Angel Guardian,English,,,,,,﻿Roxbury,﻿Boston,﻿MA,,,,,,,﻿geo_f_haskins_001,﻿Rev.,﻿Geo. F. Haskins,,﻿Rector,,﻿boy,﻿350 boys,,,1865,,,,,,,,,,,﻿,﻿,﻿Boston,Boston
-﻿bos.ma.0109_02,﻿academy,﻿St. Patrick's Academy and Boarding-School,English,,,,,,﻿Lowell,﻿Lowell,﻿MA,,,,,,,,,,,,,﻿sister,﻿18 sisters,﻿Sisters of Notre Dame,,1865,,,,,,,,,,,﻿,﻿,﻿Boston,Boston
+﻿bos.ma.0002_02,﻿school,﻿St. Mary's Parochial School for Boys,English,﻿Parochial School for Boys,,,,,﻿Salem,﻿Boston,﻿MA,,,,,,,,﻿Mr.,﻿John Fitzgerald,,﻿Principal,,﻿student,"﻿pupils, 250",,,1865,,,,,,,,,,,﻿,﻿,﻿Boston,Boston
+﻿bos.ma.0002_02,﻿school,﻿St. Mary's Parochial School for Boys,English,﻿Parochial School for Boys,,,,,﻿Salem,﻿Boston,﻿MA,,,,,,,,﻿Miss,﻿C. Shaw,,﻿Assistant,,﻿student,"﻿pupils, 250",,,1865,,,,,,,,,,,﻿,﻿,﻿Boston,Boston
+﻿bos.ma.0002_02,﻿school,﻿St. Mary's Parochial School for Boys,English,﻿Parochial School for Boys,,,,,﻿Salem,﻿Boston,﻿MA,,,,,,,,﻿Miss,﻿M. Shaw,,﻿Assistant,,﻿student,"﻿pupils, 250",,,1865,,,,,,,,,,,﻿,﻿,﻿Boston,Boston
+﻿bos.ma.0212,﻿house,﻿House of the Angel Guardian,English,,,,,,﻿Roxbury,﻿Boston,﻿MA,,,,,,,﻿geo_f_haskins_001,﻿Rev.,﻿Geo. F. Haskins,,﻿Rector,,﻿child,﻿350 boys,,,1865,,,,,,,,,,,﻿,﻿,﻿Boston,Boston
+﻿bos.ma.0109_02,﻿academy,﻿St. Patrick's Academy and Boarding-School,English,,,,,,﻿Lowell,﻿Lowell,﻿MA,,,,,,,,,,,,,﻿religious,﻿18 sisters,﻿Sisters of Notre Dame,,1865,,,,,,,,,,,﻿,﻿,﻿Boston,Boston
 ﻿bos.ma.0109_02,﻿academy,﻿St. Patrick's Academy and Boarding-School,English,,,,,,﻿Lowell,﻿Lowell,﻿MA,,,,,,,,,,,,,﻿boarder and select scholar,﻿80 borders and select scholars,﻿Sisters of Notre Dame,,1865,,,,,,,,,,,﻿,﻿,﻿Boston,Boston
 ﻿bos.ma.0109_02,﻿academy,﻿St. Patrick's Academy and Boarding-School,English,,,,,,﻿Lowell,﻿Lowell,﻿MA,,,,,,,,,,,,,﻿free school,﻿320,﻿Sisters of Notre Dame,,1865,,,,,,,,,,,﻿,﻿,﻿Boston,Boston
 ﻿bos.ma.0192_02,﻿convent,﻿St. Ann's Church,English,,,,,,﻿Worcester,﻿Worcester,﻿MA,,,,,,,,,,,,,﻿choir sister,﻿4 choir sisters,,,1865,,,,,,,,,,,﻿,﻿,﻿Boston,Boston
-﻿bos.ma.0192_02,﻿convent,﻿St. Ann's Church,English,,,,,,﻿Worcester,﻿Worcester,﻿MA,,,,,,,,,,,,,﻿lay sister,﻿1 lay sister,,,1865,,,,,,,,,,,﻿,﻿,﻿Boston,Boston
-﻿bos.ma.0102_02,﻿school,not recorded,English,,﻿St. Mary's Church,,,,﻿Lawrence,﻿Lawrence,﻿MA,,,,,,,,,,,,,﻿sister,﻿8 sisters,,,1865,,,,,,,,,,,﻿,﻿,﻿Boston,Boston
-﻿bos.ma.0102_02,﻿school,not recorded,English,,﻿St. Mary's Church,,,,﻿Lawrence,﻿Lawrence,﻿MA,,,,,,,,,,,,,﻿pupil,﻿560 pupils,,,1865,,,,,,,,,,,﻿,﻿,﻿Boston,Boston
+﻿bos.ma.0192_02,﻿convent,﻿St. Ann's Church,English,,,,,,﻿Worcester,﻿Worcester,﻿MA,,,,,,,,,,,,,﻿layperson,﻿1 lay sister,,,1865,,,,,,,,,,,﻿,﻿,﻿Boston,Boston
+﻿bos.ma.0102_02,﻿school,not recorded,English,,﻿St. Mary's Church,,,,﻿Lawrence,﻿Lawrence,﻿MA,,,,,,,,,,,,,﻿religious,﻿8 sisters,,,1865,,,,,,,,,,,﻿,﻿,﻿Boston,Boston
+﻿bos.ma.0102_02,﻿school,not recorded,English,,﻿St. Mary's Church,,,,﻿Lawrence,﻿Lawrence,﻿MA,,,,,,,,,,,,,﻿student,﻿560 pupils,,,1865,,,,,,,,,,,﻿,﻿,﻿Boston,Boston
 ﻿bos.ma.0102_02,﻿school,not recorded,English,,﻿St. Mary's Church,,,,﻿Lawrence,﻿Lawrence,﻿MA,,,,,,,,,,,,,﻿pupil (at evening school for girls),﻿110 pupils,,,1865,,,,,,,,,,,﻿,﻿,﻿Boston,Boston
 ﻿bos.ma.0101_02,﻿school,not recorded,English,﻿Parochial School for Boys,﻿Church of the Immaculate Conception,,,,,,﻿MA,,,,,,,,,,,,,﻿teacher,﻿4 teachers,,,1865,,,,,,,,,,,﻿,﻿,﻿Boston,Boston
-﻿bos.ma.0101_02,﻿school,not recorded,English,﻿Parochial School for Boys,﻿Church of the Immaculate Conception,,,,,,﻿MA,,,,,,,,,,,,,﻿pupil,﻿260 pupils,,,1865,,,,,,,,,,,﻿,﻿,﻿Boston,Boston
+﻿bos.ma.0101_02,﻿school,not recorded,English,﻿Parochial School for Boys,﻿Church of the Immaculate Conception,,,,,,﻿MA,,,,,,,,,,,,,﻿student,﻿260 pupils,,,1865,,,,,,,,,,,﻿,﻿,﻿Boston,Boston

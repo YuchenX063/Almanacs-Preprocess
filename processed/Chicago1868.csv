@@ -253,107 +253,107 @@
 ﻿chi.il.0239,﻿house,﻿Alexian Brothers,English,,﻿corner of Dearborn and Schiller streets,,,,﻿Chicago,﻿Chicago,﻿IL,,﻿41.8919005,-87.63559971,,,,,﻿Brother,﻿Bonaventura,,﻿Superior,,,,,,1868,﻿,﻿,﻿Chicago,Chicago
 ﻿chi.il.0240,﻿house,﻿Order of St. Viateur,English,,,,,,﻿Chicago,﻿Chicago,﻿IL,,﻿41.9478719,-87.7309264,,,,﻿p_beaudoin_001,﻿Rev.,﻿P. Beaudoin,,﻿Superior,,,,,,1868,﻿,﻿,﻿Chicago,Chicago
 ﻿chi.il.0242,﻿seminary,﻿Seminary of the Sacred Heart,English,,﻿Corner of Taylor and Throop streets,,,,﻿Chicago,﻿Chicago,﻿IL,,﻿41.89689282,-87.62704114,,,,,﻿Madame,﻿M. J. Gauthreux,,﻿Superior,,﻿boarder,﻿50 boarders,,,1868,﻿,﻿,﻿Chicago,Chicago
-﻿chi.il.0242,﻿seminary,﻿Seminary of the Sacred Heart,English,,﻿Corner of Taylor and Throop streets,,,,﻿Chicago,﻿Chicago,﻿IL,,﻿41.89689282,-87.62704114,,,,,,,,,,﻿day-scholar,﻿25 day-scholars,,,1868,﻿,﻿,﻿Chicago,Chicago
+﻿chi.il.0242,﻿seminary,﻿Seminary of the Sacred Heart,English,,﻿Corner of Taylor and Throop streets,,,,﻿Chicago,﻿Chicago,﻿IL,,﻿41.89689282,-87.62704114,,,,,,,,,,﻿student,﻿25 day-scholars,,,1868,﻿,﻿,﻿Chicago,Chicago
 ﻿chi.il.0241,﻿academy,﻿St. Francis Xavier's Academy,English,,﻿131 Wabash avenue,,,,﻿Chicago,﻿Chicago,﻿IL,,﻿41.88215304,-87.62623814,,,,,,,,,,﻿boarder,﻿50 boarders,,,1868,﻿,﻿,﻿Chicago,Chicago
-﻿chi.il.0241,﻿academy,﻿St. Francis Xavier's Academy,English,,﻿131 Wabash avenue,,,,﻿Chicago,﻿Chicago,﻿IL,,﻿41.86973731,-87.65913135,,,,,,,,,,﻿day-scholar,﻿160 day-scholars,﻿Under the direction of the Sisters of Mercy,,1868,﻿,﻿,﻿Chicago,Chicago
+﻿chi.il.0241,﻿academy,﻿St. Francis Xavier's Academy,English,,﻿131 Wabash avenue,,,,﻿Chicago,﻿Chicago,﻿IL,,﻿41.86973731,-87.65913135,,,,,,,,,,﻿student,﻿160 day-scholars,﻿Under the direction of the Sisters of Mercy,,1868,﻿,﻿,﻿Chicago,Chicago
 ﻿chi.il.0243,﻿academy,﻿St. Joseph's Academy,English,,﻿Chicago avenue,,﻿Kankakee County,﻿Kankakee County,﻿Bourbonnais Grove,﻿Bourbonnais,﻿IL,,﻿41.1545949,-87.87476264,,,,,,,,,,﻿boarder,﻿20 boarders,﻿Under the charge of the Sisters of St. Benedict,,1868,﻿,﻿,﻿Chicago,Chicago
 ﻿chi.il.0244,﻿academy,﻿St. Joseph's Academy,English,,,,﻿McLean County,,﻿Bloomington,﻿La Salle,﻿IL,,﻿40.6331249,-89.3985283,,,,,,,,,,﻿boarder,﻿15 boarders,﻿Under the charge of the Sisters of St. Joseph,,1868,﻿,﻿,﻿Chicago,Chicago
 ﻿chi.il.0245,﻿academy,﻿Notre Dame Academy,English,,,,﻿Kankakee County,,﻿Bourbonnais Grove,﻿Morris,﻿IL,,﻿41.36144431,-88.41419165,,,,,﻿Sister-Servant,﻿Alexis de St. Joseph,,﻿Superior,,﻿boarder,﻿35 boarders,﻿Under direction of the Sisters of the Congregation,,1868,﻿,﻿,﻿Chicago,Chicago
 ﻿chi.il.0245,﻿academy,﻿Notre Dame Academy,English,,,,﻿Kankakee County,,﻿Bourbonnais Grove,﻿Morris,﻿IL,,﻿41.36144431,-88.41419165,,,,,,,,,,﻿select,﻿125 select,﻿Under direction of the Sisters of the Congregation,,1868,﻿,﻿,﻿Chicago,Chicago
-﻿chi.il.0246,﻿academy,﻿St. Vincent's Academy,English,,,,﻿Peoria County,,﻿La Salle,,﻿IL,,﻿40.69483698,-89.5845249,,,,,﻿Sister,﻿Pacifica,,﻿Superior,,﻿pupil,﻿150 pupils,,,1868,﻿,﻿,﻿Chicago,Chicago
+﻿chi.il.0246,﻿academy,﻿St. Vincent's Academy,English,,,,﻿Peoria County,,﻿La Salle,,﻿IL,,﻿40.69483698,-89.5845249,,,,,﻿Sister,﻿Pacifica,,﻿Superior,,﻿student,﻿150 pupils,,,1868,﻿,﻿,﻿Chicago,Chicago
 ﻿chi.il.0247,﻿academy,﻿St. Angela's Academy,English,,,,﻿Grundy County,﻿Kankakee County,﻿Morris,﻿Bourbonnais,﻿IL,,﻿41.15702865,-87.87473641,,,,,﻿Sister,﻿Frances,,﻿Superior,,﻿boarder,﻿30 boarders,﻿Under direction of the Sisters of the Holy Cross,,1868,﻿,﻿,﻿Chicago,Chicago
 ﻿chi.il.0247,﻿academy,﻿St. Angela's Academy,English,,,,﻿Grundy County,﻿Kankakee County,﻿Morris,﻿Bourbonnais,﻿IL,,﻿41.15702865,-87.87473641,,,,,,,,,,﻿select school,﻿60 select school,﻿Under direction of the Sisters of the Holy Cross,,1868,﻿,﻿,﻿Chicago,Chicago
 ﻿chi.il.0248,﻿academy,﻿St. Francis Xavier's Academy,English,,,,,,﻿Ottawa,﻿Chicago,﻿IL,,﻿41.86973731,-87.65913135,,,,,,,,,,﻿boarder,﻿77 boarders,﻿Under the direction of the Sisters of Mercy,,1868,﻿,﻿,﻿Chicago,Chicago
-﻿chi.il.0248,﻿academy,﻿St. Francis Xavier's Academy,English,,,,,,﻿Ottawa,﻿Chicago,﻿IL,,﻿41.86973731,-87.65913135,,,,,,,,,,﻿day-scholar,"﻿90 select, 260 free",﻿Under the direction of the Sisters of Mercy,,1868,﻿,﻿,﻿Chicago,Chicago
+﻿chi.il.0248,﻿academy,﻿St. Francis Xavier's Academy,English,,,,,,﻿Ottawa,﻿Chicago,﻿IL,,﻿41.86973731,-87.65913135,,,,,,,,,,﻿student,"﻿90 select, 260 free",﻿Under the direction of the Sisters of Mercy,,1868,﻿,﻿,﻿Chicago,Chicago
 ﻿chi.il.0249,﻿academy,﻿Academy of the Immaculate Conception,English,,,,,,﻿Peoria,﻿Chicago,﻿IL,,﻿41.879269,-87.64406437,,,,,,,,,,﻿select school,﻿60 select school,﻿Under the direction of the Sisters of St. Joseph,,1868,﻿,﻿,﻿Chicago,Chicago
-﻿chi.il.0252,﻿convent,﻿Convent of the Sisters of Mercy,English,,﻿135 Wabash avenue,,,,﻿Bloomington,﻿Bloomington,﻿IL,,﻿40.4854768,-88.994654,,,,,﻿Sister,﻿M. Scholastica,,﻿Superior,,﻿professed sister,﻿66 professed sisters,,,1868,﻿,﻿,﻿Chicago,Chicago
-﻿chi.il.0252,﻿convent,﻿Convent of the Sisters of Mercy,English,,﻿135 Wabash avenue,,,,﻿Bloomington,﻿Bloomington,﻿IL,,﻿40.4854768,-88.994654,,,,,,,,,,﻿novice,﻿2 novices,,,1868,﻿,﻿,﻿Chicago,Chicago
-﻿chi.il.0252,﻿convent,﻿Convent of the Sisters of Mercy,English,,﻿135 Wabash avenue,,,,﻿Bloomington,﻿Bloomington,﻿IL,,﻿40.4854768,-88.994654,,,,,,,,,,﻿postulant,﻿4 postulants,,,1868,﻿,﻿,﻿Chicago,Chicago
-﻿chi.il.0253,﻿convent,﻿Convent of the Sacred Heart,English,,,,,,﻿Chicago,﻿Joliet,﻿IL,,﻿41.525031,-88.0817251,,,,,﻿Madame,﻿M. R. Gauthreause,,﻿Superior,,﻿professed sister,﻿28 professed sisters,,,1868,﻿,﻿,﻿Chicago,Chicago
-﻿chi.il.0253,﻿convent,﻿Convent of the Sacred Heart,English,,,,,,﻿Chicago,﻿Joliet,﻿IL,,﻿41.525031,-88.0817251,,,,,,,,,,﻿novice,﻿7 novices,,,1868,﻿,﻿,﻿Chicago,Chicago
-﻿chi.il.0254,﻿convent,﻿St. Joseph's Convent,English,,﻿Chicago Avenue,,,,﻿Chicago,﻿Chicago,﻿IL,,﻿41.86486248,-87.64137974,,,,,,﻿M. Antonia,﻿O.S.B.,﻿Superior,,﻿professed sister,﻿9 professed sisters,﻿Sisters of St. Benedict,,1868,﻿,﻿,﻿Chicago,Chicago
-﻿chi.il.0254,﻿convent,﻿St. Joseph's Convent,English,,﻿Chicago Avenue,,,,﻿Chicago,﻿Chicago,﻿IL,,﻿41.86486248,-87.64137974,,,,,,,,,,﻿novice,﻿8 novices,﻿Sisters of St. Benedict,,1868,﻿,﻿,﻿Chicago,Chicago
-﻿chi.il.0254,﻿convent,﻿St. Joseph's Convent,English,,﻿Chicago Avenue,,,,﻿Chicago,﻿Chicago,﻿IL,,﻿41.86486248,-87.64137974,,,,,,,,,,﻿postulant,﻿6 postulants,﻿Sisters of St. Benedict,,1868,﻿,﻿,﻿Chicago,Chicago
-﻿chi.il.0255,﻿convent,﻿Convent of the School Sisters of Notre Dame,English,,﻿North avenue,,,,﻿Chicago,﻿Henry,﻿IL,,﻿41.1114249,-89.3564776,,,,,﻿Sister,﻿M. Bartholomew,,﻿Superior,,﻿professed sister,﻿4 professed sisters,,,1868,﻿,﻿,﻿Chicago,Chicago
-﻿chi.il.0255,﻿convent,﻿Convent of the School Sisters of Notre Dame,English,,﻿North avenue,,,,﻿Chicago,﻿Henry,﻿IL,,﻿41.1114249,-89.3564776,,,,,,,,,,﻿postulant,﻿3 postulants,,,1868,﻿,﻿,﻿Chicago,Chicago
-﻿chi.il.0256,﻿convent,﻿Convent of Our Lady of Loretto,English,,﻿West Adams Street,,,,﻿Chicago,﻿Chicago,﻿IL,,﻿41.90881554,-87.64587215,,,,,﻿Sister,﻿M. Ferdinand,,﻿Superior,,﻿professed sister,﻿5 professed sisters,﻿Sisters of Loretto,,1868,﻿,﻿,﻿Chicago,Chicago
-﻿chi.il.0256,﻿convent,﻿Convent of Our Lady of Loretto,English,,﻿West Adams Street,,,,﻿Chicago,﻿Chicago,﻿IL,,﻿41.90881554,-87.64587215,,,,,,,,,,﻿novice,﻿5 novices,﻿Sisters of Loretto,,1868,﻿,﻿,﻿Chicago,Chicago
-﻿chi.il.0256,﻿convent,﻿Convent of Our Lady of Loretto,English,,﻿West Adams Street,,,,﻿Chicago,﻿Chicago,﻿IL,,﻿41.90881554,-87.64587215,,,,,,,,,,﻿postulant,﻿2 postulants,﻿Sisters of Loretto,,1868,﻿,﻿,﻿Chicago,Chicago
-﻿chi.il.0001_02,﻿convent,﻿Convent of St. Joseph,English,,﻿N. State and Superior streets,,,,﻿Chicago,﻿Chicago,﻿IL,,﻿41.86923997,-87.64351614,,,,,,,,,,﻿professed sister,﻿12 professed sisters,﻿Sisters of St. Joseph,,1868,﻿,﻿,﻿Chicago,Chicago
-﻿chi.il.0258,﻿convent,﻿Convent of the Good Shepherd,English,,﻿Corner of Market and Hill streets,,,﻿La Salle County,﻿Chicago,﻿Mendota,﻿IL,,﻿41.5472547,-89.1175851,,,,,﻿Sister,﻿Mary of the Nativity,,﻿Superior,,﻿professed sister,﻿21 professed sisters,,,1868,﻿,﻿,﻿Chicago,Chicago
-﻿chi.il.0258,﻿convent,﻿Convent of the Good Shepherd,English,,﻿Corner of Market and Hill streets,,,﻿La Salle County,﻿Chicago,﻿Mendota,﻿IL,,﻿41.5472547,-89.1175851,,,,,,,,,,﻿novice,﻿1 novice,,,1868,﻿,﻿,﻿Chicago,Chicago
+﻿chi.il.0252,﻿convent,﻿Convent of the Sisters of Mercy,English,,﻿135 Wabash avenue,,,,﻿Bloomington,﻿Bloomington,﻿IL,,﻿40.4854768,-88.994654,,,,,﻿Sister,﻿M. Scholastica,,﻿Superior,,﻿religious,﻿66 professed sisters,,,1868,﻿,﻿,﻿Chicago,Chicago
+﻿chi.il.0252,﻿convent,﻿Convent of the Sisters of Mercy,English,,﻿135 Wabash avenue,,,,﻿Bloomington,﻿Bloomington,﻿IL,,﻿40.4854768,-88.994654,,,,,,,,,,﻿religious,﻿2 novices,,,1868,﻿,﻿,﻿Chicago,Chicago
+﻿chi.il.0252,﻿convent,﻿Convent of the Sisters of Mercy,English,,﻿135 Wabash avenue,,,,﻿Bloomington,﻿Bloomington,﻿IL,,﻿40.4854768,-88.994654,,,,,,,,,,﻿religious,﻿4 postulants,,,1868,﻿,﻿,﻿Chicago,Chicago
+﻿chi.il.0253,﻿convent,﻿Convent of the Sacred Heart,English,,,,,,﻿Chicago,﻿Joliet,﻿IL,,﻿41.525031,-88.0817251,,,,,﻿Madame,﻿M. R. Gauthreause,,﻿Superior,,﻿religious,﻿28 professed sisters,,,1868,﻿,﻿,﻿Chicago,Chicago
+﻿chi.il.0253,﻿convent,﻿Convent of the Sacred Heart,English,,,,,,﻿Chicago,﻿Joliet,﻿IL,,﻿41.525031,-88.0817251,,,,,,,,,,﻿religious,﻿7 novices,,,1868,﻿,﻿,﻿Chicago,Chicago
+﻿chi.il.0254,﻿convent,﻿St. Joseph's Convent,English,,﻿Chicago Avenue,,,,﻿Chicago,﻿Chicago,﻿IL,,﻿41.86486248,-87.64137974,,,,,,﻿M. Antonia,﻿O.S.B.,﻿Superior,,﻿religious,﻿9 professed sisters,﻿Sisters of St. Benedict,,1868,﻿,﻿,﻿Chicago,Chicago
+﻿chi.il.0254,﻿convent,﻿St. Joseph's Convent,English,,﻿Chicago Avenue,,,,﻿Chicago,﻿Chicago,﻿IL,,﻿41.86486248,-87.64137974,,,,,,,,,,﻿religious,﻿8 novices,﻿Sisters of St. Benedict,,1868,﻿,﻿,﻿Chicago,Chicago
+﻿chi.il.0254,﻿convent,﻿St. Joseph's Convent,English,,﻿Chicago Avenue,,,,﻿Chicago,﻿Chicago,﻿IL,,﻿41.86486248,-87.64137974,,,,,,,,,,﻿religious,﻿6 postulants,﻿Sisters of St. Benedict,,1868,﻿,﻿,﻿Chicago,Chicago
+﻿chi.il.0255,﻿convent,﻿Convent of the School Sisters of Notre Dame,English,,﻿North avenue,,,,﻿Chicago,﻿Henry,﻿IL,,﻿41.1114249,-89.3564776,,,,,﻿Sister,﻿M. Bartholomew,,﻿Superior,,﻿religious,﻿4 professed sisters,,,1868,﻿,﻿,﻿Chicago,Chicago
+﻿chi.il.0255,﻿convent,﻿Convent of the School Sisters of Notre Dame,English,,﻿North avenue,,,,﻿Chicago,﻿Henry,﻿IL,,﻿41.1114249,-89.3564776,,,,,,,,,,﻿religious,﻿3 postulants,,,1868,﻿,﻿,﻿Chicago,Chicago
+﻿chi.il.0256,﻿convent,﻿Convent of Our Lady of Loretto,English,,﻿West Adams Street,,,,﻿Chicago,﻿Chicago,﻿IL,,﻿41.90881554,-87.64587215,,,,,﻿Sister,﻿M. Ferdinand,,﻿Superior,,﻿religious,﻿5 professed sisters,﻿Sisters of Loretto,,1868,﻿,﻿,﻿Chicago,Chicago
+﻿chi.il.0256,﻿convent,﻿Convent of Our Lady of Loretto,English,,﻿West Adams Street,,,,﻿Chicago,﻿Chicago,﻿IL,,﻿41.90881554,-87.64587215,,,,,,,,,,﻿religious,﻿5 novices,﻿Sisters of Loretto,,1868,﻿,﻿,﻿Chicago,Chicago
+﻿chi.il.0256,﻿convent,﻿Convent of Our Lady of Loretto,English,,﻿West Adams Street,,,,﻿Chicago,﻿Chicago,﻿IL,,﻿41.90881554,-87.64587215,,,,,,,,,,﻿religious,﻿2 postulants,﻿Sisters of Loretto,,1868,﻿,﻿,﻿Chicago,Chicago
+﻿chi.il.0001_02,﻿convent,﻿Convent of St. Joseph,English,,﻿N. State and Superior streets,,,,﻿Chicago,﻿Chicago,﻿IL,,﻿41.86923997,-87.64351614,,,,,,,,,,﻿religious,﻿12 professed sisters,﻿Sisters of St. Joseph,,1868,﻿,﻿,﻿Chicago,Chicago
+﻿chi.il.0258,﻿convent,﻿Convent of the Good Shepherd,English,,﻿Corner of Market and Hill streets,,,﻿La Salle County,﻿Chicago,﻿Mendota,﻿IL,,﻿41.5472547,-89.1175851,,,,,﻿Sister,﻿Mary of the Nativity,,﻿Superior,,﻿religious,﻿21 professed sisters,,,1868,﻿,﻿,﻿Chicago,Chicago
+﻿chi.il.0258,﻿convent,﻿Convent of the Good Shepherd,English,,﻿Corner of Market and Hill streets,,,﻿La Salle County,﻿Chicago,﻿Mendota,﻿IL,,﻿41.5472547,-89.1175851,,,,,,,,,,﻿religious,﻿1 novice,,,1868,﻿,﻿,﻿Chicago,Chicago
 ﻿chi.il.0259,﻿convent,﻿Convent of the Sisters of Charity,English,,"﻿Huron street, near Cass",,,,﻿Chicago,﻿Kickapoo,﻿IL,,﻿40.78838096,-89.75011078,,,,,﻿Sister,﻿Beata McFaul,,﻿Superior,,﻿religious,﻿11 religious,,,1868,﻿,﻿,﻿Chicago,Chicago
-﻿chi.il.0260,﻿convent,﻿Convent of the Sisters of St. Joseph,English,,,,,,﻿Bloomington,﻿Richland Township,﻿IL,,﻿41.15001128,-89.00175418,,,,,﻿Mother,﻿Winfred,,﻿Superior,,﻿professed sister,﻿6 professed sisters,,,1868,﻿,﻿,﻿Chicago,Chicago
-﻿chi.il.0260,﻿convent,﻿Convent of the Sisters of St. Joseph,English,,,,,,﻿Bloomington,﻿Richland Township,﻿IL,,﻿41.15001128,-89.00175418,,,,,,,,,,﻿novice,﻿1 novice,,,1868,﻿,﻿,﻿Chicago,Chicago
-﻿chi.il.0262,﻿convent,﻿Convent of the Sisters of the Holy Cross,English,,,,﻿Grundy County,,﻿Morris,﻿Teutopolis,﻿IL,,﻿39.13273335,-88.46989058,,,,,﻿Sister,﻿Frances,,﻿Superior,,﻿professed sister,﻿10 professed sisters,,,1868,﻿,﻿,﻿Chicago,Chicago
-﻿chi.il.0264,﻿convent,﻿St. Joseph's Convent of the Sisters of Mercy,English,,,,,,﻿Ottawa,﻿Chicago,﻿IL,,﻿41.89671205,-87.62555666,,,,,﻿Mother,﻿Mary Paula,,﻿Superior,,﻿professed sister,﻿9 professed sisters,,,1868,﻿,﻿,﻿Chicago,Chicago
-﻿chi.il.0264,﻿convent,﻿St. Joseph's Convent of the Sisters of Mercy,English,,,,,,﻿Ottawa,﻿Chicago,﻿IL,,﻿41.89671205,-87.62555666,,,,,,,,,,﻿novice,﻿6 novices,,,1868,﻿,﻿,﻿Chicago,Chicago
-﻿chi.il.0264,﻿convent,﻿St. Joseph's Convent of the Sisters of Mercy,English,,,,,,﻿Ottawa,﻿Chicago,﻿IL,,﻿41.89671205,-87.62555666,,,,,,,,,,﻿postulant,﻿3 postulants,,,1868,﻿,﻿,﻿Chicago,Chicago
-﻿chi.il.0357,﻿convent,﻿Convent of the Sisters of St. Joseph,English,,,,,,﻿Peoria,,,,,,,,,,,,,,,﻿professed sister,﻿7 professed sisters,,,1868,﻿,﻿,﻿Chicago,Chicago
-﻿chi.il.0263,﻿convent,﻿Convent of the Sisters of the Holy Cross,English,,,,,,﻿Joliet,﻿Chicago,﻿IL,,﻿41.89600177,-87.62763549,,,,,﻿Sister,﻿Edward,,﻿Superior,,﻿professed sister,﻿6 professed sisters,,,1868,﻿,﻿,﻿Chicago,Chicago
+﻿chi.il.0260,﻿convent,﻿Convent of the Sisters of St. Joseph,English,,,,,,﻿Bloomington,﻿Richland Township,﻿IL,,﻿41.15001128,-89.00175418,,,,,﻿Mother,﻿Winfred,,﻿Superior,,﻿religious,﻿6 professed sisters,,,1868,﻿,﻿,﻿Chicago,Chicago
+﻿chi.il.0260,﻿convent,﻿Convent of the Sisters of St. Joseph,English,,,,,,﻿Bloomington,﻿Richland Township,﻿IL,,﻿41.15001128,-89.00175418,,,,,,,,,,﻿religious,﻿1 novice,,,1868,﻿,﻿,﻿Chicago,Chicago
+﻿chi.il.0262,﻿convent,﻿Convent of the Sisters of the Holy Cross,English,,,,﻿Grundy County,,﻿Morris,﻿Teutopolis,﻿IL,,﻿39.13273335,-88.46989058,,,,,﻿Sister,﻿Frances,,﻿Superior,,﻿religious,﻿10 professed sisters,,,1868,﻿,﻿,﻿Chicago,Chicago
+﻿chi.il.0264,﻿convent,﻿St. Joseph's Convent of the Sisters of Mercy,English,,,,,,﻿Ottawa,﻿Chicago,﻿IL,,﻿41.89671205,-87.62555666,,,,,﻿Mother,﻿Mary Paula,,﻿Superior,,﻿religious,﻿9 professed sisters,,,1868,﻿,﻿,﻿Chicago,Chicago
+﻿chi.il.0264,﻿convent,﻿St. Joseph's Convent of the Sisters of Mercy,English,,,,,,﻿Ottawa,﻿Chicago,﻿IL,,﻿41.89671205,-87.62555666,,,,,,,,,,﻿religious,﻿6 novices,,,1868,﻿,﻿,﻿Chicago,Chicago
+﻿chi.il.0264,﻿convent,﻿St. Joseph's Convent of the Sisters of Mercy,English,,,,,,﻿Ottawa,﻿Chicago,﻿IL,,﻿41.89671205,-87.62555666,,,,,,,,,,﻿religious,﻿3 postulants,,,1868,﻿,﻿,﻿Chicago,Chicago
+﻿chi.il.0357,﻿convent,﻿Convent of the Sisters of St. Joseph,English,,,,,,﻿Peoria,,,,,,,,,,,,,,,﻿religious,﻿7 professed sisters,,,1868,﻿,﻿,﻿Chicago,Chicago
+﻿chi.il.0263,﻿convent,﻿Convent of the Sisters of the Holy Cross,English,,,,,,﻿Joliet,﻿Chicago,﻿IL,,﻿41.89600177,-87.62763549,,,,,﻿Sister,﻿Edward,,﻿Superior,,﻿religious,﻿6 professed sisters,,,1868,﻿,﻿,﻿Chicago,Chicago
 ﻿chi.il.0358,﻿convent,﻿Convent of the Sisters of St. Francis,English,,,,,,﻿Kickapoo,,,,,,,,,,,,,,,,,,,1868,﻿,﻿,﻿Chicago,Chicago
-﻿chi.il.0016_02,﻿convent,﻿Convent of the Sisters of St. Francis Assisium,English,,﻿at St. Boniface's,,,,﻿Chicago,﻿Chicago,﻿IL,,﻿41.89095906,-87.6695875,,,,,﻿Sister,﻿Frances,,﻿Superior,,﻿professed sister,﻿2 professed sisters,﻿Sisters of St. Francis Assisium,,1868,﻿,﻿,﻿Chicago,Chicago
-﻿chi.il.0016_02,﻿convent,﻿Convent of the Sisters of St. Francis Assisium,English,,﻿at St. Boniface's,,,,﻿Chicago,﻿Chicago,﻿IL,,﻿41.89095906,-87.6695875,,,,,,,,,,﻿postulant,﻿2 postulants,﻿Sisters of St. Francis Assisium,,1868,﻿,﻿,﻿Chicago,Chicago
+﻿chi.il.0016_02,﻿convent,﻿Convent of the Sisters of St. Francis Assisium,English,,﻿at St. Boniface's,,,,﻿Chicago,﻿Chicago,﻿IL,,﻿41.89095906,-87.6695875,,,,,﻿Sister,﻿Frances,,﻿Superior,,﻿religious,﻿2 professed sisters,﻿Sisters of St. Francis Assisium,,1868,﻿,﻿,﻿Chicago,Chicago
+﻿chi.il.0016_02,﻿convent,﻿Convent of the Sisters of St. Francis Assisium,English,,﻿at St. Boniface's,,,,﻿Chicago,﻿Chicago,﻿IL,,﻿41.89095906,-87.6695875,,,,,,,,,,﻿religious,﻿2 postulants,﻿Sisters of St. Francis Assisium,,1868,﻿,﻿,﻿Chicago,Chicago
 ﻿chi.il.0265,﻿convent,﻿Sisters of Charity,English,,,,,,﻿La Salle,﻿Chicago,﻿IL,,﻿41.87942649,-87.6443372,,,,,﻿Sister,﻿Pacifica,,﻿Superior,,,,,,1868,﻿,﻿,﻿Chicago,Chicago
-﻿chi.il.0266,﻿convent,﻿Convent of the Sisters of Charity of the Blessed Virgin Mary,English,,﻿Halstead and Kramer streets,,,,﻿Chicago,﻿Chicago,﻿IL,,﻿41.87761658,-87.81431939,,,,,﻿Sister,﻿Agatha,,﻿Superior,,﻿professed sister,﻿8 professed sisters,,,1868,﻿,﻿,﻿Chicago,Chicago
-﻿chi.il.0091_02,﻿convent,﻿Sisters of Charity,English,,﻿178 Paulina street. At St. Columba's Convent,,,,﻿Chicago,﻿Chicago,﻿IL,,﻿41.88289691,-87.65204781,,,,,﻿Sister,﻿M. Barbara,,﻿Superior,,﻿professed sister,﻿6 professed sisters,﻿Sisters of Charity,,1868,﻿,﻿,﻿Chicago,Chicago
-﻿chi.il.0359,﻿convent,﻿Sisters of St. Francis,English,,,,,,﻿Mendota,,,,,,,,,,﻿Sister,﻿M. Alberta,,﻿Superior,,﻿professed sister,﻿2 professed sisters,,,1868,﻿,﻿,﻿Chicago,Chicago
-﻿chi.il.0370,﻿convent,﻿Sisters of St. Francis,English,,,,,,﻿Joliet,,,,,,,,,,﻿Sister,﻿Alfred,,﻿Superior,,﻿professed sister,﻿4 professed sisters,,,1868,﻿,﻿,﻿Chicago,Chicago
-﻿chi.il.0370,﻿convent,﻿Sisters of St. Francis,English,,,,,,﻿Joliet,,,,,,,,,,,,,,,﻿novice,﻿1 novice,,,1868,﻿,﻿,﻿Chicago,Chicago
-﻿chi.il.0005_02,﻿convent,﻿Sisters of Notre Dame,English,﻿at St. Peter's Church,,,,,,,,,,,,,,,,,,,,﻿professed sister,﻿5 professed sisters,﻿Sisters of Notre Dame,,1868,﻿,﻿,﻿Chicago,Chicago
+﻿chi.il.0266,﻿convent,﻿Convent of the Sisters of Charity of the Blessed Virgin Mary,English,,﻿Halstead and Kramer streets,,,,﻿Chicago,﻿Chicago,﻿IL,,﻿41.87761658,-87.81431939,,,,,﻿Sister,﻿Agatha,,﻿Superior,,﻿religious,﻿8 professed sisters,,,1868,﻿,﻿,﻿Chicago,Chicago
+﻿chi.il.0091_02,﻿convent,﻿Sisters of Charity,English,,﻿178 Paulina street. At St. Columba's Convent,,,,﻿Chicago,﻿Chicago,﻿IL,,﻿41.88289691,-87.65204781,,,,,﻿Sister,﻿M. Barbara,,﻿Superior,,﻿religious,﻿6 professed sisters,﻿Sisters of Charity,,1868,﻿,﻿,﻿Chicago,Chicago
+﻿chi.il.0359,﻿convent,﻿Sisters of St. Francis,English,,,,,,﻿Mendota,,,,,,,,,,﻿Sister,﻿M. Alberta,,﻿Superior,,﻿religious,﻿2 professed sisters,,,1868,﻿,﻿,﻿Chicago,Chicago
+﻿chi.il.0370,﻿convent,﻿Sisters of St. Francis,English,,,,,,﻿Joliet,,,,,,,,,,﻿Sister,﻿Alfred,,﻿Superior,,﻿religious,﻿4 professed sisters,,,1868,﻿,﻿,﻿Chicago,Chicago
+﻿chi.il.0370,﻿convent,﻿Sisters of St. Francis,English,,,,,,﻿Joliet,,,,,,,,,,,,,,,﻿religious,﻿1 novice,,,1868,﻿,﻿,﻿Chicago,Chicago
+﻿chi.il.0005_02,﻿convent,﻿Sisters of Notre Dame,English,﻿at St. Peter's Church,,,,,,,,,,,,,,,,,,,,﻿religious,﻿5 professed sisters,﻿Sisters of Notre Dame,,1868,﻿,﻿,﻿Chicago,Chicago
 ﻿chi.il.0011_02,﻿convent,﻿Sisters of St. Francis,English,﻿at St. Francis' Church,,,,,﻿Chicago,﻿Chicago,﻿IL,,﻿41.89673178,-87.62555666,,,,,,,,,,,,,,1868,﻿,﻿,﻿Chicago,Chicago
-﻿chi.il.362,﻿convent,﻿Sisters of Notre Dame,English,,,,,,﻿Henry,,﻿IL,,,,,,,,﻿Sister,﻿Mélanie,,﻿Superior,,﻿professed sister,﻿2 professed sisters,,,1868,﻿,﻿,﻿Chicago,Chicago
-﻿chi.il.0371,﻿convent,﻿Sisters of Notre Dame,English,,,,,,﻿Kankakee,,,,,,,,,,﻿Sister,﻿Soeur St. Mélanie,,﻿Superior,,﻿professed sister,﻿3 professed sisters,,,1868,﻿,﻿,﻿Chicago,Chicago
+﻿chi.il.362,﻿convent,﻿Sisters of Notre Dame,English,,,,,,﻿Henry,,﻿IL,,,,,,,,﻿Sister,﻿Mélanie,,﻿Superior,,﻿religious,﻿2 professed sisters,,,1868,﻿,﻿,﻿Chicago,Chicago
+﻿chi.il.0371,﻿convent,﻿Sisters of Notre Dame,English,,,,,,﻿Kankakee,,,,,,,,,,﻿Sister,﻿Soeur St. Mélanie,,﻿Superior,,﻿religious,﻿3 professed sisters,,,1868,﻿,﻿,﻿Chicago,Chicago
 ﻿chi.il.0372,﻿convent,﻿Sisters of Notre Dame,English,﻿at Church of Immaculate Conception,,,,,,,,,,,,,,,,,,,,,,,,1868,﻿,﻿,﻿Chicago,Chicago
 ﻿chi.il.0282,﻿school,﻿Cathedral School,English,﻿for girls,,,,,﻿Chicago,﻿La Salle,﻿IL,,﻿41.33869046,-89.09488745,,,,,,,,,,﻿select school,﻿90,﻿Under the Sisters of Charity,,1868,﻿,﻿,﻿Chicago,Chicago
-﻿chi.il.0285,﻿school,﻿St. Mary's School,English,﻿for girls,,,,,﻿Chicago,﻿Chicago,﻿IL,,﻿41.89600177,-87.62763549,,,,,,,,,,﻿pupil,﻿160 pupils,﻿Under Sisters of Mercy,,1868,﻿,﻿,﻿Chicago,Chicago
-﻿chi.il.0284,﻿school,﻿St. Mary's School,English,﻿for boys,,,,,﻿Chicago,﻿Chicago,﻿IL,,﻿41.90207602,-87.6368849,,,,,,,,,,﻿pupil,﻿300 pupils,﻿Under Christian Brothers,,1868,﻿,﻿,﻿Chicago,Chicago
-﻿chi.il.0286,﻿school,﻿St. Patrick's School,English,﻿for boys,,,,,﻿Chicago,﻿Rose Hill,﻿IL,,﻿41.99766847,-87.67935105,,,,,,,,,,﻿pupil,﻿440 pupils,﻿Under the Christian Brothers,,1868,﻿,﻿,﻿Chicago,Chicago
-﻿chi.il.0287,﻿school,﻿St. Patrick's School,English,﻿for girls,,,,,﻿Chicago,﻿Bridgeport,﻿IL,,﻿41.8412344,-87.65887064,,,,,,,,,,﻿pupil,﻿375 pupils,﻿Under the Sisters of Loretto,,1868,﻿,﻿,﻿Chicago,Chicago
-﻿chi.il.0288,﻿school,﻿Holy Family School,English,﻿for boys,,,,,﻿Chicago,﻿Chicago,﻿IL,,﻿41.84572205,-87.61886041,,,,,﻿Brother,﻿O'Neil,﻿S.J.,﻿Superintendent,,﻿lay teacher,﻿10 lay teachers,,,1868,﻿,﻿,﻿Chicago,Chicago
-﻿chi.il.0288,﻿school,﻿Holy Family School,English,﻿for boys,,,,,﻿Chicago,﻿Chicago,﻿IL,,﻿41.84572205,-87.61886041,,,,﻿and_oneil_001,﻿Rev.,﻿A. O'Neil,,﻿Superior,,﻿pupil,﻿1400 pupils,,,1868,﻿,﻿,﻿Chicago,Chicago
-﻿chi.il.0289,﻿school,﻿Holy Family School,English,﻿for girls,,,,,﻿Chicago,﻿Chicago,﻿IL,,﻿41.88215304,-87.62623814,,,,,,,,,,﻿pupil,﻿500 pupils,﻿Under the direction of the Ladies of the Sacred Heart,,1868,﻿,﻿,﻿Chicago,Chicago
-﻿chi.il.0291,﻿school,﻿St. Peter's School,English,﻿for boys,,,,﻿La Salle County,﻿Chicago,﻿Ottawa,﻿IL,,﻿41.3455892,-88.8425769,,,,,,,,,,﻿pupil,﻿100 pupils,﻿Under secular teachers,,1868,﻿,﻿,﻿Chicago,Chicago
-﻿chi.il.0292,﻿school,﻿St. Peter's School,English,﻿for girls,,,,,﻿Chicago,﻿Chicago,﻿IL,,﻿41.89182407,-87.63558595,,,,,,,,,,﻿pupil,﻿300 pupils,﻿Under the Sisters of Notre Dame,,1868,﻿,﻿,﻿Chicago,Chicago
-﻿chi.il.0293,﻿school,﻿St. Michael's School,English,﻿for boys,,,,,﻿Chicago,,,,,,,,,,,,,,,﻿pupil,﻿500 pupils,﻿Under secular teachers,,1868,﻿,﻿,﻿Chicago,Chicago
-﻿chi.il.0294,﻿school,﻿St. Michael's School,English,﻿for girls,,,,,﻿Chicago,,,,,,,,,,,,,,,﻿pupil,﻿600 pupils,﻿Under the Sisters of Notre Dame,,1868,﻿,﻿,﻿Chicago,Chicago
-﻿chi.il.0295,﻿school,﻿St. Joseph's School,English,﻿for boys,,,,,﻿Chicago,,,,,,,,,,,,,,,﻿pupil,﻿250 pupils,﻿Under lay teachers,,1868,﻿,﻿,﻿Chicago,Chicago
-﻿chi.il.0296,﻿school,﻿St. Joseph's School,English,﻿for girls,,,,,﻿Chicago,,,,,,,,,,,,,,,﻿pupil,﻿200 pupils,﻿Under the Sisters of St. Benedict,,1868,﻿,﻿,﻿Chicago,Chicago
-﻿chi.il.0297,﻿school,﻿St. John's School,English,﻿for boys,,,,,﻿Chicago,,,,,,,,,,,,,,,﻿pupil,﻿200 pupils,﻿Under lay teachers,,1868,﻿,﻿,﻿Chicago,Chicago
-﻿chi.il.0298,﻿school,﻿St. John's School,English,﻿for girls,,,,,﻿Chicago,,,,,,,,,,,,,,,﻿pupil,﻿250 pupils,﻿Under the Sisters of Mercy,,1868,﻿,﻿,﻿Chicago,Chicago
-﻿chi.il.0299,﻿school,﻿St. Francis' School,English,﻿for boys,,,,,﻿Chicago,,,,,,,,,,,,,,,﻿pupil,﻿300 pupils,﻿Under lay teachers,,1868,﻿,﻿,﻿Chicago,Chicago
-﻿chi.il.0300,﻿school,﻿St. Columbkille's School,English,,,,,,﻿Chicago,,,,,,,,,,,,,,,﻿pupil,﻿300 pupils,﻿Sisters of Charity,,1868,﻿,﻿,﻿Chicago,Chicago
-﻿chi.il.0301,﻿school,﻿St. James' School,English,﻿for boys and girls,,,,,﻿Chicago,,,,,,,,,,,,,,,﻿pupil,﻿250 pupils,﻿Under the Sisters of Mercy,,1868,﻿,﻿,﻿Chicago,Chicago
-﻿chi.il.0004_02&0004_03,﻿school,﻿St. Stanislaus' and St. Aloysius' School,English,,﻿Church of the Holy Family,,,,﻿Chicago,,,,,,,,,,,,,,,﻿pupil,﻿700 pupils,﻿Under the Sisters of Charity of the Blessed Virgin Mary,,1868,﻿,﻿,﻿Chicago,Chicago
-﻿chi.il.0303,﻿school,﻿St. Francis' School,English,﻿for girls,,,,,﻿Chicago,,,,,,,,,,,,,,,﻿pupil,﻿350 pupils,﻿Under the Sisters of St. Francis,,1868,﻿,﻿,﻿Chicago,Chicago
-﻿chi.il.365,﻿school,not recorded,English,"﻿for boys, two schools, 120 and girls, two schools, 200",﻿Parochial Schools,,,,﻿Bloomington,,,,,,,,,,,,,,,﻿pupil,﻿200 pupils,﻿Under the Sisters of St. Joseph,,1868,﻿,﻿,﻿Chicago,Chicago
+﻿chi.il.0285,﻿school,﻿St. Mary's School,English,﻿for girls,,,,,﻿Chicago,﻿Chicago,﻿IL,,﻿41.89600177,-87.62763549,,,,,,,,,,﻿student,﻿160 pupils,﻿Under Sisters of Mercy,,1868,﻿,﻿,﻿Chicago,Chicago
+﻿chi.il.0284,﻿school,﻿St. Mary's School,English,﻿for boys,,,,,﻿Chicago,﻿Chicago,﻿IL,,﻿41.90207602,-87.6368849,,,,,,,,,,﻿student,﻿300 pupils,﻿Under Christian Brothers,,1868,﻿,﻿,﻿Chicago,Chicago
+﻿chi.il.0286,﻿school,﻿St. Patrick's School,English,﻿for boys,,,,,﻿Chicago,﻿Rose Hill,﻿IL,,﻿41.99766847,-87.67935105,,,,,,,,,,﻿student,﻿440 pupils,﻿Under the Christian Brothers,,1868,﻿,﻿,﻿Chicago,Chicago
+﻿chi.il.0287,﻿school,﻿St. Patrick's School,English,﻿for girls,,,,,﻿Chicago,﻿Bridgeport,﻿IL,,﻿41.8412344,-87.65887064,,,,,,,,,,﻿student,﻿375 pupils,﻿Under the Sisters of Loretto,,1868,﻿,﻿,﻿Chicago,Chicago
+﻿chi.il.0288,﻿school,﻿Holy Family School,English,﻿for boys,,,,,﻿Chicago,﻿Chicago,﻿IL,,﻿41.84572205,-87.61886041,,,,,﻿Brother,﻿O'Neil,﻿S.J.,﻿Superintendent,,﻿teacher,﻿10 lay teachers,,,1868,﻿,﻿,﻿Chicago,Chicago
+﻿chi.il.0288,﻿school,﻿Holy Family School,English,﻿for boys,,,,,﻿Chicago,﻿Chicago,﻿IL,,﻿41.84572205,-87.61886041,,,,﻿and_oneil_001,﻿Rev.,﻿A. O'Neil,,﻿Superior,,﻿student,﻿1400 pupils,,,1868,﻿,﻿,﻿Chicago,Chicago
+﻿chi.il.0289,﻿school,﻿Holy Family School,English,﻿for girls,,,,,﻿Chicago,﻿Chicago,﻿IL,,﻿41.88215304,-87.62623814,,,,,,,,,,﻿student,﻿500 pupils,﻿Under the direction of the Ladies of the Sacred Heart,,1868,﻿,﻿,﻿Chicago,Chicago
+﻿chi.il.0291,﻿school,﻿St. Peter's School,English,﻿for boys,,,,﻿La Salle County,﻿Chicago,﻿Ottawa,﻿IL,,﻿41.3455892,-88.8425769,,,,,,,,,,﻿student,﻿100 pupils,﻿Under secular teachers,,1868,﻿,﻿,﻿Chicago,Chicago
+﻿chi.il.0292,﻿school,﻿St. Peter's School,English,﻿for girls,,,,,﻿Chicago,﻿Chicago,﻿IL,,﻿41.89182407,-87.63558595,,,,,,,,,,﻿student,﻿300 pupils,﻿Under the Sisters of Notre Dame,,1868,﻿,﻿,﻿Chicago,Chicago
+﻿chi.il.0293,﻿school,﻿St. Michael's School,English,﻿for boys,,,,,﻿Chicago,,,,,,,,,,,,,,,﻿student,﻿500 pupils,﻿Under secular teachers,,1868,﻿,﻿,﻿Chicago,Chicago
+﻿chi.il.0294,﻿school,﻿St. Michael's School,English,﻿for girls,,,,,﻿Chicago,,,,,,,,,,,,,,,﻿student,﻿600 pupils,﻿Under the Sisters of Notre Dame,,1868,﻿,﻿,﻿Chicago,Chicago
+﻿chi.il.0295,﻿school,﻿St. Joseph's School,English,﻿for boys,,,,,﻿Chicago,,,,,,,,,,,,,,,﻿student,﻿250 pupils,﻿Under lay teachers,,1868,﻿,﻿,﻿Chicago,Chicago
+﻿chi.il.0296,﻿school,﻿St. Joseph's School,English,﻿for girls,,,,,﻿Chicago,,,,,,,,,,,,,,,﻿student,﻿200 pupils,﻿Under the Sisters of St. Benedict,,1868,﻿,﻿,﻿Chicago,Chicago
+﻿chi.il.0297,﻿school,﻿St. John's School,English,﻿for boys,,,,,﻿Chicago,,,,,,,,,,,,,,,﻿student,﻿200 pupils,﻿Under lay teachers,,1868,﻿,﻿,﻿Chicago,Chicago
+﻿chi.il.0298,﻿school,﻿St. John's School,English,﻿for girls,,,,,﻿Chicago,,,,,,,,,,,,,,,﻿student,﻿250 pupils,﻿Under the Sisters of Mercy,,1868,﻿,﻿,﻿Chicago,Chicago
+﻿chi.il.0299,﻿school,﻿St. Francis' School,English,﻿for boys,,,,,﻿Chicago,,,,,,,,,,,,,,,﻿student,﻿300 pupils,﻿Under lay teachers,,1868,﻿,﻿,﻿Chicago,Chicago
+﻿chi.il.0300,﻿school,﻿St. Columbkille's School,English,,,,,,﻿Chicago,,,,,,,,,,,,,,,﻿student,﻿300 pupils,﻿Sisters of Charity,,1868,﻿,﻿,﻿Chicago,Chicago
+﻿chi.il.0301,﻿school,﻿St. James' School,English,﻿for boys and girls,,,,,﻿Chicago,,,,,,,,,,,,,,,﻿student,﻿250 pupils,﻿Under the Sisters of Mercy,,1868,﻿,﻿,﻿Chicago,Chicago
+﻿chi.il.0004_02&0004_03,﻿school,﻿St. Stanislaus' and St. Aloysius' School,English,,﻿Church of the Holy Family,,,,﻿Chicago,,,,,,,,,,,,,,,﻿student,﻿700 pupils,﻿Under the Sisters of Charity of the Blessed Virgin Mary,,1868,﻿,﻿,﻿Chicago,Chicago
+﻿chi.il.0303,﻿school,﻿St. Francis' School,English,﻿for girls,,,,,﻿Chicago,,,,,,,,,,,,,,,﻿student,﻿350 pupils,﻿Under the Sisters of St. Francis,,1868,﻿,﻿,﻿Chicago,Chicago
+﻿chi.il.365,﻿school,not recorded,English,"﻿for boys, two schools, 120 and girls, two schools, 200",﻿Parochial Schools,,,,﻿Bloomington,,,,,,,,,,,,,,,﻿student,﻿200 pupils,﻿Under the Sisters of St. Joseph,,1868,﻿,﻿,﻿Chicago,Chicago
 ﻿chi.il.0305,﻿school,not recorded,English,"﻿for boys and girls. Two schools, 40 and 45",﻿Parochial school,,,,﻿Bourbonnais Grove,,,,,,,,,,,,,,,,,﻿Under the Sisters of the Congregation,,1868,﻿,﻿,﻿Chicago,Chicago
-﻿chi.il.0306,﻿school,not recorded,﻿German,﻿for boys and girls,﻿Parochial schools,,,,﻿Freeport,,,,,,,,,,,,,,,﻿pupil,﻿125 pupils,﻿Under lay teachers,,1868,﻿,﻿,﻿Chicago,Chicago
-﻿chi.il.0307,﻿school,not recorded,﻿German,﻿for boys and girls,﻿Parochial schools,,,,﻿Galena,,,,,,,,,,,,,,,﻿pupil,﻿175 pupils,﻿Under lay teachers,,1868,﻿,﻿,﻿Chicago,Chicago
-﻿chi.il.0308,﻿school,not recorded,﻿German,﻿for boys,﻿Parochial schools,,,,﻿Henry,,,,,,,,,,,,,,,﻿pupil,﻿94 pupils,﻿Under lay teachers,,1868,﻿,﻿,﻿Chicago,Chicago
-﻿chi.il.0309,﻿school,not recorded,English,,﻿Parochial schools,,,,﻿Henry,,,,,,,,,,,,,,,﻿pupil,﻿100 pupils,﻿Under the Sisters of Notre Dame,,1868,﻿,﻿,﻿Chicago,Chicago
-﻿chi.il.0310,﻿school,not recorded,English,﻿for boys and girls,﻿Parochial schools,,,,﻿Joliet,,,,,,,,,,,,,,,﻿pupil,﻿190 pupils,﻿Under the Sisters of the Holy Cross,,1868,﻿,﻿,﻿Chicago,Chicago
-﻿chi.il.0311,﻿school,not recorded,﻿German,﻿for boys,﻿Parochial school,,,,﻿Joliet,,,,,,,,,,,,,,,﻿pupil,﻿65 pupils,﻿Under lay teachers,,1868,﻿,﻿,﻿Chicago,Chicago
-﻿chi.il.0312,﻿school,not recorded,﻿German,﻿for girls,﻿Parochial school,,,,﻿Joliet,,,,,,,,,,,,,,,﻿pupil,﻿75 pupils,﻿Under the Sisters of St. Francis,,1868,﻿,﻿,﻿Chicago,Chicago
-﻿chi.il.0313,﻿school,not recorded,﻿German,﻿for girls,﻿Parochial school,,,,﻿Joliet,,,,,,,,,,,,,,,﻿pupil,﻿70 pupils,﻿Under the Sisters of St. Francis,,1868,﻿,﻿,﻿Chicago,Chicago
-﻿chi.il.0314,﻿school,not recorded,English,﻿for boys and girls,﻿Parochial school,,,,﻿Kickapoo,,,,,,,,,,,,,,,﻿pupil,﻿89 pupils,﻿Under the Sisters of St. Francis,,1868,﻿,﻿,﻿Chicago,Chicago
-﻿chi.il.0315,﻿school,not recorded,English,﻿for boys and girls,﻿Parochial schools,,,,﻿Morris,,,,,,,,,,,,,,,﻿pupil,﻿90 pupils,﻿Under the Sisters of the Holy Cross,,1868,﻿,﻿,﻿Chicago,Chicago
-﻿chi.il.0316,﻿school,not recorded,English,﻿for boys and girls,﻿Parochial schools,,,,﻿Nauvoo,,,,,,,,,,,,,,,﻿pupil,﻿70 pupils,﻿Under lay teachers,,1868,﻿,﻿,﻿Chicago,Chicago
-﻿chi.il.0317,﻿school,not recorded,English,﻿for boys and girls,﻿Parochial schools,,,,﻿Naperville,,,,,,,,,,,,,,,﻿pupil,﻿75 pupils,﻿Under lay teachers,,1868,﻿,﻿,﻿Chicago,Chicago
-﻿chi.il.0318,﻿school,not recorded,English,﻿for boys and girls,﻿Parochial schools,,,,﻿Ottawa,,,,,,,,,,,,,,,﻿pupil,﻿800 pupils,﻿Under the Sisters of Mercy and Christian Brothers,,1868,﻿,﻿,﻿Chicago,Chicago
-﻿chi.il.0094_02,﻿school,not recorded,English,﻿for boys and girls,﻿Parochial schools,,,,﻿Peoria,,,,,,,,,,,,,,,﻿pupil,﻿130 pupils,﻿Under the Sisters of Mercy and St. Joseph,,1868,﻿,﻿,﻿Chicago,Chicago
-﻿chi.il.0320,﻿school,not recorded,﻿German,﻿for boys and girls. German church.,﻿Parochial schools,,,,﻿Peoria,,,,,,,,,,,,,,,﻿pupil,﻿130 pupils,﻿Under lay teachers,,1868,﻿,﻿,﻿Chicago,Chicago
-﻿chi.il.0321,﻿school,not recorded,English,﻿for boys and girls,﻿Parochial schools,,,,﻿Peru,,,,,,,,,,,,,,,﻿pupil,﻿110 pupils,﻿Under lay teachers,,1868,﻿,﻿,﻿Chicago,Chicago
-﻿chi.il.0322,﻿school,not recorded,English,﻿for boys and girls,﻿Parochial schools,,,,﻿Rockford,,,,,,,,,,,,,,,﻿pupil,﻿300 pupils,﻿Under lay teachers,,1868,﻿,﻿,﻿Chicago,Chicago
-﻿chi.il.0323,﻿school,not recorded,English,﻿for boys and girls,﻿Parochial schools,,,,﻿La Salle,,,,,,,,,,,,,,,﻿pupil,﻿400 pupils,﻿Under the Sisters of Charity and Christian Brothers,,1868,﻿,﻿,﻿Chicago,Chicago
-﻿chi.il.0324,﻿school,not recorded,English,﻿for boys and girls,﻿Parochial schools,,,,﻿Sterling,,,,,,,,,,,,,,,﻿pupil,﻿98 pupils,﻿Under lay teachers,,1868,﻿,﻿,﻿Chicago,Chicago
-﻿chi.il.0325,﻿school,not recorded,English,﻿for boys and girls,﻿Parochial schools,,,,﻿Waukeegan,,,,,,,,,,,,,,,﻿pupil,﻿280 pupils,﻿Under lay teachers,,1868,﻿,﻿,﻿Chicago,Chicago
-﻿chi.il.0326,﻿asylum,﻿Magdalen Asylum,English,,﻿North Market Street,,,,,,,,,,,,,,﻿Mother,﻿Mary,﻿of the Nativity,﻿Superior,,﻿penitent,﻿63 penitents,﻿Conducted by the Religious of the Good Shepherd,,1868,﻿,﻿,﻿Chicago,Chicago
+﻿chi.il.0306,﻿school,not recorded,﻿German,﻿for boys and girls,﻿Parochial schools,,,,﻿Freeport,,,,,,,,,,,,,,,﻿student,﻿125 pupils,﻿Under lay teachers,,1868,﻿,﻿,﻿Chicago,Chicago
+﻿chi.il.0307,﻿school,not recorded,﻿German,﻿for boys and girls,﻿Parochial schools,,,,﻿Galena,,,,,,,,,,,,,,,﻿student,﻿175 pupils,﻿Under lay teachers,,1868,﻿,﻿,﻿Chicago,Chicago
+﻿chi.il.0308,﻿school,not recorded,﻿German,﻿for boys,﻿Parochial schools,,,,﻿Henry,,,,,,,,,,,,,,,﻿student,﻿94 pupils,﻿Under lay teachers,,1868,﻿,﻿,﻿Chicago,Chicago
+﻿chi.il.0309,﻿school,not recorded,English,,﻿Parochial schools,,,,﻿Henry,,,,,,,,,,,,,,,﻿student,﻿100 pupils,﻿Under the Sisters of Notre Dame,,1868,﻿,﻿,﻿Chicago,Chicago
+﻿chi.il.0310,﻿school,not recorded,English,﻿for boys and girls,﻿Parochial schools,,,,﻿Joliet,,,,,,,,,,,,,,,﻿student,﻿190 pupils,﻿Under the Sisters of the Holy Cross,,1868,﻿,﻿,﻿Chicago,Chicago
+﻿chi.il.0311,﻿school,not recorded,﻿German,﻿for boys,﻿Parochial school,,,,﻿Joliet,,,,,,,,,,,,,,,﻿student,﻿65 pupils,﻿Under lay teachers,,1868,﻿,﻿,﻿Chicago,Chicago
+﻿chi.il.0312,﻿school,not recorded,﻿German,﻿for girls,﻿Parochial school,,,,﻿Joliet,,,,,,,,,,,,,,,﻿student,﻿75 pupils,﻿Under the Sisters of St. Francis,,1868,﻿,﻿,﻿Chicago,Chicago
+﻿chi.il.0313,﻿school,not recorded,﻿German,﻿for girls,﻿Parochial school,,,,﻿Joliet,,,,,,,,,,,,,,,﻿student,﻿70 pupils,﻿Under the Sisters of St. Francis,,1868,﻿,﻿,﻿Chicago,Chicago
+﻿chi.il.0314,﻿school,not recorded,English,﻿for boys and girls,﻿Parochial school,,,,﻿Kickapoo,,,,,,,,,,,,,,,﻿student,﻿89 pupils,﻿Under the Sisters of St. Francis,,1868,﻿,﻿,﻿Chicago,Chicago
+﻿chi.il.0315,﻿school,not recorded,English,﻿for boys and girls,﻿Parochial schools,,,,﻿Morris,,,,,,,,,,,,,,,﻿student,﻿90 pupils,﻿Under the Sisters of the Holy Cross,,1868,﻿,﻿,﻿Chicago,Chicago
+﻿chi.il.0316,﻿school,not recorded,English,﻿for boys and girls,﻿Parochial schools,,,,﻿Nauvoo,,,,,,,,,,,,,,,﻿student,﻿70 pupils,﻿Under lay teachers,,1868,﻿,﻿,﻿Chicago,Chicago
+﻿chi.il.0317,﻿school,not recorded,English,﻿for boys and girls,﻿Parochial schools,,,,﻿Naperville,,,,,,,,,,,,,,,﻿student,﻿75 pupils,﻿Under lay teachers,,1868,﻿,﻿,﻿Chicago,Chicago
+﻿chi.il.0318,﻿school,not recorded,English,﻿for boys and girls,﻿Parochial schools,,,,﻿Ottawa,,,,,,,,,,,,,,,﻿student,﻿800 pupils,﻿Under the Sisters of Mercy and Christian Brothers,,1868,﻿,﻿,﻿Chicago,Chicago
+﻿chi.il.0094_02,﻿school,not recorded,English,﻿for boys and girls,﻿Parochial schools,,,,﻿Peoria,,,,,,,,,,,,,,,﻿student,﻿130 pupils,﻿Under the Sisters of Mercy and St. Joseph,,1868,﻿,﻿,﻿Chicago,Chicago
+﻿chi.il.0320,﻿school,not recorded,﻿German,﻿for boys and girls. German church.,﻿Parochial schools,,,,﻿Peoria,,,,,,,,,,,,,,,﻿student,﻿130 pupils,﻿Under lay teachers,,1868,﻿,﻿,﻿Chicago,Chicago
+﻿chi.il.0321,﻿school,not recorded,English,﻿for boys and girls,﻿Parochial schools,,,,﻿Peru,,,,,,,,,,,,,,,﻿student,﻿110 pupils,﻿Under lay teachers,,1868,﻿,﻿,﻿Chicago,Chicago
+﻿chi.il.0322,﻿school,not recorded,English,﻿for boys and girls,﻿Parochial schools,,,,﻿Rockford,,,,,,,,,,,,,,,﻿student,﻿300 pupils,﻿Under lay teachers,,1868,﻿,﻿,﻿Chicago,Chicago
+﻿chi.il.0323,﻿school,not recorded,English,﻿for boys and girls,﻿Parochial schools,,,,﻿La Salle,,,,,,,,,,,,,,,﻿student,﻿400 pupils,﻿Under the Sisters of Charity and Christian Brothers,,1868,﻿,﻿,﻿Chicago,Chicago
+﻿chi.il.0324,﻿school,not recorded,English,﻿for boys and girls,﻿Parochial schools,,,,﻿Sterling,,,,,,,,,,,,,,,﻿student,﻿98 pupils,﻿Under lay teachers,,1868,﻿,﻿,﻿Chicago,Chicago
+﻿chi.il.0325,﻿school,not recorded,English,﻿for boys and girls,﻿Parochial schools,,,,﻿Waukeegan,,,,,,,,,,,,,,,﻿student,﻿280 pupils,﻿Under lay teachers,,1868,﻿,﻿,﻿Chicago,Chicago
+﻿chi.il.0326,﻿asylum,﻿Magdalen Asylum,English,,﻿North Market Street,,,,,,,,,,,,,,﻿Mother,﻿Mary,﻿of the Nativity,﻿Superior,,﻿layperson,﻿63 penitents,﻿Conducted by the Religious of the Good Shepherd,,1868,﻿,﻿,﻿Chicago,Chicago
 ﻿chi.il.0326,﻿asylum,﻿Magdalen Asylum,English,,﻿North Market Street,,,,,,,,,,,,,,,,,,,﻿industrial school,﻿12 (students?),﻿Conducted by the Religious of the Good Shepherd,,1868,﻿,﻿,﻿Chicago,Chicago
 ﻿chi.il.0327,﻿asylum,﻿St. Mary's and St. Joseph's Orphan Asylum,English,﻿for boys and girls,﻿Corner of North State and Superior streets,,,,,,,,,,,,,,,,,,,﻿number (of penitents?),﻿200,﻿Under the charge of the Sisters of St. Joseph,,1868,﻿,﻿,﻿Chicago,Chicago
 ﻿chi.il.0329,"﻿asylum, school",﻿Chicago Reform and Industrial School,English,﻿Chartered by the State Legislature.,,,,,﻿Situated in Bridgeport,,,,,,,,,,,,,,,,,﻿Conducted by the Christian Brothers,,1868,﻿,﻿,﻿Chicago,Chicago
 ﻿chi.il.0330,﻿hospital,﻿Mercy Hospital,English,"﻿New hospital completed. Cost $75,000.",﻿Corner of Calumet avenue and Twenty-sixth street,,,,,,,,,,,,,,﻿Mother,﻿M. Borromeo,,﻿Directress,,﻿patient,﻿60 patients,﻿Under the charge of the Sisters of Mercy,,1868,﻿,﻿,﻿Chicago,Chicago
-﻿chi.il.0332,﻿house,﻿House of Providence,English,,,,,,,,,,,,,,,,,,,,,﻿inmate,﻿30 inmates,﻿In charge of the Sisters of Mercy,,1868,﻿,﻿,﻿Chicago,Chicago
+﻿chi.il.0332,﻿house,﻿House of Providence,English,,,,,,,,,,,,,,,,,,,,,﻿patient,﻿30 inmates,﻿In charge of the Sisters of Mercy,,1868,﻿,﻿,﻿Chicago,Chicago
 ﻿chi.il.0333,﻿asylum,﻿St. Vincent's Orphan Asylum,English,,,,,,﻿La Salle,,,,,,,,,,,,,,,,,﻿Under the charge of the Sisters of Charity,,1868,﻿,﻿,﻿Chicago,Chicago
 ﻿chi.il.0334,﻿asylum,﻿St. Joseph's Orphan Asylum,English,,,,,,﻿Ottawa,,,,,,,,,,,,,,,,,﻿Under the charge of the Sisters of Mercy,,1868,﻿,﻿,﻿Chicago,Chicago
 ﻿chi.il.0335,﻿hospital,not recorded,English,,﻿Corner of Dearborn and Schiller streets,,,,,,,,,,,,,,,,,,,,,﻿Conducted by the Alexian Brothers,,1868,﻿,﻿,﻿Chicago,Chicago
