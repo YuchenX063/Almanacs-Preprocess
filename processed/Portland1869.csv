@@ -1,78 +1,78 @@
 ﻿instID,church_type,instName,language,instNote,placeName,region,county_orig,county_reg,city_orig,city_reg,state_orig,state_reg,latitude,longitude,attendingInstID,attendingChurch,attendingChurchFrequency,persID,persTitle,persName,persSuffix,persRole,persNote,memberType,member,affiliated,order,year,attendingPersID,attendingChurchNote,diocese,diocese_reg
-﻿por.me.0001,﻿cathedral,﻿Cathedral Chapel of the Immaculate Conception,English,"﻿The Cathedral, which is being built, will probably be dedicated during the year in honor of the Immaculate Conception of the Blessed Virgin MAry",,,,,﻿Portland,﻿Portland,﻿ME,,,,,,,,﻿Rt. Rev.,﻿D. W. Bacon,﻿D.D.,,,,,,,1869,﻿,﻿,﻿Portland,Portland
+﻿por.me.0001,﻿cathedral,﻿Cathedral Chapel of the Immaculate Conception,English,"﻿The Cathedral, which is being built, will probably be dedicated during the year in honor of the Immaculate Conception of the Blessed Virgin MAry",,,,,﻿Portland,﻿Portland,﻿ME,,,,,,,﻿d_w_bacon_001,﻿Rt. Rev.,﻿D. W. Bacon,﻿D.D.,,,,,,,1869,﻿,﻿,﻿Portland,Portland
 ﻿por.me.0001,﻿cathedral,﻿Cathedral Chapel of the Immaculate Conception,English,"﻿The Cathedral, which is being built, will probably be dedicated during the year in honor of the Immaculate Conception of the Blessed Virgin MAry",,,,,﻿Portland,﻿Portland,﻿ME,,,,,,,﻿joh_de-rose_001,﻿Rev.,﻿John A. De Rose,,,,,,,,1869,﻿,﻿,﻿Portland,Portland
-﻿por.me.0001,﻿cathedral,﻿Cathedral Chapel of the Immaculate Conception,English,"﻿The Cathedral, which is being built, will probably be dedicated during the year in honor of the Immaculate Conception of the Blessed Virgin MAry",,,,,﻿Portland,﻿Portland,﻿ME,,,,,,,,﻿Rev.,﻿John Murphy,,,,,,,,1869,﻿,﻿,﻿Portland,Portland
-﻿por.me.0001,﻿cathedral,﻿Cathedral Chapel of the Immaculate Conception,English,"﻿The Cathedral, which is being built, will probably be dedicated during the year in honor of the Immaculate Conception of the Blessed Virgin MAry",,,,,﻿Portland,﻿Portland,﻿ME,,,,,,,,﻿Rev.,﻿Michael O'Brien,,,,,,,,1869,﻿,﻿,﻿Portland,Portland
-﻿por.me.0001,﻿cathedral,﻿Cathedral Chapel of the Immaculate Conception,English,"﻿The Cathedral, which is being built, will probably be dedicated during the year in honor of the Immaculate Conception of the Blessed Virgin MAry",,,,,﻿Portland,﻿Portland,﻿ME,,,,,,,,﻿Rev.,﻿Louis Mussaers,,,,,,,,1869,﻿,﻿,﻿Portland,Portland
-﻿por.me.0002,﻿church,﻿St. Dominick's Church,English,,,,,,﻿Portland,﻿Portland,﻿ME,,,,,,,,﻿Rev.,﻿Michael O'Brien,,,,,,,,1869,﻿,﻿,﻿Portland,Portland
-﻿por.me.0002,﻿church,﻿St. Dominick's Church,English,,,,,,﻿Portland,﻿Portland,﻿ME,,,,,,,,﻿Rev.,﻿Louis Mussaers,,,,,,,,1869,﻿,﻿,﻿Portland,Portland
-﻿por.me.0003,﻿chapel,﻿Calvary Chapel,English,,,,,,﻿Portland,﻿Portland,﻿ME,,,,﻿por.me.0002,﻿attended from St. Dominick's Church,,,﻿Rev.,﻿M. O'Brien,,,,,,,,1869,﻿,﻿,﻿Portland,Portland
-﻿por.me.0004,﻿chapel,﻿St. Aloysius' Chapel,English,,,,,,﻿Portland,﻿Portland,﻿ME,,,,,,,,﻿Rev.,﻿John Murphy,,,,,,,,1869,﻿,﻿,﻿Portland,Portland
-﻿por.me.0005,﻿chapel,﻿Convent Chapel,English,,,,,,﻿Portland,﻿Portland,﻿ME,,,,,,,,﻿Rev.,﻿John Murphy,,,,,,,,1869,﻿,﻿,﻿Portland,Portland
-﻿por.me.0006,﻿church,﻿St. Mary's,English,,,,,,﻿Augusta,﻿Augusta,﻿ME,,,,,,,,﻿Rev.,﻿Charles Egan,,,,,,,,1869,﻿,﻿,﻿Portland,Portland
+﻿por.me.0001,﻿cathedral,﻿Cathedral Chapel of the Immaculate Conception,English,"﻿The Cathedral, which is being built, will probably be dedicated during the year in honor of the Immaculate Conception of the Blessed Virgin MAry",,,,,﻿Portland,﻿Portland,﻿ME,,,,,,,﻿joh_murphy_001,﻿Rev.,﻿John Murphy,,,,,,,,1869,﻿,﻿,﻿Portland,Portland
+﻿por.me.0001,﻿cathedral,﻿Cathedral Chapel of the Immaculate Conception,English,"﻿The Cathedral, which is being built, will probably be dedicated during the year in honor of the Immaculate Conception of the Blessed Virgin MAry",,,,,﻿Portland,﻿Portland,﻿ME,,,,,,,﻿mic_obrien_003,﻿Rev.,﻿Michael O'Brien,,,,,,,,1869,﻿,﻿,﻿Portland,Portland
+﻿por.me.0001,﻿cathedral,﻿Cathedral Chapel of the Immaculate Conception,English,"﻿The Cathedral, which is being built, will probably be dedicated during the year in honor of the Immaculate Conception of the Blessed Virgin MAry",,,,,﻿Portland,﻿Portland,﻿ME,,,,,,,﻿lou_mussaers_001,﻿Rev.,﻿Louis Mussaers,,,,,,,,1869,﻿,﻿,﻿Portland,Portland
+﻿por.me.0002,﻿church,﻿St. Dominick's Church,English,,,,,,﻿Portland,﻿Portland,﻿ME,,,,,,,﻿mic_obrien_003,﻿Rev.,﻿Michael O'Brien,,,,,,,,1869,﻿,﻿,﻿Portland,Portland
+﻿por.me.0002,﻿church,﻿St. Dominick's Church,English,,,,,,﻿Portland,﻿Portland,﻿ME,,,,,,,﻿lou_mussaers_001,﻿Rev.,﻿Louis Mussaers,,,,,,,,1869,﻿,﻿,﻿Portland,Portland
+﻿por.me.0003,﻿chapel,﻿Calvary Chapel,English,,,,,,﻿Portland,﻿Portland,﻿ME,,,,﻿por.me.0002,﻿attended from St. Dominick's Church,,﻿m_obrien_001,﻿Rev.,﻿M. O'Brien,,,,,,,,1869,﻿,﻿,﻿Portland,Portland
+﻿por.me.0004,﻿chapel,﻿St. Aloysius' Chapel,English,,,,,,﻿Portland,﻿Portland,﻿ME,,,,,,,﻿joh_murphy_001,﻿Rev.,﻿John Murphy,,,,,,,,1869,﻿,﻿,﻿Portland,Portland
+﻿por.me.0005,﻿chapel,﻿Convent Chapel,English,,,,,,﻿Portland,﻿Portland,﻿ME,,,,,,,﻿joh_murphy_001,﻿Rev.,﻿John Murphy,,,,,,,,1869,﻿,﻿,﻿Portland,Portland
+﻿por.me.0006,﻿church,﻿St. Mary's,English,,,,,,﻿Augusta,﻿Augusta,﻿ME,,,,,,,﻿cha_egan_001,﻿Rev.,﻿Charles Egan,,,,,,,,1869,﻿,﻿,﻿Portland,Portland
 ﻿por.me.0007,﻿church,﻿St. John's,English,,,,,,﻿Bangor,﻿Bangor,﻿ME,,,,,,,﻿eug_vetromile_001,﻿Rev.,﻿Eugene Vetromile,,,,,,,,1869,﻿,﻿,﻿Portland,Portland
-﻿por.me.0007,﻿church,﻿St. John's,English,,,,,,﻿Bangor,﻿Bangor,﻿ME,,,,,,,,﻿Rev.,﻿F. Clement Mussaers,,,,,,,,1869,﻿,﻿,﻿Portland,Portland
-﻿por.me.0008,﻿church,﻿St. Mary's,English,,,,,,﻿Bath,﻿Bath,﻿ME,,,,,,,,﻿Rev.,﻿Luke F. Bartley,,,,,,,,1869,﻿,﻿,﻿Portland,Portland
-﻿por.me.0009,﻿church,﻿St. Benedict's,English,,,,,,﻿Benedicta,﻿Benedicta,﻿ME,,,,,,,,﻿Rev.,﻿John Brady,,,,,,,,1869,﻿,﻿,﻿Portland,Portland
-﻿por.me.0010,﻿church,not recorded,English,,,,,,﻿Belfast,﻿Belfast,﻿ME,,,,,,,,﻿Rev.,﻿Louis l'Hiver,,,,,,,,1869,﻿,﻿,﻿Portland,Portland
-﻿por.me.0011,﻿church,not recorded,English,,,,,,﻿Bucksport,﻿Bucksport,﻿ME,,,,,,,,﻿Rev.,﻿John Imasso,,,,,,,,1869,﻿,﻿,﻿Portland,Portland
-﻿por.me.0012,﻿church,﻿Immaculate Conception,English,,,,,,﻿Biddeford,﻿Biddeford,﻿ME,,,,,,,,﻿Rev.,﻿Eugene Müller,,,,,,,,1869,﻿,﻿,﻿Portland,Portland
+﻿por.me.0007,﻿church,﻿St. John's,English,,,,,,﻿Bangor,﻿Bangor,﻿ME,,,,,,,﻿f_c_mussaers_001,﻿Rev.,﻿F. Clement Mussaers,,,,,,,,1869,﻿,﻿,﻿Portland,Portland
+﻿por.me.0008,﻿church,﻿St. Mary's,English,,,,,,﻿Bath,﻿Bath,﻿ME,,,,,,,﻿luk_f_bartley_001,﻿Rev.,﻿Luke F. Bartley,,,,,,,,1869,﻿,﻿,﻿Portland,Portland
+﻿por.me.0009,﻿church,﻿St. Benedict's,English,,,,,,﻿Benedicta,﻿Benedicta,﻿ME,,,,,,,﻿joh_brady_003,﻿Rev.,﻿John Brady,,,,,,,,1869,﻿,﻿,﻿Portland,Portland
+﻿por.me.0010,﻿church,not recorded,English,,,,,,﻿Belfast,﻿Belfast,﻿ME,,,,,,,﻿lou_lhiver_001,﻿Rev.,﻿Louis l'Hiver,,,,,,,,1869,﻿,﻿,﻿Portland,Portland
+﻿por.me.0011,﻿church,not recorded,English,,,,,,﻿Bucksport,﻿Bucksport,﻿ME,,,,,,,﻿joh_imasso_001,﻿Rev.,﻿John Imasso,,,,,,,,1869,﻿,﻿,﻿Portland,Portland
+﻿por.me.0012,﻿church,﻿Immaculate Conception,English,,,,,,﻿Biddeford,﻿Biddeford,﻿ME,,,,,,,﻿eug_müller_001,﻿Rev.,﻿Eugene Müller,,,,,,,,1869,﻿,﻿,﻿Portland,Portland
 ﻿por.me.0012,﻿church,﻿Immaculate Conception,English,,,,,,﻿Biddeford,﻿Biddeford,﻿ME,,,,,,,﻿ant_siniscalchi_001,﻿Rev.,﻿Antonio Sinascalchi,,,,,,,,1869,﻿,﻿,﻿Portland,Portland
-﻿por.me.0013,﻿church,not recorded,English,,,,,,﻿Brunswick,﻿Brunswick,﻿ME,,,,,,,,﻿Rev.,﻿L. F. Bartley,,,,,,,,1869,﻿,﻿,﻿Portland,Portland
-﻿por.me.0014,﻿church,﻿Immaculate Conception,English,,,,,,﻿Calais,﻿Calais,﻿ME,,,,,,,,﻿Rev.,﻿Matthew W. Murphy,,,,,,,,1869,﻿,﻿,﻿Portland,Portland
+﻿por.me.0013,﻿church,not recorded,English,,,,,,﻿Brunswick,﻿Brunswick,﻿ME,,,,,,,﻿l_f_bartley_001,﻿Rev.,﻿L. F. Bartley,,,,,,,,1869,﻿,﻿,﻿Portland,Portland
+﻿por.me.0014,﻿church,﻿Immaculate Conception,English,,,,,,﻿Calais,﻿Calais,﻿ME,,,,,,,﻿mat_w_murphy_001,﻿Rev.,﻿Matthew W. Murphy,,,,,,,,1869,﻿,﻿,﻿Portland,Portland
 ﻿por.me.0015,﻿church,﻿St. Ann's,English,﻿(Indian),,,,,﻿Calais,﻿Calais,﻿ME,,,,,,,﻿eug_vetromile_001,﻿Rev.,﻿E. Vetromile,,,,,,,,1869,﻿,﻿,﻿Portland,Portland
-﻿por.me.0016,﻿church,not recorded,English,,,,,,﻿Cherryfield,﻿Cherryfield,﻿ME,,,,,,,,﻿Rev.,﻿John Imasso,,,,,,,,1869,﻿,﻿,﻿Portland,Portland
-﻿por.me.0017,﻿church,﻿St. Patrick's,English,,,,,,﻿Damariscotta,﻿Damariscotta,﻿ME,,,,,,,,﻿Rev.,﻿James Peterson,,,,,,,,1869,﻿,﻿,﻿Portland,Portland
-﻿por.me.0018,﻿church,﻿St. Joseph's,English,,,,,,﻿Eastport,﻿Eastport,﻿ME,,,,,,,,﻿Rev.,﻿T. J. Durin,,,,,,,,1869,﻿,﻿,﻿Portland,Portland
-﻿por.me.0019,﻿church,not recorded,English,,,,,,﻿Ellsworth,﻿Ellsworth,﻿ME,,,,,,,,﻿Rev.,﻿John Imasso,,,,,,,,1869,﻿,﻿,﻿Portland,Portland
-﻿por.me.0020,﻿church,not recorded,English,,,,,,﻿Frankfort,﻿Frankfort,﻿ME,,,,,,,,﻿Rev.,﻿John Imasso,,,,,,,,1869,﻿,﻿,﻿Portland,Portland
-﻿por.me.0021,﻿church,﻿St. Mary's,English,,,,,,﻿Gardiner,﻿Gardiner,﻿ME,,,,,,,,﻿Rev.,﻿Charles Egan,,,,,,,,1869,﻿,﻿,﻿Portland,Portland
-﻿por.me.0022,﻿church,﻿St. Mary's,English,,,,,,﻿Houlton,﻿Houlton,﻿ME,,,,,,,,﻿Rev.,﻿John Brady,,,,,,,,1869,﻿,﻿,﻿Portland,Portland
+﻿por.me.0016,﻿church,not recorded,English,,,,,,﻿Cherryfield,﻿Cherryfield,﻿ME,,,,,,,﻿joh_imasso_001,﻿Rev.,﻿John Imasso,,,,,,,,1869,﻿,﻿,﻿Portland,Portland
+﻿por.me.0017,﻿church,﻿St. Patrick's,English,,,,,,﻿Damariscotta,﻿Damariscotta,﻿ME,,,,,,,﻿jam_peterson_001,﻿Rev.,﻿James Peterson,,,,,,,,1869,﻿,﻿,﻿Portland,Portland
+﻿por.me.0018,﻿church,﻿St. Joseph's,English,,,,,,﻿Eastport,﻿Eastport,﻿ME,,,,,,,﻿t_j_durin_001,﻿Rev.,﻿T. J. Durin,,,,,,,,1869,﻿,﻿,﻿Portland,Portland
+﻿por.me.0019,﻿church,not recorded,English,,,,,,﻿Ellsworth,﻿Ellsworth,﻿ME,,,,,,,﻿joh_imasso_001,﻿Rev.,﻿John Imasso,,,,,,,,1869,﻿,﻿,﻿Portland,Portland
+﻿por.me.0020,﻿church,not recorded,English,,,,,,﻿Frankfort,﻿Frankfort,﻿ME,,,,,,,﻿joh_imasso_001,﻿Rev.,﻿John Imasso,,,,,,,,1869,﻿,﻿,﻿Portland,Portland
+﻿por.me.0021,﻿church,﻿St. Mary's,English,,,,,,﻿Gardiner,﻿Gardiner,﻿ME,,,,,,,﻿cha_egan_001,﻿Rev.,﻿Charles Egan,,,,,,,,1869,﻿,﻿,﻿Portland,Portland
+﻿por.me.0022,﻿church,﻿St. Mary's,English,,,,,,﻿Houlton,﻿Houlton,﻿ME,,,,,,,﻿joh_brady_003,﻿Rev.,﻿John Brady,,,,,,,,1869,﻿,﻿,﻿Portland,Portland
 ﻿por.me.0023,﻿church,﻿St. Ann's,English,,,,,,﻿Indiantown,﻿Indian Island,﻿ME,,,,,,,﻿eug_vetromile_001,﻿Rev.,﻿E. Vetromile,,,,,,,,1869,﻿,﻿,﻿Portland,Portland
-﻿por.me.0024,﻿church,not recorded,English,,,,,,﻿Kennebunk,﻿Kennebunk,﻿ME,,,,,,,,﻿Rev.,﻿Eugene Müller,,,,,,,,1869,﻿,﻿,﻿Portland,Portland
-﻿por.me.0025,﻿church,﻿St. John's,English,,,,,,﻿Lewiston,﻿Lewiston,﻿ME,,,,,,,,﻿Rev.,﻿Michael Lucey,,,,,,,,1869,﻿,﻿,﻿Portland,Portland
+﻿por.me.0024,﻿church,not recorded,English,,,,,,﻿Kennebunk,﻿Kennebunk,﻿ME,,,,,,,﻿eug_müller_001,﻿Rev.,﻿Eugene Müller,,,,,,,,1869,﻿,﻿,﻿Portland,Portland
+﻿por.me.0025,﻿church,﻿St. John's,English,,,,,,﻿Lewiston,﻿Lewiston,﻿ME,,,,,,,﻿mic_lucey_001,﻿Rev.,﻿Michael Lucey,,,,,,,,1869,﻿,﻿,﻿Portland,Portland
 ﻿por.me.0026,﻿church,not recorded,English,,,,,,﻿Lubec,﻿Lubec,﻿ME,,,,﻿por.me.0018,﻿attended from Eastport,,,,,,,,,,,,1869,﻿,﻿,﻿Portland,Portland
-﻿por.me.0027,﻿church,﻿St. Mary's,English,,,,,,﻿Machias,﻿Machias,﻿ME,,,,,,,,﻿Rev.,﻿John Sullivan,,,,,,,,1869,﻿,﻿,﻿Portland,Portland
-﻿por.me.0028,﻿church,﻿St. Mary's,English,,,,,,﻿Oldtown,﻿Old Town,﻿ME,,,,,,,,﻿Rev.,﻿J. B. Nycolin,,,,,,,,1869,﻿,﻿,﻿Portland,Portland
+﻿por.me.0027,﻿church,﻿St. Mary's,English,,,,,,﻿Machias,﻿Machias,﻿ME,,,,,,,﻿joh_sullivan_001,﻿Rev.,﻿John Sullivan,,,,,,,,1869,﻿,﻿,﻿Portland,Portland
+﻿por.me.0028,﻿church,﻿St. Mary's,English,,,,,,﻿Oldtown,﻿Old Town,﻿ME,,,,,,,﻿j_b_nycolin_001,﻿Rev.,﻿J. B. Nycolin,,,,,,,,1869,﻿,﻿,﻿Portland,Portland
 ﻿por.me.0029,﻿mission,"﻿""Indian Mission""",English,,,,,,﻿Oldtown,﻿Old Town,﻿ME,,,,,,,﻿eug_vetromile_001,﻿Rev.,﻿Eug. Vetromile,,,,,,,,1869,﻿,﻿,﻿Portland,Portland
-﻿por.me.0029,﻿mission,"﻿""Indian Mission""",English,,,,,,﻿Oldtown,﻿Old Town,﻿ME,,,,,,,,﻿Rev.,﻿J. B. Nycolin,,,,,,,,1869,﻿,﻿,﻿Portland,Portland
-﻿por.me.0030,﻿church,not recorded,English,,,,,,﻿Orono,﻿Orono,﻿ME,,,,,,,,﻿Rev.,﻿F. Clement Mussaers,,,,,,,,1869,﻿,﻿,﻿Portland,Portland
-﻿por.me.0031,﻿church,﻿St. John's,English,,,,,,﻿Pembroke,﻿Pembroke,﻿ME,,,,,,,,﻿Rev.,﻿J. T. Durnin,,,,,,,,1869,﻿,﻿,﻿Portland,Portland
+﻿por.me.0029,﻿mission,"﻿""Indian Mission""",English,,,,,,﻿Oldtown,﻿Old Town,﻿ME,,,,,,,﻿j_b_nycolin_001,﻿Rev.,﻿J. B. Nycolin,,,,,,,,1869,﻿,﻿,﻿Portland,Portland
+﻿por.me.0030,﻿church,not recorded,English,,,,,,﻿Orono,﻿Orono,﻿ME,,,,,,,﻿f_c_mussaers_001,﻿Rev.,﻿F. Clement Mussaers,,,,,,,,1869,﻿,﻿,﻿Portland,Portland
+﻿por.me.0031,﻿church,﻿St. John's,English,,,,,,﻿Pembroke,﻿Pembroke,﻿ME,,,,,,,﻿j_t_durnin_001,﻿Rev.,﻿J. T. Durnin,,,,,,,,1869,﻿,﻿,﻿Portland,Portland
 ﻿por.me.0032,﻿church,not recorded,English,,,,,,﻿Pleasant Point,﻿Pleasant Point,﻿ME,,,,,,,﻿eug_vetromile_001,﻿Rev.,﻿Eug. Vetromile,,,,,,,,1869,﻿,﻿,﻿Portland,Portland
-﻿por.me.0033,﻿church,not recorded,English,,,,,,﻿Robbinstown,﻿Robbinstown,﻿ME,,,,,,,,﻿Rev.,﻿W. M. Murphy,,,,,,,,1869,﻿,﻿,﻿Portland,Portland
-﻿por.me.0034,﻿church,﻿St. David's,English,,,,,,﻿Rockland,﻿Rockland,﻿ME,,,,,,,,﻿Rev.,﻿Louis l'Hiver,,,,,,,,1869,﻿,﻿,﻿Portland,Portland
-﻿por.me.0035,﻿church,not recorded,English,,,,,,﻿Skowbegan,﻿Skowhegan,﻿ME,,,,,,,,﻿Rev.,﻿F. Picart,,,,,,,,1869,﻿,﻿,﻿Portland,Portland
-﻿por.me.0036,﻿church,not recorded,English,,,,,,﻿Thomaston,﻿Thomaston,﻿ME,,,,,,,,﻿Rev.,﻿Louis l'Hiver,,,,,,,,1869,﻿,﻿,﻿Portland,Portland
-﻿por.me.0037,﻿church,not recorded,English,,,,,,﻿Trescott,﻿Trescott,﻿ME,,,,,,,,﻿Rev.,﻿John Sullivan,,,,,,,,1869,﻿,﻿,﻿Portland,Portland
-﻿por.me.0038,﻿church,﻿St. Francis of Sales',English,,,,,,﻿Waterville,﻿Waterville,﻿ME,,,,,,,,﻿Rev.,﻿F. Picart,,,,,,,,1869,﻿,﻿,﻿Portland,Portland
-﻿por.me.0080,﻿church,﻿St. Denis',English,,,,,,﻿Whitefield,,﻿ME,,44.22862655,-69.61370611,,,,,﻿Rev.,﻿James Peterson,,,,,,,,1869,﻿,﻿,﻿Portland,Portland
-﻿por.me.0081,﻿church,not recorded,English,,,,,,﻿Vassalboro,,﻿ME,,,,,,,,﻿Rev.,﻿F. Picart,,,,,,,,1869,﻿,﻿,﻿Portland,Portland
-﻿por.me.0041,﻿church,﻿St. Mary's,English,,,,,,﻿Claremont,,﻿NH,,,,,,,,﻿Rev.,﻿Wm. Herbert,,,,,,,,1869,﻿,﻿,﻿Portland,Portland
+﻿por.me.0033,﻿church,not recorded,English,,,,,,﻿Robbinstown,﻿Robbinstown,﻿ME,,,,,,,﻿w_m_murphy_001,﻿Rev.,﻿W. M. Murphy,,,,,,,,1869,﻿,﻿,﻿Portland,Portland
+﻿por.me.0034,﻿church,﻿St. David's,English,,,,,,﻿Rockland,﻿Rockland,﻿ME,,,,,,,﻿lou_lhiver_001,﻿Rev.,﻿Louis l'Hiver,,,,,,,,1869,﻿,﻿,﻿Portland,Portland
+﻿por.me.0035,﻿church,not recorded,English,,,,,,﻿Skowbegan,﻿Skowhegan,﻿ME,,,,,,,﻿f_picart_001,﻿Rev.,﻿F. Picart,,,,,,,,1869,﻿,﻿,﻿Portland,Portland
+﻿por.me.0036,﻿church,not recorded,English,,,,,,﻿Thomaston,﻿Thomaston,﻿ME,,,,,,,﻿lou_lhiver_001,﻿Rev.,﻿Louis l'Hiver,,,,,,,,1869,﻿,﻿,﻿Portland,Portland
+﻿por.me.0037,﻿church,not recorded,English,,,,,,﻿Trescott,﻿Trescott,﻿ME,,,,,,,﻿joh_sullivan_001,﻿Rev.,﻿John Sullivan,,,,,,,,1869,﻿,﻿,﻿Portland,Portland
+﻿por.me.0038,﻿church,﻿St. Francis of Sales',English,,,,,,﻿Waterville,﻿Waterville,﻿ME,,,,,,,﻿f_picart_001,﻿Rev.,﻿F. Picart,,,,,,,,1869,﻿,﻿,﻿Portland,Portland
+﻿por.me.0080,﻿church,﻿St. Denis',English,,,,,,﻿Whitefield,,﻿ME,,44.22862655,-69.61370611,,,,﻿jam_peterson_001,﻿Rev.,﻿James Peterson,,,,,,,,1869,﻿,﻿,﻿Portland,Portland
+﻿por.me.0081,﻿church,not recorded,English,,,,,,﻿Vassalboro,,﻿ME,,,,,,,﻿f_picart_001,﻿Rev.,﻿F. Picart,,,,,,,,1869,﻿,﻿,﻿Portland,Portland
+﻿por.me.0041,﻿church,﻿St. Mary's,English,,,,,,﻿Claremont,,﻿NH,,,,,,,﻿wm_herbert_001,﻿Rev.,﻿Wm. Herbert,,,,,,,,1869,﻿,﻿,﻿Portland,Portland
 ﻿por.me.0042,﻿church,not recorded,English,,,,,,﻿Columbia,﻿Columbia,﻿NH,,,,,,,﻿isi_noiseux_001,﻿Rev.,﻿Isidore Noiseux,,,,,,,,1869,﻿,﻿,﻿Portland,Portland
-﻿por.me.0043,﻿church,not recorded,English,,,,,,﻿Concord,﻿Concord,﻿NH,,,,,,,,﻿Rev.,﻿John Barry,,,,,,,,1869,﻿,﻿,﻿Portland,Portland
-﻿por.me.0044,﻿church,﻿St. Aloysius',English,,,,,,﻿Dover,﻿Dover,﻿NH,,,,,,,,﻿Rev.,﻿James Drummond,,,,,,,,1869,﻿,﻿,﻿Portland,Portland
-﻿por.me.0045,﻿church,﻿St. Bernard's,English,,,,,,﻿Exeter,﻿Exeter,﻿NH,,,,,,,,﻿Rev.,﻿T. Walsh,,,,,,,,1869,﻿,﻿,﻿Portland,Portland
+﻿por.me.0043,﻿church,not recorded,English,,,,,,﻿Concord,﻿Concord,﻿NH,,,,,,,﻿joh_barry_002,﻿Rev.,﻿John Barry,,,,,,,,1869,﻿,﻿,﻿Portland,Portland
+﻿por.me.0044,﻿church,﻿St. Aloysius',English,,,,,,﻿Dover,﻿Dover,﻿NH,,,,,,,﻿jam_drummond_001,﻿Rev.,﻿James Drummond,,,,,,,,1869,﻿,﻿,﻿Portland,Portland
+﻿por.me.0045,﻿church,﻿St. Bernard's,English,,,,,,﻿Exeter,﻿Exeter,﻿NH,,,,,,,﻿t_walsh_002,﻿Rev.,﻿T. Walsh,,,,,,,,1869,﻿,﻿,﻿Portland,Portland
 ﻿por.me.0046,﻿church,not recorded,English,,,,,,﻿Gorham,﻿Gorham,﻿NH,,,,,,,﻿isi_noiseux_001,﻿Rev.,﻿I. Noiseux,,,,,,,,1869,﻿,﻿,﻿Portland,Portland
-﻿por.me.0047,﻿church,﻿St. Michael's,English,,,,,,﻿Great Falls,﻿Somersworth,﻿NH,,,,,,,,﻿Rev.,﻿P. Canavan,,,,,,,,1869,﻿,﻿,﻿Portland,Portland
-﻿por.me.0048,﻿church,﻿St. Bernard's,English,,,,,,﻿Keene,﻿Keene,﻿NH,,,,,,,,﻿Rev.,﻿Wm. Herbert,,,,,,,,1869,﻿,﻿,﻿Portland,Portland
+﻿por.me.0047,﻿church,﻿St. Michael's,English,,,,,,﻿Great Falls,﻿Somersworth,﻿NH,,,,,,,﻿p_canavan_001,﻿Rev.,﻿P. Canavan,,,,,,,,1869,﻿,﻿,﻿Portland,Portland
+﻿por.me.0048,﻿church,﻿St. Bernard's,English,,,,,,﻿Keene,﻿Keene,﻿NH,,,,,,,﻿wm_herbert_001,﻿Rev.,﻿Wm. Herbert,,,,,,,,1869,﻿,﻿,﻿Portland,Portland
 ﻿por.me.0049,﻿church,not recorded,English,,,,,,﻿Laconia,﻿Laconia,﻿NH,,,,,,,﻿isi_noiseux_001,﻿Rev.,﻿I. Noiseux,,,,,,,,1869,﻿,﻿,﻿Portland,Portland
 ﻿por.me.0050,﻿church,not recorded,English,,,,,,﻿Lancaster,﻿Lancaster,﻿NH,,,,,,,﻿isi_noiseux_001,﻿Rev.,﻿I. Noiseux,,,,,,,,1869,﻿,﻿,﻿Portland,Portland
 ﻿por.me.0051,﻿church,not recorded,English,,,,,,﻿Littleton,﻿Littleton,﻿NH,,,,,,,﻿isi_noiseux_001,﻿Rev.,﻿I. Noiseux,,,,,,,,1869,﻿,﻿,﻿Portland,Portland
-﻿por.me.0052,﻿church,﻿St. Ann's,English,,,,,,﻿Manchester,﻿Manchester,﻿NH,,,,,,,,﻿Rev.,﻿Wm. McDonald,,,,,,,,1869,﻿,﻿,﻿Portland,Portland
-﻿por.me.0053,﻿church,﻿St. Joseph's,English,,,,,,﻿Manchester,,﻿NH,,,,,,,,﻿Rev.,﻿John O'Brien,,,,,,,,1869,﻿,﻿,﻿Portland,Portland
-﻿por.me.0055,﻿chapel,﻿Convent Chapel,English,,,,,,,﻿Manchester,﻿NH,,,,,,,,﻿Rev.,﻿Wm. McDonald,,,,,,,,1869,﻿,﻿,﻿Portland,Portland
-﻿por.me.0057,﻿church,not recorded,English,,,,,,﻿Mason,﻿Mason,﻿NH,,,,,,,,﻿Rev.,﻿P. Hoolahan,,,,,,,,1869,﻿,﻿,﻿Portland,Portland
-﻿por.me.0058,﻿church,not recorded,English,,,,,,﻿Milford,﻿Milford,﻿NH,,,,,,,,﻿Rev.,﻿P. Hoolahan,,,,,,,,1869,﻿,﻿,﻿Portland,Portland
-﻿por.me.0059,﻿church,﻿Immaculate Conception,English,,,,,,﻿Nashua,﻿Nashua,﻿NH,,,,,,,,﻿V. Rev.,﻿John O'Donnell,,,,,,,,1869,﻿,﻿,﻿Portland,Portland
-﻿por.me.0060,﻿church,not recorded,English,,,,,,﻿Newmarket,﻿Newmarket,﻿NH,,,,,,,,﻿Rev.,﻿T. Walsh,,,,,,,,1869,﻿,﻿,﻿Portland,Portland
+﻿por.me.0052,﻿church,﻿St. Ann's,English,,,,,,﻿Manchester,﻿Manchester,﻿NH,,,,,,,﻿wm_mcdonald_001,﻿Rev.,﻿Wm. McDonald,,,,,,,,1869,﻿,﻿,﻿Portland,Portland
+﻿por.me.0053,﻿church,﻿St. Joseph's,English,,,,,,﻿Manchester,,﻿NH,,,,,,,﻿joh_obrien_002,﻿Rev.,﻿John O'Brien,,,,,,,,1869,﻿,﻿,﻿Portland,Portland
+﻿por.me.0055,﻿chapel,﻿Convent Chapel,English,,,,,,,﻿Manchester,﻿NH,,,,,,,﻿wm_mcdonald_001,﻿Rev.,﻿Wm. McDonald,,,,,,,,1869,﻿,﻿,﻿Portland,Portland
+﻿por.me.0057,﻿church,not recorded,English,,,,,,﻿Mason,﻿Mason,﻿NH,,,,,,,﻿p_hoolahan_001,﻿Rev.,﻿P. Hoolahan,,,,,,,,1869,﻿,﻿,﻿Portland,Portland
+﻿por.me.0058,﻿church,not recorded,English,,,,,,﻿Milford,﻿Milford,﻿NH,,,,,,,﻿p_hoolahan_001,﻿Rev.,﻿P. Hoolahan,,,,,,,,1869,﻿,﻿,﻿Portland,Portland
+﻿por.me.0059,﻿church,﻿Immaculate Conception,English,,,,,,﻿Nashua,﻿Nashua,﻿NH,,,,,,,﻿joh_odonnell_001,﻿V. Rev.,﻿John O'Donnell,,,,,,,,1869,﻿,﻿,﻿Portland,Portland
+﻿por.me.0060,﻿church,not recorded,English,,,,,,﻿Newmarket,﻿Newmarket,﻿NH,,,,,,,﻿t_walsh_002,﻿Rev.,﻿T. Walsh,,,,,,,,1869,﻿,﻿,﻿Portland,Portland
 ﻿por.me.0062,﻿church,not recorded,English,,,,,,﻿Lebanon,﻿Lebanon,﻿NH,,,,,,,﻿isi_noiseux_001,﻿Rev.,﻿I. Noiseux,,,,,,,,1869,﻿,﻿,﻿Portland,Portland
-﻿por.me.0063,﻿church,﻿St. Mary's,English,,,,,,﻿Portsmouth,﻿Portsmouth,﻿NH,,,,,,,,﻿Rev.,﻿Daniel Murphy,,,,,,,,1869,﻿,﻿,﻿Portland,Portland
-﻿por.me.0064,﻿church,not recorded,English,,,,,,﻿Rochester,﻿Rochester,﻿NH,,,,,,,,﻿Rev.,﻿T. Walsh,,,,,,,,1869,﻿,﻿,﻿Portland,Portland
-﻿por.me.0065,﻿church,﻿St. Mary's,English,,,,,,﻿Salmon Falls,﻿Salmon Falls,﻿NH,,,,,,,,﻿Rev.,﻿P. Canavan,,,,,,,,1869,﻿,﻿,﻿Portland,Portland
-﻿por.me.0066,﻿church,not recorded,English,,,,,,﻿Peterboro,﻿Peterboro,﻿NH,,,,,,,,﻿Rev.,﻿Wm. Herbert,,,,,,,,1869,﻿,﻿,﻿Portland,Portland
-﻿por.me.0067,﻿church,not recorded,English,,,,,,﻿Suncook,﻿Suncook,﻿NH,,,,,,,,﻿Rev.,﻿John Barry,,,,,,,,1869,﻿,﻿,﻿Portland,Portland
-﻿por.me.0068,﻿church,not recorded,English,,,,,,﻿Fisherville,﻿Fisherville,﻿NH,,,,,,,,﻿Rev.,﻿John Barry,,,,,,,,1869,﻿,﻿,﻿Portland,Portland
-﻿por.me.0069,﻿church,not recorded,English,,,,,,﻿Wilton,﻿Wilton,﻿NH,,,,,,,,﻿Rev.,﻿P. Hoolahan,,,,,,,,1869,﻿,﻿,﻿Portland,Portland
+﻿por.me.0063,﻿church,﻿St. Mary's,English,,,,,,﻿Portsmouth,﻿Portsmouth,﻿NH,,,,,,,﻿dan_murphy_001,﻿Rev.,﻿Daniel Murphy,,,,,,,,1869,﻿,﻿,﻿Portland,Portland
+﻿por.me.0064,﻿church,not recorded,English,,,,,,﻿Rochester,﻿Rochester,﻿NH,,,,,,,﻿t_walsh_002,﻿Rev.,﻿T. Walsh,,,,,,,,1869,﻿,﻿,﻿Portland,Portland
+﻿por.me.0065,﻿church,﻿St. Mary's,English,,,,,,﻿Salmon Falls,﻿Salmon Falls,﻿NH,,,,,,,﻿p_canavan_001,﻿Rev.,﻿P. Canavan,,,,,,,,1869,﻿,﻿,﻿Portland,Portland
+﻿por.me.0066,﻿church,not recorded,English,,,,,,﻿Peterboro,﻿Peterboro,﻿NH,,,,,,,﻿wm_herbert_001,﻿Rev.,﻿Wm. Herbert,,,,,,,,1869,﻿,﻿,﻿Portland,Portland
+﻿por.me.0067,﻿church,not recorded,English,,,,,,﻿Suncook,﻿Suncook,﻿NH,,,,,,,﻿joh_barry_002,﻿Rev.,﻿John Barry,,,,,,,,1869,﻿,﻿,﻿Portland,Portland
+﻿por.me.0068,﻿church,not recorded,English,,,,,,﻿Fisherville,﻿Fisherville,﻿NH,,,,,,,﻿joh_barry_002,﻿Rev.,﻿John Barry,,,,,,,,1869,﻿,﻿,﻿Portland,Portland
+﻿por.me.0069,﻿church,not recorded,English,,,,,,﻿Wilton,﻿Wilton,﻿NH,,,,,,,﻿p_hoolahan_001,﻿Rev.,﻿P. Hoolahan,,,,,,,,1869,﻿,﻿,﻿Portland,Portland
 ﻿por.me.0070,"﻿convent, academy",﻿Convent and Academy of the Ladies of the Congregation of Notre Dame,English,,,,,,﻿Portland,﻿Portland,﻿ME,,,,,,,,﻿Madame,﻿Ste. Josephine,,﻿Lady Superior,,﻿religious,"﻿Number of religious, 14",,,1869,﻿,﻿,﻿Portland,Portland
 ﻿por.me.0070,"﻿convent, academy",﻿Convent and Academy of the Ladies of the Congregation of Notre Dame,English,,,,,,﻿Portland,﻿Portland,﻿ME,,,,,,,,,,,,,﻿student,"﻿number of pupils, 60",,,1869,﻿,﻿,﻿Portland,Portland
 ﻿por.me.0071,﻿school,﻿Parochial School of the Cathedral,English,,,,,,﻿Portland,﻿Portland,﻿ME,,,,,,,,,,,,,﻿student,"﻿Number of pupils, 460",﻿in charge of the Ladies of the Congregation of Notre Dame,,1869,﻿,﻿,﻿Portland,Portland
