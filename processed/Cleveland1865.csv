@@ -79,7 +79,7 @@
 ﻿cle.oh.0084,﻿church,not recorded,English,,,,,﻿Portage County,﻿Kent,﻿Kent,﻿OH,,41.1536674,-81.3578859,﻿cle.oh.0137,﻿attended from Ravenna,,,,,,,,,,,,1865,﻿,﻿,﻿Cleveland,Cleveland
 ﻿cle.oh.0086,﻿church,not recorded,English,,,,﻿Ellen County,﻿Allen County,﻿Lima,﻿Lima,﻿OH,,40.742551,-84.1052256,,,,﻿e_murphy_002,﻿Rev.,﻿E. Murphy,,,,,,,,1865,﻿,﻿,﻿Cleveland,Cleveland
 ﻿cle.oh.0096,﻿church,﻿St. Louis',English,,,,,﻿Stark County,﻿Louisville,﻿Louisville,﻿OH,,40.838214,-81.2595991,,,,﻿g_hoffer_001,﻿Rev.,﻿G. Hoffer,,,,,,,,1865,﻿,﻿,﻿Cleveland,Cleveland
-﻿cle.oh.0096,﻿church,﻿St. Louis',English,,,,,﻿Stark County,﻿Louisville,﻿Louisville,﻿OH,,40.838214,-81.2595991,,,,,﻿Rev.,﻿F. Loudwig,,,,,,,,1865,﻿,﻿,﻿Cleveland,Cleveland
+﻿cle.oh.0096,﻿church,﻿St. Louis',English,,,,,﻿Stark County,﻿Louisville,﻿Louisville,﻿OH,,40.838214,-81.2595991,,,,﻿f_loudwig_001,﻿Rev.,﻿F. Loudwig,,,,,,,,1865,﻿,﻿,﻿Cleveland,Cleveland
 ﻿cle.oh.0094,﻿church,﻿St. Mary's,English,,﻿La Prairie,,,﻿Sandusky County,﻿La Prairie,﻿Rice Township,﻿OH,,41.4450099,-83.1112798,,﻿attended from Port Clinton,,,,,,,,,,,,1865,﻿,﻿,﻿Cleveland,Cleveland
 ﻿cle.oh.0087,﻿church,﻿St. Martin's,English,,,,,﻿Medina County,﻿Liverpool,﻿Valley City,﻿OH,,41.2376644,-81.9312715,,,,﻿g_peter_001,﻿Rev.,﻿G. Peter,,,,,,,,1865,﻿,﻿,﻿Cleveland,Cleveland
 ﻿cle.oh.0088,﻿church,﻿St. Mary's,English,,,,,﻿Medina County,﻿Liverpool,﻿Valley City,﻿OH,,41.2376644,-81.9312715,,﻿attended from Liverpool,,,,,,,,,,,,1865,﻿,﻿,﻿Cleveland,Cleveland
@@ -171,11 +171,11 @@
 ﻿cle.oh.0183,﻿cathedral,﻿Petit Seminary,English,,﻿Cathedral,,,,﻿Cleveland,﻿Cleveland,﻿OH,,41.50301755,-81.69162677,,,,,,,,,,﻿brother,"﻿brothers, 6",﻿Christian Brothers,,1865,﻿,﻿,﻿Cleveland,Cleveland
 ﻿cle.oh.0183,﻿school,﻿Petit Seminary,English,,﻿St. Peter's,,,,﻿Cleveland,﻿Cleveland,﻿OH,,41.50301755,-81.69162677,,,,,﻿Brother,﻿Thomas,,﻿Superior,,﻿pupil,"﻿in all, 1500 pupils",﻿Christian Brothers,,1865,﻿,﻿,﻿Cleveland,Cleveland
 ﻿cle.oh.0183,﻿school,﻿Petit Seminary,English,,﻿St. Peter's,,,,﻿Cleveland,﻿Cleveland,﻿OH,,41.50301755,-81.69162677,,,,,,,,,,﻿brother,"﻿brothers, 6",﻿Christian Brothers,,1865,﻿,﻿,﻿Cleveland,Cleveland
-﻿cle.oh.0183,﻿pay school,﻿Petit Seminary,English,,﻿St. Peter's,,,,﻿Cleveland,﻿Cleveland,﻿OH,,41.50301755,-81.69162677,,,,,﻿Brother,﻿Thomas,,﻿Superior,,﻿pupil,"﻿in all, 1500 pupils",﻿Christian Brothers,,1865,﻿,﻿,﻿Cleveland,Cleveland
-﻿cle.oh.0183,﻿pay school,﻿Petit Seminary,English,,﻿St. Peter's,,,,﻿Cleveland,﻿Cleveland,﻿OH,,41.50301755,-81.69162677,,,,,,,,,,﻿brother,"﻿brothers, 6",﻿Christian Brothers,,1865,﻿,﻿,﻿Cleveland,Cleveland
-﻿cle.oh.0183,﻿free school,﻿Petit Seminary,English,,﻿St. Peter's,,,,﻿Cleveland,﻿Cleveland,﻿OH,,41.50301755,-81.69162677,,,,,﻿Brother,﻿Thomas,,﻿Superior,,﻿pupil,"﻿in all, 1500 pupils",﻿Christian Brothers,,1865,﻿,﻿,﻿Cleveland,Cleveland
-﻿cle.oh.0183,﻿free school,﻿Petit Seminary,English,,﻿St. Peter's,,,,﻿Cleveland,﻿Cleveland,﻿OH,,41.50301755,-81.69162677,,,,,,,,,,﻿brother,"﻿brothers, 6",﻿Christian Brothers,,1865,﻿,﻿,﻿Cleveland,Cleveland
-﻿cle.oh.0183,﻿school,﻿St. Joseph's School,English,,﻿St. Peter's,,,,﻿Cleveland,﻿Cleveland,﻿OH,,41.50301755,-81.69162677,,,,,,,,,,﻿brother,"﻿brothers, 6",﻿directed by a pious gentleman,,1865,﻿,﻿,﻿Cleveland,Cleveland
+﻿cle.oh.0183,﻿pay school,﻿Petit Seminary,English,,﻿West side,,,,﻿Cleveland,﻿Cleveland,﻿OH,,41.50301755,-81.69162677,,,,,﻿Brother,﻿Thomas,,﻿Superior,,﻿pupil,"﻿in all, 1500 pupils",﻿Christian Brothers,,1865,﻿,﻿,﻿Cleveland,Cleveland
+﻿cle.oh.0183,﻿pay school,﻿Petit Seminary,English,,﻿West side,,,,﻿Cleveland,﻿Cleveland,﻿OH,,41.50301755,-81.69162677,,,,,,,,,,﻿brother,"﻿brothers, 6",﻿Christian Brothers,,1865,﻿,﻿,﻿Cleveland,Cleveland
+﻿cle.oh.0183,﻿free school,﻿Petit Seminary,English,,﻿West side,,,,﻿Cleveland,﻿Cleveland,﻿OH,,41.50301755,-81.69162677,,,,,﻿Brother,﻿Thomas,,﻿Superior,,﻿pupil,"﻿in all, 1500 pupils",﻿Christian Brothers,,1865,﻿,﻿,﻿Cleveland,Cleveland
+﻿cle.oh.0183,﻿free school,﻿Petit Seminary,English,,﻿West side,,,,﻿Cleveland,﻿Cleveland,﻿OH,,41.50301755,-81.69162677,,,,,,,,,,﻿brother,"﻿brothers, 6",﻿Christian Brothers,,1865,﻿,﻿,﻿Cleveland,Cleveland
+﻿cle.oh.0183,﻿school,﻿St. Joseph's School,English,,﻿West side,,,,﻿Cleveland,﻿Cleveland,﻿OH,,41.50301755,-81.69162677,,,,,,,,,,﻿brother,"﻿brothers, 6",﻿directed by a pious gentleman,,1865,﻿,﻿,﻿Cleveland,Cleveland
 ﻿cle.oh.0187,﻿academy,﻿Ursuline Academy,English,,,,,,﻿Cleveland,﻿Cleveland,﻿OH,,41.5634502,-81.54120512,,,,,,﻿Mother of the Annunciation,,﻿Superior,,﻿religious,"﻿religious, 30",,,1865,﻿,﻿,﻿Cleveland,Cleveland
 ﻿cle.oh.0187,﻿academy,﻿Ursuline Academy,English,,,,,,﻿Cleveland,﻿Cleveland,﻿OH,,41.5634502,-81.54120512,,,,,,,,,,﻿religious,"﻿Novices, 10",,,1865,﻿,﻿,﻿Cleveland,Cleveland
 ﻿cle.oh.0187,﻿academy,﻿Ursuline Academy,English,,,,,,﻿Cleveland,﻿Cleveland,﻿OH,,41.5634502,-81.54120512,,,,,,,,,,﻿student,"﻿pupils in the academy, 50",,,1865,﻿,﻿,﻿Cleveland,Cleveland
@@ -196,7 +196,7 @@
 ﻿cle.oh.0162_02,﻿academy,﻿Ursuline Academy,English,,﻿St. Francis of Sales,,,﻿Lucas County,﻿Toledo,﻿Toledo,﻿OH,,41.6627992,-83.598385,,,,,,,,,,﻿student,"﻿free schools, 250",,,1865,﻿,﻿,﻿Cleveland,Cleveland
 ﻿cle.oh.0300_02,"﻿academy, church",﻿Ursuline Academy,English,,﻿St. Aloysius',,,﻿Lucas County,﻿Toledo,﻿Toledo,﻿OH,,,,,,,,,,,,,﻿student,"﻿pay-scholars, 100",,,1865,﻿,﻿,﻿Cleveland,Cleveland
 ﻿cle.oh.0300_02,"﻿academy, church",﻿Ursuline Academy,English,,﻿St. Aloysius',,,﻿Lucas County,﻿Toledo,﻿Toledo,﻿OH,,,,,,,,,,,,,﻿student,"﻿free schools, 250",,,1865,﻿,﻿,﻿Cleveland,Cleveland
-﻿cle.oh.0300_02,"﻿academy, church",﻿Ursuline Academy,English,,﻿St. Patrick's,,,﻿Lucas County,﻿Toledo,﻿Toledo,﻿OH,,,,,,,,,,,,,﻿student,﻿200,,,1865,﻿,﻿,﻿Cleveland,Cleveland
+﻿cle.oh.0300_02,﻿academy,﻿Ursuline Academy,English,,﻿St. Patrick's,,,﻿Lucas County,﻿Toledo,﻿Toledo,﻿OH,,,,,,,,,,,,,﻿student,﻿200,,,1865,﻿,﻿,﻿Cleveland,Cleveland
 ﻿cle.oh.0300_02,﻿school,﻿Ursuline Academy,English,,﻿St. Patrick's,,﻿Seneca County,﻿Lucas County,﻿Tiffin,﻿Toledo,﻿OH,,,,,,,,,,,,,﻿pay school,"﻿pay schools, 60",﻿Ursuline Sisters,,1865,﻿,﻿,﻿Cleveland,Cleveland
 ﻿cle.oh.0300_02,﻿school,﻿Ursuline Academy,English,,﻿St. Patrick's,,﻿Seneca County,﻿Lucas County,﻿Tiffin,﻿Toledo,﻿OH,,,,,,,,,,,,,﻿free school,"﻿free schools, 200",﻿Ursuline Sisters,,1865,﻿,﻿,﻿Cleveland,Cleveland
 ﻿cle.oh.0143_02,﻿school,not recorded,English,﻿The Ladies of the Sacred Heart of Mary conduct the female schools.  The male department is taught by lay teachers,﻿Holy Angels' Church,,,﻿Erie County,﻿Sandusky City,﻿Sandusky,﻿OH,,41.4493587,-82.7230782,,,,,,,,,,﻿student,﻿200,﻿Sacred Heart of Mary,,1865,﻿,﻿,﻿Cleveland,Cleveland
