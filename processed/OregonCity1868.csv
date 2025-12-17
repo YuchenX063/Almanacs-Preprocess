@@ -66,17 +66,17 @@
 ﻿ore.or.0087,﻿church,not recorded,English,,﻿Vincent Creek,,,,,﻿Reedsport,﻿OR,,43.79263,-123.77728,﻿ore.or.0062,﻿attended from Canyon City,,,,,,,,,,,,1868,﻿,﻿,﻿,﻿Oregon City,OregonCity
 ﻿ore.or.0070,﻿church,not recorded,English,,﻿Independence,,,,﻿Independence,﻿Independence,﻿OR,,42.077778,-119.92508,﻿ore.or.0062,﻿attended from Canyon City,,,,,,,,,,,,1868,﻿,﻿,﻿,﻿Oregon City,OregonCity
 ﻿ore.or.0071,﻿church,not recorded,English,,﻿Granite Creek,,,,﻿Granite Greek,﻿Granite Greek,﻿OR,,43.804133,-120.554201,﻿ore.or.0062,﻿attended from Canyon City,,,,,,,,,,,,1868,﻿,﻿,﻿,﻿Oregon City,OregonCity
-﻿boi.id.0001,﻿church,﻿St. Joseph's,English,﻿blessed 1863,﻿Moore's Creek,,,,﻿Idaho City,﻿Idaho City,,﻿ID,46.589145,-112.039106,,,,﻿z_poulin_001,﻿Rev.,﻿Z. Poulin,,﻿Pastor,,,,,,1868,﻿,﻿,﻿,﻿Oregon City,OregonCity
-﻿boi.id.0002,﻿church,not recorded,English,,,,,,﻿Boise City,﻿Boise,,﻿ID,46.589145,-112.039106,,﻿attended from St. Joseph's,,,,,,,,,,,,1868,﻿,﻿,﻿,﻿Oregon City,OregonCity
-﻿boi.id.0003,﻿church,﻿St. Thomas',English,"﻿Dec. 20, 1863",﻿Granite Creek,,,,﻿Placerville,﻿Placerville,,﻿ID,46.589145,-112.039106,,,,﻿t_mesplié_001,﻿Rev.,﻿T. Mesplié,,﻿Pastor,,,,,,1868,﻿,﻿,﻿,﻿Oregon City,OregonCity
-﻿boi.id.0004,﻿church,﻿St. Dominick's,English,"﻿Dec. 25, 1863",﻿Grim's Creek,,,,﻿Centreville,﻿Centerville,,﻿ID,46.589145,-112.039106,,﻿attended from St. Thomas & St. Joseph,,,,,,,,,,,,1868,﻿,﻿,﻿,﻿Oregon City,OregonCity
-﻿boi.id.0005,﻿church,﻿St. Francis',English,"﻿Sep. 25, 1864",,,,,﻿Pioneer City,﻿Pioneerville,,﻿ID,46.589145,-112.039106,,﻿attended from St. Thomas & St. Joseph,,,,,,,,,,,,1868,﻿,﻿,﻿,﻿Oregon City,OregonCity
-﻿boi.id.0006,﻿church,not recorded,English,,﻿on Owhyee River,,,,﻿Ruby City,,,,46.589145,-112.039106,,﻿attended from St. Thomas & St. Joseph,,,,,,,,,,,,1868,﻿,﻿,﻿,﻿Oregon City,OregonCity
-﻿boi.id.0007,﻿church,not recorded,English,,﻿on Owhyee River,,,,﻿Silver City,﻿Silver City,,﻿ID,46.589145,-112.039106,,﻿attended from St. Thomas & St. Joseph,,,,,,,,,,,,1868,﻿,﻿,﻿,﻿Oregon City,OregonCity
-﻿boi.id.0008,﻿church,not recorded,English,,﻿on Owhyee River,,,,﻿Bonneville,,,,46.589145,-112.039106,,﻿attended from St. Thomas & St. Joseph,,,,,,,,,,,,1868,﻿,﻿,﻿,﻿Oregon City,OregonCity
-﻿boi.id.0009,﻿church,not recorded,English,,﻿on Grand Bend River,,,,﻿La Grande,,,,46.589145,-112.039106,,﻿attended from St. Thomas & St. Joseph,,,,,,,,,,,,1868,﻿,﻿,﻿,﻿Oregon City,OregonCity
-﻿boi.id.0010,﻿church,not recorded,English,,﻿on Salem River,,,,﻿Florence,﻿Florence,,﻿ID,46.589145,-112.039106,,﻿attended from St. Thomas & St. Joseph,,,,,,,,,,,,1868,﻿,﻿,﻿,﻿Oregon City,OregonCity
-﻿boi.id.0011,﻿church,not recorded,English,,﻿on Salem River,,,,﻿Warren,﻿Warren,,﻿ID,46.589145,-112.039106,,﻿attended from St. Thomas & St. Joseph,,,,,,,,,,,,1868,﻿,﻿,﻿,﻿Oregon City,OregonCity
+﻿boi.id.0001,﻿church,﻿St. Joseph's,English,﻿blessed 1863,﻿Moore's Creek,,,,﻿Idaho City,﻿Idaho City,,﻿ID,,,,,,﻿z_poulin_001,﻿Rev.,﻿Z. Poulin,,﻿Pastor,,,,,,1868,﻿,﻿,﻿,﻿Oregon City,OregonCity
+﻿boi.id.0002,﻿church,not recorded,English,,,,,,﻿Boise City,﻿Boise,,﻿ID,,,,﻿attended from St. Joseph's,,,,,,,,,,,,1868,﻿,﻿,﻿,﻿Oregon City,OregonCity
+﻿boi.id.0003,﻿church,﻿St. Thomas',English,"﻿Dec. 20, 1863",﻿Granite Creek,,,,﻿Placerville,﻿Placerville,,﻿ID,,,,,,﻿t_mesplié_001,﻿Rev.,﻿T. Mesplié,,﻿Pastor,,,,,,1868,﻿,﻿,﻿,﻿Oregon City,OregonCity
+﻿boi.id.0004,﻿church,﻿St. Dominick's,English,"﻿Dec. 25, 1863",﻿Grim's Creek,,,,﻿Centreville,﻿Centerville,,﻿ID,,,,﻿attended from St. Thomas & St. Joseph,,,,,,,,,,,,1868,﻿,﻿,﻿,﻿Oregon City,OregonCity
+﻿boi.id.0005,﻿church,﻿St. Francis',English,"﻿Sep. 25, 1864",,,,,﻿Pioneer City,﻿Pioneerville,,﻿ID,,,,﻿attended from St. Thomas & St. Joseph,,,,,,,,,,,,1868,﻿,﻿,﻿,﻿Oregon City,OregonCity
+﻿boi.id.0006,﻿church,not recorded,English,,﻿on Owhyee River,,,,﻿Ruby City,,,,,,,﻿attended from St. Thomas & St. Joseph,,,,,,,,,,,,1868,﻿,﻿,﻿,﻿Oregon City,OregonCity
+﻿boi.id.0007,﻿church,not recorded,English,,﻿on Owhyee River,,,,﻿Silver City,﻿Silver City,,﻿ID,,,,﻿attended from St. Thomas & St. Joseph,,,,,,,,,,,,1868,﻿,﻿,﻿,﻿Oregon City,OregonCity
+﻿boi.id.0008,﻿church,not recorded,English,,﻿on Owhyee River,,,,﻿Bonneville,,,,,,,﻿attended from St. Thomas & St. Joseph,,,,,,,,,,,,1868,﻿,﻿,﻿,﻿Oregon City,OregonCity
+﻿boi.id.0009,﻿church,not recorded,English,,﻿on Grand Bend River,,,,﻿La Grande,,,,,,,﻿attended from St. Thomas & St. Joseph,,,,,,,,,,,,1868,﻿,﻿,﻿,﻿Oregon City,OregonCity
+﻿boi.id.0010,﻿church,not recorded,English,,﻿on Salem River,,,,﻿Florence,﻿Florence,,﻿ID,,,,﻿attended from St. Thomas & St. Joseph,,,,,,,,,,,,1868,﻿,﻿,﻿,﻿Oregon City,OregonCity
+﻿boi.id.0011,﻿church,not recorded,English,,﻿on Salem River,,,,﻿Warren,﻿Warren,,﻿ID,,,,﻿attended from St. Thomas & St. Joseph,,,,,,,,,,,,1868,﻿,﻿,﻿,﻿Oregon City,OregonCity
 ﻿ore.or.0072,﻿academy,﻿St. Mary's Academy,English,﻿for young ladies,,,,,﻿Portland,﻿Portland,﻿OR,,45.512531,-122.681274,,,,,﻿Rev. Mother,﻿Veronica,,﻿Superior,,﻿religious,﻿39 Sisters of the Holy Names of Jesus and Mary,,,1868,﻿,﻿,﻿,﻿Oregon City,OregonCity
 ﻿ore.or.0073,﻿school,﻿City Parochial,English,﻿for little girls,,,,,﻿Portland,﻿Portland,﻿OR,,45.515232,-122.678385,,,,,,﻿By the Sisters of the Holy Names of Jesus and Mary,,,,,,,,1868,﻿,﻿,﻿,﻿Oregon City,OregonCity
 ﻿ore.or.0074,﻿academy,﻿St. Mary's Academy,English,,,,,,﻿Salem,﻿Salem,﻿OR,,45.512531,-122.681274,,,,,,,,,,,,,,1868,﻿,﻿,﻿,﻿Oregon City,OregonCity

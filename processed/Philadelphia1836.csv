@@ -19,7 +19,7 @@
 ﻿pit.pa.0019,﻿church,﻿SS. Simon and Jude,English,,,,,﻿Indiana County,﻿Blairsville,﻿Blairsville,﻿PA,﻿PA,40.43263075,-79.25841066,,,﻿twice a month,﻿jam_a_stillinger_001,﻿Rev.,﻿James A. Stillinger,,,,,,,,1836,﻿,﻿,﻿Philadelphia,Philadelphia
 ﻿pit.pa.0026,﻿church,﻿St. Peter's,English,,,,,﻿Fayette County,﻿Brownsville,﻿Brownsville,﻿PA,﻿PA,40.0226438,-79.87755123,,,﻿monthly,﻿joh_oreilly_901,﻿Rev.,﻿John O'Reilly,,,﻿Dw. at Pittsburg,,,,,1836,﻿,﻿,﻿Philadelphia,Philadelphia
 ﻿pit.pa.9000,﻿church,﻿St. Patrick's,English,,﻿Buffaloe Creek,,,,,﻿Freeport,﻿PA,﻿PA,,,,,﻿twice a month,﻿p_rafferty_901,﻿Rev.,﻿P. Rafferty,,,,,,,,1836,﻿,﻿,﻿Philadelphia,Philadelphia
-﻿pit.pa.9001,﻿church,﻿St. Peter's,English,,,,,,﻿Butler,,﻿PA,,,,,,﻿once a month,﻿p_rafferty_901,﻿Rev.,﻿P. Rafferty,,,,,,,,1836,﻿,﻿,﻿Philadelphia,Philadelphia
+﻿pit.pa.0027,﻿church,﻿St. Peter's,English,,,,,﻿Butler County,﻿Butler,﻿Butler,﻿PA,﻿PA,40.862318,-79.890779,,,﻿once a month,﻿p_rafferty_901,﻿Rev.,﻿P. Rafferty,,,,,,,,1836,﻿,﻿,﻿Philadelphia,Philadelphia
 ﻿pit.pa.0029,﻿church,﻿St. Patrick's,English,,,,,﻿Indiana County,﻿Cameron's Bottom,﻿Heilwood,﻿PA,﻿PA,40.59448682,-78.91594783,,,﻿once a month,﻿ter_mcgirr_901,﻿Rev.,﻿Terrence McGirr,,,﻿Dw. at Newry,,,,,1836,﻿,﻿,﻿Philadelphia,Philadelphia
 ﻿har.pa.0038,﻿church,﻿St. Patrick's,English,,,,,﻿Cumberland County,﻿Carlisle,﻿Carlisle,﻿PA,﻿PA,40.17501599,-77.20259339,,,﻿twice a month,﻿pat_j_dwen_901,﻿Rev.,﻿P. Dwen,,,,,,,,1836,﻿,﻿,﻿Philadelphia,Philadelphia
 ﻿scr.pa.0020,﻿church,not recorded,English,﻿Church not dedicated,,,,﻿Lackawanna County,﻿Carbondale,﻿Carbondale,﻿PA,﻿PA,41.57188219,-75.5011599,,,,,,,,,﻿Vacant,,,,,1836,﻿,﻿,﻿Philadelphia,Philadelphia
@@ -30,7 +30,7 @@
 ﻿har.pa.0023,﻿church,﻿Sacred Heart,English,,,,,﻿Adams County,﻿Conewago,﻿Conewago,﻿PA,,39.81875756,-77.03791245,,,,﻿mic_dougherty_901,﻿Rev.,﻿Michael Dougherty,﻿S. J.,,,,,,,1836,﻿,﻿,﻿Philadelphia,Philadelphia
 ﻿har.pa.0023,﻿church,﻿Sacred Heart,English,,,,,﻿Adams County,﻿Conewago,﻿Conewago,﻿PA,,39.81875756,-77.03791245,,,,﻿vir_barber_901,﻿Rev.,﻿Virgil Barber,﻿S. J.,,,,,,,1836,﻿,﻿,﻿Philadelphia,Philadelphia
 ﻿pit.pa.9007,﻿church,not recorded,English,,﻿Cussowago Creek,,﻿Crawford County,,,,﻿PA,,,,,,﻿occasionally,﻿p_masquelet_901,﻿Rev.,﻿P. Masquelet,,,,,,,,1836,﻿,﻿,﻿Philadelphia,Philadelphia
-﻿phi.pa.9001,﻿church,﻿Mount Carmel,English,,,,﻿Westmoreland County,,﻿Derry Township,,﻿PA,,,,,,﻿occasionally,﻿jam_a_stillinger_001,﻿Rev.,﻿James A. Stillinger,,,﻿Dw. at Blairsville,,,,,1836,﻿,﻿,﻿Philadelphia,Philadelphia
+﻿pit.pa.0039,﻿church,﻿Mount Carmel,English,,,,﻿Westmoreland County,,﻿Derry Township,,﻿PA,,,,,,﻿occasionally,﻿jam_a_stillinger_001,﻿Rev.,﻿James A. Stillinger,,,﻿Dw. at Blairsville,,,,,1836,﻿,﻿,﻿Philadelphia,Philadelphia
 ﻿phi.pa.0110,﻿church,not recorded,English,﻿Church not dedicated,,,,,﻿Easton,,﻿PA,,,,,,﻿twice a month,﻿h_herzog_901,﻿Rev.,﻿H. Herzog,,,,,,,,1836,﻿,﻿,﻿Philadelphia,Philadelphia
 ﻿pit.pa.0042,﻿church,﻿St. Patrick's,English,,,,,﻿Cambria County,﻿Ebbensburg,﻿Ebensburg,﻿PA,﻿PA,40.48878598,-78.7264887,,,﻿once a month,﻿pet_lemke_901,﻿Rev.,﻿Peter Lemke,,,,,,,,1836,﻿,﻿,﻿Philadelphia,Philadelphia
 ﻿har.pa.0015,﻿church,﻿St. Peter's,English,,,,,﻿Lancaster County,﻿Elizabethtown,﻿Elizabethtown,﻿PA,﻿PA,40.1500281,-76.60378334,,,,,,,,,﻿Vacant,,,,,1836,﻿,﻿,﻿Philadelphia,Philadelphia
@@ -54,7 +54,7 @@
 ﻿phi.pa.0036,﻿church,﻿St. John Baptist,English,,,,,﻿Philadelphia County,﻿Manayunk,﻿Philadelphia,﻿PA,﻿PA,40.02488645,-75.22006133,,,,﻿cha_j_carter_901,﻿Rev.,﻿Charles J. Carter,,,,,,,,1836,﻿,﻿,﻿Philadelphia,Philadelphia
 ﻿cle.oh.9001,﻿church,not recorded,English,,,,,,﻿Massillon,﻿Massillon,﻿PA,﻿OH,,,,,﻿once a month,﻿nic_steinbacher_901,﻿Rev.,﻿Nicholas Steinbacher,﻿S. J.,,,,,,,1836,﻿,﻿,﻿Philadelphia,Philadelphia
 ﻿har.pa.0058,﻿church,﻿St. Joseph's,English,,,,,﻿Northumberland County,﻿Milton,﻿Milton,﻿PA,﻿PA,41.02061259,-76.85129446,,,﻿3 Sundays in the month,﻿j_fitzpatrick_901,﻿Rev.,﻿J. Fitzpatrick,,,,,,,,1836,﻿,﻿,﻿Philadelphia,Philadelphia
-﻿pit.pa.9003,﻿church,﻿St. Ignatius,English,,,,,,﻿Mountain Church,,﻿PA,,,,,,﻿4th Sunday,﻿mic_dougherty_901,﻿Rev.,﻿M. Dougherty,,,,,,,,1836,﻿,﻿,﻿Philadelphia,Philadelphia
+﻿har.pa.0030,﻿church,﻿St. Ignatius,English,,,,,﻿Adams County,﻿Mountain Church,﻿Mountain,﻿PA,﻿PA,39.8522417,-77.2864879,,,﻿4th Sunday,﻿mic_dougherty_901,﻿Rev.,﻿M. Dougherty,,,,,,,,1836,﻿,﻿,﻿Philadelphia,Philadelphia
 ﻿pit.pa.0078,﻿church,﻿St Patrick's,English,,,,,﻿Blair County,﻿Newry,﻿Newry,﻿PA,﻿PA,40.39262199,-78.43296699,,,﻿twice a month,﻿jam_bradley_901,﻿Rev.,﻿J. Bradley,,,,,,,,1836,﻿,﻿,﻿Philadelphia,Philadelphia
 ﻿erie.pa.0131,﻿church,﻿St. Stephen of Hung,English,,﻿Oil Creek,,,,,﻿Oil City,﻿PA,,,,,,,,,,,,﻿Vacant,,,,,1836,﻿,﻿,﻿Philadelphia,Philadelphia
 ﻿har.pa.0021,﻿church,not recorded,English,﻿a private chapel,,,,﻿York County,﻿Paradise,﻿Paradise,﻿PA,﻿PA,,,,,,﻿joh_w_beschter_901,﻿Rev.,﻿J. W. Beschter,﻿S. J.,,,,,,,1836,﻿,﻿,﻿Philadelphia,Philadelphia

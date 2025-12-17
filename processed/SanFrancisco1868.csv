@@ -27,7 +27,7 @@
 ﻿sanf.ca.0017,﻿church,﻿Mount Carmel,English,,,,﻿Tuolumne County,﻿Tuolumne County,﻿Big Oak Flat,﻿Groveland-Big Oak Flat,﻿CA,,37.826033,-120.25519,﻿sanf.ca.0068,﻿attended from Sonora,,,,,,,,,,,,1868,﻿,﻿,﻿San Francisco,SanFrancisco
 ﻿sanf.ca.0018,﻿church,﻿St. Teresa's,English,,,,﻿Sonoma County,﻿Sonoma County,﻿Bodega,﻿Bodega,﻿CA,,38.345433,-122.973826,﻿sanf.ca.0075,﻿attended from Tomales,,,,,,,,,,,,1868,﻿,﻿,﻿San Francisco,SanFrancisco
 ﻿sanf.ca.0019,﻿church,﻿St. Martin's,English,,,,﻿Amador County,﻿Amador County,﻿Butte City,﻿Butte City,﻿CA,,38.325762,-120.737048,﻿sanf.ca.0077,﻿attended from Volcano,,,,,,,,,,,,1868,﻿,﻿,﻿San Francisco,SanFrancisco
-﻿sanf.ca.0120,﻿church,﻿St. James',English,,,,﻿Calaveras County,﻿Calaveras County,﻿Campo Seco,﻿Campo Seco,﻿CA,,,,,﻿attended from San Andreas,,,,,,,,,,,,1868,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0120,﻿church,﻿St. James',English,,,,﻿Calaveras County,﻿Calaveras County,﻿Campo Seco,﻿Campo Seco,﻿CA,,38.222656,-120.857252,,﻿attended from San Andreas,,,,,,,,,,,,1868,﻿,﻿,﻿San Francisco,SanFrancisco
 ﻿sanf.ca.0020,﻿church,﻿St. Francis Xavier's,English,,,,﻿Tuolumne County,﻿Tuolumne County,﻿Chinese Camp,﻿Chinese Camp,﻿CA,,37.870451,-120.429455,﻿sanf.ca.0068,﻿attended from Sonora,,,,,,,,,,,,1868,﻿,﻿,﻿San Francisco,SanFrancisco
 ﻿sanf.ca.0021,﻿church,﻿St. John the Baptist's,English,,,,﻿El Dorado County,﻿El Dorado County,﻿Coloma,﻿Coloma,﻿CA,,38.799921,-120.890292,﻿sanf.ca.0049,﻿attended from Placerville,,,,,,,,,,,,1868,﻿,﻿,﻿San Francisco,SanFrancisco
 ﻿sanf.ca.0022,﻿church,﻿St. Ann's,English,,,,﻿Tuolumne County,﻿Tuolumne County,﻿Columbia,﻿Columbia,﻿CA,,38.03076,-120.404527,,,,﻿ter_j_smith_001,﻿Rev.,﻿Terence J. Smith,,﻿Pastor,,,,,,1868,﻿,﻿,﻿San Francisco,SanFrancisco
@@ -126,15 +126,15 @@
 ﻿sanf.ca.0105,﻿school,﻿Free school,English,﻿for girls,,,,﻿Santa Clara County,﻿Pueblo of San José,﻿San Jose,﻿CA,,37.33874,-121.885252,,,,,,,,,,﻿student,﻿60 pupils,﻿Directed by the Sisters of Notre Dame,,1868,﻿,﻿,﻿San Francisco,SanFrancisco
 ﻿sanf.ca.0106,﻿school,﻿Free school,English,,﻿attached to St. Ann's Church,,﻿Tuolumne County,﻿Tuolumne County,﻿Columbia,﻿Columbia,﻿CA,,38.03076,-120.404527,,,,,,,,,,﻿student,﻿80 pupils,,,1868,﻿,﻿,﻿San Francisco,SanFrancisco
 ﻿sanf.ca.0107,﻿school,﻿Free school,English,﻿for boys,,,,﻿Tuolumne County,﻿Sonora,﻿Sonora,﻿CA,,37.98295,-120.382172,,,,,,,,,,﻿student,﻿75 pupils,,,1868,﻿,﻿,﻿San Francisco,SanFrancisco
-﻿sanf.ca.0118,﻿school,﻿Free school,English,,,,,﻿El Dorado County,﻿Placerville,﻿Placerville,﻿CA,,,,,,,,,,,,,﻿student,﻿50 pupils,,,1868,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0118,﻿school,﻿Free school,English,,,,,﻿El Dorado County,﻿Placerville,﻿Placerville,﻿CA,,38.222656,-120.857252,,,,,,,,,,﻿student,﻿50 pupils,,,1868,﻿,﻿,﻿San Francisco,SanFrancisco
 ﻿sanf.ca.0108,﻿school,﻿Free school,English,,﻿attached to St. Mary's Church,,﻿San Joaquin County,﻿San Joaquin County,﻿Stockton,﻿Stockton,﻿CA,,37.951198,-121.287463,,,,,,,,,,﻿student,﻿60 pupils,,,1868,﻿,﻿,﻿San Francisco,SanFrancisco
 ﻿sanf.ca.0109,﻿school,﻿Free school,English,,,,,﻿Calaveras County,﻿San Andres,﻿San Andreas,﻿CA,,38.19603,-120.680487,,,,,,,,,,﻿student,﻿50 pupils,,,1868,﻿,﻿,﻿San Francisco,SanFrancisco
 ﻿sanf.ca.0110,﻿school,﻿Free school,English,﻿for boys,﻿at the Mission,,,﻿County of San Francisco,﻿San Francisco,﻿San Francisco,﻿CA,,37.764333,-122.426831,,,,,,,,,,﻿student,﻿100 boys,,,1868,﻿,﻿,﻿San Francisco,SanFrancisco
 ﻿sanf.ca.0111,﻿school,﻿Free school,English,﻿for girls,﻿at the Mission,,,﻿County of San Francisco,﻿San Francisco,﻿San Francisco,﻿CA,,37.764333,-122.426831,,,,,,,,,,﻿student,﻿100 pupils,,,1868,﻿,﻿,﻿San Francisco,SanFrancisco
 ﻿sanf.ca.0111,﻿school,﻿Free school,English,﻿for girls,﻿at the Mission,,,﻿County of San Francisco,﻿San Francisco,﻿San Francisco,﻿CA,,37.764333,-122.426831,,,,,,,,,,﻿religious,﻿5 sisters,﻿Directed by the Sisters of Notre Dame,,1868,﻿,﻿,﻿San Francisco,SanFrancisco
-﻿sanf.ca.0119,﻿school,﻿Free school,English,﻿for girls,,,,﻿Santa Clara County,﻿Santa Clara,﻿Santa Clara,﻿CA,,,,,,,,,,,,,﻿student,﻿50 pupils,﻿Conducted by the Sisters of Notre Dame,,1868,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0119,﻿school,﻿Free school,English,﻿for girls,,,,﻿Santa Clara County,﻿Santa Clara,﻿Santa Clara,﻿CA,,38.222656,-120.857252,,,,,,,,,,﻿student,﻿50 pupils,﻿Conducted by the Sisters of Notre Dame,,1868,﻿,﻿,﻿San Francisco,SanFrancisco
 ﻿sanf.ca.0112,﻿school,﻿Free school,English,,,,,﻿Solano County,﻿Vallejo,﻿Vallejo,﻿CA,,38.111731,-122.2427,,,,,,,,,,﻿student,﻿60 pupils,,,1868,﻿,﻿,﻿San Francisco,SanFrancisco
-﻿sanf.ca.0117,﻿school,﻿Free school,English,﻿for boys,,,,﻿Solano County,﻿Benicia,﻿Benicia,﻿CA,,,,,,,,,,,,,﻿student,﻿40 pupils,,,1868,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0117,﻿school,﻿Free school,English,﻿for boys,,,,﻿Solano County,﻿Benicia,﻿Benicia,﻿CA,,38.222656,-120.857252,,,,,,,,,,﻿student,﻿40 pupils,,,1868,﻿,﻿,﻿San Francisco,SanFrancisco
 ﻿sanf.ca.0113,﻿school,﻿Free school,English,,,,,﻿Sonoma County,﻿Petaluma,﻿Petaluma,﻿CA,,38.232417,-122.636652,,,,,,,,,,﻿student,﻿60 pupils,﻿Directed by Sisters of Charity,,1868,﻿,﻿,﻿San Francisco,SanFrancisco
 ﻿sanf.ca.0115,﻿school,﻿Free school,English,,,,,﻿Sacramento County,﻿Folsom,﻿Folsom,﻿CA,,38.67195,-121.161294,,,,,,,,,,﻿student,﻿50 pupils,,,1868,﻿,﻿,﻿San Francisco,SanFrancisco
 ﻿sanf.ca.0116,﻿school,﻿Free school,English,,,,,﻿Amador County,﻿Sutter Creek,﻿Sutter Creek,﻿CA,,38.392968,-120.802436,,,,,,,,,,﻿student,﻿40 pupils,,,1868,﻿,﻿,﻿San Francisco,SanFrancisco

@@ -46,17 +46,17 @@
 ﻿ore.or.0062,﻿church,not recorded,English,,,,,,﻿Cañon City,﻿Canyon City,﻿OR,,44.3896,-118.950231,,﻿attended from -,,﻿leo_dieleman_001,﻿Rev.,﻿Leopold Dieleman,,﻿Pastor,,,,,,1864,﻿,﻿,﻿Oregon City,OregonCity
 ﻿ore.or.0071,﻿church,not recorded,English,,,﻿on the John Day,,,﻿Granite City,﻿Granite City,﻿OR,,43.804133,-120.554201,﻿ore.or.0062,﻿attended from -,,,,,,,,,,,,1864,﻿,﻿,﻿Oregon City,OregonCity
 ﻿ore.or.0060,﻿church,not recorded,English,,,﻿on Powder River,,,﻿Auburn,,﻿OR,,44.693804,-117.931859,﻿ore.or.0058,﻿attended from -,,,,,,,,,,,,1864,﻿,﻿,﻿Oregon City,OregonCity
-﻿boi.id.0010,﻿church,not recorded,English,,,﻿on Salmon River,,,﻿Florence,﻿Florence,﻿ID,,46.589145,-112.039106,,﻿attended from -,,,,,,,,,,,,1864,﻿,﻿,﻿Oregon City,OregonCity
-﻿boi.id.0005,﻿church,not recorded,English,,,﻿on Boise River,,,﻿Bannock City,,,,46.589145,-112.039106,,,,﻿z_poulin_001,﻿Rev.,﻿A. Z. Poulin,,﻿Pastor,,,,,,1864,﻿,﻿,﻿Oregon City,OregonCity
-﻿boi.id.0005,﻿church,not recorded,English,,,﻿on Boise River,,,﻿Bannock City,,,,46.589145,-112.039106,,,,﻿t_mesplié_001,﻿Rev.,﻿Toussaint Mesplié,,﻿Pastor,,,,,,1864,﻿,﻿,﻿Oregon City,OregonCity
-﻿boi.id.0003,﻿church,not recorded,English,,,﻿on Boise River,,,﻿Placerville,﻿Placerville,﻿ID,,46.589145,-112.039106,,,,﻿z_poulin_001,﻿Rev.,﻿A. Z. Poulin,,﻿Pastor,,,,,,1864,﻿,﻿,﻿Oregon City,OregonCity
-﻿boi.id.0003,﻿church,not recorded,English,,,﻿on Boise River,,,﻿Placerville,﻿Placerville,﻿ID,,46.589145,-112.039106,,,,﻿t_mesplié_001,﻿Rev.,﻿Toussaint Mesplié,,﻿Pastor,,,,,,1864,﻿,﻿,﻿Oregon City,OregonCity
-﻿boi.id.0004,﻿church,not recorded,English,,,﻿on Boise River,,,﻿Centreville,﻿Centerville,﻿ID,,46.589145,-112.039106,,,,﻿z_poulin_001,﻿Rev.,﻿A. Z. Poulin,,﻿Pastor,,,,,,1864,﻿,﻿,﻿Oregon City,OregonCity
-﻿boi.id.0004,﻿church,not recorded,English,,,﻿on Boise River,,,﻿Centreville,﻿Centerville,﻿ID,,46.589145,-112.039106,,,,﻿t_mesplié_001,﻿Rev.,﻿Toussaint Mesplié,,﻿Pastor,,,,,,1864,﻿,﻿,﻿Oregon City,OregonCity
-﻿boi.id.0006,﻿church,not recorded,English,,,﻿on Boise River,,,﻿Hoggem,,﻿ID,,46.589145,-112.039106,,,,﻿z_poulin_001,﻿Rev.,﻿A. Z. Poulin,,﻿Pastor,,,,,,1864,﻿,﻿,﻿Oregon City,OregonCity
-﻿boi.id.0006,﻿church,not recorded,English,,,﻿on Boise River,,,﻿Hoggem,,﻿ID,,46.589145,-112.039106,,,,﻿t_mesplié_001,﻿Rev.,﻿Toussaint Mesplié,,﻿Pastor,,,,,,1864,﻿,﻿,﻿Oregon City,OregonCity
-﻿boi.id.0002,﻿church,not recorded,English,,,,,,﻿Fort Boise,﻿Boise,﻿ID,,46.589145,-112.039106,,,,﻿z_poulin_001,﻿Rev.,﻿A. Z. Poulin,,﻿Pastor,,,,,,1864,﻿,﻿,﻿Oregon City,OregonCity
-﻿boi.id.0002,﻿church,not recorded,English,,,,,,﻿Fort Boise,﻿Boise,﻿ID,,46.589145,-112.039106,,,,﻿t_mesplié_001,﻿Rev.,﻿Toussaint Mesplié,,﻿Pastor,,,,,,1864,﻿,﻿,﻿Oregon City,OregonCity
+﻿boi.id.0010,﻿church,not recorded,English,,,﻿on Salmon River,,,﻿Florence,﻿Florence,﻿ID,,,,,﻿attended from -,,,,,,,,,,,,1864,﻿,﻿,﻿Oregon City,OregonCity
+﻿boi.id.0005,﻿church,not recorded,English,,,﻿on Boise River,,,﻿Bannock City,,,,,,,,,﻿z_poulin_001,﻿Rev.,﻿A. Z. Poulin,,﻿Pastor,,,,,,1864,﻿,﻿,﻿Oregon City,OregonCity
+﻿boi.id.0005,﻿church,not recorded,English,,,﻿on Boise River,,,﻿Bannock City,,,,,,,,,﻿t_mesplié_001,﻿Rev.,﻿Toussaint Mesplié,,﻿Pastor,,,,,,1864,﻿,﻿,﻿Oregon City,OregonCity
+﻿boi.id.0003,﻿church,not recorded,English,,,﻿on Boise River,,,﻿Placerville,﻿Placerville,﻿ID,,,,,,,﻿z_poulin_001,﻿Rev.,﻿A. Z. Poulin,,﻿Pastor,,,,,,1864,﻿,﻿,﻿Oregon City,OregonCity
+﻿boi.id.0003,﻿church,not recorded,English,,,﻿on Boise River,,,﻿Placerville,﻿Placerville,﻿ID,,,,,,,﻿t_mesplié_001,﻿Rev.,﻿Toussaint Mesplié,,﻿Pastor,,,,,,1864,﻿,﻿,﻿Oregon City,OregonCity
+﻿boi.id.0004,﻿church,not recorded,English,,,﻿on Boise River,,,﻿Centreville,﻿Centerville,﻿ID,,,,,,,﻿z_poulin_001,﻿Rev.,﻿A. Z. Poulin,,﻿Pastor,,,,,,1864,﻿,﻿,﻿Oregon City,OregonCity
+﻿boi.id.0004,﻿church,not recorded,English,,,﻿on Boise River,,,﻿Centreville,﻿Centerville,﻿ID,,,,,,,﻿t_mesplié_001,﻿Rev.,﻿Toussaint Mesplié,,﻿Pastor,,,,,,1864,﻿,﻿,﻿Oregon City,OregonCity
+﻿boi.id.0006,﻿church,not recorded,English,,,﻿on Boise River,,,﻿Hoggem,,﻿ID,,,,,,,﻿z_poulin_001,﻿Rev.,﻿A. Z. Poulin,,﻿Pastor,,,,,,1864,﻿,﻿,﻿Oregon City,OregonCity
+﻿boi.id.0006,﻿church,not recorded,English,,,﻿on Boise River,,,﻿Hoggem,,﻿ID,,,,,,,﻿t_mesplié_001,﻿Rev.,﻿Toussaint Mesplié,,﻿Pastor,,,,,,1864,﻿,﻿,﻿Oregon City,OregonCity
+﻿boi.id.0002,﻿church,not recorded,English,,,,,,﻿Fort Boise,﻿Boise,﻿ID,,,,,,,﻿z_poulin_001,﻿Rev.,﻿A. Z. Poulin,,﻿Pastor,,,,,,1864,﻿,﻿,﻿Oregon City,OregonCity
+﻿boi.id.0002,﻿church,not recorded,English,,,,,,﻿Fort Boise,﻿Boise,﻿ID,,,,,,,﻿t_mesplié_001,﻿Rev.,﻿Toussaint Mesplié,,﻿Pastor,,,,,,1864,﻿,﻿,﻿Oregon City,OregonCity
 ﻿ore.or.0058,﻿mission,not recorded,English,﻿no chapel,﻿Cayous Indian Reservation,,,,﻿Umalilla,﻿Umatilla,﻿OR,,45.670408,-118.68359,,﻿attended from -,,,,,,,,,,,,1864,﻿,﻿,﻿Oregon City,OregonCity
 ﻿ore.or.0072,﻿academy,﻿St. Mary's Academy,English,﻿for young ladies; Opened in November 1859,,,,,﻿Portland,﻿Portland,﻿OR,,45.512531,-122.681274,,,,,﻿Sister,﻿Mary of the Seven Dolors,,﻿Superioress,,﻿religious,﻿12 sisters,,,1864,﻿,﻿,﻿Oregon City,OregonCity
 ﻿ore.or.0072,﻿academy,﻿St. Mary's Academy,English,﻿for young ladies; Opened in November 1859,,,,,﻿Portland,﻿Portland,﻿OR,,45.512531,-122.681274,,,,,,﻿By the Sisters of the Holy Names of Jesus and Mary,,,,﻿boarder,﻿41 boarders,,,1864,﻿,﻿,﻿Oregon City,OregonCity

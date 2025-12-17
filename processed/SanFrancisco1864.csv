@@ -26,7 +26,7 @@
 ﻿sanf.ca.0017,﻿church,﻿Mount Carmel,English,,,,﻿Tuolumne County,﻿Tuolumne County,﻿Big Oak Flat,﻿Groveland-Big Oak Flat,﻿CA,,37.826033,-120.25519,﻿sanf.ca.0068,﻿attended from Sonora,,,,,,,,,,,,1864,﻿,﻿,﻿San Francisco,SanFrancisco
 ﻿sanf.ca.0018,﻿church,﻿St. Teresa's,English,,,,﻿Sonoma County,﻿Sonoma County,﻿Bodega,﻿Bodega,﻿CA,,38.345433,-122.973826,﻿sanf.ca.0075,﻿attended from Tomales,,,,,,,,,,,,1864,﻿,﻿,﻿San Francisco,SanFrancisco
 ﻿sanf.ca.0019,﻿church,﻿St. Martin's,English,,,,﻿Amador County,﻿Amador County,﻿Butte City,﻿Butte City,﻿CA,,38.325762,-120.737048,﻿sanf.ca.0077,﻿attended from Volcano,,,,,,,,,,,,1864,﻿,﻿,﻿San Francisco,SanFrancisco
-﻿sanf.ca.0120,﻿church,﻿St. James',English,,,,﻿Calaveras County,﻿Calaveras County,﻿Campo Seco,﻿Campo Seco,﻿CA,,,,﻿sanf.ca.0053,﻿attended from San Andreas,,,,,,,,,,,,1864,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0120,﻿church,﻿St. James',English,,,,﻿Calaveras County,﻿Calaveras County,﻿Campo Seco,﻿Campo Seco,﻿CA,,38.222656,-120.857252,﻿sanf.ca.0053,﻿attended from San Andreas,,,,,,,,,,,,1864,﻿,﻿,﻿San Francisco,SanFrancisco
 ﻿sanf.ca.0020,﻿church,﻿St. Francis Xavier's,English,,,,﻿Tuolumne County,﻿Tuolumne County,﻿Chinese Camp,﻿Chinese Camp,﻿CA,,37.870451,-120.429455,﻿sanf.ca.0068,﻿attended from Sonora,,,,,,,,,,,,1864,﻿,﻿,﻿San Francisco,SanFrancisco
 ﻿sanf.ca.0021,﻿church,﻿St. John Baptiste,English,,,,﻿El Dorado County,﻿El Dorado County,﻿Coloma,﻿Coloma,﻿CA,,38.799921,-120.890292,﻿sanf.ca.0049,﻿attended from Placerville,,,,,,,,,,,,1864,﻿,﻿,﻿San Francisco,SanFrancisco
 ﻿sanf.ca.0022,﻿church,﻿St. Ann's,English,,,,﻿Tuolumne County,﻿Tuolumne County,﻿Columbia,﻿Columbia,﻿CA,,38.03076,-120.404527,,,,﻿ter_j_smith_001,﻿Rev.,﻿Terence J. Smith,,﻿Pastor,,,,,,1864,﻿,﻿,﻿San Francisco,SanFrancisco
@@ -109,6 +109,6 @@
 ﻿sanf.ca.0105,﻿school,﻿Free school,English,﻿for girls,,,,﻿Santa Clara County,﻿Pueblo of San Jose,﻿San Jose,﻿CA,,37.33874,-121.885252,,,,,,,,,,﻿student,﻿75 pupils,﻿Conducted by the Sisters of Notre Dame,,1864,﻿,﻿,﻿San Francisco,SanFrancisco
 ﻿sanf.ca.0106,﻿school,﻿Free school,English,,﻿attached to St. Ann's Church,,﻿Tuolumne County,﻿Tuolumne County,﻿Columbia,﻿Columbia,﻿CA,,38.03076,-120.404527,,,,,,,,,,﻿student,﻿75 pupils,,,1864,﻿,﻿,﻿San Francisco,SanFrancisco
 ﻿sanf.ca.0107,﻿school,﻿Free school,English,﻿for boys,,,,﻿Tuolumne County,﻿Sonora,﻿Sonora,﻿CA,,37.98295,-120.382172,,,,,,,,,,﻿student,﻿60 pupils,,,1864,﻿,﻿,﻿San Francisco,SanFrancisco
-﻿sanf.ca.0118,﻿school,﻿Free school,English,,,,,﻿El Dorado County,﻿Placerville,﻿Placerville,﻿CA,,,,,,,,,,,,,﻿student,﻿65 pupils,,,1864,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0118,﻿school,﻿Free school,English,,,,,﻿El Dorado County,﻿Placerville,﻿Placerville,﻿CA,,38.222656,-120.857252,,,,,,,,,,﻿student,﻿65 pupils,,,1864,﻿,﻿,﻿San Francisco,SanFrancisco
 ﻿sanf.ca.0108,﻿school,﻿Free school,English,﻿for boys,﻿attached to St. Mary's Church,,﻿San Joaquin County,﻿San Joaquin County,﻿Stockton,﻿Stockton,﻿CA,,37.951198,-121.287463,,,,,,,,,,﻿student,﻿60 pupils,,,1864,﻿,﻿,﻿San Francisco,SanFrancisco
 ﻿sanf.ca.0109,﻿school,﻿Free school,English,﻿just built by the Rev. Michael J. Izquierdo,,,,﻿Calaveras County,﻿San Andre,﻿San Andreas,﻿CA,,38.19603,-120.680487,,,,,,,,,,,,,,1864,﻿,﻿,﻿San Francisco,SanFrancisco
