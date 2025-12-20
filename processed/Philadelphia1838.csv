@@ -6,7 +6,7 @@
 ﻿phi.pa.0006,﻿church,﻿St. Joseph's,English,,,,,﻿Philadelphia County,﻿Philidelphia,﻿Philidelphia,﻿PA,﻿PA,39.94655372,-75.1475707,,,,﻿jam_ryder_902,﻿Rev.,﻿James Ryder,﻿S. J.,,,,,,,1838,﻿,﻿,﻿Philadelphia,Philadelphia
 ﻿phi.pa.0006,﻿church,﻿St. Joseph's,English,,,,,﻿Philadelphia County,﻿Philidelphia,﻿Philidelphia,﻿PA,,39.94655372,-75.1475707,,,,,﻿Rev.,﻿Felix Barbelin,﻿S. J.,,,,,,,1838,﻿,﻿,﻿Philadelphia,Philadelphia
 ﻿phi.pa.0007,﻿church,﻿St. Augustine's,English,,,,,﻿Philadelphia County,﻿Philidelphia,﻿Philidelphia,﻿PA,﻿PA,39.95552714,-75.1465845,,,,﻿n_odonnell_901,﻿Rev.,﻿N. O'Donnell,,,,,,,,1838,﻿,﻿,﻿Philadelphia,Philadelphia
-﻿phi.pa.0007,﻿church,﻿St. Augustine's,English,,,,,﻿Philadelphia County,﻿Philidelphia,﻿Philidelphia,﻿PA,,39.95552714,-75.1465845,,,,﻿joh_oreilly_901,﻿Rev.,﻿J. O'Reilley,,,,,,,,1838,﻿,﻿,﻿Philadelphia,Philadelphia
+﻿phi.pa.0007,﻿church,﻿St. Augustine's,English,,,,,﻿Philadelphia County,﻿Philidelphia,﻿Philidelphia,﻿PA,,39.95552714,-75.1465845,,,,﻿joh_v_oreilly_901,﻿Rev.,﻿J. O'Reilley,,,,,,,,1838,﻿,﻿,﻿Philadelphia,Philadelphia
 ﻿phi.pa.0009,﻿church,﻿Holy Trinity,﻿German,﻿German,,,,﻿Philadelphia County,﻿Philadelphia,﻿Philidelphia,﻿PA,﻿PA,39.9455084,-75.15189463,,,,﻿nic_balleis_901,﻿Rev.,﻿Nicholas Balleis,,,,,,,,1838,﻿,﻿,﻿Philadelphia,Philadelphia
 ﻿phi.pa.0009,﻿church,﻿Holy Trinity,﻿German,﻿German,,,,﻿Philadelphia County,﻿Philadelphia,﻿Philidelphia,﻿PA,,39.9455084,-75.15189463,,,,﻿cor_vanderbraak_901,﻿Rev.,﻿Cor. Vanderbraak,,,,,,,,1838,﻿,﻿,﻿Philadelphia,Philadelphia
 ﻿phi.pa.0004,﻿church,﻿St. John,English,﻿Evang.,,,,﻿Philadelphia County,﻿Philidelphia,﻿Philidelphia,﻿PA,﻿PA,39.95126954,-75.16138096,,,,﻿joh_hughes_901,﻿Very Rev.,﻿J. Hughes,,,,,,,,1838,﻿,﻿,﻿Philadelphia,Philadelphia
@@ -34,7 +34,7 @@
 ﻿phi.pa.0110,﻿church,﻿St. Bernard's,English,,,,,,﻿Easton,,﻿PA,,,,,,﻿once a month,﻿j_moloney_901,﻿Rev.,﻿J. Moloney,,,,,,,,1838,﻿,﻿,﻿Philadelphia,Philadelphia
 ﻿pit.pa.0042,﻿church,﻿St. Patrick's,English,,,,,﻿Cambria County,﻿Ebbensburg,﻿Ebensburg,﻿PA,﻿PA,40.48878598,-78.7264887,,,﻿once a month,﻿pet_lemke_901,﻿Rev.,﻿Peter Lemke,,,,,,,,1838,﻿,﻿,﻿Philadelphia,Philadelphia
 ﻿har.pa.0015,﻿church,﻿St. Peter's,English,,,,,﻿Lancaster County,﻿Elizabethtown,﻿Elizabethtown,﻿PA,﻿PA,40.1500281,-76.60378334,,,﻿once a month,﻿p_maher_901,﻿Rev.,﻿P. Maher,,,,,,,,1838,﻿,﻿,﻿Philadelphia,Philadelphia
-﻿har.pa.0015,﻿church,﻿St. Peter's,English,,,,,﻿Lancaster County,﻿Erie,﻿Elizabethtown,﻿PA,,40.1500281,-76.60378334,,,,,﻿Rev.,﻿Bernard McCabe,,,,,,,,1838,﻿,﻿,﻿Philadelphia,Philadelphia
+﻿phi.pa.9009,﻿church,not recorded,English,,,,,,﻿Erie,,﻿PA,,,,,,,,﻿Rev.,﻿Bernard McCabe,,,,,,,,1838,﻿,﻿,﻿Philadelphia,Philadelphia
 ﻿pit.pa.0046,﻿church,﻿St. Mary's,English,,,,,﻿Armstrong County,﻿Freeport,﻿Freeport,﻿PA,﻿PA,40.67408336,-79.68331684,,,﻿once a month,﻿jos_cody_901,﻿Rev.,﻿Joseph Cody,,,,,,,,1838,﻿,﻿,﻿Philadelphia,Philadelphia
 ﻿scr.pa.0088,﻿church,﻿St. Francis,English,,,,,﻿Susquehanna County,﻿Friendvsville,﻿Friendvsville,﻿PA,﻿PA,41.91814506,-76.04796095,,,﻿once a month,﻿h_fitzsimmons_901,﻿Rev.,﻿H. Fitzsimmons,,,,,,,,1838,﻿,﻿,﻿Philadelphia,Philadelphia
 ﻿har.pa.0029,﻿church,﻿St. Francis Xavier,English,,,,,﻿Adams County,﻿Gettysburg,﻿Gettysburg,﻿PA,﻿PA,39.8287621,-77.2319783,,,﻿once a month,﻿mic_dougherty_901,﻿Rev.,﻿Michael Dougherty,,,﻿from Conewago,,,,,1838,﻿,﻿,﻿Philadelphia,Philadelphia
@@ -90,7 +90,7 @@
 ﻿phi.pa.0028_02,﻿asylum,﻿St. John's Male Orphan Asylum,English,,,,,,﻿Philadelphia,,﻿PA,,,,,,,,,,,,,﻿child,﻿45 boys,﻿Sisters of Charity,,1838,﻿,﻿,﻿Philadelphia,Philadelphia
 ﻿phi.pa.0004_93,﻿day school,﻿St. John's Day School,English,,,,,,﻿Philadelphia,,﻿PA,,,,,,,,,,,,,﻿child,﻿45 boys,﻿Sisters of Charity,,1838,﻿,﻿,﻿Philadelphia,Philadelphia
 ﻿phi.pa.0004_93,﻿school,﻿St. Mary's Day School,English,,,,,,﻿Philadelphia,,﻿PA,,,,,,,,,,,,,﻿child,﻿180 children,﻿Sisters of Charity,,1838,﻿,﻿,﻿Philadelphia,Philadelphia
-﻿phi.pa.0004_93,﻿school,﻿St. Mary's Day School,English,,,,,,﻿Pittsburg,,﻿PA,,,,,,,,,,,,,﻿religious,﻿4 sisters,﻿Sisters of Charity,,1838,﻿,﻿,﻿Philadelphia,Philadelphia
-﻿phi.pa.0004_93,﻿school,﻿St. John's Baptist,English,,﻿M'Sherrystown,,,,﻿Conew.,﻿Conewago,﻿PA,,,,,,,,,,,,,﻿religious,﻿2 sisters,﻿Sisters of Charity,,1838,﻿,﻿,﻿Philadelphia,Philadelphia
-﻿phi.pa.0004_93,﻿school,﻿St. John's Baptist,English,,﻿M'Sherrystown,,,,﻿Pottsville,﻿Conewago,﻿PA,,,,,,,,,,,,,﻿religious,﻿2 sisters,﻿Sisters of Charity,,1838,﻿,﻿,﻿Philadelphia,Philadelphia
+﻿phi.pa.9007,﻿school,not recorded,English,,,,,,﻿Pittsburg,,﻿PA,,,,,,,,,,,,,﻿religious,﻿4 sisters,﻿Sisters of Charity,,1838,﻿,﻿,﻿Philadelphia,Philadelphia
+﻿phi.pa.9007,﻿school,﻿St. John's Baptist,English,,﻿M'Sherrystown,,,,﻿Conew.,﻿Conewago,﻿PA,,,,,,,,,,,,,﻿religious,﻿2 sisters,﻿Sisters of Charity,,1838,﻿,﻿,﻿Philadelphia,Philadelphia
+﻿phi.pa.9006,﻿school,not recorded,English,,,,,,﻿Pottsville,,﻿PA,,,,,,,,,,,,,﻿religious,﻿2 sisters,﻿Sisters of Charity,,1838,﻿,﻿,﻿Philadelphia,Philadelphia
 ﻿phi.pa.0010_02,﻿school,﻿St. Michael's Free School,English,,,,,,﻿Philadelphia,,﻿PA,,,,,,,,,,,,,,,,,1838,﻿,﻿,﻿Philadelphia,Philadelphia
