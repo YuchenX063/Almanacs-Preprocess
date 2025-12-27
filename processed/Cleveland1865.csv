@@ -10,7 +10,7 @@
 ﻿cle.oh.0008,﻿church,﻿St. Augustine's,English,,,,,,﻿Cleveland,﻿Cleveland,﻿OH,,41.47864034,-81.6859519,,﻿attended from Cathedral,,,,,,,,,,,,1865,﻿,﻿,﻿Cleveland,Cleveland
 ﻿cle.oh.0306,﻿church,﻿St. Peter's,English,,﻿Dodge street,,,,﻿Cleveland,﻿Cleveland,﻿OH,,,,,,,﻿j_luhr_002,﻿Very Rev.,﻿J. Luhr,,,,,,,,1865,﻿,﻿,﻿Cleveland,Cleveland
 ﻿cle.oh.0005,﻿church,﻿St. Joseph's,English,,﻿Kingsman street,,,,﻿Cleveland,﻿Cleveland,﻿OH,,,,,,,﻿a_kräsny_001,﻿Rev.,﻿A. Kräsny,,,,,,﻿Francisan Fathers,,1865,﻿,﻿,﻿Cleveland,Cleveland
-﻿cle.oh.0010,﻿chapel,﻿St. Mary's,English,,﻿Columbus street,,,,﻿Cleveland,﻿Cleveland,﻿OH,,41.49057516,-81.69459997,,,,﻿f_falk_001,﻿Rev.,﻿F. Falk,,,,,,,,1865,﻿,﻿,﻿Cleveland,Cleveland
+﻿cle.oh.0010,﻿chapel,﻿St. Mary's,English,,﻿Columbus street,,,,﻿Cleveland,﻿Cleveland,﻿OH,,41.49057516,-81.69459997,,,,﻿ste_falk_001,﻿Rev.,﻿F. Falk,,,,,,,,1865,﻿,﻿,﻿Cleveland,Cleveland
 ﻿chl.oh.0012&0013,"﻿convent, female orphan asylum",﻿Ursuline Convent and Girls' Asylum,English,,,,,,﻿Cleveland,﻿Cleveland,﻿OH,,,,,﻿attended from the Cathedral,,,,,,,,,,,,1865,﻿,﻿,﻿Cleveland,Cleveland
 ﻿cle.oh.0016,﻿male orphan asylum,﻿Boys' Asylum,English,,,,,,﻿Cleveland,﻿Cleveland,﻿OH,,41.49932,-81.6943605,﻿cle.oh.0002,﻿attended from St. Patrick's,,,,,,,,,,,,1865,﻿,﻿,﻿Cleveland,Cleveland
 ﻿cle.oh.0017,﻿church,﻿St. Vincent's,English,,,,,﻿Summit County,﻿Akron,﻿Akron,﻿OH,,41.1368367,-81.5987268,,,,﻿m_a_scanlan_001,﻿Rev.,﻿M. A. Scanlan,,,,,,,,1865,﻿,﻿,﻿Cleveland,Cleveland
@@ -53,7 +53,7 @@
 ﻿cle.oh.0322,﻿church,not recorded,English,,,,,,﻿Elmore,,﻿OH,,,,,﻿attended from Greensburgh,,,,,,,,,,,,1865,﻿,﻿,﻿Cleveland,Cleveland
 ﻿cle.oh.0061,﻿church,not recorded,English,,,,,﻿Hancock County,﻿Findley,﻿Findlay,﻿OH,,41.0391283,-83.6502309,,,,﻿m_dechaut_001,﻿Rev.,﻿M. Dechaut,,,,,,,,1865,﻿,﻿,﻿Cleveland,Cleveland
 ﻿cle.oh.0066,﻿church,﻿St. Mary's,English,,,,,﻿Sandusky County,﻿Fremont,﻿Fremont,﻿OH,,41.3503303,-83.1218634,,,,﻿m_oneil_002,﻿Rev.,﻿M. O'Neil,,,,,,,,1865,﻿,﻿,﻿Cleveland,Cleveland
-﻿cle.oh.0067,﻿church,﻿St. Joseph's,English,,,,,﻿Sandusky County,﻿Fremont,﻿Fremont,﻿OH,,41.3386319,-83.095086,,,,﻿s_bower_001,﻿Rev.,﻿S. Bower,,,,,,,,1865,﻿,﻿,﻿Cleveland,Cleveland
+﻿cle.oh.0067,﻿church,﻿St. Joseph's,English,,,,,﻿Sandusky County,﻿Fremont,﻿Fremont,﻿OH,,41.3386319,-83.095086,,,,﻿s_bauer_001,﻿Rev.,﻿S. Bower,,,,,,,,1865,﻿,﻿,﻿Cleveland,Cleveland
 ﻿cle.oh.0064,﻿church,not recorded,English,,,,,﻿Putnam County,﻿Fort Jennings,﻿Fort Jennings,﻿OH,,40.9064392,-84.296616,,,,,,,,,,,,,,1865,﻿,﻿,﻿Cleveland,Cleveland
 ﻿cle.oh.0069,﻿church,not recorded,English,,,,,﻿Wayne County,﻿French Settlement,,﻿OH,,40.7588598,-81.9534815,﻿cle.oh.0054,﻿attended from Fulton,,,,,,,,,,,,1865,﻿,﻿,﻿Cleveland,Cleveland
 ﻿cle.oh.0312,﻿church,not recorded,English,,﻿German Township,,,﻿Wayne County,﻿French Settlement,,﻿OH,,,,,﻿attended from Defiance,,,,,,,,,,,,1865,﻿,﻿,﻿Cleveland,Cleveland
@@ -141,7 +141,7 @@
 ﻿cle.oh.0158,﻿church,﻿St. Mary's,English,,,,,﻿Seneca County,﻿Tiffin,﻿Tiffin,﻿OH,,41.1172573,-83.1838661,,,,﻿mic_healy_001,﻿Rev.,﻿Michael Healy,,,,,,,,1865,﻿,﻿,﻿Cleveland,Cleveland
 ﻿cle.oh.0159,﻿church,﻿St. Joseph's,English,,,,,﻿Seneca County,﻿Tiffin,﻿Tiffin,﻿OH,,41.108735,-83.1752995,,,,﻿jos_bihn_001,﻿Rev.,﻿J. Behn,,,,,,,,1865,﻿,﻿,﻿Cleveland,Cleveland
 ﻿cle.oh.0162,﻿church,﻿St. Francis of Sales,English,,,,,﻿Lucas County,﻿Toledo,﻿Toledo,﻿OH,,41.6627992,-83.598385,,,,﻿f_boff_001,﻿Rev.,﻿F. Boff,,,,,,,,1865,﻿,﻿,﻿Cleveland,Cleveland
-﻿cle.oh.0300,﻿church,﻿St. Aloysius',English,,,,,﻿Lucas County,﻿Toledo,﻿Toledo,﻿OH,,,,,,,﻿ch_everard_001,﻿Rev.,﻿Ch. Evrard,,,,,,,,1865,﻿,﻿,﻿Cleveland,Cleveland
+﻿cle.oh.0300,﻿church,﻿St. Aloysius',English,,,,,﻿Lucas County,﻿Toledo,﻿Toledo,﻿OH,,,,,,,﻿cha_evrard_001,﻿Rev.,﻿Ch. Evrard,,,,,,,,1865,﻿,﻿,﻿Cleveland,Cleveland
 ﻿cle.oh.0167,﻿church,not recorded,﻿French,,,,,﻿Lucas County,﻿Toledo,﻿Toledo,﻿OH,,41.6528052,-83.5378674,,,,﻿f_rouchy_001,﻿Rev.,﻿F. Rouchy,,,,,,,,1865,﻿,﻿,﻿Cleveland,Cleveland
 ﻿cle.oh.0164,﻿chapel,﻿St. Patrick's,English,,,,,﻿Lucas County,﻿Toledo,﻿Toledo,﻿OH,,41.6489905,-83.5460267,,,,﻿e_hannin_001,﻿Rev.,﻿E. Hannon,,,,,,,,1865,﻿,﻿,﻿Cleveland,Cleveland
 ﻿cle.oh.0168,﻿church,﻿Chapels of Ursuline and Gray Nuns,English,,,,,﻿Lucas County,﻿Toledo,﻿Toledo,﻿OH,,41.6800973,-83.5957565,﻿cle.oh.0186,﻿attended by Rev. F. Rouchy,,﻿f_rouchy_001,﻿Rev.,﻿F. Rouchy,,,,,,﻿attended by the Jesuit Fathers,,1865,﻿,﻿,﻿Cleveland,Cleveland
