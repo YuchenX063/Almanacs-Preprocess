@@ -1,0 +1,12 @@
+﻿instID,church_type,instName,language,instNote,placeName,region,county_orig,county_reg,city_orig,city_reg,state_orig,state_reg,latitude,longitude,attendingInstID,attendingChurch,attendingChurchFrequency,persID,persTitle,persName,persSuffix,persRole,persNote,memberType,member,affiliated,order,year,attendingPersID,attendingChurchNote,diocese,diocese_reg
+﻿cin.oh.0001,﻿cathedral,﻿St. Peter's Cathedral,English,,,,,,﻿Cincinnati,,﻿OH,,40.4172871,-82.907123,,,,﻿joh_b_purcell_001,﻿Most Rev.,﻿J. B. Purcell,﻿D.D.,,,,,,,1866,﻿,﻿,﻿Cincinnati,Cincinnati
+﻿cin.oh.0001,﻿cathedral,﻿St. Peter's Cathedral,English,,,,,,﻿Cincinnati,,﻿OH,,40.4172871,-82.907123,,,,﻿s_h_rosecrans_002,﻿Rt Rev.,﻿S. H. Rosecrans,﻿D.D.,,,,,,,1866,﻿,﻿,﻿Cincinnati,Cincinnati
+﻿cin.oh.0001,﻿cathedral,﻿St. Peter's Cathedral,English,,,,,,﻿Cincinnati,,﻿OH,,40.4172871,-82.907123,,,,﻿e_parcell_001,﻿Very Rev.,﻿E. Purcell,﻿V.G.,,,,,,,1866,﻿,﻿,﻿Cincinnati,Cincinnati
+﻿cin.oh.0001,﻿cathedral,﻿St. Peter's Cathedral,English,,,,,,﻿Cincinnati,,﻿OH,,40.4172871,-82.907123,,,,﻿c_h_borgess_001,﻿Rev.,﻿C. H. Borgess,,,,,,,,1866,﻿,﻿,﻿Cincinnati,Cincinnati
+﻿cin.oh.0001,﻿cathedral,﻿St. Peter's Cathedral,English,,,,,,﻿Cincinnati,,﻿OH,,40.4172871,-82.907123,,,,﻿w_j_hally_001,﻿Rev.,﻿W. J. Halley,,,,,,,,1866,﻿,﻿,﻿Cincinnati,Cincinnati
+﻿cin.oh.0002,﻿church,﻿St. Francis Xavier's,English,,,,,,﻿Cincinnati,,﻿OH,,40.4172871,-82.907123,,,,﻿cha_driscoll_001,﻿Rev.,﻿Charles Driscoll,﻿S.J.,,,,,,,1866,﻿,﻿,﻿Cincinnati,Cincinnati
+﻿cin.oh.0002,﻿church,﻿St. Francis Xavier's,English,,,,,,﻿Cincinnati,,﻿OH,,40.4172871,-82.907123,,,,,﻿Rev.,﻿J. F. O'Neill,﻿S.J.,,,,,,,1866,﻿,﻿,﻿Cincinnati,Cincinnati
+﻿cin.oh.0002,﻿church,﻿St. Francis Xavier's,English,,,,,,﻿Cincinnati,,﻿OH,,40.4172871,-82.907123,,,,﻿h_baselmans_001,﻿Rev.,﻿H. Baselmans,﻿S.J.,,,,,,,1866,﻿,﻿,﻿Cincinnati,Cincinnati
+﻿cin.oh.0002,﻿church,﻿St. Francis Xavier's,English,,,,,,﻿Cincinnati,,﻿OH,,40.4172871,-82.907123,,,,,﻿Rev.,﻿Benedict Masselis,﻿S.J.,,,,,,,1866,﻿,﻿,﻿Cincinnati,Cincinnati
+﻿cin.oh.0002,﻿church,﻿St. Francis Xavier's,English,,,,,,﻿Cincinnati,,﻿OH,,40.4172871,-82.907123,,,,,﻿Rev.,﻿A. Hoecken,﻿S.J.,,,,,,,1866,﻿,﻿,﻿Cincinnati,Cincinnati
+﻿cin.oh.0003,﻿church,﻿St. Thomas',English,,,,,,﻿Cincinnati,,﻿OH,,40.4172871,-82.907123,﻿cin.oh.0002,﻿Attended from St. Francis Xavier's,,,,,,,,,,,,1866,﻿,﻿,﻿Cincinnati,Cincinnati
