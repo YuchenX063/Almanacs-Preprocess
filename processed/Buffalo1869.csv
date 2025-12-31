@@ -17,7 +17,7 @@
 ﻿buf.ny.0005,﻿church,﻿St. Patrick's,English,,,,﻿Erie County,,﻿Buffalo,﻿Buffalo,﻿NY,,,,,,,﻿f_mangin_001,﻿Rev.,﻿F. Mangin,﻿O.M.I,,,,,,,1869,﻿,﻿,﻿Buffalo,Buffalo
 ﻿buf.ny.0005,﻿church,﻿St. Patrick's,English,,,,﻿Erie County,,﻿Buffalo,﻿Buffalo,﻿NY,,,,,,,﻿jam_mcgrath_001,﻿Rev.,﻿James McGrath,﻿O.M.I,,,,,,,1869,﻿,﻿,﻿Buffalo,Buffalo
 ﻿buf.ny.0005,﻿church,﻿St. Patrick's,English,,,,﻿Erie County,,﻿Buffalo,﻿Buffalo,﻿NY,,,,,,,﻿e_cavanagh_001,﻿Rev.,﻿E. Cavanagh,﻿O.M.I,,,,,,,1869,﻿,﻿,﻿Buffalo,Buffalo
-﻿buf.ny.0003,﻿church,﻿St. Ann's,English,,,,﻿Erie County,,﻿Buffalo,﻿Buffalo,﻿NY,,,,,,,﻿jam_tirta_001,﻿Rev.,﻿James Tirta,﻿O.S.F.,﻿Superior,,,,,,1869,﻿,﻿,﻿Buffalo,Buffalo
+﻿buf.ny.0003,﻿church,﻿St. Ann's,English,,,,﻿Erie County,,﻿Buffalo,﻿Buffalo,﻿NY,,,,,,,﻿jam_titta_001,﻿Rev.,﻿James Tirta,﻿O.S.F.,﻿Superior,,,,,,1869,﻿,﻿,﻿Buffalo,Buffalo
 ﻿buf.ny.0003,﻿church,﻿St. Ann's,English,,,,﻿Erie County,,﻿Buffalo,﻿Buffalo,﻿NY,,,,,,,﻿f_constantine_001,﻿Rev.,﻿F. Constantine,﻿O.S.F.,,,,,,,1869,﻿,﻿,﻿Buffalo,Buffalo
 ﻿buf.ny.0003,﻿church,﻿St. Ann's,English,,,,﻿Erie County,,﻿Buffalo,﻿Buffalo,﻿NY,,,,,,,﻿jer_collins_002,﻿Rev. Father,﻿Jerome Collins,﻿O.S.F.,,,,,,,1869,﻿,﻿,﻿Buffalo,Buffalo
 ﻿buf.ny.0003,﻿church,﻿St. Vincent de Paul's,English,,,,﻿Erie County,,﻿Buffalo,﻿Buffalo,﻿NY,,,,,,,,﻿Brother,﻿Didacus,﻿O.S.F.,,,,,,,1869,﻿,﻿,﻿Buffalo,Buffalo
@@ -50,7 +50,7 @@
 ﻿buf.ny.0057,﻿church,﻿St. Mary's,English,﻿frame church,,,﻿Steuben County,,﻿Bath,﻿Bath,﻿NY,,,,,﻿Attended from Sanford,,,,,,,,,,,,1869,﻿,﻿,﻿Buffalo,Buffalo
 ﻿buf.ny.0077,﻿church,not recorded,English,﻿frame church,,,﻿Allegany County,,﻿Belfast,﻿Belfast,﻿NY,,,,﻿buf.ny.0078,﻿Attended from Batavia,,,,,,,,,,,,1869,﻿,﻿,﻿Buffalo,Buffalo
 ﻿buf.ny.0078,﻿church,﻿St. Joseph's,English,﻿stone church,,,﻿Wyoming County,,﻿Bennington,﻿Bennington,﻿NY,,,,,,,﻿tho_cunningham_001,﻿Rev.,﻿Thomas Cunningham,,,,,,,,1869,﻿,﻿,﻿Buffalo,Buffalo
-﻿buf.ny.0078,﻿church,﻿St. Bridget's,English,﻿stone church,,,﻿Genesee County,,﻿Bergen,﻿Bergen,﻿NY,,,,,,,﻿j_mcmanus_001,﻿Rev.,﻿J. McManus,,﻿Assistant,,,,,,1869,﻿,﻿,﻿Buffalo,Buffalo
+﻿buf.ny.0078,﻿church,﻿St. Bridget's,English,﻿stone church,,,﻿Genesee County,,﻿Bergen,﻿Bergen,﻿NY,,,,,,,﻿jam_mcmanus_001,﻿Rev.,﻿J. McManus,,﻿Assistant,,,,,,1869,﻿,﻿,﻿Buffalo,Buffalo
 ﻿buf.ny.0101,﻿church,not recorded,English,﻿frame church,,,﻿Steuben County,,﻿Birdsall,,﻿NY,,,,,,,﻿l_v_poel_001,﻿Rev.,﻿L. Van de Poel,,,,,,,,1869,﻿,﻿,﻿Buffalo,Buffalo
 ﻿buf.ny.0050,﻿church,not recorded,English,,,,﻿Wyoming County,,﻿Castile,﻿Castile,﻿NY,,,,﻿buf.ny.0048,﻿Attended from Andover,,,,,,,,,,,,1869,﻿,﻿,﻿Buffalo,Buffalo
 ﻿buf.ny.0113,﻿church,not recorded,English,﻿frame church,,,﻿Cattaraugus County,,﻿Cattaraugus,﻿Cattaraugus,﻿NY,,,,﻿buf.ny.0024,﻿Attended from Alden,,,,,,,,,,,,1869,﻿,﻿,﻿Buffalo,Buffalo
@@ -155,7 +155,7 @@
 ﻿buf.ny.0121,﻿seminary,not recorded,English,,,,,,,,,,,,,,,﻿m_flynn_001,﻿Rev.,﻿M. Flynn,﻿C.M.,,,﻿student,﻿225 students,﻿under the charge of the Reverend Fathers of the Congregation of the Mission,,1869,﻿,﻿,﻿Buffalo,Buffalo
 ﻿buf.ny.0121,﻿seminary,﻿Franciscan College and Convent,English,,,,﻿Cattaraugus County,,﻿Alleghany,,﻿NY,,,,,,,﻿jas_v_brennan_001,﻿Rev.,﻿Jas. V. Brennan,﻿C.M.,,,﻿student,﻿225 students,﻿under the charge of the Reverend Fathers of the Congregation of the Mission,,1869,﻿,﻿,﻿Buffalo,Buffalo
 ﻿buf.ny.0121,﻿seminary,﻿Franciscan College and Convent,English,,,,﻿Cattaraugus County,,﻿Alleghany,,﻿NY,,,,,,,﻿j_t_landry_001,﻿Rev.,﻿J. T. Landry,﻿C.M.,,,﻿student,﻿225 students,﻿under the charge of the Reverend Fathers of the Congregation of the Mission,,1869,﻿,﻿,﻿Buffalo,Buffalo
-﻿buf.ny.0121,﻿seminary,﻿Franciscan College and Convent,English,,,,﻿Cattaraugus County,,﻿Alleghany,,﻿NY,,,,,,,﻿h_j_annen_001,﻿Rev.,﻿H. J. Annen,﻿C.M.,,,﻿student,﻿225 students,﻿under the charge of the Reverend Fathers of the Congregation of the Mission,,1869,﻿,﻿,﻿Buffalo,Buffalo
+﻿buf.ny.0121,﻿seminary,﻿Franciscan College and Convent,English,,,,﻿Cattaraugus County,,﻿Alleghany,,﻿NY,,,,,,,﻿h_j_anen_001,﻿Rev.,﻿H. J. Annen,﻿C.M.,,,﻿student,﻿225 students,﻿under the charge of the Reverend Fathers of the Congregation of the Mission,,1869,﻿,﻿,﻿Buffalo,Buffalo
 ﻿buf.ny.0121,﻿seminary,﻿Franciscan College and Convent,English,,,,﻿Cattaraugus County,,﻿Alleghany,,﻿NY,,,,,,,﻿s_v_oneill_001,﻿Rev.,﻿S. V. O'Neill,﻿C.M.,,,﻿student,﻿225 students,﻿under the charge of the Reverend Fathers of the Congregation of the Mission,,1869,﻿,﻿,﻿Buffalo,Buffalo
 ﻿buf.ny.0122,"﻿college, convent",not recorded,English,,,,,,,,,,,,,,,﻿f_diomedes_001,﻿Rev.,﻿F. Diomedes,﻿O.S.F.,﻿President,,﻿religious,﻿7 professed Brothers,,,1869,﻿,﻿,﻿Buffalo,Buffalo
 ﻿buf.ny.0122,"﻿college, convent",not recorded,English,,,,,,,,,,,,,,,﻿isa_de-scanno_001,﻿Rev.,﻿Isaiah de Scanno,﻿O.S.F.,﻿Vice-President,,﻿tertian,﻿10 Tertians,,,1869,﻿,﻿,﻿Buffalo,Buffalo
