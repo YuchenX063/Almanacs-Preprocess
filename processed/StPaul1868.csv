@@ -9,7 +9,7 @@
 ﻿stp.mn.0003,﻿church,﻿St. Mary's Church,English,,,,﻿Ramsey County,﻿Ramsey County,﻿St. Paul,﻿St. Paul,﻿MN,,,,,,,﻿l_caillet_001,﻿Rev.,﻿L. Caillet,,,,,,,,1868,﻿,﻿,﻿St. Paul,StPaul
 ﻿stp.mn.0006,﻿church,﻿St. Michael's Church,English,,﻿West St. Paul,,﻿Ramsey County,﻿Ramsey County,﻿St. Paul,﻿St. Paul,﻿MN,,,,﻿stp.mn.0001,﻿Attended from the Cathedral,,﻿pro_maurer_001,﻿Rev.,﻿Prosper Maurer,,,,,,,,1868,﻿,﻿,﻿St. Paul,StPaul
 ﻿stp.mn.0007,﻿church,﻿St. John's Church,English,,,,﻿Ramsey County,﻿Ramsey County,﻿New-Canada,﻿Little Canada,﻿MN,,,,,﻿,,﻿jos_goiffon_001,﻿Rev.,﻿J. Goiffon,,,,,,,,1868,﻿,﻿,﻿St. Paul,StPaul
-﻿stp.mn.0070,﻿church,﻿Church of St. Anthony of Padua,﻿English,,,,﻿Hennepin County,﻿Hennepin County,﻿St. Anthony,﻿St. Anthony,﻿MN,,,,,﻿,,﻿f_tissot_001,﻿Rev.,﻿F. Tissot,,,,,,,,1868,﻿,﻿,﻿St. Paul,StPaul
+﻿stp.mn.0070,﻿church,﻿Church of St. Anthony of Padua,﻿English,,,,﻿Hennepin County,﻿Hennepin County,﻿St. Anthony,﻿St. Anthony,﻿MN,,,,,﻿,,﻿fel_tissot_001,﻿Rev.,﻿F. Tissot,,,,,,,,1868,﻿,﻿,﻿St. Paul,StPaul
 ﻿stp.mn.0071,﻿church,﻿Church of St. Boniface,﻿German,,,,﻿Hennepin County,﻿Hennepin County,﻿St. Anthony,﻿St. Anthony,﻿MN,,,,,﻿,,,,,,,,,,,,1868,﻿,﻿,﻿St. Paul,StPaul
 ﻿stp.mn.0072,﻿church,not recorded,English,,,,﻿Hennepin County,﻿Hennepin County,﻿Minneapolis,﻿Minneapolis,﻿MN,,,,,﻿,,,,,,,,,,,,1868,﻿,﻿,﻿St. Paul,StPaul
 ﻿stp.mn.0073,﻿church,﻿Church of St. John the Baptist,English,,,,﻿Hennepin County,﻿Hennepin County,﻿Dayton,﻿Dayton,﻿MN,,,,,﻿,,﻿l_nicolas_002,﻿Rev.,﻿L. Nicolas,,,,,,,,1868,﻿,﻿,﻿St. Paul,StPaul
@@ -45,7 +45,7 @@
 ﻿stp.mn.0149,﻿church,﻿Church of St. Mark,﻿German,,,,﻿Scott County,﻿Scott County,﻿Shakopee,﻿Shakopee,﻿MN,,,,,﻿,,﻿geo_sherer_001,﻿Rev.,﻿George Sherer,﻿O.S.B.,,,,,,,1868,﻿,﻿,﻿St. Paul,StPaul
 ﻿stp.mn.0150,﻿church,﻿St. Mary,English,,,,﻿Scott County,﻿Scott County,﻿Shakopee,﻿Shakopee,﻿MN,,,,﻿stp.mn.0034,"﻿Visited by Rev. A. Oster, of Burnsville",,,,,,,,,,,,1868,﻿,﻿,﻿St. Paul,StPaul
 ﻿stp.mn.0151,﻿church,﻿Church of St. Martin,English,,,,﻿Scott County,﻿Scott County,﻿Belle Plaine,﻿Belle Plaine,﻿MN,,,,,﻿,,﻿ale_berghold_001,﻿Rev.,﻿Alex. Berghold,,,,,,,,1868,﻿,﻿,﻿St. Paul,StPaul
-﻿stp.mn.0153,﻿church,﻿Church of St. Wenceslaus,English,,,,﻿Scott County,﻿Scott County,﻿New-Prague,﻿New Prague,﻿MN,,,,,﻿,,﻿a_plut_001,﻿Rev.,﻿A. Plut,,,,,,,,1868,﻿,﻿,﻿St. Paul,StPaul
+﻿stp.mn.0153,﻿church,﻿Church of St. Wenceslaus,English,,,,﻿Scott County,﻿Scott County,﻿New-Prague,﻿New Prague,﻿MN,,,,,﻿,,﻿alo_plut_001,﻿Rev.,﻿A. Plut,,,,,,,,1868,﻿,﻿,﻿St. Paul,StPaul
 ﻿stp.mn.0156,﻿church,﻿Church of Purification of B.V.M.,English,,,,﻿Scott County,﻿Scott County,﻿Marystown,﻿Marystown,﻿MN,,,,﻿stp.mn.0149,﻿Visited by Rev. George Sherer,,,,,,,,,,,,1868,﻿,﻿,﻿St. Paul,StPaul
 ﻿stp.mn.0154,﻿church,﻿Church of St. Patrick,English,,,,﻿Scott County,﻿Scott County,﻿Cedar Lake,﻿Cedar Lake Township,﻿MN,,,,﻿stp.mn.0153,﻿Visited by Rev. A. Plut,,,,,,,,,,,,1868,﻿,﻿,﻿St. Paul,StPaul
 ﻿stp.mn.0155,﻿church,not recorded,English,,,,﻿Scott County,﻿Scott County,﻿Jordan,﻿Jordan,﻿MN,,,,﻿stp.mn.0151,﻿Visited by Rev. A. Berghold,,,,,,,,,,,,1868,﻿,﻿,﻿St. Paul,StPaul
@@ -65,7 +65,7 @@
 ﻿stp.mn.0098,﻿station,not recorded,English,,,,﻿Le Sueur County,﻿Le Sueur County,﻿Lexington,﻿Lexington Township,﻿MN,,,,﻿stp.mn.0153,﻿Visited by Rev. A. Plut,,,,,,,,,,,,1868,﻿,﻿,﻿St. Paul,StPaul
 ﻿stp.mn.0099,﻿station,not recorded,English,,,,﻿Le Sueur County,﻿Le Sueur County,﻿Montgomery,﻿Montgomery,﻿MN,,,,﻿stp.mn.0130,﻿Visited by Rev. A. Seel,,,,,,,,,,,,1868,﻿,﻿,﻿St. Paul,StPaul
 ﻿stp.mn.0100,﻿station,not recorded,English,,,,﻿Le Sueur County,﻿Le Sueur County,﻿Waterville,﻿Waterville,﻿MN,,,,﻿stp.mn.0129,"﻿Visited by Rev. Geo. Keller, of Faribault",,,,,,,,,,,,1868,﻿,﻿,﻿St. Paul,StPaul
-﻿stp.mn.0019,﻿church,﻿Church of St. Joseph,English,,,,﻿Carver County,﻿Carver County,﻿Waconia,﻿Waconia,﻿MN,,,,,﻿,,﻿f_stern_001,﻿Rev.,﻿F. Stern,,,,,,,,1868,﻿,﻿,﻿St. Paul,StPaul
+﻿stp.mn.0019,﻿church,﻿Church of St. Joseph,English,,,,﻿Carver County,﻿Carver County,﻿Waconia,﻿Waconia,﻿MN,,,,,﻿,,﻿fer_stern_001,﻿Rev.,﻿F. Stern,,,,,,,,1868,﻿,﻿,﻿St. Paul,StPaul
 ﻿stp.mn.0020,﻿church,﻿Church of Guardian Angels,English,,,,﻿Carver County,﻿Carver County,﻿Chaska,﻿Chaska,﻿MN,,,,,﻿,,﻿m_mayer_001,﻿Rev.,﻿M. Mayer,,,,,,,,1868,﻿,﻿,﻿St. Paul,StPaul
 ﻿stp.mn.0022,﻿church,﻿Church of St. Bernard,English,,,,﻿Carver County,﻿Carver County,﻿Benton,﻿Benton Township,﻿MN,,,,﻿stp.mn.0019,﻿Visited by Rev. F. Stern,,,,,,,,,,,,1868,﻿,﻿,﻿St. Paul,StPaul
 ﻿stp.mn.0021,﻿church,﻿Church of Immaculate Conception,English,,,,﻿Carver County,﻿Carver County,﻿Watertown,﻿Watertown,﻿MN,,,,﻿stp.mn.0019,﻿Visited by Rev. F. Stern,,,,,,,,,,,,1868,﻿,﻿,﻿St. Paul,StPaul
@@ -99,7 +99,7 @@
 ﻿stp.mn.0101,﻿station,not recorded,English,﻿New county,﻿Scattering stations,,﻿Martin County,﻿Martin County,,,﻿MN,,,,﻿stp.mn.0012,﻿Visited by Rev. V. Sommereisen,,,,,,,,,,,,1868,﻿,﻿,﻿St. Paul,StPaul
 ﻿stp.mn.0129,﻿church,﻿Church of the Immaculate Conception,English,,,,﻿Rice County,﻿Rice County,﻿Faribault,﻿Faribault,﻿MN,,,,,﻿,,﻿geo_keller_001,﻿Rev.,﻿Geo. Keller,,,,,,,,1868,﻿,﻿,﻿St. Paul,StPaul
 ﻿stp.mn.0131,﻿church,﻿Church of the Annunciation,English,,,,﻿Rice County,﻿Rice County,﻿Webster,﻿Webster,﻿MN,,,,﻿stp.mn.0035,﻿Visited by Rev. P. Bayer,,,,,,,,,,,,1868,﻿,﻿,﻿St. Paul,StPaul
-﻿stp.mn.0130,﻿church,﻿Church of St. Patrick,English,,,,﻿Rice County,﻿Rice County,﻿Shieldsville,﻿Shieldsville,﻿MN,,,,,﻿,,﻿a_seel_001,﻿Rev.,﻿A. Seel,,,,,,,,1868,﻿,﻿,﻿St. Paul,StPaul
+﻿stp.mn.0130,﻿church,﻿Church of St. Patrick,English,,,,﻿Rice County,﻿Rice County,﻿Shieldsville,﻿Shieldsville,﻿MN,,,,,﻿,,﻿alo_seel_001,﻿Rev.,﻿A. Seel,,,,,,,,1868,﻿,﻿,﻿St. Paul,StPaul
 ﻿stp.mn.0132,﻿church,﻿Church of St. Louis,English,,,,﻿Rice County,﻿Rice County,﻿Wheatland,﻿Wheatland,﻿MN,,,,﻿stp.mn.0130,﻿Visited by Rev. A. Seel,,,,,,,,,,,,1868,﻿,﻿,﻿St. Paul,StPaul
 ﻿stp.mn.0133,﻿station,not recorded,English,,,,﻿Rice County,﻿Rice County,﻿East-Prairie,,﻿MN,,,,﻿stp.mn.0129,﻿Visited by Rev. Geo. Keller,,,,,,,,,,,,1868,﻿,﻿,﻿St. Paul,StPaul
 ﻿stp.mn.0134,﻿church,not recorded,English,,,,﻿Rice County,﻿Rice County,﻿Erin,﻿Erin Township,﻿MN,,,,﻿stp.mn.0130,﻿Visited by Rev. A. Seel,,,,,,,,,,,,1868,﻿,﻿,﻿St. Paul,StPaul
@@ -127,7 +127,7 @@
 ﻿stp.mn.0067,﻿station,not recorded,English,,,,﻿Goodhue County,﻿Wabasha County,﻿Mazeppa,﻿Mazeppa,﻿MN,,,,﻿stp.mn.0062,﻿Visited by Rev. J. Knauff,,,,,,,,,,,,1868,﻿,﻿,﻿St. Paul,StPaul
 ﻿stp.mn.0068,﻿station,not recorded,English,,,,﻿Goodhue County,﻿Goodhue County,﻿Hay Creek,﻿Hay Creek Township,﻿MN,,,,﻿stp.mn.0062,﻿Visited by Rev. J. Knauff,,,,,,,,,,,,1868,﻿,﻿,﻿St. Paul,StPaul
 ﻿stp.mn.0069,﻿church,﻿Church of St. Pius V.,English,,,,﻿Goodhue County,﻿Goodhue County,﻿Cannon Falls,﻿Cannon Falls,﻿MN,,,,﻿stp.mn.0035,﻿Visited by Rev. P. Bayer,,,,,,,,,,,,1868,﻿,﻿,﻿St. Paul,StPaul
-﻿stp.mn.0186,﻿church,﻿Church of St. Felix,English,,,,﻿Wabasha County,﻿Wabasha County,﻿Wabasha,﻿Wabasha,﻿MN,,,,,﻿,,﻿jas_trobec_001,﻿Rev.,﻿Jas. Trobec,,,,,,,,1868,﻿,﻿,﻿St. Paul,StPaul
+﻿stp.mn.0186,﻿church,﻿Church of St. Felix,English,,,,﻿Wabasha County,﻿Wabasha County,﻿Wabasha,﻿Wabasha,﻿MN,,,,,﻿,,﻿jam_trobec_001,﻿Rev.,﻿Jas. Trobec,,,,,,,,1868,﻿,﻿,﻿St. Paul,StPaul
 ﻿stp.mn.0187,﻿church,not recorded,English,,,,﻿Wabasha County,﻿Wabasha County,﻿Lake City,﻿Lake City,﻿MN,,,,﻿stp.mn.0186,﻿Visited by Rev. Jas. Trobec,,,,,,,,,,,,1868,﻿,﻿,﻿St. Paul,StPaul
 ﻿stp.mn.0188,﻿church,not recorded,English,,,,﻿Wabasha County,﻿Wabasha County,﻿West-Albany,﻿West Albany,﻿MN,,,,﻿stp.mn.0186,﻿Visited by Rev. Jas. Trobec,,,,,,,,,,,,1868,﻿,﻿,﻿St. Paul,StPaul
 ﻿stp.mn.0189,﻿church,not recorded,English,,,,﻿Wabasha County,﻿Wabasha County,﻿Highland,﻿Highland Township,﻿MN,,,,﻿stp.mn.0186,﻿Visited by Rev. Jas. Trobec,,,,,,,,,,,,1868,﻿,﻿,﻿St. Paul,StPaul
@@ -158,7 +158,7 @@
 ﻿stp.mn.0054,﻿church,not recorded,English,,,,﻿Fillmore County,﻿Carlton County,﻿Carlton,﻿Carlton,﻿MN,,,,﻿stp.mn.0049,﻿Visited by Rev. E. Essing,,,,,,,,,,,,1868,﻿,﻿,﻿St. Paul,StPaul
 ﻿stp.mn.0055,﻿church,not recorded,English,,,,﻿Fillmore County,﻿Fillmore County,﻿Spring Valley,﻿Spring Valley,﻿MN,,,,﻿stp.mn.0049,﻿Visited by Rev. E. Essing,,,,,,,,,,,,1868,﻿,﻿,﻿St. Paul,StPaul
 ﻿stp.mn.0056,﻿church,not recorded,English,,,,﻿Fillmore County,﻿Fillmore County,﻿Newburgh,﻿Newburg,﻿MN,,,,﻿stp.mn.0049,﻿Visited by Rev. E. Essing,,,,,,,,,,,,1868,﻿,﻿,﻿St. Paul,StPaul
-﻿stp.mn.0083,﻿church,﻿Church of St. John Baptist,English,,,,﻿Houston County,﻿Houston County,﻿Caledonia,﻿Caledonia,﻿MN,,,,,﻿,,﻿m_sturenberg_001,﻿Rev.,﻿M. Sturenberg,,,,,,,,1868,﻿,﻿,﻿St. Paul,StPaul
+﻿stp.mn.0083,﻿church,﻿Church of St. John Baptist,English,,,,﻿Houston County,﻿Houston County,﻿Caledonia,﻿Caledonia,﻿MN,,,,,﻿,,﻿mat_stüremberg_001,﻿Rev.,﻿M. Sturenberg,,,,,,,,1868,﻿,﻿,﻿St. Paul,StPaul
 ﻿stp.mn.0085,﻿church,not recorded,English,,,,﻿Houston County,﻿Houston County,﻿Hokah,﻿Hokah,﻿MN,,,,﻿stp.mn.0084,﻿Visited by Rev. F. X. Newbrand,,,,,,,,,,,,1868,﻿,﻿,﻿St. Paul,StPaul
 ﻿stp.mn.0086,﻿church,﻿Church of Crucifixion,English,,,,﻿Houston County,﻿Houston County,﻿La Crescent,﻿La Crescent,﻿MN,,,,﻿stp.mn.0084,﻿Visited by Rev. F. X. Newbrand,,,,,,,,,,,,1868,﻿,﻿,﻿St. Paul,StPaul
 ﻿stp.mn.0084,﻿church,not recorded,English,,,,﻿Houston County,﻿Houston County,﻿Brownsville,﻿Brownsville,﻿MN,,,,,﻿,,﻿f_x_newbrand_001,﻿Rev.,﻿F. X. Newbrand,,,,,,,,1868,﻿,﻿,﻿St. Paul,StPaul
@@ -174,7 +174,7 @@
 ﻿stp.mn.0179,﻿station,not recorded,English,,,,﻿Wright County,﻿Wright County,﻿Maple Lake,﻿Maple Lake,﻿MN,,,,﻿stp.mn.0174,﻿Visited by Rev. G. Koering,,,,,,,,,,,,1868,﻿,﻿,﻿St. Paul,StPaul
 ﻿stp.mn.0180,﻿station,not recorded,English,,,,﻿Wright County,﻿Wright County,﻿Monticello,﻿Monticello,﻿MN,,,,﻿stp.mn.0174,﻿Visited by Rev. G. Koering,,,,,,,,,,,,1868,﻿,﻿,﻿St. Paul,StPaul
 ﻿stp.mn.0181,﻿station,not recorded,English,,,,﻿Wright County,﻿Wright County,﻿Rockford,﻿Rockford,﻿MN,,,,﻿stp.mn.0174,﻿Visited by Rev. G. Koering,,,,,,,,,,,,1868,﻿,﻿,﻿St. Paul,StPaul
-﻿stp.mn.0138,﻿church,﻿Church of Immaculate Conception,English,,,,﻿Stearns County,﻿Stearns County,﻿St. Cloud,﻿St. Cloud,﻿MN,,,,,﻿,,﻿m_stuckinkemper_001,﻿Rev.,﻿M. Stuckinkemper,﻿O.S.B.,,,,,,,1868,﻿,﻿,﻿St. Paul,StPaul
+﻿stp.mn.0138,﻿church,﻿Church of Immaculate Conception,English,,,,﻿Stearns County,﻿Stearns County,﻿St. Cloud,﻿St. Cloud,﻿MN,,,,,﻿,,﻿mei_stukenkemper_001,﻿Rev.,﻿M. Stuckinkemper,﻿O.S.B.,,,,,,,1868,﻿,﻿,﻿St. Paul,StPaul
 ﻿stp.mn.0138,﻿church,﻿Church of Immaculate Conception,English,,,,﻿Stearns County,﻿Stearns County,﻿St. Cloud,﻿St. Cloud,﻿MN,,,,,﻿,,﻿jos_vill_001,﻿Rev.,﻿Joseph Vill,﻿O.S.B.,,,,,,,1868,﻿,﻿,﻿St. Paul,StPaul
 ﻿stp.mn.0139,﻿church,﻿Church of SS. Peter and Paul,English,,,,﻿Stearns County,﻿Stearns County,﻿Richmond,﻿Richmond,﻿MN,,,,,﻿,,﻿cor_wittman_001,﻿Rev.,﻿C. Wittman,﻿O.S.B.,,,,,,,1868,﻿,﻿,﻿St. Paul,StPaul
 ﻿stp.mn.0139,﻿church,﻿Church of SS. Peter and Paul,English,,,,﻿Stearns County,﻿Stearns County,﻿Richmond,﻿Richmond,﻿MN,,,,,﻿,,﻿ans_fraudendorfer_001,﻿Rev.,﻿A. Fraudendorfer,﻿O.S.B.,,﻿Clinton P.O.,,,,,1868,﻿,﻿,﻿St. Paul,StPaul
@@ -230,7 +230,7 @@
 ﻿stp.mn.0220,﻿seminary,not recorded,English,"﻿Preparatory Seminary. The Theological Students of the Diocese are distributed between All-Hallows', Dublin; St. Vincent's Seminary, Pa., and St. Vincent's Seminary, Cape Girardeau, Mo.",,,,,﻿St. Paul,,﻿MN,,,,,,,,,,,,,,,,,1868,﻿,﻿,﻿St. Paul,StPaul
 ﻿stp.mn.0228_03,﻿abbey,﻿Abbey of St. Louis on the Lake,English,"﻿of the Order of St. Benedict. There are also houses attached to the abbey, at St. Paul's, St. Cloud, Shakopee, St. Joseph, and Richmond.","﻿near St. Cloud, Clinton P.O.",,﻿Stearns County,,,,﻿MN,,,,,,,﻿rup_seidenbusch_001,﻿Rt. Rev.,﻿Rupert Seidenbusch,﻿O.S.B.,﻿Abbot and Rector of the College,,﻿priest,﻿13 priests mostly engaged in missionary duties in various parts of the diocese,,,1868,﻿,﻿,﻿St. Paul,StPaul
 ﻿stp.mn.0228_03,﻿abbey,﻿Abbey of St. Louis on the Lake,English,"﻿of the Order of St. Benedict. There are also houses attached to the abbey, at St. Paul's, St. Cloud, Shakopee, St. Joseph, and Richmond.","﻿near St. Cloud, Clinton P.O.",,﻿Stearns County,,,,﻿MN,,,,,,,﻿ben_haindl_001,﻿Very Rev.,﻿Benedict Haindl,﻿O.S.B.,"﻿Prior, and Professor of Dogmatic Theology",,﻿priest,﻿15 scholastics,,,1868,﻿,﻿,﻿St. Paul,StPaul
-﻿stp.mn.0228_03,﻿abbey,﻿Abbey of St. Louis on the Lake,English,"﻿of the Order of St. Benedict. There are also houses attached to the abbey, at St. Paul's, St. Cloud, Shakopee, St. Joseph, and Richmond.","﻿near St. Cloud, Clinton P.O.",,﻿Stearns County,,,,﻿MN,,,,,,,﻿wol_norttmann_001,﻿Rev.,﻿Wolfgang Norttmann,﻿O.S.B.,"﻿Vice-Rector, and Professor of Church History, Latin, Greek, Mathematics, Book-keeping, and Music",,﻿priest,﻿14 lay brothers,,,1868,﻿,﻿,﻿St. Paul,StPaul
+﻿stp.mn.0228_03,﻿abbey,﻿Abbey of St. Louis on the Lake,English,"﻿of the Order of St. Benedict. There are also houses attached to the abbey, at St. Paul's, St. Cloud, Shakopee, St. Joseph, and Richmond.","﻿near St. Cloud, Clinton P.O.",,﻿Stearns County,,,,﻿MN,,,,,,,﻿wol_northmann_001,﻿Rev.,﻿Wolfgang Norttmann,﻿O.S.B.,"﻿Vice-Rector, and Professor of Church History, Latin, Greek, Mathematics, Book-keeping, and Music",,﻿priest,﻿14 lay brothers,,,1868,﻿,﻿,﻿St. Paul,StPaul
 ﻿stp.mn.0228_03,﻿abbey,﻿Abbey of St. Louis on the Lake,English,"﻿of the Order of St. Benedict. There are also houses attached to the abbey, at St. Paul's, St. Cloud, Shakopee, St. Joseph, and Richmond.","﻿near St. Cloud, Clinton P.O.",,﻿Stearns County,,,,﻿MN,,,,,,,﻿ale_edelbrock_001,﻿Rev.,﻿Alexius Edelbrock,﻿O.S.B.,"﻿Professor of Philosophy, Latin, Greek, History, English, and German",,﻿priest,﻿12 lay brothers,,,1868,﻿,﻿,﻿St. Paul,StPaul
 ﻿stp.mn.0228_03,﻿abbey,﻿Abbey of St. Louis on the Lake,English,"﻿of the Order of St. Benedict. There are also houses attached to the abbey, at St. Paul's, St. Cloud, Shakopee, St. Joseph, and Richmond.","﻿near St. Cloud, Clinton P.O.",,﻿Stearns County,,,,﻿MN,,,,,,,﻿aug_burns_001,﻿Rev.,﻿Augustine Burns,﻿O.S.B.,"﻿Professor of Moral Theology, Christian Doctrine, Rhetoric, English Grammar, and Composition",,﻿priest,﻿12 lay brothers,,,1868,﻿,﻿,﻿St. Paul,StPaul
 ﻿stp.mn.0228_03,﻿abbey,﻿Abbey of St. Louis on the Lake,English,"﻿of the Order of St. Benedict. There are also houses attached to the abbey, at St. Paul's, St. Cloud, Shakopee, St. Joseph, and Richmond.","﻿near St. Cloud, Clinton P.O.",,﻿Stearns County,,,,﻿MN,,,,,,,﻿val_stimmler_001,﻿Rev.,﻿Valentine Stimmler,﻿O.S.B.,"﻿Chief Disciplinarian, and Professor of Christian Doctrine, and Arithmetic",,﻿priest,﻿12 lay brothers,,,1868,﻿,﻿,﻿St. Paul,StPaul
@@ -245,7 +245,7 @@
 ﻿stp.mn.0230_02,﻿academy,﻿Bethlehem Academy,English,,,,﻿Faribault County,﻿Faribault County,,,﻿MN,,,,,,,,﻿Sister,﻿Gertrude,,﻿Superior,,﻿religious,﻿5 sisters,﻿under charge of Sisters of the Third Order of St. Dominic,,1868,﻿,﻿,﻿St. Paul,StPaul
 ﻿stp.mn.0230_02,﻿academy,﻿Bethlehem Academy,English,,,,﻿Faribault County,﻿Faribault County,,,﻿MN,,,,,,,,,,,,,﻿student,﻿30 boarders and day-scholars,﻿under charge of Sisters of the Third Order of St. Dominic,,1868,﻿,﻿,﻿St. Paul,StPaul
 ﻿stp.mn.0240,﻿school,not recorded,English,,,,,,﻿Mankato,,﻿MN,,,,,,,,﻿Sister,﻿Ambrosia,,﻿Superior,,﻿religious,﻿Five sisters,﻿under charge of Sisters of Notre Dame,,1868,﻿,﻿,﻿St. Paul,StPaul
-﻿stp.mn.0228_02,﻿college,﻿St. John's College,English,,"﻿P.O., Clinton",,﻿Stearns County,﻿Stearns County,,,﻿MN,,,,,,,﻿r_seidenbusch_001,﻿Rt. Rev.,﻿R. Seidenbusch,,﻿Superior,,,,﻿Benedictine Fathers,,1868,﻿,﻿,﻿St. Paul,StPaul
+﻿stp.mn.0228_02,﻿college,﻿St. John's College,English,,"﻿P.O., Clinton",,﻿Stearns County,﻿Stearns County,,,﻿MN,,,,,,,﻿rup_seidenbusch_001,﻿Rt. Rev.,﻿R. Seidenbusch,,﻿Superior,,,,﻿Benedictine Fathers,,1868,﻿,﻿,﻿St. Paul,StPaul
 ﻿stp.mn.0229,﻿academy,﻿St. Joseph's Academy,English,,,,,,﻿St. Paul,,﻿MN,,,,,,,,,,,,,﻿student,﻿80 boarders and day-scholars,﻿Sisters of St. Joseph,,1868,﻿,﻿,﻿St. Paul,StPaul
 ﻿stp.mn.0231,﻿academy,﻿St. Benedict's Academy,English,,,,﻿Stearns County,﻿Stearns County,﻿St. Joseph,,﻿MN,,,,,,,,,,,,,,,﻿Sisters of St. Benedict,,1868,﻿,﻿,﻿St. Paul,StPaul
 ﻿stp.mn.0232,﻿academy,﻿Academy at Hokah,English,,,,﻿Houston County,﻿Houston County,,,﻿MN,,,,,,,,,,,,,,,﻿Sisters of Notre Dame,,1868,﻿,﻿,﻿St. Paul,StPaul
