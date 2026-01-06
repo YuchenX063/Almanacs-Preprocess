@@ -1,18 +1,18 @@
 ﻿instID,church_type,instName,language,instNote,placeName,region,county_orig,county_reg,city_orig,city_reg,state_orig,state_reg,latitude,longitude,attendingInstID,attendingChurch,attendingChurchFrequency,persID,persTitle,persName,persSuffix,persRole,persNote,memberType,member,affiliated,order,year,attendingPersID,attendingChurchNote,diocese,diocese_reg
-﻿oma.ne.0001,﻿church,﻿Church of St. Philomena,English,,,,,,﻿Omaha,﻿Omaha,﻿NE,﻿NE,,,,,,,﻿Rt. Rev.,﻿James O'Gorman,﻿D.D.,﻿Bishop,,,,,,1869,﻿,﻿,﻿VANebraska,VANebraska
-﻿oma.ne.0001,﻿church,﻿Church of St. Philomena,English,,,,,,﻿Omaha,﻿Omaha,﻿NE,,,,,,,,﻿Rev.,﻿John Curtis,,﻿Pastor,,,,,,1869,﻿,﻿,﻿VANebraska,VANebraska
+﻿oma.ne.0001,﻿church,﻿Church of St. Philomena,English,,,,,,﻿Omaha,﻿Omaha,﻿NE,﻿NE,,,,,,﻿jam_ogorman_001,﻿Rt. Rev.,﻿James O'Gorman,﻿D.D.,﻿Bishop,,,,,,1869,﻿,﻿,﻿VANebraska,VANebraska
+﻿oma.ne.0001,﻿church,﻿Church of St. Philomena,English,,,,,,﻿Omaha,﻿Omaha,﻿NE,,,,,,,﻿joh_curtis_001,﻿Rev.,﻿John Curtis,,﻿Pastor,,,,,,1869,﻿,﻿,﻿VANebraska,VANebraska
 ﻿oma.ne.0001,﻿church,﻿Church of St. Philomena,English,,,,,,﻿Omaha,﻿Omaha,﻿NE,,,,,,,,﻿Rev.,﻿--,,﻿Assistant,,,,,,1869,﻿,﻿,﻿VANebraska,VANebraska
-﻿oma.ne.0002,﻿church,not recorded,﻿german,,,,,,﻿Omaha,﻿Omaha,﻿NE,﻿NE,,,,,,,﻿Rev.,﻿Ottoe Groenebaum,,﻿Pastor,,,,,,1869,﻿,﻿,﻿VANebraska,VANebraska
+﻿oma.ne.0002,﻿church,not recorded,﻿german,,,,,,﻿Omaha,﻿Omaha,﻿NE,﻿NE,,,,,,﻿ott_groenebaum_001,﻿Rev.,﻿Ottoe Groenebaum,,﻿Pastor,,,,,,1869,﻿,﻿,﻿VANebraska,VANebraska
 ﻿oma.ne.0013,﻿station,not recorded,English,,,,,,﻿Brownsville,﻿Brownsville,﻿NE,﻿NE,,,﻿oma.ne.0006,﻿attended from Rulo,,,,,,,,,,,,1869,﻿,﻿,﻿VANebraska,VANebraska
 ﻿oma.ne.0011,﻿station,not recorded,English,,,,,,﻿Arago,﻿Arago,﻿NE,﻿NE,,,﻿oma.ne.0006,﻿attended from Rulo,,,,,,,,,,,,1869,﻿,﻿,﻿VANebraska,VANebraska
-﻿che.wy.0001,﻿church,﻿Church of St. Mary of the Plains,English,,,﻿Territory of Wyoming,,,﻿Cheyenne,﻿Cheyenne,﻿WY,﻿WY,,,,,,,﻿Rev.,﻿William Kelley,,﻿Pastor,,,,,,1869,﻿,﻿,﻿VANebraska,VANebraska
+﻿che.wy.0001,﻿church,﻿Church of St. Mary of the Plains,English,,,﻿Territory of Wyoming,,,﻿Cheyenne,﻿Cheyenne,﻿WY,﻿WY,,,,,,﻿wil_kelley_001,﻿Rev.,﻿William Kelley,,﻿Pastor,,,,,,1869,﻿,﻿,﻿VANebraska,VANebraska
 ﻿che.wy.0001,﻿church,﻿Church of St. Mary of the Plains,English,,,﻿Territory of Wyoming,,,﻿Cheyenne,﻿Cheyenne,﻿WY,,,,,,,,﻿Rev.,﻿--,,﻿Assistant-Pastor,,,,,,1869,﻿,﻿,﻿VANebraska,VANebraska
-﻿oma.ne.0004,﻿church,not recorded,﻿german,,,,﻿Platte County,,﻿Columbus,﻿Columbus,﻿NE,﻿NE,,,,,,,﻿Rev.,﻿James Ryan,,﻿Pastor,,,,,,1869,﻿,﻿,﻿VANebraska,VANebraska
+﻿oma.ne.0004,﻿church,not recorded,﻿german,,,,﻿Platte County,,﻿Columbus,﻿Columbus,﻿NE,﻿NE,,,,,,﻿jam_ryan_001,﻿Rev.,﻿James Ryan,,﻿Pastor,,,,,,1869,﻿,﻿,﻿VANebraska,VANebraska
 ﻿oma.ne.0015,﻿church,not recorded,English,,,,,,﻿Cottonwood Springs,,﻿NE,﻿NE,,,﻿oma.ne.0004,﻿attended from Columbus,,,,,,,,,,,,1869,﻿,﻿,﻿VANebraska,VANebraska
-﻿dub.ia.0039,﻿church,not recorded,English,,,,,,﻿Council Bluffs,,﻿NE,﻿NE,,,,,,,﻿Rev.,﻿John Daxacher,,﻿Pastor,,,,,,1869,﻿,﻿,﻿VANebraska,VANebraska
+﻿dub.ia.0039,﻿church,not recorded,English,,,,,,﻿Council Bluffs,,﻿NE,﻿NE,,,,,,﻿joh_daxacher_001,﻿Rev.,﻿John Daxacher,,﻿Pastor,,,,,,1869,﻿,﻿,﻿VANebraska,VANebraska
 ﻿oma.ne.0035,﻿church,not recorded,English,,,,,,﻿Decatur,﻿Decatur,﻿NE,﻿NE,,,﻿oma.ne.0005,﻿attended from Franklin,,,,,,,,,,,,1869,﻿,﻿,﻿VANebraska,VANebraska
 ﻿oma.ne.0009,﻿church,not recorded,English,,,,,,﻿Elk Horn,﻿Elkhorn,﻿NE,﻿NE,,,﻿oma.ne.0017,﻿attended from Fremont,,,,,,,,,,,,1869,﻿,﻿,﻿VANebraska,VANebraska
-﻿oma.ne.0017,﻿station,not recorded,English,,,,﻿Dodge County,,﻿Fremont,﻿Fremont,﻿NE,﻿NE,,,,,,,﻿Rev.,﻿John Lonergan,,﻿Pastor,,,,,,1869,﻿,﻿,﻿VANebraska,VANebraska
+﻿oma.ne.0017,﻿station,not recorded,English,,,,﻿Dodge County,,﻿Fremont,﻿Fremont,﻿NE,﻿NE,,,,,,﻿joh_lonergan_001,﻿Rev.,﻿John Lonergan,,﻿Pastor,,,,,,1869,﻿,﻿,﻿VANebraska,VANebraska
 ﻿oma.ne.0005,﻿church,﻿St. Patrick's,English,,,,﻿Dakota County,,﻿Franklin,﻿Jackson,﻿NE,﻿NE,,,,,,﻿p_j_erlach_001,﻿Rev.,﻿Ph. J. Erlach,,﻿Pastor,,,,,,1869,﻿,﻿,﻿VANebraska,VANebraska
 ﻿oma.ne.0007,﻿church,not recorded,English,,,,,,﻿Forest City,,﻿NE,﻿NE,,,﻿oma.ne.0017,﻿attended from Fremont,,,,,,,,,,,,1869,﻿,﻿,﻿VANebraska,VANebraska
 ﻿sio.sd.0001,﻿church,not recorded,English,,,﻿Territory of Dakota,﻿Union County,,﻿French Settlement,,,﻿SD,,,﻿dub.ia.0130,﻿attended from Sioux City,,,,,,,,,,,,1869,﻿,﻿,﻿VANebraska,VANebraska
@@ -24,23 +24,23 @@
 ﻿hel.mt.0016,﻿mission,﻿Indian Missions of the Rocky Mountains,English,,﻿in the Rocky Mountains,,,,,,,,,,,,,,,,,,,,,﻿Jesuit Fathers,,1869,﻿,﻿,﻿VANebraska,VANebraska
 ﻿oma.ne.0019,﻿station,not recorded,English,,,,,,﻿Julesburgh,﻿Julesburg,﻿NE,﻿CO,,,﻿oma.ne.0004,﻿attended from Columbus,,,,,,,,,,,,1869,﻿,﻿,﻿VANebraska,VANebraska
 ﻿oma.ne.0020,﻿station,not recorded,English,,,,,,﻿Lincoln City,﻿Lincoln,﻿NE,﻿NE,,,﻿oma.ne.0003,﻿attended from Nebraska City,,,,,,,,,,,,1869,﻿,﻿,﻿VANebraska,VANebraska
-﻿dub.ia.0189,﻿church,not recorded,English,,,,﻿Harrison County,,﻿Magnolia,﻿Magnolia,﻿IA,﻿IA,,,,,,,﻿Rev.,﻿Patrick Keenan,,﻿Pastor,,,,,,1869,﻿,﻿,﻿VANebraska,VANebraska
-﻿oma.ne.0003,﻿church,﻿Church of St. Benedict,﻿german,,,,,,﻿Nebraska City,﻿Nebraska City,﻿NE,﻿NE,,,,,,,﻿Rev.,﻿Emanuel Hartig,﻿O.S.B.,﻿Pastor,,,,,,1869,﻿,﻿,﻿VANebraska,VANebraska
-﻿oma.ne.0003,﻿church,﻿Church of St. Benedict,﻿german,,,,,,﻿Nebraska City,﻿Nebraska City,﻿NE,,,,,,,,﻿Rev.,﻿Fr. Perrin,,﻿Assistant Pastor,,,,,,1869,﻿,﻿,﻿VANebraska,VANebraska
+﻿dub.ia.0189,﻿church,not recorded,English,,,,﻿Harrison County,,﻿Magnolia,﻿Magnolia,﻿IA,﻿IA,,,,,,﻿pat_keenan_001,﻿Rev.,﻿Patrick Keenan,,﻿Pastor,,,,,,1869,﻿,﻿,﻿VANebraska,VANebraska
+﻿oma.ne.0003,﻿church,﻿Church of St. Benedict,﻿german,,,,,,﻿Nebraska City,﻿Nebraska City,﻿NE,﻿NE,,,,,,﻿ema_hartig_001,﻿Rev.,﻿Emanuel Hartig,﻿O.S.B.,﻿Pastor,,,,,,1869,﻿,﻿,﻿VANebraska,VANebraska
+﻿oma.ne.0003,﻿church,﻿Church of St. Benedict,﻿german,,,,,,﻿Nebraska City,﻿Nebraska City,﻿NE,,,,,,,﻿fr_perrin_001,﻿Rev.,﻿Fr. Perrin,,﻿Assistant Pastor,,,,,,1869,﻿,﻿,﻿VANebraska,VANebraska
 ﻿dub.ia.0190,﻿church,not recorded,English,,,,,﻿Monona County,﻿Onowa,﻿Onowa,,﻿IA,,,﻿dub.ia.0130,﻿attended from Sioux City,,,,,,,,,,,,1869,﻿,﻿,﻿VANebraska,VANebraska
 ﻿oma.ne.0025,﻿station,not recorded,English,,,,﻿Cass County,,﻿Plattsmouth,﻿Plattsmouth,﻿NE,﻿NE,,,﻿oma.ne.0003,﻿attended from Nebraska City,,,,,,,,,,,,1869,﻿,﻿,﻿VANebraska,VANebraska
 ﻿oma.ne.0023,﻿station,not recorded,English,,,,,,﻿Papilion,﻿Papillion,﻿NE,﻿NE,,,﻿oma.ne.0001,﻿atteneded from Omaha,,,,,,,,,,,,1869,﻿,﻿,﻿VANebraska,VANebraska
 ﻿oma.ne.0024,﻿station,not recorded,English,,,,,,﻿Poucha,﻿Ponca,﻿NE,﻿NE,,,﻿oma.ne.0005,﻿attended from Franklin,,,,,,,,,,,,1869,﻿,﻿,﻿VANebraska,VANebraska
-﻿oma.ne.0006,﻿station,not recorded,English,,,,﻿Richardson County,,﻿Rulo,﻿Rulo,﻿NE,﻿NE,,,,,,,﻿Rev.,﻿Theodore Majerus,,﻿Pastor,,,,,,1869,﻿,﻿,﻿VANebraska,VANebraska
+﻿oma.ne.0006,﻿station,not recorded,English,,,,﻿Richardson County,,﻿Rulo,﻿Rulo,﻿NE,﻿NE,,,,,,﻿the_majerus_001,﻿Rev.,﻿Theodore Majerus,,﻿Pastor,,,,,,1869,﻿,﻿,﻿VANebraska,VANebraska
 ﻿oma.ne.0026,﻿station,not recorded,English,,,,,,﻿Rockport,﻿Rock Port,﻿NE,﻿MO,,,﻿oma.ne.0001,﻿attended from Omaha,,,,,,,,,,,,1869,﻿,﻿,﻿VANebraska,VANebraska
-﻿dub.ia.0130,﻿church,not recorded,English,,,,,﻿Woodbury County,﻿Sioux City,﻿Sioux City,﻿IA,,,,,,,,﻿Rev.,﻿John A. Hayes,,﻿Pastor,,,,,,1869,﻿,﻿,﻿VANebraska,VANebraska
+﻿dub.ia.0130,﻿church,not recorded,English,,,,,﻿Woodbury County,﻿Sioux City,﻿Sioux City,﻿IA,,,,,,,﻿joh_a_hayes_002,﻿Rev.,﻿John A. Hayes,,﻿Pastor,,,,,,1869,﻿,﻿,﻿VANebraska,VANebraska
 ﻿dub.ia.0040,﻿church,not recorded,English,﻿german settlement,,,,,﻿St. Boniface,,,﻿IA,41.13103761,-95.7547178,﻿dub.ia.0039,﻿attended from Council Bluffs,,,,,,,,,,,,1869,﻿,﻿,﻿VANebraska,VANebraska
 ﻿dub.ia.0191,﻿church,not recorded,English,,,,﻿Harrison County,,﻿St. John's,﻿St. John's,﻿IA,,,,﻿dub.ia.0189,﻿attended from Magnolia,,,,,,,,,,,,1869,﻿,﻿,﻿VANebraska,VANebraska
 ﻿oma.ne.0010,﻿church,not recorded,English,﻿german settlement,,,,,﻿St. Helena,﻿St. Helena,,﻿NE,,,﻿oma.ne.0005,﻿attended from Franklin,,,,,,,,,,,,1869,﻿,﻿,﻿VANebraska,VANebraska
 ﻿dub.ia.0131,﻿church,not recorded,English,,,,,,﻿Smithland,,,﻿IA,,,﻿dub.ia.0130,﻿attended from Sioux City,,,,,,,,,,,,1869,﻿,﻿,﻿VANebraska,VANebraska
 ﻿oma.ne.0037,﻿church,not recorded,English,,,,,,﻿Salt Creek,,﻿NE,,,,﻿oma.ne.0003,﻿attended from Nebraska City,,,,,,,,,,,,1869,﻿,﻿,﻿VANebraska,VANebraska
 ﻿oma.ne.0027,﻿station,not recorded,English,,,,,,﻿Shell Creek,﻿Shell Creek,﻿NE,﻿NE,,,﻿oma.ne.0004,﻿attended from Columbus,,,,,,,,,,,,1869,﻿,﻿,﻿VANebraska,VANebraska
-﻿oma.ne.0008,﻿church,not recorded,﻿german settlement,,,,,,﻿West-Point,﻿West Point,﻿NE,﻿NE,,,,,,,﻿Rev.,﻿Fr. Uhing,,﻿Pastor,,,,,,1869,﻿,﻿,﻿VANebraska,VANebraska
+﻿oma.ne.0008,﻿church,not recorded,﻿german settlement,,,,,,﻿West-Point,﻿West Point,﻿NE,﻿NE,,,,,,﻿fr_uhing_001,﻿Rev.,﻿Fr. Uhing,,﻿Pastor,,,,,,1869,﻿,﻿,﻿VANebraska,VANebraska
 ﻿oma.ne.0029,﻿station,not recorded,English,,,,﻿Hall County,,﻿Wood River,﻿Wood River,﻿NE,﻿NE,,,﻿oma.ne.0004,﻿attended from Columbus,,,,,,,,,,,,1869,﻿,﻿,﻿VANebraska,VANebraska
 ﻿oma.ne.0030,﻿school,﻿Academy of Mount St. Mary's,English,"﻿Besides the usual branches of a solid English education, the modern languages, vocal and instrumental music, drawing, and painting are taught. Terms for board and tuition are $300 per annum. A select day-school is attached to the institution.",,,,,﻿Omaha,﻿Omaha,﻿NE,﻿NE,,,,,,,,,,,,,,﻿Sisters of Mercy,,1869,﻿,﻿,﻿VANebraska,VANebraska
 ﻿oma.ne.0031,﻿school,﻿Academy of St. Benedict,English,,,,,,﻿Nebraska City,﻿Nebraska City,﻿NE,﻿NE,,,,,,,﻿Mother,﻿Beatrice,,﻿Prioress,"﻿The substantial and ornamental branches of education are taught under the direction of Mother Beatrice, Prioress",,,,,1869,﻿,﻿,﻿VANebraska,VANebraska
