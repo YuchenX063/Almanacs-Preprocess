@@ -11,7 +11,7 @@
 ﻿nyc.ny.0052,﻿church,﻿St. Joseph's,English,,,,,,﻿New York,,﻿NY,,40.7324967,-74.000619,,,,﻿c_c_pise_001,﻿Rev.,﻿C. C. Pise,﻿D. D.,,,,,,,1836,,﻿,﻿,﻿New York,NewYorkCity
 ﻿nyc.ny.9004,﻿church,not recorded,English,﻿Dutch Church,,,,,﻿New York,,﻿NY,﻿NY,,,,,,﻿joh_raffeiner_901,﻿Rev. Mr.,﻿Raffiner,,,,,,,,1836,,﻿,﻿,﻿New York,NewYorkCity
 ﻿alb.ny.0003,﻿church,not recorded,English,,,,,,﻿Albany,﻿Albany,﻿NY,﻿NY,42.65181929,-73.75279367,,,,﻿cha_smith_901,﻿Rev.,﻿Charles Smith,,,,,,,,1836,"﻿https://www.hist-stmarys.org/history ; very likely this church. While the cathedral is more prominent, this historic church predates all the rest in the city, and it stands to reason that, based on that fact, the St. Mary's that we see in later years refers to this church.",﻿,﻿,﻿New York,NewYorkCity
-﻿alb.ny.0003,﻿church,not recorded,English,,,,,,﻿Albany,﻿Albany,﻿NY,,42.65181929,-73.75279367,,,,﻿j_mcnulty_901,﻿Rev. Mr.,﻿M'Nulty,,,,,,,,1836,,﻿,﻿,﻿New York,NewYorkCity
+﻿alb.ny.0003,﻿church,not recorded,English,,,,,,﻿Albany,﻿Albany,﻿NY,,42.65181929,-73.75279367,,,,﻿joh_mcnulty_901,﻿Rev. Mr.,﻿M'Nulty,,,,,,,,1836,,﻿,﻿,﻿New York,NewYorkCity
 ﻿bro.ny.0001,﻿church,﻿St. James,English,"﻿""L.I.""",,,,,﻿Brooklyn,﻿Brooklyn,﻿NY,﻿NY,40.697056,-73.986667,,,,﻿joh_walsh_901,﻿Rev.,﻿John Walsh,,,,,,,,1836,﻿https://en.wikipedia.org/wiki/Cathedral_Basilica_of_St._James_(Brooklyn) ; https://brooklyncathedral.org/history,﻿,﻿,﻿New York,NewYorkCity
 ﻿bro.ny.0001,﻿church,﻿St. James,English,"﻿""L.I.""",,,,,﻿Brooklyn,﻿Brooklyn,﻿NY,,40.697056,-73.986667,,,,﻿pat_dougherty_901,﻿Rev.,﻿P. Dougherty,,,,,,,,1836,,﻿,﻿,﻿New York,NewYorkCity
 ﻿buf.ny.0006,﻿church,not recorded,English,,,,,﻿Erie County,﻿Buffalo,﻿Buffalo,﻿NY,﻿NY,42.895428,-78.871729,,,,﻿nic_mertz_901,﻿Rev.,﻿N. Mertz,,,,,,,,1836,"﻿https://en.wikipedia.org/wiki/St._Louis_Roman_Catholic_Church#:~:text=Saint%20Louis%20Roman%20Catholic%20Church,Roman%20Catholic%20Diocese%20of%20Buffalo%22. ; while St. Joseph's is more notable, and is the main church in the later almanac years of the 1860s/1870s, it appears that this is the only surviving pre-1833 church in the city. For that reason, I am going with this church as opposed to the one that appears first in the diocese later on.",﻿,﻿,﻿New York,NewYorkCity
@@ -57,7 +57,7 @@
 ﻿new.nj.9002,﻿church,not recorded,English,,,,,,﻿Patterson,,﻿NJ,,,,,,,﻿pat_duffy_901,﻿Rev.,﻿P. Duffy,,,,,,,,1836,,﻿,﻿,﻿New York,NewYorkCity
 ﻿nyc.ny.9007,﻿academy,﻿St. Joseph's Academy,English,,,,,,,,﻿NY,,,,,,,,,,,,,﻿religious,﻿4 sisters,﻿Sisters of Charity,,1836,,﻿,﻿,﻿New York,NewYorkCity
 ﻿nyc.ny.0042_92,﻿school,﻿St. Peter's Free School,English,,,,,,,,﻿NY,,,,,,,,,,,,,﻿religious,﻿3 sisters,﻿Sisters of Charity,,1836,,﻿,﻿,﻿New York,NewYorkCity
-﻿nyc.ny.9008,﻿asylum,﻿Roman Catholic Asylum,English,,,,,,,,﻿NY,,,,,,,,,,,,,﻿religious,﻿10 sisters,﻿Sisters of Charity,,1836,,﻿,﻿,﻿New York,NewYorkCity
+﻿nyc.ny.0041_04&_05,﻿asylum,﻿Roman Catholic Asylum,English,,,,,,,,﻿NY,,,,,,,,,,,,,﻿religious,﻿10 sisters,﻿Sisters of Charity,,1836,,﻿,﻿,﻿New York,NewYorkCity
 ﻿nyc.ny.9009,﻿free school,﻿Roman Catholic Free School,English,,,,,,,,﻿NY,,,,,,,,,,,,,﻿religious,﻿10 sisters,﻿Sisters of Charity,,1836,,﻿,﻿,﻿New York,NewYorkCity
 ﻿nyc.ny.9010,﻿school,﻿St. Mary's School,English,,,,,,,,﻿NY,,,,,,,,,,,,,﻿religious,﻿4 sisters,﻿Sisters of Charity,,1836,,﻿,﻿,﻿New York,NewYorkCity
 ﻿nyc.ny.9011,﻿asylum,﻿Roman Catholic Half-Orphan Asylum,English,,,,,,,,﻿NY,,,,,,,,,,,,,﻿religious,﻿5 sisters,﻿Sisters of Charity,,1836,,﻿,﻿,﻿New York,NewYorkCity

@@ -77,7 +77,7 @@
 ﻿bro.ny.0053,﻿church,"﻿St. Mary's, Star of the Sea",English,,,,﻿,,﻿Rockaway,﻿Rockaway,﻿NY,,,,,,,﻿jos_brunemann_001,﻿Rev.,﻿Joseph Brunemann,﻿O.S.F.,,,,,,,1869,﻿,﻿,﻿Brooklyn,Brooklyn
 ﻿bro.ny.0054,﻿church,﻿St. Andrew's,English,,,,﻿,,﻿Sag Harbor,﻿Sag Harbor,﻿NY,,,,,,,﻿wil_kean_001,﻿Rev.,﻿William Kean,,,,,,,,1869,﻿,﻿,﻿Brooklyn,Brooklyn
 ﻿bro.ny.0055,﻿church,﻿St. Mark's,English,,,,﻿Kings County,,﻿Sheepshead Bay,﻿Sheepshead,﻿NY,,,,﻿bro.ny.0034,﻿Attended from Flatbush,,,,,,,,,,,,1869,﻿,﻿,﻿Brooklyn,Brooklyn
-﻿bro.ny.0056,﻿church,﻿St. Michael's,English,,,,﻿,,﻿Smithtown,﻿Smithtown,﻿NY,,40.85550544,-73.19824655,﻿bro.ny.0040,﻿Attended from Huntington,﻿once a month,,,,,,,,,,,1869,﻿,﻿,﻿Brooklyn,Brooklyn
+﻿bro.ny.0056,﻿church,﻿St. Michael's,English,,,,﻿,,﻿Smithtown,﻿Smithtown,﻿NY,,,-73.19824655,﻿bro.ny.0040,﻿Attended from Huntington,﻿once a month,,,,,,,,,,,1869,﻿,﻿,﻿Brooklyn,Brooklyn
 ﻿bro.ny.0057,﻿church,not recorded,English,,,,﻿Suffolk County,,﻿Southold,﻿Southold,﻿NY,,,,,,,﻿joh_mckenna_001,﻿Rev.,﻿John McKenna,,,,,,,,1869,﻿,﻿,﻿Brooklyn,Brooklyn
 ﻿bro.ny.0058,﻿station,not recorded,English,,,,﻿,,﻿Southampton,﻿Southampton,﻿NY,,,,﻿bro.ny.0057,﻿Attended occasionally from Southold,﻿occasionally,,,,,,,,,,,1869,﻿,﻿,﻿Brooklyn,Brooklyn
 ﻿bro.ny.0103,﻿station,not recorded,English,,,,,,﻿Hermitage,,﻿NY,,,,﻿bro.ny.0057,﻿Attended occasionally from Southold,﻿occasionally,,,,,,,,,,,1869,﻿,﻿,﻿Brooklyn,Brooklyn
@@ -117,7 +117,7 @@
 ﻿bro.ny.0010_03,﻿hospital,﻿Sisters of the Poor of St. Francis,English,,﻿corner of Warren and Hicks streets,,,,﻿Brooklyn,,﻿NY,,,,,,,,,,,,,﻿religious,﻿4 novices,,,1869,﻿,﻿,﻿Brooklyn,Brooklyn
 ﻿bro.ny.0010_03,﻿hospital,﻿Sisters of the Poor of St. Francis,English,,﻿corner of Warren and Hicks streets,,,,﻿Brooklyn,,﻿NY,,,,,,,,,,,,,﻿religious,﻿3 postulants,,,1869,﻿,﻿,﻿Brooklyn,Brooklyn
 ﻿bro.ny.0010_03,﻿hospital,﻿Sisters of the Poor of St. Francis,English,,﻿corner of Warren and Hicks streets,,,,﻿Brooklyn,,﻿NY,,,,,,,,,,,,,﻿patient,﻿40 patients,,,1869,﻿,﻿,﻿Brooklyn,Brooklyn
-﻿bro.ny.0001_02,﻿school,﻿Cathedral Parish School,English,,,,,,,,﻿NY,,40.6970424,-73.98692864,,,,,,,,,,﻿student,﻿410 pupils,,,1869,﻿,﻿,﻿Brooklyn,Brooklyn
+﻿bro.ny.0001_02,﻿school,﻿Cathedral Parish School,English,,,,,,,,﻿NY,,,-73.98692864,,,,,,,,,,﻿student,﻿410 pupils,,,1869,﻿,﻿,﻿Brooklyn,Brooklyn
 ﻿bro.ny.0002_02,﻿school,not recorded,English,﻿for boys.  In charge of the Franciscan Brothers,﻿St. Paul's,,,,﻿New York City,,﻿NY,,,,,,,,,,,,,﻿student,"﻿300 pupils, under Franciscan Brothers",,,1869,﻿,﻿,﻿Brooklyn,Brooklyn
 ﻿bro.ny.0002_03,﻿school,not recorded,English,﻿for girls.  In charge of the Franciscan Brothers,﻿St. Paul's,,,,﻿New York City,,﻿NY,,,,,,,,,,,,,﻿student,"﻿240 pupils, under Sisters of St. Charity",,,1869,﻿,﻿,﻿Brooklyn,Brooklyn
 ﻿bro.ny.0003_02,﻿school,not recorded,English,,﻿Assumption of B.V. Mary,,,,﻿New York City,,﻿NY,,,,,,,,,,,,,﻿child,﻿600 girls,,,1869,﻿,﻿,﻿Brooklyn,Brooklyn
@@ -127,15 +127,15 @@
 ﻿bro.ny.0005_02,﻿school,not recorded,English,,﻿SS. Peter and Paul's,,,,﻿New York City,,﻿NY,,,,,,,,,,,,,﻿child,"﻿302 boys (night-school, 40 boys)",,,1869,﻿,﻿,﻿Brooklyn,Brooklyn
 ﻿bro.ny.0007_02,﻿school,not recorded,English,,﻿Holy Trinity,,,,﻿New York City,,﻿NY,,,,,,,,,,,,,﻿child,﻿800 boys,,,1869,﻿,﻿,﻿Brooklyn,Brooklyn
 ﻿bro.ny.0007_02,﻿school,not recorded,English,,﻿Holy Trinity,,,,﻿New York City,,﻿NY,,,,,,,,,,,,,﻿child,﻿850 girls,,,1869,﻿,﻿,﻿Brooklyn,Brooklyn
-﻿bro.ny.0008_02,﻿school,not recorded,English,﻿In charge of the Franciscan Brothers,﻿St. Joseph's,,,,,,﻿NY,,40.680444,-73.966389,,,,,,,,,,﻿child,﻿380 boys,,,1869,﻿,﻿,﻿Brooklyn,Brooklyn
-﻿bro.ny.0008_02,﻿school,not recorded,English,﻿In charge of the Franciscan Brothers,﻿St. Joseph's,,,,,,﻿NY,,40.680444,-73.966389,,,,,,,,,,﻿child,﻿340 girls,,,1869,﻿,﻿,﻿Brooklyn,Brooklyn
+﻿bro.ny.0008_02,﻿school,not recorded,English,﻿In charge of the Franciscan Brothers,﻿St. Joseph's,,,,,,﻿NY,,,-73.966389,,,,,,,,,,﻿child,﻿380 boys,,,1869,﻿,﻿,﻿Brooklyn,Brooklyn
+﻿bro.ny.0008_02,﻿school,not recorded,English,﻿In charge of the Franciscan Brothers,﻿St. Joseph's,,,,,,﻿NY,,,-73.966389,,,,,,,,,,﻿child,﻿340 girls,,,1869,﻿,﻿,﻿Brooklyn,Brooklyn
 ﻿bro.ny.0009_02,﻿school,not recorded,English,﻿In charge of the Franciscan Brothers,﻿St. Mary's Star of the Sea,,,,﻿New York City,,﻿NY,,,,,,,,,,,,,﻿child,"﻿Under Franciscan Brothers, 500 boys",,,1869,﻿,﻿,﻿Brooklyn,Brooklyn
 ﻿bro.ny.0009_02,﻿school,not recorded,English,﻿In charge of the Franciscan Brothers,﻿St. Mary's Star of the Sea,,,,﻿New York City,,﻿NY,,,,,,,,,,,,,﻿child,﻿450 girls,,,1869,﻿,﻿,﻿Brooklyn,Brooklyn
 ﻿bro.ny.0010_02,﻿school,not recorded,English,,﻿St. Peter's,,,,﻿New York City,,﻿NY,,,,,,,,,,,,,﻿child,﻿500 girls,,,1869,﻿,﻿,﻿Brooklyn,Brooklyn
 ﻿bro.ny.0010_02,﻿school,not recorded,English,,﻿St. Peter's,,,,﻿New York City,,﻿NY,,,,,,,,,,,,,﻿child,"﻿302 boys; Night school, 40 boys",,,1869,﻿,﻿,﻿Brooklyn,Brooklyn
 ﻿bro.ny.0011_02,﻿school,not recorded,English,,﻿St. John's,,,,﻿New York City,,﻿NY,,,,,,,,,,,,,﻿child,﻿130 children,,,1869,﻿,﻿,﻿Brooklyn,Brooklyn
-﻿bro.ny.0012_02,﻿school,not recorded,English,,﻿Immaculate Conception,,,,,,﻿NY,,40.71051006,-73.94694129,,,,,,,,,,﻿child,"﻿340 boys, under charge of Franciscan Brothers",,,1869,﻿,﻿,﻿Brooklyn,Brooklyn
-﻿bro.ny.0012_02,﻿school,not recorded,English,,﻿Immaculate Conception,,,,,,﻿NY,,40.71051006,-73.94694129,,,,,,,,,,﻿child,"﻿400 girls, under the charge of Sisters of St. Joseph",,,1869,﻿,﻿,﻿Brooklyn,Brooklyn
+﻿bro.ny.0012_02,﻿school,not recorded,English,,﻿Immaculate Conception,,,,,,﻿NY,,,-73.94694129,,,,,,,,,,﻿child,"﻿340 boys, under charge of Franciscan Brothers",,,1869,﻿,﻿,﻿Brooklyn,Brooklyn
+﻿bro.ny.0012_02,﻿school,not recorded,English,,﻿Immaculate Conception,,,,,,﻿NY,,,-73.94694129,,,,,,,,,,﻿child,"﻿400 girls, under the charge of Sisters of St. Joseph",,,1869,﻿,﻿,﻿Brooklyn,Brooklyn
 ﻿bro.ny.0017_02,﻿school,not recorded,English,﻿In charge of the Franciscan Brothers,﻿Lady of Mercy,,,,﻿New York City,,﻿NY,,,,,,,,,,,,,﻿child,﻿340 boys,,,1869,﻿,﻿,﻿Brooklyn,Brooklyn
 ﻿bro.ny.0017_02,﻿school,not recorded,English,﻿In charge of the Franciscan Brothers,﻿Lady of Mercy,,,,﻿New York City,,﻿NY,,,,,,,,,,,,,﻿child,﻿400 girls,,,1869,﻿,﻿,﻿Brooklyn,Brooklyn
 ﻿bro.ny.0036_02,﻿school,not recorded,English,,﻿St. Patrick's,,,,﻿Fort Hamilton,,﻿NY,,,,,,,,,,,,,﻿child,﻿80 boys,,,1869,﻿,﻿,﻿Brooklyn,Brooklyn

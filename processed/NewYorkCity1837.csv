@@ -13,7 +13,7 @@
 ﻿nyc.ny.0046,﻿church,﻿Transfiguration Church,English,,,,,,﻿New York,,﻿NY,,40.71473086,-73.99915099,,,,﻿fel_varela_901,﻿Rev.,﻿Felix Varela,,,,,,,,1837,"﻿https://transfigurationnyc.org/history ; this history says that the church that still stands wasn't opened for catholics until the 1850s, though it suggests that the catholic congregation that bought the preexisting church predated the sale. that makes me think it is the predecessor for the congregation we see in the 60s",﻿,﻿,﻿New York,NewYorkCity
 ﻿nyc.ny.0046,﻿church,﻿Transfiguration Church,English,,,,,,﻿New York,,﻿NY,,40.71473086,-73.99915099,,,,﻿jos_b_schneller_901,﻿Rev.,﻿Joseph Schneller,,,,,,,,1837,,﻿,﻿,﻿New York,NewYorkCity
 ﻿nyc.ny.9004,﻿church,not recorded,English,﻿Dutch Church,,,,,﻿New York,,﻿NY,﻿NY,,,,,,﻿joh_raffeiner_901,﻿Rev.,﻿Wm. Raffiner,,,,,,,,1837,,﻿,﻿,﻿New York,NewYorkCity
-﻿alb.ny.0003,﻿church,﻿St. Mary's,English,,,,,,﻿Albany,﻿Albany,﻿NY,﻿NY,42.65181929,-73.75279367,,,,﻿joh_urquart_901,﻿Rev.,﻿John Urquart,,,,,,,,1837,"﻿https://www.hist-stmarys.org/history ; very likely this church. While the cathedral is more prominent, this historic church predates all the rest in the city, and it stands to reason that, based on that fact, the St. Mary's that we see in later years refers to this church.",﻿,﻿,﻿New York,NewYorkCity
+﻿alb.ny.0003,﻿church,﻿St. Mary's,English,,,,,,﻿Albany,﻿Albany,﻿NY,﻿NY,42.65181929,-73.75279367,,,,﻿joh_d_urquart_901,﻿Rev.,﻿John Urquart,,,,,,,,1837,"﻿https://www.hist-stmarys.org/history ; very likely this church. While the cathedral is more prominent, this historic church predates all the rest in the city, and it stands to reason that, based on that fact, the St. Mary's that we see in later years refers to this church.",﻿,﻿,﻿New York,NewYorkCity
 ﻿alb.ny.0003,﻿church,﻿St. Mary's,English,,,,,,﻿Albany,﻿Albany,﻿NY,,42.65181929,-73.75279367,,,,﻿joh_kelly_901,﻿Rev.,﻿John Kelly,,,,,,,,1837,,﻿,﻿,﻿New York,NewYorkCity
 ﻿alb.ny.0001,﻿church,﻿New Church,English,,,,,,,﻿Albany,﻿NY,,,,,,,﻿pardoe_901,﻿Rev. Mr.,﻿Pardoe,,,,,,,,1837,,﻿,﻿,﻿New York,NewYorkCity
 ﻿bro.ny.0001,﻿church,﻿St. James,English,"﻿""L.I.""",,,,,﻿Brooklyn,﻿Brooklyn,﻿NY,﻿NY,40.697056,-73.986667,,,,﻿joh_walsh_901,﻿Rev.,﻿John Walsh,,,,,,,,1837,﻿https://en.wikipedia.org/wiki/Cathedral_Basilica_of_St._James_(Brooklyn) ; https://brooklyncathedral.org/history,﻿,﻿,﻿New York,NewYorkCity
@@ -47,7 +47,7 @@
 ﻿alb.ny.9003,﻿church,not recorded,English,,,,,,﻿Auburn,,﻿NY,,,,,,,﻿fra_odonahoe_901,﻿Rev.,﻿Francis O'Donahoe,,,,,,,,1837,,﻿,﻿,﻿New York,NewYorkCity
 ﻿bro.ny.0054,﻿church,not recorded,English,,,,,,﻿Sagharbour,,﻿NY,,,,,"﻿[visited] occasionally by Rev. Messrs. Walsh and Dougherty, of Brooklyn.",,﻿walsh_902,﻿Rev. Mr.,﻿Walsh,,,,,,,,1837,,﻿,﻿,﻿New York,NewYorkCity
 ﻿bro.ny.0054,﻿church,not recorded,English,,,,,,﻿Sagharbour,,﻿NY,,,,,"﻿[visited] occasionally by Rev. Messrs. Walsh and Dougherty, of Brooklyn.",,﻿pat_dougherty_901,﻿Rev. Mr.,﻿Dougherty,,,,,,,,1837,,﻿,﻿,﻿New York,NewYorkCity
-﻿alb.ny.9014,﻿church,not recorded,English,,﻿St. Regis,,﻿Black River County,,,,﻿NY,,44.97445488,-74.66830728,,,,﻿j_mcnulty_901,﻿Rev. Mr.,﻿McNulty,,,,,,,,1837,,﻿,﻿,﻿New York,NewYorkCity
+﻿alb.ny.9014,﻿church,not recorded,English,,﻿St. Regis,,﻿Black River County,,,,﻿NY,,44.97445488,-74.66830728,,,,﻿joh_mcnulty_901,﻿Rev. Mr.,﻿McNulty,,,,,,,,1837,,﻿,﻿,﻿New York,NewYorkCity
 ﻿alb.ny.0247,﻿church,not recorded,English,,,,,,﻿Schenectady,,﻿NY,,42.81425522,-73.93179322,,,﻿[visited] once a month [by],﻿joh_kelly_901,﻿Rev.,﻿John Kelly,,,,,,,,1837,﻿https://www.sjechurch.com/,﻿,﻿,﻿New York,NewYorkCity
 ﻿alb.ny.9001,﻿church,not recorded,English,,,,,,﻿Troy,,﻿NY,,,,,,,﻿joh_shanahan_901,﻿Rev.,﻿John Shanahan,,,,,,,,1837,﻿Hard to identify which one - there are too many in Troy in later years,﻿,﻿,﻿New York,NewYorkCity
 ﻿alb.ny.0295,﻿church,not recorded,English,,,,,,﻿Utica,,﻿NY,,,,,,,﻿wal_j_quarters_901,﻿Rev.,﻿Walter J. Quarters,,,,,,,,1837,,﻿,﻿,﻿New York,NewYorkCity
@@ -68,8 +68,8 @@
 ﻿nyc.ny.9012_02,﻿school,﻿St. Mary's Free School,English,,,,,,,﻿New York City,﻿NY,,,,,,,,,,,,,﻿religious,﻿5 sisters,﻿Sisters of Charity,,1837,,﻿,﻿,﻿New York,NewYorkCity
 ﻿nyc.ny.9012_02,﻿school,﻿St. Mary's Free School,English,,,,,,,﻿New York City,﻿NY,,,,,,,,,,,,,﻿child,﻿seldom less than 300 poor children,﻿Sisters of Charity,,1837,,﻿,﻿,﻿New York,NewYorkCity
 ﻿nyc.ny.9007,﻿academy,﻿St. Joseph's Academy,English,,,,,,,,﻿NY,,,,,,,,,,,,,﻿religious,﻿5 sisters,﻿Sisters of Charity,,1837,,﻿,﻿,﻿New York,NewYorkCity
-﻿nyc.ny.9008,﻿asylum,﻿Roman Catholic Asylum,English,,,,,,,,﻿NY,,,,,,,,,,,,,﻿religious,﻿15 sisters,﻿Sisters of Charity,,1837,,﻿,﻿,﻿New York,NewYorkCity
-﻿nyc.ny.9008,﻿asylum,﻿Roman Catholic Asylum,English,,,,,,,,﻿NY,,,,,,,,,,,,,﻿child,﻿little short of 200,﻿Sisters of Charity,,1837,,﻿,﻿,﻿New York,NewYorkCity
+﻿nyc.ny.0041_04&_05,﻿asylum,﻿Roman Catholic Asylum,English,,,,,,,,﻿NY,,,,,,,,,,,,,﻿religious,﻿15 sisters,﻿Sisters of Charity,,1837,,﻿,﻿,﻿New York,NewYorkCity
+﻿nyc.ny.0041_04&_05,﻿asylum,﻿Roman Catholic Asylum,English,,,,,,,,﻿NY,,,,,,,,,,,,,﻿child,﻿little short of 200,﻿Sisters of Charity,,1837,,﻿,﻿,﻿New York,NewYorkCity
 ﻿nyc.ny.9011,﻿asylum,﻿Roman Catholic Half-Orphan Asylum,English,"﻿The object of this institution is to clothe, board and educate poor children who have but one parent living",,,,,,,﻿NY,,,,,,,,,,,,,﻿religious,﻿7 sisters,﻿Sisters of Charity,,1837,,﻿,﻿,﻿New York,NewYorkCity
 ﻿nyc.ny.0042_92,﻿school,﻿St. Peter's Free School,English,,,,,,,,﻿NY,,,,,,,,,,,,,﻿religious,﻿3 sisters,﻿Sisters of Charity,,1837,,﻿,﻿,﻿New York,NewYorkCity
 ﻿bro.ny.9000,﻿asylum,﻿St. Mary's Asylum,English,,﻿L. I.,﻿Long Island,,,﻿Brooklyn,,﻿NY,,,,,,,,,,,,,﻿religious,﻿5 sisters,﻿Sisters of Charity,,1837,,﻿,﻿,﻿New York,NewYorkCity
