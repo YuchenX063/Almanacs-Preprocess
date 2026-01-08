@@ -73,17 +73,17 @@
 ﻿roc.ny.0068,﻿hospital,﻿St. Mary's Hospital,English,,,,﻿Monroe County,,,﻿Rochester,﻿NY,,42.9545193,-74.2163155,,,,,,,,,,﻿patient,﻿300 patients on average,,,1869,﻿,﻿,﻿Rochester,Rochester
 ﻿roc.ny.0069,﻿asylum,﻿St. Mary's Boys' Orphan Asylum,English,,,,﻿Monroe County,,,﻿Rochester,﻿NY,,43.14927278,-77.63696056,,,,,﻿Sister,﻿Stanislas,,﻿Superior,,﻿religious,﻿7 Sisters of St. Joseph,,,1869,﻿,﻿,﻿Rochester,Rochester
 ﻿roc.ny.0069,﻿asylum,﻿St. Mary's Boys' Orphan Asylum,English,,,,﻿Monroe County,,,﻿Rochester,﻿NY,,43.14927278,-77.63696056,,,,,,,,,,﻿child,﻿130 boys,,,1869,﻿,﻿,﻿Rochester,Rochester
-﻿roc.ny.0001_04,﻿asylum,﻿St. Patrick's Girls' Orphan Asylum,English,,,,﻿Monroe County,,,﻿Rochester,﻿NY,,,,,,,,﻿Sister,﻿Beatrice Duffy,,﻿Superior,,﻿religious,﻿9 Sisters of Charity,,,1869,﻿,﻿,﻿Rochester,Rochester
-﻿roc.ny.0001_04,﻿asylum,﻿St. Patrick's Girls' Orphan Asylum,English,,,,﻿Monroe County,,,﻿Rochester,﻿NY,,,,,,,,,,,,,﻿child,﻿80 girls,,,1869,﻿,﻿,﻿Rochester,Rochester
+﻿roc.ny.0001_04,﻿asylum,﻿St. Patrick's Girls' Orphan Asylum,English,,,,﻿Monroe County,,,﻿Rochester,﻿NY,,43.16005,-77.619701,,,,,﻿Sister,﻿Beatrice Duffy,,﻿Superior,,﻿religious,﻿9 Sisters of Charity,,,1869,﻿,﻿,﻿Rochester,Rochester
+﻿roc.ny.0001_04,﻿asylum,﻿St. Patrick's Girls' Orphan Asylum,English,,,,﻿Monroe County,,,﻿Rochester,﻿NY,,43.16005,-77.619701,,,,,,,,,,﻿child,﻿80 girls,,,1869,﻿,﻿,﻿Rochester,Rochester
 ﻿roc.ny.0071,﻿asylum,﻿St. Joseph's Orphan Asylum,﻿German,,,,,,,,﻿NY,,43.15878216,-77.60884713,,,,,,,,,,,,﻿in charge of the Sisters of Notre Dame,,1869,﻿,﻿,﻿Rochester,Rochester
 ﻿roc.ny.0072,﻿asylum,﻿St. Mary's Orphan Asylum,English,,,,﻿Ontario,,﻿Canandaigua,,﻿NY,﻿NY,42.89085599,-77.28271747,,,,,,,,,,﻿child,﻿20 orphans,﻿Under the care of the Sisters of St. Joseph,,1869,﻿,﻿,﻿Rochester,Rochester
-﻿roc.ny.0001_03,﻿school,﻿St. Patrick's Boys' School,English,,,,,,,,﻿NY,,,,,,,,,,,,,﻿student,﻿103 pay scholars,﻿Under the charge of the Christian Brothers,,1869,﻿,﻿,﻿Rochester,Rochester
-﻿roc.ny.0001_03,﻿school,﻿St. Patrick's Boys' School,English,,,,,,,,﻿NY,,,,,,,,,,,,,﻿free,﻿90 free scholars,﻿Under the charge of the Christian Brothers,,1869,﻿,﻿,﻿Rochester,Rochester
-﻿roc.ny.0001_02,﻿school,﻿St. Patrick's Girls' School,English,,,,,,,,﻿NY,,,,,,,,,,,,,﻿student,﻿50 pay scholars,﻿Under the charge of the Sisters of Charity,,1869,﻿,﻿,﻿Rochester,Rochester
-﻿roc.ny.0001_02,﻿school,﻿St. Patrick's Girls' School,English,,,,,,,,﻿NY,,,,,,,,,,,,,﻿free,﻿62 free scholars,﻿Under the charge of the Sisters of Charity,,1869,﻿,﻿,﻿Rochester,Rochester
+﻿roc.ny.0001_03,﻿school,﻿St. Patrick's Boys' School,English,,,,,,,,﻿NY,,43.16005,-77.619701,,,,,,,,,,﻿student,﻿103 pay scholars,﻿Under the charge of the Christian Brothers,,1869,﻿,﻿,﻿Rochester,Rochester
+﻿roc.ny.0001_03,﻿school,﻿St. Patrick's Boys' School,English,,,,,,,,﻿NY,,43.16005,-77.619701,,,,,,,,,,﻿free,﻿90 free scholars,﻿Under the charge of the Christian Brothers,,1869,﻿,﻿,﻿Rochester,Rochester
+﻿roc.ny.0001_02,﻿school,﻿St. Patrick's Girls' School,English,,,,,,,,﻿NY,,43.16005,-77.619701,,,,,,,,,,﻿student,﻿50 pay scholars,﻿Under the charge of the Sisters of Charity,,1869,﻿,﻿,﻿Rochester,Rochester
+﻿roc.ny.0001_02,﻿school,﻿St. Patrick's Girls' School,English,,,,,,,,﻿NY,,43.16005,-77.619701,,,,,,,,,,﻿free,﻿62 free scholars,﻿Under the charge of the Sisters of Charity,,1869,﻿,﻿,﻿Rochester,Rochester
 ﻿roc.ny.0002_03,﻿school,﻿St. Joseph's Boys' School,English,,,,,,,,﻿NY,,43.2994285,-74.2179326,,,,,,,,,,﻿teacher,﻿460 scholars,﻿Under the charge of the Brothers of Mary,,1869,﻿,﻿,﻿Rochester,Rochester
 ﻿roc.ny.0002_02,﻿school,﻿St. Joseph's Girls' School,English,,,,,,,,﻿NY,,43.2994285,-74.2179326,,,,,,,,,,﻿teacher,﻿480 scholars,﻿Under the charge of the Sisters of Notre Dame,,1869,﻿,﻿,﻿Rochester,Rochester
-﻿roc.ny.0010_02,﻿school,﻿Most Holy Redeemer's Schools,English,,,,,,,,﻿NY,,,,,,,,,,,,,﻿teacher,﻿230 scholars,﻿Under the charge of the Sisters of Notre Dame,,1869,﻿,﻿,﻿Rochester,Rochester
+﻿roc.ny.0010_02,﻿school,﻿Most Holy Redeemer's Schools,English,,,,,,,,﻿NY,,43.175634,-77.59839,,,,,,,,,,﻿teacher,﻿230 scholars,﻿Under the charge of the Sisters of Notre Dame,,1869,﻿,﻿,﻿Rochester,Rochester
 ﻿roc.ny.0082_02,﻿school,﻿St. Mary's Schools,English,﻿select school,,,,,,,﻿NY,,,,,,,,,,,,,﻿teacher,﻿36 scholars,﻿Under the charge of the Sisters of Mercy,,1869,﻿,﻿,﻿Rochester,Rochester
 ﻿roc.ny.0082_03,﻿school,﻿St. Mary's Schools,English,﻿parochial school,,,,,,,﻿NY,,,,,,,,,,,,,﻿teacher,﻿100 scholars,﻿Under the charge of the Sisters of Mercy,,1869,﻿,﻿,﻿Rochester,Rochester
 ﻿roc.ny.0007_02,﻿school,﻿St. Boniface's Schools,English,,,,,,,,﻿NY,,43.2994285,-74.2179326,,,,,,,,,,﻿boy or girl,﻿230 boys and girls,﻿Under the charge of the Sisters of Notre Dame,,1869,﻿,﻿,﻿Rochester,Rochester

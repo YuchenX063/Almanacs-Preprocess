@@ -13,15 +13,15 @@
 ﻿oma.ne.0008,﻿mission,not recorded,﻿german settlement,,,,,,﻿West-Point,﻿West Point,﻿NE,﻿NE,,,﻿oma.ne.0001,﻿atteneded from Omaha,﻿Once a month,﻿ott_groenebaum_001,﻿Rev.,﻿O. Groenebaum,,,,,,,,1868,﻿,﻿,﻿VANebraska,VANebraska
 ﻿oma.ne.0003,﻿church,not recorded,English,,,,﻿Otoe County,,﻿Nebraska City,﻿Nebraska City,﻿NE,﻿NE,,,,,,﻿ema_hartig_001,﻿Rev.,﻿Emanuel Hartig,﻿O.S.B.,﻿Pastor,,,,,,1868,﻿,﻿,﻿VANebraska,VANebraska
 ﻿oma.ne.0025,﻿mission,not recorded,English,,,,﻿Cass County,,﻿Plattsmouth,﻿Plattsmouth,﻿NE,﻿NE,,,﻿oma.ne.0003,﻿attended from Nebraska City,,,,,,,,,,,,1868,﻿,﻿,﻿VANebraska,VANebraska
-﻿oma.ne.0037,﻿mission,not recorded,English,,,,,,﻿Salt Creek,,﻿NE,,,,﻿oma.ne.0003,﻿attended from Nebraska City,,,,,,,,,,,,1868,﻿,﻿,﻿VANebraska,VANebraska
+﻿oma.ne.0037,﻿mission,not recorded,English,,,,,,﻿Salt Creek,,﻿NE,,40.248607,-94.331068,﻿oma.ne.0003,﻿attended from Nebraska City,,,,,,,,,,,,1868,﻿,﻿,﻿VANebraska,VANebraska
 ﻿oma.ne.0004,﻿church,not recorded,English,,,,﻿Platte County,,﻿Columbus,﻿Columbus,﻿NE,﻿NE,,,,,,﻿jam_ryan_001,﻿Rev.,﻿James Ryan,,﻿Pastor,,,,,,1868,﻿,﻿,﻿VANebraska,VANebraska
 ﻿oma.ne.0010,﻿church,not recorded,English,﻿german settlement,,,,,﻿St. Helena,﻿St. Helena,,﻿NE,,,﻿oma.ne.0004,﻿attended from Columbus,,,,,,,,,,,,1868,﻿,﻿,﻿VANebraska,VANebraska
-﻿oma.ne.0015,﻿church,not recorded,English,,,,,,﻿Cottonwood Springs,,﻿NE,﻿NE,,,﻿oma.ne.0004,﻿attended from Columbus,,,,,,,,,,,,1868,﻿,﻿,﻿VANebraska,VANebraska
+﻿oma.ne.0015,﻿church,not recorded,English,,,,,,﻿Cottonwood Springs,,﻿NE,﻿NE,-100.5175,41.016111,﻿oma.ne.0004,﻿attended from Columbus,,,,,,,,,,,,1868,﻿,﻿,﻿VANebraska,VANebraska
 ﻿oma.ne.0014,﻿church,not recorded,English,,,,,,﻿Fort Kearney,﻿Kearney,﻿NE,﻿NE,,,﻿oma.ne.0004,﻿attended from Columbus,,,,,,,﻿attended from Columbus occasionally,,,,,1868,﻿,﻿,﻿VANebraska,VANebraska
 ﻿oma.ne.0029,﻿church,not recorded,English,﻿irish settlement,,,,,﻿Wood River,﻿Wood River,﻿NE,﻿NE,,,﻿oma.ne.0004,﻿attended from Columbus,,,,,,,,,,,,1868,﻿,﻿,﻿VANebraska,VANebraska
 ﻿oma.ne.0027,﻿church,not recorded,English,,,,,,﻿Shell Creek,﻿Shell Creek,﻿NE,﻿NE,,,﻿oma.ne.0004,﻿attended from Columbus,,,,,,,,,,,,1868,﻿,﻿,﻿VANebraska,VANebraska
 ﻿oma.ne.0019,﻿church,not recorded,English,﻿Dacotah,,,,,﻿Julesburgh,﻿Julesburg,﻿NE,﻿CO,,,﻿oma.ne.0004,﻿attended from Columbus,,,,,,,,,,,,1868,﻿,﻿,﻿VANebraska,VANebraska
-﻿oma.ne.0038,﻿church,﻿St. John's,English,,,,,,﻿St. Patrick's Settlement,﻿Jackson,﻿NE,﻿NE,,,,,﻿https://usgennet.org/usa/ne/topic/religion/catholic/Franciscans/pages/pt2/fine0003.htm,,﻿Rev.,﻿J. Erlock,,﻿Pastor,,,,,,1868,﻿,﻿,﻿VANebraska,VANebraska
+﻿oma.ne.0038,﻿church,﻿St. John's,English,,,,,,﻿St. Patrick's Settlement,﻿Jackson,﻿NE,﻿NE,40.248607,-94.331068,,,﻿https://usgennet.org/usa/ne/topic/religion/catholic/Franciscans/pages/pt2/fine0003.htm,,﻿Rev.,﻿J. Erlock,,﻿Pastor,,,,,,1868,﻿,﻿,﻿VANebraska,VANebraska
 ﻿sio.sd.0005,﻿church,not recorded,English,,,,,,﻿Fort Randall,,﻿NE,﻿SD,,,﻿oma.ne.0038,﻿attended from St. John's,,,,,,,,,,,,1868,﻿,﻿,﻿VANebraska,VANebraska
 ﻿oma.ne.0024,﻿church,not recorded,English,,,,,,﻿Ponce,﻿Ponca,﻿NE,﻿NE,,,﻿oma.ne.0038,﻿attended from St. John's,,,,,,,,,,,,1868,﻿,﻿,﻿VANebraska,VANebraska
 ﻿oma.ne.0006,﻿church,not recorded,English,,,,﻿Richardson County,,﻿Rulo,﻿Rulo,﻿NE,﻿NE,,,,,,﻿joh_a_hayes_002,﻿Rev.,﻿J. Hays,,﻿Pastor,,,,,,1868,﻿,﻿,﻿VANebraska,VANebraska
