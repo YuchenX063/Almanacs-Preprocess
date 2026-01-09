@@ -1,0 +1,9 @@
+﻿instID,church_type,instName,language,instNote,placeName,region,county_orig,county_reg,city_orig,city_reg,state_orig,state_reg,latitude,longitude,attendingInstID,attendingChurch,attendingChurchFrequency,persID,persTitle,persName,persSuffix,persRole,persNote,memberType,member,affiliated,order,year,attendingPersID,attendingChurchNote,diocese,diocese_reg
+﻿vin.in.0001,﻿cathedral,﻿St. Francis Xavier's Cathedral,English,,,,﻿Knox County,,﻿Vincennes,﻿Vincennes,﻿IN,,38.67902364,-87.5341505,,,,﻿mau_d_palais_001,﻿Rt. Rev.,﻿Maurice de St. Palais,﻿D.D.,,,,,,,1866,﻿,﻿,﻿Vincennes,Vincennes
+﻿vin.in.0001,﻿cathedral,﻿St. Francis Xavier's Cathedral,English,,,,﻿Knox County,,﻿Vincennes,﻿Vincennes,﻿IN,,38.67902364,-87.5341505,,,,﻿e_audran_001,﻿Rev.,﻿Ernest Audran,,,,,,,,1866,﻿,﻿,﻿Vincennes,Vincennes
+﻿vin.in.0002,﻿church,﻿St. John the Baptist,﻿German,,,,﻿Knox County,,﻿Vincennes,﻿Vincennes,﻿IN,,38.677269,-87.5286325,,,,﻿aeg_merz_001,﻿Rev.,﻿A. E. Mertz,,,,,,,,1866,﻿,﻿,﻿Vincennes,Vincennes
+﻿vin.in.0004,﻿church,not recorded,English,,,,﻿Marion County,,﻿Augusta,﻿Pike Township,﻿IN,,39.8817723,-86.2598229,﻿vin.in.0064,﻿Attended from Indianapolis,,,,,,,,,,,,1866,﻿,﻿,﻿Vincennes,Vincennes
+﻿vin.in.0005,﻿church,﻿Immaculate Conception,English,,,,﻿Dearborn County,,﻿Aurora,﻿Aurora,﻿IN,,39.0570022,-84.9013402,,,,﻿j_klein_001,﻿Rev.,﻿J. Klein,,,,,,,,1866,﻿,﻿,﻿Vincennes,Vincennes
+﻿vin.in.0007,﻿church,﻿St. Stephen's,English,,,,﻿Putnam County,,﻿Bainbridge,﻿Bainbridge,﻿IN,,39.761157,-86.8119523,,"﻿Attended from Crawfordsville by Rev. C. J. Maugin, of the diocese of Fort Wayne",,,,,,,,,,,,1866,﻿,﻿,﻿Vincennes,Vincennes
+﻿vin.in.0009,﻿church,﻿St. Vincent of Paul,English,﻿church building,,,﻿Lawrence County,,﻿Bedford,﻿Bedford,﻿IN,,38.8518863,-86.4996546,,"﻿Attended from Crawfordsville by Rev. C. J. Maugin, of the diocese of Fort Wayne",,,,,,,,,,,,1866,﻿,﻿,﻿Vincennes,Vincennes
+﻿pg.189,﻿church,not recorded,English,,,,,,,,,,,,,,,,,,,,,,,,,1866,﻿,﻿,﻿Vincennes,Vincennes

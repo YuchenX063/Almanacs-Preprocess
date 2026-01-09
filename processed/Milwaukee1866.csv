@@ -18,7 +18,7 @@
 ﻿mil.wi.0016,﻿church,﻿St. Martin's,English,,,,﻿Fond du Lac County,﻿Fond du Lac County,﻿Ashford,﻿Ashford,﻿WI,,43.5869385,-88.3706558,,,,﻿f_spath_001,﻿Rev.,﻿F. Spath,,,,,,,,1866,﻿,﻿,﻿Milwaukee,Milwaukee
 ﻿mil.wi.0325,﻿church,﻿St. Raphael's,English,,,,﻿Kewaunee County,,﻿Ahnepee,,﻿WI,,44.500039,-87.822095,,﻿Visited from Kewaunee,,,,,,,,,,,,1866,﻿,﻿,﻿Milwaukee,Milwaukee
 ﻿mil.wi.0017,﻿church,﻿St. Mathias',English,,,,﻿Fond du Lac County,﻿Fond du Lac County,﻿Auburn,﻿Auburn,﻿WI,,43.5851177,-88.2071598,,﻿Attended from Barton,,,,,,,,,,,,1866,﻿,﻿,﻿Milwaukee,Milwaukee
-﻿lac.wi.0089,﻿church,﻿St. Henry's,English,,,,﻿Pepin County,,﻿Aux Galets,,﻿WI,,46.541311,-87.398755,,﻿Attended by Rev. B. Smeddink,,,﻿Rev.,﻿B. Smeddink,,,,,,,,1866,﻿,﻿,﻿Milwaukee,Milwaukee
+﻿lac.wi.0089,﻿church,﻿St. Henry's,English,,,,﻿Pepin County,,﻿Aux Galets,,﻿WI,,,,,﻿Attended by Rev. B. Smeddink,,,﻿Rev.,﻿B. Smeddink,,,,,,,,1866,﻿,﻿,﻿Milwaukee,Milwaukee
 ﻿mil.wi.0018,﻿church,﻿Immaculate Conception,English,,,,﻿Washington County,﻿Washington County,﻿Barton,﻿Barton,﻿WI,,43.4605559,-88.2363819,,,,﻿j_reindl_001,﻿Rev.,﻿J. Reindl,,,,,,,,1866,﻿,﻿,﻿Milwaukee,Milwaukee
 ﻿lac.wi.0004,﻿church,﻿Christ's Church,English,,,,﻿La Point County,﻿La Point County,﻿Bayfield,﻿Bayfield,﻿WI,,46.8107671,-90.81824,,,,﻿j_chebul_002,﻿Rev.,﻿J. Chebul,,,,,,,,1866,﻿,﻿,﻿Milwaukee,Milwaukee
 ﻿mil.wi.0019,﻿church,﻿St. Mathias',English,,,,﻿Milwaukee County,﻿Milwaukee County,﻿Beloit Road,﻿West Milwaukee,﻿WI,,42.9857629,-88.0299823,,,,﻿a_kieser_001,﻿Rev.,﻿A. Kieser,,,,,,,,1866,﻿,﻿,﻿Milwaukee,Milwaukee
@@ -53,7 +53,7 @@
 ﻿mil.wi.0043,﻿church,﻿St. Wendelin's,English,,,,﻿Manitowoc County,﻿Manitowoc County,﻿Centerville,﻿Centerville,﻿WI,,43.9501383,-87.7468071,,,,﻿f_zuber_001,﻿Rev.,﻿F. Zuber,,,,,,,,1866,﻿,﻿,﻿Milwaukee,Milwaukee
 ﻿lac.wi.0007,﻿church,﻿St. Mary's,English,,,,﻿Chippewa County,﻿Chippewa County,﻿Chippewa Falls,﻿Chippewa Falls,﻿WI,,44.9369054,-91.3929348,,,,﻿j_b_smeddink_001,﻿Rev.,﻿J. B. Smeddink,,,,,,,,1866,﻿,﻿,﻿Milwaukee,Milwaukee
 ﻿gre.wi.0008,﻿church,﻿St. Augustine's,English,,,,﻿Calumet County,﻿Calumet County,﻿Chilton,﻿Chilton,﻿WI,,44.0289359,-88.1662237,,,,﻿m_dolon_001,﻿Rev.,﻿M. Dolon,,,,,,,,1866,﻿,﻿,﻿Milwaukee,Milwaukee
-﻿lac.wi.0093,﻿church,﻿St. Phillip's,English,,,,﻿Crawford County,,﻿Claytontown,,﻿WI,,46.541311,-87.398755,,﻿Attended by Rev. P. Murphy,,﻿p_murphy_004,﻿Rev.,﻿P. Murphy,,,,,,,,1866,﻿,﻿,﻿Milwaukee,Milwaukee
+﻿lac.wi.0093,﻿church,﻿St. Phillip's,English,,,,﻿Crawford County,,﻿Claytontown,,﻿WI,,,,,﻿Attended by Rev. P. Murphy,,﻿p_murphy_004,﻿Rev.,﻿P. Murphy,,,,,,,,1866,﻿,﻿,﻿Milwaukee,Milwaukee
 ﻿mil.wi.0045,﻿church,﻿St. Malachi's,English,,,,﻿Iowa County,﻿Iowa County,﻿Clydetown,﻿Clyde,﻿WI,,43.1032819,-90.2494105,,﻿Attended from Highland,,,,,,,,,,,,1866,﻿,﻿,﻿Milwaukee,Milwaukee
 ﻿mil.wi.0046,﻿church,﻿Holy Assumption,English,,,,﻿Dodge County,﻿Dodge County,﻿Clyman,﻿Clyman,﻿WI,,43.3044936,-88.7041246,,﻿Attended by Rev. H. Roche,,﻿h_roche_001,﻿Rev.,﻿H. Roche,,,,,,,,1866,﻿,﻿,﻿Milwaukee,Milwaukee
 ﻿mil.wi.0047,﻿church,﻿St. Isidore's,﻿German,,,,﻿Dodge County,﻿Dodge County,﻿Clyman,﻿Clyman,﻿WI,,43.3089472,-88.7180063,,"﻿Attended by Rev. F. Bermadinger, O.M.C.",,﻿f_bermadinger_001,﻿Rev.,﻿F. Bermadinger,﻿O.M.C.,,,,,,,1866,﻿,﻿,﻿Milwaukee,Milwaukee
@@ -67,7 +67,7 @@
 ﻿mil.wi.0053,﻿church,﻿St. Leo's,English,,,,﻿Lafayette County,﻿La Fayette County,﻿Darlington,﻿Darlington,﻿WI,,42.6830307,-90.1175124,,,,﻿a_david_001,﻿Rev.,﻿A. David,,,,,,,,1866,﻿,﻿,﻿Milwaukee,Milwaukee
 ﻿mil.wi.0055,﻿church,﻿St. Anne's,English,,,,﻿Dane County,﻿Dane County,﻿Deerfield,﻿Deerfield,﻿WI,,43.0821303,-89.083051,,﻿Attended by Rev. Will. O'Connell,,﻿wil_oconnell_001,﻿Rev.,﻿Will. O'Connell,,,,,,,,1866,﻿,﻿,﻿Milwaukee,Milwaukee
 ﻿mil.wi.0056,﻿church,﻿St. Andrew's,English,,,,﻿Walworth County,﻿Walworth County,﻿Delavan,﻿Delavan,﻿WI,,42.6372163,-88.6391189,,,,﻿l_kenny_001,﻿Rev.,﻿L. Kenny,,,,,,,,1866,﻿,﻿,﻿Milwaukee,Milwaukee
-﻿lac.wi.0094,﻿church,﻿All Saints',English,,,,﻿Sauk County,,﻿Delona,,﻿WI,,46.541311,-87.398755,,﻿Visited by Rev. P. Montague,,﻿p_montague_002,﻿Rev.,﻿P. Montague,,,,,,,,1866,﻿,﻿,﻿Milwaukee,Milwaukee
+﻿lac.wi.0094,﻿church,﻿All Saints',English,,,,﻿Sauk County,,﻿Delona,,﻿WI,,,,,﻿Visited by Rev. P. Montague,,﻿p_montague_002,﻿Rev.,﻿P. Montague,,,,,,,,1866,﻿,﻿,﻿Milwaukee,Milwaukee
 ﻿mil.wi.0057,﻿church,﻿St. Kiernan's,English,,,,﻿Columbia County,﻿Columbia County,﻿Dekora,﻿Dekkora,﻿WI,,43.457484,-89.4676199,,﻿Attended by Rev. P. Pettit,,﻿p_pettit_001,﻿Rev.,﻿P. Pettit,,,,,,,,1866,﻿,﻿,﻿Milwaukee,Milwaukee
 ﻿mil.wi.0337,﻿church,﻿St. Francis Xavier's,English,,,,﻿Brown County,,﻿Depére,,﻿WI,,44.500039,-87.822095,,,,﻿w_a_verboort_002,﻿Rev.,﻿W. A. Verboort,,,,,,,,1866,﻿,﻿,﻿Milwaukee,Milwaukee
 ﻿mil.wi.0058,﻿church,﻿St. Peter's,English,,,,﻿Iowa County,﻿Iowa County,﻿Dodgeville,﻿Dodgeville,﻿WI,,42.9602743,-90.1301237,,﻿Attended from Highland,,,,,,,,,,,,1866,﻿,﻿,﻿Milwaukee,Milwaukee
@@ -87,7 +87,7 @@
 ﻿mil.wi.0339,﻿church,﻿St. Columbkille's,English,,,,﻿Dodge County,,﻿Ella,,﻿WI,,44.500039,-87.822095,,,,﻿e_mcguirk_001,﻿Rev.,﻿E. McGuirk,,,,,,,,1866,﻿,﻿,﻿Milwaukee,Milwaukee
 ﻿lac.wi.0011,﻿church,﻿St. Patrick's,English,,,,﻿St. Croix County,﻿St. Croix County,﻿Erin,﻿Erin Prairie,﻿WI,,45.067181,-92.4485948,,,,﻿j_conroy_001,﻿Rev.,﻿J. Conroy,,,,,,,,1866,﻿,﻿,﻿Milwaukee,Milwaukee
 ﻿mil.wi.0071,﻿church,﻿St. Patrick's,English,,,,﻿Washington County,﻿Washington County,﻿Erin,﻿Erin,﻿WI,,43.2208496,-88.3433623,,﻿Attended by Rev. F. Tiernan,,﻿f_tiernan_001,﻿Rev.,﻿F. Tiernan,,,,,,,,1866,﻿,﻿,﻿Milwaukee,Milwaukee
-﻿lac.wi.0095,﻿church,﻿St. Bridget's,English,,,,﻿Trempeleau County,,﻿Etrich,,﻿WI,,46.541311,-87.398755,,﻿Attended by Rev. M. Marko,,﻿m_marko_001,﻿Rev.,﻿M. Marko,,,,,,,,1866,﻿,﻿,﻿Milwaukee,Milwaukee
+﻿lac.wi.0095,﻿church,﻿St. Bridget's,English,,,,﻿Trempeleau County,,﻿Etrich,,﻿WI,,,,,﻿Attended by Rev. M. Marko,,﻿m_marko_001,﻿Rev.,﻿M. Marko,,,,,,,,1866,﻿,﻿,﻿Milwaukee,Milwaukee
 ﻿mil.wi.0072,﻿church,﻿St. John of God,English,,,,﻿Washington County,﻿Washington County,﻿Farmington,﻿Farmington,﻿WI,,43.5130519,-88.1100059,,﻿Visited by Rev. C. Rehrl,,﻿c_rehrl_001,﻿Rev.,﻿C. Rehrl,,,,,,,,1866,﻿,﻿,﻿Milwaukee,Milwaukee
 ﻿mil.wi.0073,﻿church,﻿St. Peter's,English,,,,﻿Washington County,﻿Washington County,﻿Farmington,﻿Farmington,﻿WI,,43.4874144,-88.1096118,,﻿Visited by Rev. C. Rehrl,,﻿c_rehrl_001,﻿Rev.,﻿C. Rehrl,,,,,,,,1866,﻿,﻿,﻿Milwaukee,Milwaukee
 ﻿mil.wi.0074,﻿church,﻿St. Holy Mother of Consolation,English,,,,﻿Dane County,﻿Dane County,﻿Fitzburgh,﻿Fitchburg,﻿WI,,42.9511689,-89.4028932,,,,﻿wil_oconnell_001,﻿Rev.,﻿Will. O'Connell,,,,,,,,1866,﻿,﻿,﻿Milwaukee,Milwaukee
@@ -98,7 +98,7 @@
 ﻿lac.wi.0012,﻿church,﻿Immaculate Conception,English,,,,﻿Buffalo County,﻿Buffalo County,﻿Fountain City,﻿Fountain City,﻿WI,,44.1301122,-91.7163595,,,,﻿m_joerger_001,﻿Rev.,﻿M. Joerger,,,,,,,,1866,﻿,﻿,﻿Milwaukee,Milwaukee
 ﻿mil.wi.0081,﻿church,﻿St. Martin's,English,,,,﻿Milwaukee County,﻿Milwaukee County,﻿Franklin,﻿Franklin,﻿WI,,42.888627,-88.0384195,,,,﻿p_ofarrell_001,﻿Rev.,﻿P. O'Farrell,,,,,,,,1866,﻿,﻿,﻿Milwaukee,Milwaukee
 ﻿mil.wi.0082,﻿church,﻿Sacred Heart of Jesus and Mary,English,,,,﻿Milwaukee County,﻿Milwaukee County,﻿Franklin,﻿Franklin,﻿WI,,43.0724667,-87.6186379,,,,﻿w_bonnenkamp_001,﻿Rev.,﻿W. Bonnenkamp,,,,,,,,1866,﻿,﻿,﻿Milwaukee,Milwaukee
-﻿lac.wi.0096,﻿church,﻿St. Luke's,English,,,,﻿Sauk County,,﻿Franklin,,﻿WI,,46.541311,-87.398755,,﻿Attended from Ithaca,,,,,,,,,,,,1866,﻿,﻿,﻿Milwaukee,Milwaukee
+﻿lac.wi.0096,﻿church,﻿St. Luke's,English,,,,﻿Sauk County,,﻿Franklin,,﻿WI,,,,,﻿Attended from Ithaca,,,,,,,,,,,,1866,﻿,﻿,﻿Milwaukee,Milwaukee
 ﻿mil.wi.0340,﻿church,﻿St. Lawrence's,English,,,,﻿Kewaunee County,,﻿Franklin,,﻿WI,,44.500039,-87.822095,,﻿Attended from Kewaunee,,,,,,,,,,,,1866,﻿,﻿,﻿Milwaukee,Milwaukee
 ﻿mil.wi.0083,﻿church,﻿St. Nicholas',English,,,,﻿Ozaukee County,﻿Ozaukee County,﻿Freedonia,﻿Fredonia,﻿WI,,43.4705552,-87.9506465,,,,﻿h_j_muckerhaide_001,﻿Rev.,﻿H. J. Muckerhaide,,,,,,,,1866,﻿,﻿,﻿Milwaukee,Milwaukee
 ﻿mil.wi.0084,﻿church,﻿Mother of Dolors,English,,,,﻿Ozaukee County,﻿Ozaukee County,﻿Freedonia,﻿Fredonia,﻿WI,,42.6708421,-89.2090036,,﻿Attended by Rev. G. Strickner,,﻿geo_strickner_001,﻿Rev.,﻿G. Strickner,,,,,,,,1866,﻿,﻿,﻿Milwaukee,Milwaukee
@@ -110,7 +110,7 @@
 ﻿mil.wi.0090,﻿church,﻿St. Catharine's,English,,,,﻿Milwaukee County,﻿Milwaukee County,﻿Granville,﻿Granville,﻿WI,,43.1775083,-88.0439785,,﻿Attended by Rev. L. Mueller,,﻿l_mueller_001,﻿Rev.,﻿L. Mueller,,,,,,,,1866,﻿,﻿,﻿Milwaukee,Milwaukee
 ﻿mil.wi.0091,﻿church,﻿St. Martin's,English,,,,﻿Milwaukee County,﻿Milwaukee County,﻿Granville,﻿Granville,﻿WI,,43.1775083,-88.0439785,,﻿Attended by Rev. L. Mueller,,﻿l_mueller_001,﻿Rev.,﻿L. Mueller,,,,,,,,1866,﻿,﻿,﻿Milwaukee,Milwaukee
 ﻿mil.wi.0092,﻿church,﻿St. Fridolin's,English,,,,﻿Sheboygan County,﻿Sheboygan County,﻿Glenbulah,﻿Glenbeulah,﻿WI,,43.7989498,-88.0462914,,﻿Attended by Rev. M. Haider,,﻿m_haider_001,﻿Rev.,﻿M. Haider,,,,,,,,1866,﻿,﻿,﻿Milwaukee,Milwaukee
-﻿lac.wi.0097,﻿church,﻿St. Joseph's,English,,,,﻿Buffalo County,,﻿Glencoe,,﻿WI,,46.541311,-87.398755,,﻿Attended by Rev. M. Joerger,,﻿m_joerger_001,﻿Rev.,﻿M. Joerger,,,,,,,,1866,﻿,﻿,﻿Milwaukee,Milwaukee
+﻿lac.wi.0097,﻿church,﻿St. Joseph's,English,,,,﻿Buffalo County,,﻿Glencoe,,﻿WI,,,,,﻿Attended by Rev. M. Joerger,,﻿m_joerger_001,﻿Rev.,﻿M. Joerger,,,,,,,,1866,﻿,﻿,﻿Milwaukee,Milwaukee
 ﻿mil.wi.0093,﻿church,﻿St. Sebastian's,English,,,,﻿Grant County,﻿Grant County,﻿Glenhaven,﻿Glen Haven,﻿WI,,42.8271987,-91.0718478,,﻿Attended from Potosi,,,,,,,,,,,,1866,﻿,﻿,﻿Milwaukee,Milwaukee
 ﻿mil.wi.0094,﻿church,﻿St. Joseph's,English,,,,﻿Ozaukee County,﻿Ozaukee County,﻿Grafton,﻿Grafton,﻿WI,,43.3197265,-87.9534226,,,,﻿ch_schroudenback_001,﻿Rev.,﻿Ch. Schroudenback,,,,,,,,1866,﻿,﻿,﻿Milwaukee,Milwaukee
 ﻿mil.wi.0095,﻿church,﻿St. Francis Xavier's,English,,,,﻿Ozaukee County,﻿Ozaukee County,﻿Grafton,﻿Grafton,﻿WI,,43.3528037,-87.9648159,,,,﻿ch_schroudenback_001,﻿Rev.,﻿Ch. Schroudenback,,,,,,,,1866,﻿,﻿,﻿Milwaukee,Milwaukee
@@ -133,7 +133,7 @@
 ﻿mil.wi.0347,﻿church,﻿St. Patrick's,English,,,,﻿Brown County,,﻿Holland,,﻿WI,,44.500039,-87.822095,,,,﻿bon_de-goy_001,﻿Rev.,﻿Bonavent. De Goy,﻿O.M.C.,,,,,,,1866,﻿,﻿,﻿Milwaukee,Milwaukee
 ﻿mil.wi.0106,﻿church,﻿St. Malachy's,English,,,,﻿Dodge County,﻿Dodge County,﻿Horicon,﻿Horicon,﻿WI,,43.444012,-88.6331964,,﻿Attended from Beaver Dam,,,,,,,,,,,,1866,﻿,﻿,﻿Milwaukee,Milwaukee
 ﻿mil.wi.0107,﻿church,﻿St. Anne's,English,,,,﻿Calumet County,﻿Calumet County,﻿Holstein,﻿New Holstein,﻿WI,,43.8961171,-88.1230375,,﻿Attended from Calvary,,,,,,,,,,,,1866,﻿,﻿,﻿Milwaukee,Milwaukee
-﻿lac.wi.0098,﻿church,﻿St. Mary's of Loretto,English,,,,﻿Sauk County,,﻿Honey Creek,,﻿WI,,46.541311,-87.398755,,﻿Attended from Sauk City,,,,,,,,,,,,1866,﻿,﻿,﻿Milwaukee,Milwaukee
+﻿lac.wi.0098,﻿church,﻿St. Mary's of Loretto,English,,,,﻿Sauk County,,﻿Honey Creek,,﻿WI,,,,,﻿Attended from Sauk City,,,,,,,,,,,,1866,﻿,﻿,﻿Milwaukee,Milwaukee
 ﻿lac.wi.0013,﻿church,﻿St. James',English,,,,﻿St. Croix County,﻿St. Croix County,﻿Hudson,﻿Hudson,﻿WI,,44.9746896,-92.7568703,,,,﻿s_seif_001,﻿Rev.,﻿S. Seif,,,,,,,,1866,﻿,﻿,﻿Milwaukee,Milwaukee
 ﻿mil.wi.0108,﻿church,﻿St. Kilian's,English,,,,﻿Walworth County,,﻿Hudson,,﻿WI,,42.6202834,-88.556531,,﻿Attended by Rev. J. H. Karphage,,﻿j_h_karphage_001,﻿Rev.,﻿J. H. Karphage,,,,,,,,1866,﻿,﻿,﻿Milwaukee,Milwaukee
 ﻿mil.wi.0109,﻿church,﻿St. Augustine's,English,,,,﻿Ozaukee County,﻿Washington County,﻿Jackson,﻿Jackson,﻿WI,,43.3819496,-87.6186379,,﻿Attended by Rev. C. Rehrl,,﻿c_rehrl_001,﻿Rev.,﻿C. Rehrl,,,,,,,,1866,﻿,﻿,﻿Milwaukee,Milwaukee
@@ -142,7 +142,7 @@
 ﻿mil.wi.0112,﻿church,﻿St. John Baptist's,English,,,,﻿Jefferson County,﻿Jefferson County,﻿Jefferson,﻿Jefferson,﻿WI,,43.0069456,-88.8022097,,,,﻿j_jansen_001,﻿Rev.,﻿J. Jansen,,,,,,,,1866,﻿,﻿,﻿Milwaukee,Milwaukee
 ﻿mil.wi.0113,﻿church,﻿St. Lawrence's,English,,,,﻿Jefferson County,﻿Jefferson County,﻿Jefferson,﻿Jefferson,﻿WI,,43.0049651,-88.7791913,,,,﻿f_x_obermueller_001,﻿Rev.,﻿F. X. Obermueller,,,,,,,,1866,﻿,﻿,﻿Milwaukee,Milwaukee
 ﻿lac.wi.0014,﻿church,﻿Nativity B.V.M.,English,,,,﻿Monroe County,﻿Monroe County,﻿Jefferson,﻿Jefferson,﻿WI,,43.7980958,-90.68686839,,,,﻿flo_zadzioski_001,﻿Rev.,﻿Florent Zadzioski,﻿O.M.C.,,,,,,,1866,﻿,﻿,﻿Milwaukee,Milwaukee
-﻿lac.wi.0099,﻿church,﻿St. Fridolin's,English,,,,﻿Sauk County,,﻿Ironton,,﻿WI,,46.541311,-87.398755,,﻿Attended by Rev. J. Beau,,﻿j_beau_001,﻿Rev.,﻿J. Beau,,,,,,,,1866,﻿,﻿,﻿Milwaukee,Milwaukee
+﻿lac.wi.0099,﻿church,﻿St. Fridolin's,English,,,,﻿Sauk County,,﻿Ironton,,﻿WI,,,,,﻿Attended by Rev. J. Beau,,﻿j_beau_001,﻿Rev.,﻿J. Beau,,,,,,,,1866,﻿,﻿,﻿Milwaukee,Milwaukee
 ﻿lac.wi.0015,﻿church,﻿Nativity B.V.M.,English,,,,﻿Richland County,﻿Richland County,﻿Ithaca,﻿Ithaca,﻿WI,,43.3408176,-90.2817921,,,,﻿j_beau_001,﻿Rev.,﻿J. Beau,,,,,,,,1866,﻿,﻿,﻿Milwaukee,Milwaukee
 ﻿mil.wi.0114,﻿church,﻿St. Mark's,English,,,,﻿Kenosha County,﻿Kenosha County,﻿Kenosha,﻿Kenosha,﻿WI,,42.5681355,-87.8249189,,,,﻿g_riordan_001,﻿Rev.,﻿G. Riordan,,,,,,,,1866,﻿,﻿,﻿Milwaukee,Milwaukee
 ﻿mil.wi.0115,﻿church,﻿St. George's,﻿German,,,,﻿Kenosha County,﻿Kenosha County,﻿Kenosha,﻿Kenosha,﻿WI,,42.5811225,-87.872016,,,,﻿wil_bernard_001,﻿Rev.,﻿Will. Bernard,,,,,,,,1866,﻿,﻿,﻿Milwaukee,Milwaukee
@@ -153,21 +153,21 @@
 ﻿mil.wi.0119,﻿church,﻿Holy Trinity,English,,,,﻿Washington County,﻿Washington County,﻿Kewaskum,﻿Kewaskum,﻿WI,,43.5208302,-88.2289851,,﻿Attended by Rev. J. Reindl,,﻿j_reindl_001,﻿Rev.,﻿J. Reindl,,,,,,,,1866,﻿,﻿,﻿Milwaukee,Milwaukee
 ﻿gre.wi.0015,﻿church,﻿Holy Rosary,English,,,,﻿Kewaunee County,﻿Kewaunee County,﻿Kewaunee,﻿Kewaunee,﻿WI,,44.4577123,-87.5066204,,,,﻿e_van-steenwyck_001,﻿Rev.,﻿E. Van Steenwyck,,,,,,,,1866,﻿,﻿,﻿Milwaukee,Milwaukee
 ﻿mil.wi.0350,﻿church,﻿St. Cecilia's,English,,,,﻿Columbia County,,﻿Kilburn City,,﻿WI,,44.945918,-93.096646,,﻿Attended by Rev. P. Montague,,﻿p_montague_002,﻿Rev.,﻿P. Montague,,,,,,,,1866,﻿,﻿,﻿Milwaukee,Milwaukee
-﻿lac.wi.0100,﻿church,﻿St. Bridget's,English,,,,﻿Juneau County,,﻿Kildare,,﻿WI,,46.541311,-87.398755,,,,﻿p_montague_002,﻿Rev.,﻿P. Montague,,,,,,,,1866,﻿,﻿,﻿Milwaukee,Milwaukee
+﻿lac.wi.0100,﻿church,﻿St. Bridget's,English,,,,﻿Juneau County,,﻿Kildare,,﻿WI,,,,,,,﻿p_montague_002,﻿Rev.,﻿P. Montague,,,,,,,,1866,﻿,﻿,﻿Milwaukee,Milwaukee
 ﻿gre.wi.0016,﻿church,﻿St. Anne's,English,,,,﻿Manitowoc County,﻿Manitowoc County,﻿Kossuth,﻿Kossuth,﻿WI,,44.2069877,-87.7566513,,﻿Attended by Rev. J. Lang,,﻿j_lang_001,﻿Rev.,﻿J. Lang,,,,,,,,1866,﻿,﻿,﻿Milwaukee,Milwaukee
 ﻿mil.wi.0120,﻿church,﻿St. James',English,,,,﻿Milwaukee County,﻿Milwaukee County,﻿Lake Town,﻿Lake,﻿WI,,43.0484804,-88.0009069,,﻿Attended from New-Coeln,,,,,,,,,,,,1866,﻿,﻿,﻿Milwaukee,Milwaukee
 ﻿mil.wi.0121,﻿church,﻿St. Mary's ad Fontem,English,,,,﻿Marquette County,,﻿La Cote St. Marie,,﻿WI,,43.865322,-89.3226954,,﻿Attended by Rev. E. Gray,,﻿e_gray_001,﻿Rev.,﻿E. Gray,,,,,,,,1866,﻿,﻿,﻿Milwaukee,Milwaukee
 ﻿lac.wi.0001,﻿church,﻿St. Mary's,English,,,,﻿La Crosse County,,﻿La Crosse,﻿La Crosse,﻿WI,,43.8137751,-91.2519017,,,,﻿m_m_marco_001,﻿Rev.,﻿M. M. Marco,,,,,,,,1866,﻿,﻿,﻿Milwaukee,Milwaukee
 ﻿mil.wi.0122,﻿church,﻿St. Columban's,English,,,,﻿Waukesha County,﻿Waukesha County,﻿Lake Five,﻿Lake Five,﻿WI,,43.1925061,-88.2709274,,﻿Attended by Rev. F. Tiernan,,﻿f_tiernan_001,﻿Rev.,﻿F. Tiernan,,,,,,,,1866,﻿,﻿,﻿Milwaukee,Milwaukee
 ﻿mil.wi.0123,﻿church,﻿St. Clement's,English,,,,﻿Grant County,﻿Grant County,﻿Lancaster,﻿Lancaster,﻿WI,,42.8474905,-90.7106821,,﻿Attended by Rev. H. J. Albers,,﻿h_j_albers_001,﻿Rev.,﻿H. J. Albers,,,,,,,,1866,﻿,﻿,﻿Milwaukee,Milwaukee
-﻿lac.wi.0101,﻿church,﻿St. Joseph's,English,,,,﻿La Pointe County,,﻿La Pointe,,﻿WI,,46.541311,-87.398755,,﻿Attended from Bayfield,,,,,,,,,,,,1866,﻿,﻿,﻿Milwaukee,Milwaukee
+﻿lac.wi.0101,﻿church,﻿St. Joseph's,English,,,,﻿La Pointe County,,﻿La Pointe,,﻿WI,,,,,﻿Attended from Bayfield,,,,,,,,,,,,1866,﻿,﻿,﻿Milwaukee,Milwaukee
 ﻿mil.wi.0351,﻿church,﻿St. Tinbar's,English,,,,﻿Waupana County,,﻿Lebanon,,﻿WI,,44.945918,-93.096646,,﻿Attended by Rev. Christ. Verweyst,,﻿chr_verweyst_002,﻿Rev.,﻿Christ. Verweyst,,,,,,,,1866,﻿,﻿,﻿Milwaukee,Milwaukee
-﻿lac.wi.0102,﻿church,﻿St. James',English,,,,﻿Bad Axe County,,﻿Liberty Pole,,﻿WI,,46.541311,-87.398755,,﻿Attended by Rev. P. Murphy,,﻿p_murphy_004,﻿Rev.,﻿P. Murphy,,,,,,,,1866,﻿,﻿,﻿Milwaukee,Milwaukee
+﻿lac.wi.0102,﻿church,﻿St. James',English,,,,﻿Bad Axe County,,﻿Liberty Pole,,﻿WI,,,,,﻿Attended by Rev. P. Murphy,,﻿p_murphy_004,﻿Rev.,﻿P. Murphy,,,,,,,,1866,﻿,﻿,﻿Milwaukee,Milwaukee
 ﻿mil.wi.0124,﻿church,﻿St. Rosa's,English,,,,﻿Sheboygan County,﻿Sheboygan County,﻿Lima,﻿Lima,﻿WI,,43.6753863,-87.8746146,,﻿Visited from Sheboygan,,,,,,,,,,,,1866,﻿,﻿,﻿Milwaukee,Milwaukee
 ﻿mil.wi.0352,﻿church,﻿St. Peter's,English,,,,﻿Door County,,﻿Lincoln Town,,﻿WI,,44.945918,-93.096646,,﻿Attended by Rev. Ph. Crud,,﻿ph_crud_001,﻿Rev.,﻿Ph. Crud,,,,,,,,1866,﻿,﻿,﻿Milwaukee,Milwaukee
-﻿lac.wi.0103,﻿church,﻿St. Michael's,English,,,,﻿Juneau County,,﻿Lindina,,﻿WI,,46.541311,-87.398755,,﻿Attended from Lisbon,,,,,,,,,,,,1866,﻿,﻿,﻿Milwaukee,Milwaukee
+﻿lac.wi.0103,﻿church,﻿St. Michael's,English,,,,﻿Juneau County,,﻿Lindina,,﻿WI,,,,,﻿Attended from Lisbon,,,,,,,,,,,,1866,﻿,﻿,﻿Milwaukee,Milwaukee
 ﻿lac.wi.0016,﻿church,﻿St. Mary's,English,,,,﻿Juneau County,﻿Juneau County,﻿Lindon,﻿Lyndon,﻿WI,,43.66625,-89.878576,,﻿Visited by Rev. P. Montague,,﻿p_montague_002,﻿Rev.,﻿P. Montague,,,,,,,,1866,﻿,﻿,﻿Milwaukee,Milwaukee
-﻿lac.wi.0104,﻿church,﻿St. Paul's,English,,,,﻿Juneau County,,﻿Lisbon,,﻿WI,,46.541311,-87.398755,,,,﻿pet_lavin_002,﻿Rev.,﻿John Casey,,,,,,,,1866,﻿,﻿,﻿Milwaukee,Milwaukee
+﻿lac.wi.0104,﻿church,﻿St. Paul's,English,,,,﻿Juneau County,,﻿Lisbon,,﻿WI,,,,,,,﻿pet_lavin_002,﻿Rev.,﻿John Casey,,,,,,,,1866,﻿,﻿,﻿Milwaukee,Milwaukee
 ﻿gre.wi.0017,﻿church,﻿St. John Nepomucene's,English,,,,﻿Outagamie County,﻿Outagamie County,﻿Little Chute,﻿Little Chute,﻿WI,,44.2782762,-88.3144174,,,,﻿a_j_verberk_001,﻿Rev.,﻿A. J. Verberk,,,,,,,,1866,﻿,﻿,﻿Milwaukee,Milwaukee
 ﻿mil.wi.0126,﻿church,﻿St. Andrew's,English,,,,﻿Dodge County,﻿Dodge County,﻿Loomara,﻿Lomira,﻿WI,,43.591382,-88.443713,,﻿Attended by Rev. E. Henzler,,﻿e_henzler_002,﻿Rev.,﻿E. Henzler,,,,,,,,1866,﻿,﻿,﻿Milwaukee,Milwaukee
 ﻿mil.wi.0128,﻿church,﻿St. Raphael's,English,,,,﻿Dane County,﻿Dane County,﻿Madison,﻿Madison,﻿WI,,43.0769312,-89.3791922,,,,﻿j_schmith_001,﻿Rev.,﻿J. Schmith,,,,,,,,1866,﻿,﻿,﻿Milwaukee,Milwaukee
@@ -184,7 +184,7 @@
 ﻿mil.wi.0134,﻿church,﻿Visitation B.V.M.,English,,,,﻿Calumet County,﻿Fond du Lac County,﻿Marytown,﻿Marytown,﻿WI,,43.9164891,-88.2035057,,,,﻿daniel_001,﻿Rev. Father,﻿Daniel,﻿O.M.C.,,,,,,,1866,﻿,﻿,﻿Milwaukee,Milwaukee
 ﻿mil.wi.0135,﻿church,﻿St. Mary's,English,,,,﻿Dodge County,﻿Dodge County,﻿Mayville,﻿Mayville,﻿WI,,43.4929356,-88.5407267,,,,﻿e_henzler_002,﻿Rev.,﻿E. Henzler,,,,,,,,1866,﻿,﻿,﻿Milwaukee,Milwaukee
 ﻿mil.wi.0136,﻿church,﻿St. Isidore's,English,,,,﻿Manitowoc County,﻿Manitowoc County,﻿Meeme,﻿Meeme,﻿WI,,43.9205494,-87.8314781,,,,﻿th_mcdonnell_001,﻿Rev.,﻿Th. McDonnell,,,,,,,,1866,﻿,﻿,﻿Milwaukee,Milwaukee
-﻿lac.wi.0105,﻿church,﻿St. Francis Assisium,English,,,,﻿Dunn County,,﻿Menomenee,,﻿WI,,46.541311,-87.398755,,﻿Attended by Rev. J. B. Smeddink,,﻿j_b_smeddink_001,﻿Rev.,﻿J. B. Smeddink,,,,,,,,1866,﻿,﻿,﻿Milwaukee,Milwaukee
+﻿lac.wi.0105,﻿church,﻿St. Francis Assisium,English,,,,﻿Dunn County,,﻿Menomenee,,﻿WI,,,,,﻿Attended by Rev. J. B. Smeddink,,﻿j_b_smeddink_001,﻿Rev.,﻿J. B. Smeddink,,,,,,,,1866,﻿,﻿,﻿Milwaukee,Milwaukee
 ﻿mil.wi.0137,﻿church,﻿St. Mary's Immaculate Conception,English,,,,﻿Grant County,﻿Grant County,﻿Menomenee,﻿Hazel Green,﻿WI,,42.511189,-90.63192,,﻿Attended by Rev. A. Rask,,﻿a_rask_001,﻿Rev.,﻿A. Rask,,,,,,,,1866,﻿,﻿,﻿Milwaukee,Milwaukee
 ﻿mil.wi.0138,﻿church,﻿St. James',English,,﻿P. O. Fussville,,﻿Waukesha County,﻿Waukesha County,﻿Menomonee,﻿Menomonee Falls,﻿WI,,43.136322,-88.1830596,,,,,﻿Rev.,﻿--- Kirwin,,,,,,,,1866,﻿,﻿,﻿Milwaukee,Milwaukee
 ﻿mil.wi.0443,﻿church,﻿St. Anthony's,English,,,,﻿Waukesha County,﻿Waukesha County,﻿Menomonee,﻿Menomonee Falls,﻿WI,,,,,,,,﻿Rev.,﻿L. M. Mueller,,,,,,,,1866,﻿,﻿,﻿Milwaukee,Milwaukee
@@ -214,7 +214,7 @@
 ﻿mil.wi.0157,﻿church,﻿St. Peter's,English,,,,﻿Manitowoc County,﻿Manitowoc County,﻿Newtown,﻿Newtown,﻿WI,,43.9937427,-87.7263327,,﻿Attended from Manitowoc,,,,,,,,,,,,1866,﻿,﻿,﻿Milwaukee,Milwaukee
 ﻿mil.wi.0362,﻿church,﻿St. Francis of Sales,English,,,,﻿Milwaukee County,,﻿Nojoshing,,﻿WI,,44.945918,-93.096646,,,,﻿m_heiss_002,﻿Very Rev.,﻿M. Heiss,,﻿Rector of the Salesianum,,,,,,1866,﻿,﻿,﻿Milwaukee,Milwaukee
 ﻿mil.wi.0158,﻿church,﻿St. Matthew's,English,,,,﻿Milwaukee County,﻿Milwaukee County,﻿Oak Creek,﻿Oak Creek,﻿WI,,42.8746545,-87.86136,,﻿Attended by Rev. J. S. Munich,,﻿j_s_munich_001,﻿Rev.,﻿J. S. Munich,,,,,,,,1866,﻿,﻿,﻿Milwaukee,Milwaukee
-﻿lac.wi.0106,﻿church,﻿Nativity B.V.M.,English,,,,﻿Pierce County,,﻿Oak Grove,,﻿WI,,46.541311,-87.398755,,﻿Attended by Rev. S. Seif,,﻿s_seif_001,﻿Rev.,﻿S. Seif,,,,,,,,1866,﻿,﻿,﻿Milwaukee,Milwaukee
+﻿lac.wi.0106,﻿church,﻿Nativity B.V.M.,English,,,,﻿Pierce County,,﻿Oak Grove,,﻿WI,,,,,﻿Attended by Rev. S. Seif,,﻿s_seif_001,﻿Rev.,﻿S. Seif,,,,,,,,1866,﻿,﻿,﻿Milwaukee,Milwaukee
 ﻿mil.wi.0159,﻿church,﻿St. Jerome's,English,,,,﻿Waukesha County,﻿Waukesha County,﻿Oconomowoc,﻿Oconomowoc,﻿WI,,43.0973051,-88.4936774,,﻿Visited by Rev. M. Hobbs,,﻿m_hobbs_001,﻿Rev.,﻿M. Hobbs,,,,,,,,1866,﻿,﻿,﻿Milwaukee,Milwaukee
 ﻿gre.wi.0024,﻿church,﻿St. Peter's,English,,,,﻿Oconto County,﻿Oconto County,﻿Oconto,﻿Oconto,﻿WI,,44.8875713,-87.883319,,,,﻿e_spierings_001,﻿Rev.,﻿E. Spierings,,,,,,,,1866,﻿,﻿,﻿Milwaukee,Milwaukee
 ﻿mil.wi.0160,﻿church,﻿St. Matthew's,English,,,,﻿Fond du Lac County,﻿Fond du Lac County,﻿Osceola,﻿Osceola,﻿WI,,43.6813708,-88.2266434,,﻿Attended by Rev. P. McGowan,,﻿tho_smith_001,﻿Rev.,﻿P. McGowan,,,,,,,,1866,﻿,﻿,﻿Milwaukee,Milwaukee
@@ -226,7 +226,7 @@
 ﻿mil.wi.0167,﻿church,﻿St. Salvator's,English,,,,﻿Dane County,﻿Dane County,﻿Perry,﻿Perry,﻿WI,,42.9169551,-89.385547,,﻿Visited by Rev. P. J. Voissen,,﻿p_j_voissen_001,﻿Rev.,﻿P. J. Voissen,,,,,,,,1866,﻿,﻿,﻿Milwaukee,Milwaukee
 ﻿mil.wi.0363,﻿church,﻿Assumption B.V.M.,English,,,,﻿Oconto County,,﻿Peshtigo,,﻿WI,,44.945918,-93.096646,,,,﻿l_mazeaud_002,﻿Rev.,﻿L. Mazeaud,,,,,,,,1866,﻿,﻿,﻿Milwaukee,Milwaukee
 ﻿mil.wi.0168,﻿church,﻿SS. Peter and Paul's,English,,,,﻿Waukesha County,﻿Waukesha County,﻿Pewaukee,﻿Pewaukee,﻿WI,,43.0654628,-88.2058043,,﻿Attended by Rev. L. Mueller,,﻿l_mueller_001,﻿Rev.,﻿L. Mueller,,,,,,,,1866,﻿,﻿,﻿Milwaukee,Milwaukee
-﻿lac.wi.0107,﻿church,﻿St. Columban's,English,,,,﻿Jackson County,,﻿Pine Hill,,﻿WI,,46.541311,-87.398755,,﻿Attended by Rev. J. Casey,,﻿j_casey_001,﻿Rev.,﻿J. Casey,,,,,,,,1866,﻿,﻿,﻿Milwaukee,Milwaukee
+﻿lac.wi.0107,﻿church,﻿St. Columban's,English,,,,﻿Jackson County,,﻿Pine Hill,,﻿WI,,,,,﻿Attended by Rev. J. Casey,,﻿j_casey_001,﻿Rev.,﻿J. Casey,,,,,,,,1866,﻿,﻿,﻿Milwaukee,Milwaukee
 ﻿mil.wi.0170,﻿church,﻿St. Mary's,English,,,,﻿Grant County,﻿Grant County,﻿Platteville,﻿Platteville,﻿WI,,42.737178,-90.47859,,,,﻿ch_exel_002,﻿Rev.,﻿Ch. Exel,,,,,,,,1866,﻿,﻿,﻿Milwaukee,Milwaukee
 ﻿mil.wi.0171,﻿church,﻿St. John's,English,,,,﻿Sheboygan County,﻿Sheboygan County,﻿Plymouth,﻿Plymouth,﻿WI,,43.7494262,-87.9777558,,﻿Visited by Rev. M. Haider,,﻿m_haider_001,﻿Rev.,﻿M. Haider,,,,,,,,1866,﻿,﻿,﻿Milwaukee,Milwaukee
 ﻿gre.wi.0027,﻿church,﻿St. Mary's Immaculate Conception,English,,,,﻿Columbia County,﻿Columbia County,﻿Portage City,﻿Portage,﻿WI,,43.5391486,-89.4626202,,,,﻿p_f_pettit_001,﻿Rev.,﻿P. F. Pettit,,,,,,,,1866,﻿,﻿,﻿Milwaukee,Milwaukee
@@ -246,7 +246,7 @@
 ﻿mil.wi.0179,﻿church,﻿Holy Maternity,English,,,,﻿Washington County,﻿Washington County,﻿Richfield,﻿Richfield,﻿WI,,43.2562201,-88.1943651,,﻿Attended by Rev. A. Faekler,,﻿j_gamber_001,﻿Rev.,﻿A. Faekler,,,,,,,,1866,﻿,﻿,﻿Milwaukee,Milwaukee
 ﻿mil.wi.0180,﻿church,﻿St. Augustine's,English,,,,﻿Washington County,﻿Washington County,﻿Richfield,﻿Richfield,﻿WI,,43.2191057,-88.2266434,,﻿Attended by Rev. A. Faekler,,﻿j_gamber_001,﻿Rev.,﻿A. Faekler,,,,,,,,1866,﻿,﻿,﻿Milwaukee,Milwaukee
 ﻿mil.wi.0181,﻿church,﻿St. Joseph's,English,,,,﻿Jefferson County,﻿Dodge County,﻿Richwood,﻿Richwood,﻿WI,,43.241389,-88.783056,,,,﻿h_roche_001,﻿Rev.,﻿H. Roche,,,,,,,,1866,﻿,﻿,﻿Milwaukee,Milwaukee
-﻿lac.wi.0108,﻿church,﻿St. Finnbarr's,English,,,,﻿Monroe County,,﻿Ridgeville,,﻿WI,,46.541311,-87.398755,,﻿Attended by Rev. P. Casey,,﻿p_casey_001,﻿Rev.,﻿P. Casey,,,,,,,,1866,﻿,﻿,﻿Milwaukee,Milwaukee
+﻿lac.wi.0108,﻿church,﻿St. Finnbarr's,English,,,,﻿Monroe County,,﻿Ridgeville,,﻿WI,,,,,﻿Attended by Rev. P. Casey,,﻿p_casey_001,﻿Rev.,﻿P. Casey,,,,,,,,1866,﻿,﻿,﻿Milwaukee,Milwaukee
 ﻿mil.wi.0182,﻿church,﻿St. Bridget's,English,,,,﻿Iowa County,﻿Iowa County,﻿Ridgeway,﻿Ridgeway,﻿WI,,42.997718,-89.995869,,﻿Attended by F. McGann,,﻿f_mcgann_001,﻿Rev.,﻿F. McGann,,,,,,,,1866,﻿,﻿,﻿Milwaukee,Milwaukee
 ﻿mil.wi.0183,﻿church,﻿St. Patrick's,English,,,,﻿Fond du Lac County,﻿Fond du Lac County,﻿Ripon,﻿Ripon,﻿WI,,43.7847208,-88.446755,,,,﻿e_gray_001,﻿Rev.,﻿E. Gray,,,,,,,,1866,﻿,﻿,﻿Milwaukee,Milwaukee
 ﻿gre.wi.0029,﻿church,﻿St. Joseph's,English,,,,﻿Brown County,﻿Brown County,﻿Robinsonville,﻿Champion,﻿WI,,44.4822128,-88.0128711,,,,﻿ph_crud_001,﻿Rev.,﻿Ph. Crud,,,,,,,,1866,﻿,﻿,﻿Milwaukee,Milwaukee
@@ -259,13 +259,13 @@
 ﻿mil.wi.0190,﻿church,﻿St. Finnbar's,English,,,,﻿Ozaukee County,﻿Ozaukee County,﻿Saukville,﻿Saukville,﻿WI,,43.441187,-88.0006754,,﻿Attended from Newburgh,,,,,,,,,,,,1866,﻿,﻿,﻿Milwaukee,Milwaukee
 ﻿mil.wi.0191,﻿church,﻿St. Peter's,English,,,,﻿Washington County,﻿Washington County,﻿Shleisingerville,﻿Slinger,﻿WI,,43.333613,-88.2862065,,﻿Attended by Rev. M. Weiss,,﻿m_weiss_001,﻿Rev.,﻿M. Weiss,,,,,,,,1866,﻿,﻿,﻿Milwaukee,Milwaukee
 ﻿mil.wi.0370,﻿church,﻿St. Peter's,English,,,,﻿Manitowoc County,﻿Manitowoc County,﻿Schleswig,,﻿WI,,44.945918,-93.096646,,﻿Attended by Fathers of Calvary Convent,,,,,,,,,,,,1866,﻿,﻿,﻿Milwaukee,Milwaukee
-﻿lac.wi.0110,﻿church,﻿St. Mark's,English,,,,﻿Crawford County,,﻿Seneca,,﻿WI,,46.541311,-87.398755,,﻿Attended by Rev. P. Murphy,,﻿p_murphy_004,﻿Rev.,﻿P. Murphy,,,,,,,,1866,﻿,﻿,﻿Milwaukee,Milwaukee
+﻿lac.wi.0110,﻿church,﻿St. Mark's,English,,,,﻿Crawford County,,﻿Seneca,,﻿WI,,,,,﻿Attended by Rev. P. Murphy,,﻿p_murphy_004,﻿Rev.,﻿P. Murphy,,,,,,,,1866,﻿,﻿,﻿Milwaukee,Milwaukee
 ﻿mil.wi.0193,﻿church,﻿St. Magdalene's,English,,,,﻿Sheboygan County,﻿Sheboygan County,﻿Sheboygan,﻿Sheboygan,﻿WI,,43.7508284,-87.71453,,,,﻿m_haider_001,﻿Rev.,﻿M. Haider,,,,,,,,1866,﻿,﻿,﻿Milwaukee,Milwaukee
 ﻿mil.wi.0194,﻿church,﻿St. Mary's,English,,,,﻿Sheboygan County,﻿Sheboygan County,﻿Silver Creek,﻿Sherman,﻿WI,,43.6007621,-87.9922684,,﻿Attended by Rev. H. McMahon,,﻿h_mcmahon_001,﻿Rev.,﻿H. McMahon,,,,,,,,1866,﻿,﻿,﻿Milwaukee,Milwaukee
 ﻿mil.wi.0195,﻿church,﻿St. Dominic's,English,,,,﻿Grant County,﻿Grant County,﻿Sinsinawa,﻿Sinsinawa,﻿WI,,42.5208114,-90.5385596,,﻿Attended by the Dominican Fathers,,,,,,,,,,,,1866,﻿,﻿,﻿Milwaukee,Milwaukee
 ﻿mil.wi.0196,﻿church,﻿St. Matthew's,English,,,,﻿Lafayette County,﻿Lafayette County,﻿Shullsburgh,﻿Shullsburg,﻿WI,,42.5743947,-90.230549,,,,﻿j_j_kinsella_001,﻿Rev.,﻿J. J. Kinsella,,,,,,,,1866,﻿,﻿,﻿Milwaukee,Milwaukee
 ﻿mil.wi.0371,﻿church,﻿St. Peter's,English,,,,﻿Outagamie County,,﻿Snydersville,,﻿WI,,44.945918,-93.096646,,﻿Attended by Rev. A. J. Verberk,,﻿a_j_verberk_001,﻿Rev.,﻿A. J. Verberk,,,,,,,,1866,﻿,﻿,﻿Milwaukee,Milwaukee
-﻿lac.wi.0111,﻿church,﻿St. Vincent de Paul's,English,,,,﻿St. Croix County,,﻿Sommerset,,﻿WI,,46.541311,-87.398755,,﻿Attended by Rev. S. Seif,,﻿s_seif_001,﻿Rev.,﻿S. Seif,,,,,,,,1866,﻿,﻿,﻿Milwaukee,Milwaukee
+﻿lac.wi.0111,﻿church,﻿St. Vincent de Paul's,English,,,,﻿St. Croix County,,﻿Sommerset,,﻿WI,,,,,﻿Attended by Rev. S. Seif,,﻿s_seif_001,﻿Rev.,﻿S. Seif,,,,,,,,1866,﻿,﻿,﻿Milwaukee,Milwaukee
 ﻿mil.wi.0197,﻿church,﻿Holy Mary of Help,English,,,,﻿Fond du Lac County,﻿Fond du Lac County,﻿Springvale,﻿Springvale,﻿WI,,43.7642443,-88.6916315,,﻿Visited by Rev. E. Gray,,﻿e_gray_001,﻿Rev.,﻿E. Gray,,,,,,,,1866,﻿,﻿,﻿Milwaukee,Milwaukee
 ﻿gre.wi.0031,﻿church,﻿St. Stephen's,English,,,,﻿Portage County,﻿Portage County,﻿Stevens Point,﻿Stevens Point,﻿WI,,44.5270456,-89.5532824,,,,﻿l_lux_002,﻿Rev.,﻿L. Lux,,,,,,,,1866,﻿,﻿,﻿Milwaukee,Milwaukee
 ﻿mil.wi.0372,﻿church,﻿St. Catherine's,English,,,,﻿Calumet County,,﻿Stockbridge,,﻿WI,,44.945918,-93.096646,,﻿Visited by Rev. --- Dolan,,,﻿Rev.,﻿--- Dolan,,,,,,,,1866,﻿,﻿,﻿Milwaukee,Milwaukee
@@ -275,8 +275,8 @@
 ﻿mil.wi.0202,﻿church,﻿St. Theresa's,English,,,,﻿Dodge County,﻿Dodge County,﻿Teresa,﻿Theresa,﻿WI,,43.5180817,-88.4530572,,,,﻿l_durst_001,﻿Rev.,﻿L. Durst,,,,,,,,1866,﻿,﻿,﻿Milwaukee,Milwaukee
 ﻿lac.wi.0022,﻿church,﻿St. Wenceslaus',﻿Polish,,,,﻿Trempeleau County,﻿Trempeleau County,﻿Trempeleau,﻿Trempeleau,﻿WI,,44.0055185,-91.4420883,,"﻿Visited occasionally by Rev. Flo. Zadziorski, O.M.C.",,﻿flo_zadziorski_001,﻿Rev.,﻿Flo. Zadziorski,﻿O.M.C.,,,,,,,1866,﻿,﻿,﻿Milwaukee,Milwaukee
 ﻿gre.wi.0032,﻿church,﻿St. Luke's,English,,,,﻿Manitowoc County,﻿Manitowoc County,﻿Two Rivers,﻿Two Rivers,﻿WI,,44.1499519,-87.5671081,,,,﻿j_stehle_001,﻿Rev.,﻿J. Stehle,,,,,,,,1866,﻿,﻿,﻿Milwaukee,Milwaukee
-﻿lac.wi.0112,﻿church,﻿St. Theresa's,English,,,,﻿Juneau County,,﻿Union Centre,,﻿WI,,46.541311,-87.398755,,﻿Attended by Rev. J. Casey,,﻿pet_lavin_002,﻿Rev.,﻿J. Casey,,,,,,,,1866,﻿,﻿,﻿Milwaukee,Milwaukee
-﻿lac.wi.0113,﻿church,﻿St. James',English,,,,﻿Crawford County,,﻿Utica,,﻿WI,,46.541311,-87.398755,,,,﻿p_murphy_004,﻿Rev.,﻿P. Murphy,,,,,,,,1866,﻿,﻿,﻿Milwaukee,Milwaukee
+﻿lac.wi.0112,﻿church,﻿St. Theresa's,English,,,,﻿Juneau County,,﻿Union Centre,,﻿WI,,,,,﻿Attended by Rev. J. Casey,,﻿pet_lavin_002,﻿Rev.,﻿J. Casey,,,,,,,,1866,﻿,﻿,﻿Milwaukee,Milwaukee
+﻿lac.wi.0113,﻿church,﻿St. James',English,,,,﻿Crawford County,,﻿Utica,,﻿WI,,,,,,,﻿p_murphy_004,﻿Rev.,﻿P. Murphy,,,,,,,,1866,﻿,﻿,﻿Milwaukee,Milwaukee
 ﻿mil.wi.0203,﻿church,﻿St. Simon's,English,,,,﻿Dane County,﻿Dane County,﻿Vermont,﻿Vermont,﻿WI,,43.0775712,-89.7942892,,﻿Attended by Rev. D. McGinnity,,﻿d_mcginnity_001,﻿Rev.,﻿D. McGinnity,,,,,,,,1866,﻿,﻿,﻿Milwaukee,Milwaukee
 ﻿mil.wi.0204,﻿church,﻿St. Margaret's,English,,,,﻿Dane County,﻿Dane County,﻿Vienna,﻿Vienna,﻿WI,,43.0186073,-89.5497632,,﻿Attended from Madison,,,,,,,,,,,,1866,﻿,﻿,﻿Milwaukee,Milwaukee
 ﻿mil.wi.0206,﻿church,﻿St. Thomas Aquinas,English,,,,﻿Racine County,﻿Racine County,﻿Waterford,﻿Waterford,﻿WI,,42.7607764,-88.2120408,,,,﻿j_conrad_001,﻿Rev.,﻿J. Conrad,,,,,,,,1866,﻿,﻿,﻿Milwaukee,Milwaukee
@@ -287,7 +287,7 @@
 ﻿mil.wi.0211,﻿church,﻿St. Joseph's,English,,,,﻿Waukesha County,﻿Waukesha County,﻿Waukesha,﻿Waukesha,﻿WI,,43.0118544,-88.226756,,,,﻿w_vahey_001,﻿Rev.,﻿W. Vahey,,,,,,,,1866,﻿,﻿,﻿Milwaukee,Milwaukee
 ﻿mil.wi.0212,﻿church,﻿Holy Angels,English,,,,﻿Washington County,﻿Washington County,﻿West Bend,﻿West Bend,﻿WI,,43.4239649,-88.1866863,,,,﻿j_reindl_001,﻿Rev.,﻿J. Reindl,,,,,,,,1866,﻿,﻿,﻿Milwaukee,Milwaukee
 ﻿mil.wi.0213,﻿church,﻿St. Mathias',English,,,,﻿Washington County,﻿Washington County,﻿West Bend,﻿West Bend,﻿WI,,43.4252776,-88.1834277,,﻿Visited by M. Weiss,,﻿m_weiss_001,﻿Rev.,﻿M. Weiss,,,,,,,,1866,﻿,﻿,﻿Milwaukee,Milwaukee
-﻿lac.wi.0114,﻿church,﻿St. Alphonsus',English,,,,﻿Sauk County,,﻿Westfield,,﻿WI,,46.541311,-87.398755,,﻿Visited by Rev. Franc. Etschmann,,﻿fra_etschmann_001,﻿Rev.,﻿Franc. Etschmann,,,,,,,,1866,﻿,﻿,﻿Milwaukee,Milwaukee
+﻿lac.wi.0114,﻿church,﻿St. Alphonsus',English,,,,﻿Sauk County,,﻿Westfield,,﻿WI,,,,,﻿Visited by Rev. Franc. Etschmann,,﻿fra_etschmann_001,﻿Rev.,﻿Franc. Etschmann,,,,,,,,1866,﻿,﻿,﻿Milwaukee,Milwaukee
 ﻿mil.wi.0216,﻿church,﻿St. Patrick's,English,,,,﻿Iowa County,﻿Iowa County,﻿Walwick,﻿Waldwick,﻿WI,,42.8255553,-90.039847,,﻿Attended by Rev. F. McGann,,﻿f_mcgann_001,﻿Rev.,﻿F. McGann,,,,,,,,1866,﻿,﻿,﻿Milwaukee,Milwaukee
 ﻿mil.wi.0217,﻿church,﻿St. Alphonsus',English,,,,﻿Kenosha County,﻿Kenosha County,﻿Wheatland,﻿Wheatland,﻿WI,,42.5804755,-88.2267186,,,,﻿j_h_korphage_001,﻿Rev.,﻿J. H. Korphage,,,,,,,,1866,﻿,﻿,﻿Milwaukee,Milwaukee
 ﻿mil.wi.0218,﻿church,﻿St. Patrick's,English,,,,﻿Walworth County,﻿Walworth County,﻿Whitewater,﻿Whitewater,﻿WI,,42.8339581,-88.7534971,,,,﻿r_dunphy_001,﻿Rev.,﻿R. Dumphy,,,,,,,,1866,﻿,﻿,﻿Milwaukee,Milwaukee
@@ -297,33 +297,33 @@
 ﻿mil.wi.0376,﻿church,﻿St. Boniface's,English,,,,﻿Buffalo County,,﻿Woumadee,,﻿WI,,44.945918,-93.096646,,﻿Attended by Rev. M. Joerger,,,﻿Rev.,﻿M. Joerger,,,,,,,,1866,﻿,﻿,﻿Milwaukee,Milwaukee
 ﻿mil.wi.0375,﻿church,﻿St. John the Baptist's,English,,,,﻿Calumet County,,﻿Woodville,,﻿WI,,44.945918,-93.096646,,"﻿Visited by Rev. Bonavent. De Goy, O.M.C.",,﻿bon_de-goy_001,﻿Rev.,﻿Bonavent De Goy,﻿O.M.C.,,,,,,,1866,﻿,﻿,﻿Milwaukee,Milwaukee
 ﻿mil.wi.0223,﻿church,﻿St. Augustine's,English,,,,﻿Columbia County,﻿Columbia County,﻿Wyosina,﻿Wyocena,﻿WI,,43.495817,-89.3084506,,,,﻿e_mcguirk_001,﻿Rev.,﻿E. McGuirk,,,,,,,,1866,﻿,﻿,﻿Milwaukee,Milwaukee
-﻿lac.wi.0115,﻿station,not recorded,English,,,,﻿Adams County,,﻿Neery,,﻿WI,,46.541311,-87.398755,,,,,,,,,,,,,,1866,﻿,﻿,﻿Milwaukee,Milwaukee
-﻿lac.wi.0116,﻿station,not recorded,English,,,,﻿Adams County,,﻿Prairie,,﻿WI,,46.541311,-87.398755,,,,,,,,,,,,,,1866,﻿,﻿,﻿Milwaukee,Milwaukee
-﻿lac.wi.0117,﻿station,not recorded,English,,,,﻿Adams County,,﻿Quincy,,﻿WI,,46.541311,-87.398755,,,,,,,,,,,,,,1866,﻿,﻿,﻿Milwaukee,Milwaukee
-﻿lac.wi.0118,﻿station,not recorded,English,,,,﻿Adams County,,﻿Wardelah,,﻿WI,,46.541311,-87.398755,,,,,,,,,,,,,,1866,﻿,﻿,﻿Milwaukee,Milwaukee
-﻿lac.wi.0119,﻿station,not recorded,English,,,,﻿Bad Axe County,,﻿Morrison,,﻿WI,,46.541311,-87.398755,,,,,,,,,,,,,,1866,﻿,﻿,﻿Milwaukee,Milwaukee
-﻿lac.wi.0120,﻿station,not recorded,English,,,,﻿Bad Axe County,,﻿Wrightstown,,﻿WI,,46.541311,-87.398755,,,,,,,,,,,,,,1866,﻿,﻿,﻿Milwaukee,Milwaukee
+﻿lac.wi.0115,﻿station,not recorded,English,,,,﻿Adams County,,﻿Neery,,﻿WI,,,,,,,,,,,,,,,,,1866,﻿,﻿,﻿Milwaukee,Milwaukee
+﻿lac.wi.0116,﻿station,not recorded,English,,,,﻿Adams County,,﻿Prairie,,﻿WI,,,,,,,,,,,,,,,,,1866,﻿,﻿,﻿Milwaukee,Milwaukee
+﻿lac.wi.0117,﻿station,not recorded,English,,,,﻿Adams County,,﻿Quincy,,﻿WI,,,,,,,,,,,,,,,,,1866,﻿,﻿,﻿Milwaukee,Milwaukee
+﻿lac.wi.0118,﻿station,not recorded,English,,,,﻿Adams County,,﻿Wardelah,,﻿WI,,,,,,,,,,,,,,,,,1866,﻿,﻿,﻿Milwaukee,Milwaukee
+﻿lac.wi.0119,﻿station,not recorded,English,,,,﻿Bad Axe County,,﻿Morrison,,﻿WI,,,,,,,,,,,,,,,,,1866,﻿,﻿,﻿Milwaukee,Milwaukee
+﻿lac.wi.0120,﻿station,not recorded,English,,,,﻿Bad Axe County,,﻿Wrightstown,,﻿WI,,,,,,,,,,,,,,,,,1866,﻿,﻿,﻿Milwaukee,Milwaukee
 ﻿mil.wi.0377,﻿station,not recorded,English,,,,﻿Brown County,,﻿Bad Axe,,﻿WI,,44.945918,-93.096646,,,,,,,,,,,,,,1866,﻿,﻿,﻿Milwaukee,Milwaukee
 ﻿mil.wi.0378,﻿station,not recorded,English,,,,﻿Brown County,,﻿De Bellau,,﻿WI,,44.945918,-93.096646,,,,,,,,,,,,,,1866,﻿,﻿,﻿Milwaukee,Milwaukee
 ﻿mil.wi.0379,﻿station,not recorded,English,,,,﻿Brown County,,﻿Pine River,,﻿WI,,44.945918,-93.096646,,,,,,,,,,,,,,1866,﻿,﻿,﻿Milwaukee,Milwaukee
 ﻿mil.wi.0349,﻿station,not recorded,English,,,,﻿Brown County,,﻿Humbolt,,﻿WI,,44.500039,-87.822095,,,,,,,,,,,,,,1866,﻿,﻿,﻿Milwaukee,Milwaukee
 ﻿lac.wi.0025,﻿station,not recorded,English,,,,﻿Buffalo County,,﻿Buffalo City,﻿Buffalo City,﻿WI,,44.2305638,-91.863468,,,,,,,,,,,,,,1866,﻿,﻿,﻿Milwaukee,Milwaukee
-﻿lac.wi.0121,﻿station,not recorded,English,,,,﻿Buffalo County,,﻿Nelson,,﻿WI,,46.541311,-87.398755,,,,,,,,,,,,,,1866,﻿,﻿,﻿Milwaukee,Milwaukee
-﻿lac.wi.0122,﻿station,not recorded,English,,,,﻿Buffalo County,,﻿Little Waumadee,,﻿WI,,46.541311,-87.398755,,,,,,,,,,,,,,1866,﻿,﻿,﻿Milwaukee,Milwaukee
-﻿lac.wi.0123,﻿station,not recorded,English,,,,﻿Buffalo County,,﻿Mandara,,﻿WI,,46.541311,-87.398755,,,,,,,,,,,,,,1866,﻿,﻿,﻿Milwaukee,Milwaukee
+﻿lac.wi.0121,﻿station,not recorded,English,,,,﻿Buffalo County,,﻿Nelson,,﻿WI,,,,,,,,,,,,,,,,,1866,﻿,﻿,﻿Milwaukee,Milwaukee
+﻿lac.wi.0122,﻿station,not recorded,English,,,,﻿Buffalo County,,﻿Little Waumadee,,﻿WI,,,,,,,,,,,,,,,,,1866,﻿,﻿,﻿Milwaukee,Milwaukee
+﻿lac.wi.0123,﻿station,not recorded,English,,,,﻿Buffalo County,,﻿Mandara,,﻿WI,,,,,,,,,,,,,,,,,1866,﻿,﻿,﻿Milwaukee,Milwaukee
 ﻿lac.wi.0024,﻿station,not recorded,English,,,,﻿Buffalo County,,﻿Alma,,﻿WI,,44.3215867,-91.9144568,,,,,,,,,,,,,,1866,﻿,﻿,﻿Milwaukee,Milwaukee
 ﻿mil.wi.0029,﻿station,not recorded,English,,,,﻿Calumet County,,﻿Brothertown,,﻿WI,,43.978368,-88.275314,,,,,,,,,,,,,,1866,﻿,﻿,﻿Milwaukee,Milwaukee
 ﻿mil.wi.0345,﻿station,not recorded,English,,,,﻿Calumet County,,﻿Harrison,,﻿WI,,44.500039,-87.822095,,,,,,,,,,,,,,1866,﻿,﻿,﻿Milwaukee,Milwaukee
 ﻿mil.wi.0044,﻿station,not recorded,English,,,,﻿Calumet County,,﻿Charleston,,﻿WI,,44.023369,-88.109612,,,,,,,,,,,,,,1866,﻿,﻿,﻿Milwaukee,Milwaukee
 ﻿lac.wi.0026,﻿station,not recorded,English,,,,﻿Chippewa County,,﻿Brush Prairie,﻿Bloomer,﻿WI,,45.1209077,-91.4210511,,,,,,,,,,,,,,1866,﻿,﻿,﻿Milwaukee,Milwaukee
-﻿lac.wi.0124,﻿station,not recorded,English,,,,﻿Chippewa County,,﻿Courtes Oreilles,,﻿WI,,46.541311,-87.398755,,,,,,,,,,,,,,1866,﻿,﻿,﻿Milwaukee,Milwaukee
+﻿lac.wi.0124,﻿station,not recorded,English,,,,﻿Chippewa County,,﻿Courtes Oreilles,,﻿WI,,,,,,,,,,,,,,,,,1866,﻿,﻿,﻿Milwaukee,Milwaukee
 ﻿lac.wi.0063,﻿station,not recorded,English,,,,﻿Chippewa County,,﻿Flambeau,﻿Holocombe,﻿WI,,45.26204084,-91.16075002,,,,,,,,,,,,,,1866,﻿,﻿,﻿Milwaukee,Milwaukee
-﻿lac.wi.0125,﻿station,not recorded,English,,,,﻿Chippewa County,,﻿Springfield,,﻿WI,,46.541311,-87.398755,,,,,,,,,,,,,,1866,﻿,﻿,﻿Milwaukee,Milwaukee
-﻿lac.wi.0126,﻿station,not recorded,English,,,,﻿Clarke County,,﻿Neilsville,,﻿WI,,46.541311,-87.398755,,,,,,,,,,,,,,1866,﻿,﻿,﻿Milwaukee,Milwaukee
+﻿lac.wi.0125,﻿station,not recorded,English,,,,﻿Chippewa County,,﻿Springfield,,﻿WI,,,,,,,,,,,,,,,,,1866,﻿,﻿,﻿Milwaukee,Milwaukee
+﻿lac.wi.0126,﻿station,not recorded,English,,,,﻿Clarke County,,﻿Neilsville,,﻿WI,,,,,,,,,,,,,,,,,1866,﻿,﻿,﻿Milwaukee,Milwaukee
 ﻿mil.wi.0224,﻿station,not recorded,English,,,,﻿Columbia County,﻿Columbia County,﻿Marcello,﻿Marcellon,﻿WI,,43.5685938,-89.2656724,,,,,,,,,,,,,,1866,﻿,﻿,﻿Milwaukee,Milwaukee
 ﻿mil.wi.0163,﻿station,not recorded,English,,,,﻿Columbia County,﻿Columbia County,﻿Otsego,﻿Otsego,﻿WI,,43.4022098,-89.1662248,,,,,,,,,,,,,,1866,﻿,﻿,﻿Milwaukee,Milwaukee
 ﻿mil.wi.0226,﻿station,not recorded,English,,,,﻿Columbia County,﻿Columbia County,﻿Prairie,﻿Prairie,﻿WI,,43.4046632,-89.3226954,,,,,,,,,,,,,,1866,﻿,﻿,﻿Milwaukee,Milwaukee
-﻿lac.wi.0127,﻿station,not recorded,English,,,,﻿Crawford County,,﻿Poydtown Bluffs,,﻿WI,,46.541311,-87.398755,,,,,,,,,,,,,,1866,﻿,﻿,﻿Milwaukee,Milwaukee
+﻿lac.wi.0127,﻿station,not recorded,English,,,,﻿Crawford County,,﻿Poydtown Bluffs,,﻿WI,,,,,,,,,,,,,,,,,1866,﻿,﻿,﻿Milwaukee,Milwaukee
 ﻿mil.wi.0227,﻿station,not recorded,English,,,,﻿Dane County,﻿Dane County,﻿Cottage Grove,﻿Cottage Grove,﻿WI,,43.0761082,-89.1995593,,,,,,,,,,,,,,1866,﻿,﻿,﻿Milwaukee,Milwaukee
 ﻿mil.wi.0214,﻿station,not recorded,English,,,,﻿Dane County,﻿Dane County,﻿Westport,﻿Westport,﻿WI,,43.0186073,-89.5497632,,,,,,,,,,,,,,1866,﻿,﻿,﻿Milwaukee,Milwaukee
 ﻿mil.wi.0228,﻿station,not recorded,English,,,,﻿Dane County,﻿Dane County,﻿Dane,﻿Dane,﻿WI,,43.2505472,-89.5015088,,,,,,,,,,,,,,1866,﻿,﻿,﻿Milwaukee,Milwaukee
@@ -339,9 +339,9 @@
 ﻿mil.wi.0385,﻿station,not recorded,English,,,,﻿Door County,,﻿Washington Harbor,,﻿WI,,44.945918,-93.096646,,,,,,,,,,,,,,1866,﻿,﻿,﻿Milwaukee,Milwaukee
 ﻿lac.wi.0067,﻿station,not recorded,English,,,,﻿Douglas County,,﻿Superior City,,﻿WI,,46.70320773,-92.04686186,,,,,,,,,,,,,,1866,﻿,﻿,﻿Milwaukee,Milwaukee
 ﻿mil.wi.0386,﻿station,not recorded,English,,,,﻿Douglas County,,﻿Fond du Lac,,﻿WI,,44.945918,-93.096646,,,,,,,,,,,,,,1866,﻿,﻿,﻿Milwaukee,Milwaukee
-﻿lac.wi.0128,﻿station,not recorded,English,,,,﻿Dunn County,,﻿Fall City,,﻿WI,,46.541311,-87.398755,,,,,,,,,,,,,,1866,﻿,﻿,﻿Milwaukee,Milwaukee
+﻿lac.wi.0128,﻿station,not recorded,English,,,,﻿Dunn County,,﻿Fall City,,﻿WI,,,,,,,,,,,,,,,,,1866,﻿,﻿,﻿Milwaukee,Milwaukee
 ﻿lac.wi.0031,﻿station,not recorded,English,,,,﻿Eau Clair County,,﻿Adams' Settlement,,﻿WI,,44.813079,-91.605541,,,,,,,,,,,,,,1866,﻿,﻿,﻿Milwaukee,Milwaukee
-﻿lac.wi.0129,﻿station,not recorded,English,,,,﻿Eau Clair County,,﻿Pleasant Valley,,﻿WI,,46.541311,-87.398755,,,,,,,,,,,,,,1866,﻿,﻿,﻿Milwaukee,Milwaukee
+﻿lac.wi.0129,﻿station,not recorded,English,,,,﻿Eau Clair County,,﻿Pleasant Valley,,﻿WI,,,,,,,,,,,,,,,,,1866,﻿,﻿,﻿Milwaukee,Milwaukee
 ﻿mil.wi.0387,﻿station,not recorded,English,,,,﻿Fond du Lac County,,﻿Eldora,,﻿WI,,44.945918,-93.096646,,,,,,,,,,,,,,1866,﻿,﻿,﻿Milwaukee,Milwaukee
 ﻿mil.wi.0452,﻿station,not recorded,English,,,,﻿Fond du Lac County,,﻿Newcastle,,﻿WI,,,,,,,,,,,,,,,,,1866,﻿,﻿,﻿Milwaukee,Milwaukee
 ﻿mil.wi.0233,﻿station,not recorded,English,,,,﻿Fond du Lac County,﻿Fond du Lac County,﻿Rosendale,﻿Rosendale,﻿WI,,43.8077629,-88.674832,,,,,,,,,,,,,,1866,﻿,﻿,﻿Milwaukee,Milwaukee
@@ -358,7 +358,7 @@
 ﻿mil.wi.0242,﻿station,not recorded,English,,,,﻿Iowa County,﻿Iowa County,﻿Avoca,﻿Avoca,﻿WI,,43.181933,-90.3245687,,,,,,,,,,,,,,1866,﻿,﻿,﻿Milwaukee,Milwaukee
 ﻿mil.wi.0392,﻿station,not recorded,English,,,,﻿Iowa County,,﻿Dodgeville,,﻿WI,,44.945918,-93.096646,,,,,,,,,,,,,,1866,﻿,﻿,﻿Milwaukee,Milwaukee
 ﻿lac.wi.0066,﻿station,not recorded,English,,,,﻿Jackson County,,﻿Black River Falls,﻿Black River Falls,﻿WI,,44.29479132,-90.85243008,,,,,,,,,,,,,,1866,﻿,﻿,﻿Milwaukee,Milwaukee
-﻿lac.wi.0130,﻿station,not recorded,English,,,,﻿Jackson County,,﻿Garden Valley,,﻿WI,,46.541311,-87.398755,,,,,,,,,,,,,,1866,﻿,﻿,﻿Milwaukee,Milwaukee
+﻿lac.wi.0130,﻿station,not recorded,English,,,,﻿Jackson County,,﻿Garden Valley,,﻿WI,,,,,,,,,,,,,,,,,1866,﻿,﻿,﻿Milwaukee,Milwaukee
 ﻿mil.wi.0243,﻿station,not recorded,English,,,,﻿Jefferson County,﻿Jefferson County,﻿Fort Atkinson,﻿Fort Atkinson,﻿WI,,42.9288944,-88.8370509,,,,,,,,,,,,,,1866,﻿,﻿,﻿Milwaukee,Milwaukee
 ﻿mil.wi.0244,﻿station,not recorded,English,,,,﻿Jefferson County,,﻿Pearlunawee,,﻿WI,,43.089927,-88.7108964,,,,,,,,,,,,,,1866,﻿,﻿,﻿Milwaukee,Milwaukee
 ﻿mil.wi.0393,﻿station,not recorded,English,,,,﻿Juneau County,,﻿Germantown,,﻿WI,,44.945918,-93.096646,,,,,,,,,,,,,,1866,﻿,﻿,﻿Milwaukee,Milwaukee
@@ -370,18 +370,18 @@
 ﻿mil.wi.0396,﻿station,not recorded,English,,,,﻿Kewaunee County,,﻿Pierce,,﻿WI,,44.945918,-93.096646,,,,,,,,,,,,,,1866,﻿,﻿,﻿Milwaukee,Milwaukee
 ﻿gre.wi.0061,﻿station,not recorded,English,,,,﻿Kewaunee County,,﻿Montpelier,﻿Montpelier,﻿WI,,44.455786,-87.73445051,,,,,,,,,,,,,,1866,﻿,﻿,﻿Milwaukee,Milwaukee
 ﻿lac.wi.0069,﻿station,not recorded,English,,,,﻿La Crosse County,,﻿Broswickvalley,﻿Stoddard,﻿WI,,43.72826278,-91.15108405,,,,,,,,,,,,,,1866,﻿,﻿,﻿Milwaukee,Milwaukee
-﻿lac.wi.0131,﻿station,not recorded,English,,,,﻿La Crosse County,,﻿Chipmunk,,﻿WI,,46.541311,-87.398755,,,,,,,,,,,,,,1866,﻿,﻿,﻿Milwaukee,Milwaukee
-﻿lac.wi.0132,﻿station,not recorded,English,,,,﻿La Crosse County,,﻿Cooley,,﻿WI,,46.541311,-87.398755,,,,,,,,,,,,,,1866,﻿,﻿,﻿Milwaukee,Milwaukee
-﻿lac.wi.0133,﻿station,not recorded,English,,,,﻿La Point County,,﻿Bad River,,﻿WI,,46.541311,-87.398755,,,,,,,,,,,,,,1866,﻿,﻿,﻿Milwaukee,Milwaukee
+﻿lac.wi.0131,﻿station,not recorded,English,,,,﻿La Crosse County,,﻿Chipmunk,,﻿WI,,,,,,,,,,,,,,,,,1866,﻿,﻿,﻿Milwaukee,Milwaukee
+﻿lac.wi.0132,﻿station,not recorded,English,,,,﻿La Crosse County,,﻿Cooley,,﻿WI,,,,,,,,,,,,,,,,,1866,﻿,﻿,﻿Milwaukee,Milwaukee
+﻿lac.wi.0133,﻿station,not recorded,English,,,,﻿La Point County,,﻿Bad River,,﻿WI,,,,,,,,,,,,,,,,,1866,﻿,﻿,﻿Milwaukee,Milwaukee
 ﻿mil.wi.0246,﻿station,not recorded,English,,,,﻿Lafayette County,﻿Lafayette County,﻿Gratiot,﻿Gratiot,﻿WI,,42.5788935,-90.0226244,,,,,,,,,,,,,,1866,﻿,﻿,﻿Milwaukee,Milwaukee
 ﻿mil.wi.0446,﻿station,not recorded,English,,,,﻿Lafayette County,,﻿Wiota,,﻿WI,,,,,,,,,,,,,,,,,1866,﻿,﻿,﻿Milwaukee,Milwaukee
 ﻿mil.wi.0247,﻿station,not recorded,English,,,,﻿Lafayette County,﻿Lafayette County,﻿Yellow Stone,﻿Yellowstone,﻿WI,,42.79833,-89.97028,,,,,,,,,,,,,,1866,﻿,﻿,﻿Milwaukee,Milwaukee
-﻿lac.wi.0134,﻿station,not recorded,English,,,,﻿Marathon County,,﻿Knowlton,,﻿WI,,46.541311,-87.398755,,,,,,,,,,,,,,1866,﻿,﻿,﻿Milwaukee,Milwaukee
-﻿lac.wi.0135,﻿station,not recorded,English,,,,﻿Marathon County,,﻿Mosinee,,﻿WI,,46.541311,-87.398755,,,,,,,,,,,,,,1866,﻿,﻿,﻿Milwaukee,Milwaukee
+﻿lac.wi.0134,﻿station,not recorded,English,,,,﻿Marathon County,,﻿Knowlton,,﻿WI,,,,,,,,,,,,,,,,,1866,﻿,﻿,﻿Milwaukee,Milwaukee
+﻿lac.wi.0135,﻿station,not recorded,English,,,,﻿Marathon County,,﻿Mosinee,,﻿WI,,,,,,,,,,,,,,,,,1866,﻿,﻿,﻿Milwaukee,Milwaukee
 ﻿mil.wi.0447,﻿station,not recorded,English,,,,﻿Marathon County,,﻿Wausau,,﻿WI,,,,,,,,,,,,,,,,,1866,﻿,﻿,﻿Milwaukee,Milwaukee
 ﻿mil.wi.0397,﻿station,not recorded,English,,,,﻿Marquette County,,﻿Kingston,,﻿WI,,44.945918,-93.096646,,,,,,,,,,,,,,1866,﻿,﻿,﻿Milwaukee,Milwaukee
 ﻿mil.wi.0398,﻿station,not recorded,English,,,,﻿Marquette County,,﻿Marquette,,﻿WI,,44.945918,-93.096646,,,,,,,,,,,,,,1866,﻿,﻿,﻿Milwaukee,Milwaukee
-﻿lac.wi.0109,﻿station,not recorded,English,,,,﻿Monroe County,,﻿Sparta,,﻿WI,,46.541311,-87.398755,,,,,,,,,,,,,,1866,﻿,﻿,﻿Milwaukee,Milwaukee
+﻿lac.wi.0109,﻿station,not recorded,English,,,,﻿Monroe County,,﻿Sparta,,﻿WI,,,,,,,,,,,,,,,,,1866,﻿,﻿,﻿Milwaukee,Milwaukee
 ﻿lac.wi.0039,﻿station,not recorded,English,,,,﻿Monroe County,,﻿Tomah,﻿Tomah,﻿WI,,43.9797033,-90.5076337,,,,,,,,,,,,,,1866,﻿,﻿,﻿Milwaukee,Milwaukee
 ﻿lac.wi.0070,﻿station,not recorded,English,,,,﻿Monroe County,,﻿Tunnel City,﻿Tunnel City,﻿WI,,44.00656041,-90.56605055,,,,,,,,,,,,,,1866,﻿,﻿,﻿Milwaukee,Milwaukee
 ﻿gre.wi.0063,﻿station,not recorded,English,,,,﻿Oconto County,,﻿Menomenee,,﻿WI,,44.882285,-88.630926,,,,,,,,,,,,,,1866,﻿,﻿,﻿Milwaukee,Milwaukee
@@ -394,7 +394,7 @@
 ﻿lac.wi.0071,﻿station,not recorded,English,,,,﻿Pepin County,,﻿Bear Creek,﻿Durand,﻿WI,,44.64085914,-91.93567119,,,,,,,,,,,,,,1866,﻿,﻿,﻿Milwaukee,Milwaukee
 ﻿lac.wi.0041,﻿station,not recorded,English,,,,﻿Pepin County,,﻿Durand,﻿Durand,﻿WI,,44.6263543,-91.965726,,,,,,,,,,,,,,1866,﻿,﻿,﻿Milwaukee,Milwaukee
 ﻿lac.wi.0072,﻿station,not recorded,English,,,,﻿Pepin County,,﻿Pepin,﻿Pepin,﻿WI,,44.44299763,-92.1489403,,,,,,,,,,,,,,1866,﻿,﻿,﻿Milwaukee,Milwaukee
-﻿lac.wi.0136,﻿station,not recorded,English,,,,﻿Pierce County,,﻿Martell,,﻿WI,,46.541311,-87.398755,,,,,,,,,,,,,,1866,﻿,﻿,﻿Milwaukee,Milwaukee
+﻿lac.wi.0136,﻿station,not recorded,English,,,,﻿Pierce County,,﻿Martell,,﻿WI,,,,,,,,,,,,,,,,,1866,﻿,﻿,﻿Milwaukee,Milwaukee
 ﻿lac.wi.0044,﻿station,not recorded,English,,,,﻿Pierce County,,﻿Perrytown,,﻿WI,,44.58919428,-92.48567613,,,,,,,,,,,,,,1866,﻿,﻿,﻿Milwaukee,Milwaukee
 ﻿lac.wi.0043,﻿station,not recorded,English,,,,﻿Pierce County,,﻿Prescott,﻿Prescott,﻿WI,,44.7488565,-92.8021471,,,,,,,,,,,,,,1866,﻿,﻿,﻿Milwaukee,Milwaukee
 ﻿mil.wi.0406,﻿station,not recorded,English,,,,﻿Polk County,,﻿Balsom Lake,,﻿WI,,44.945918,-93.096646,,,,,,,,,,,,,,1866,﻿,﻿,﻿Milwaukee,Milwaukee
@@ -409,7 +409,7 @@
 ﻿mil.wi.0248,﻿station,not recorded,English,,,,﻿Racine County,﻿Racine County,﻿Rochester,﻿Rochester,﻿WI,,42.7414058,-88.2242565,,,,,,,,,,,,,,1866,﻿,﻿,﻿Milwaukee,Milwaukee
 ﻿mil.wi.0249,﻿station,not recorded,English,,,,﻿Racine County,﻿Racine County,﻿Yorkville,﻿Yorkville,﻿WI,,42.7419627,-88.0267506,,,,,,,,,,,,,,1866,﻿,﻿,﻿Milwaukee,Milwaukee
 ﻿lac.wi.0045,﻿station,not recorded,English,,,,﻿Richland County,,﻿Richland Centre,﻿Richland Center,﻿WI,,43.3347053,-90.3867928,,,,,,,,,,,,,,1866,﻿,﻿,﻿Milwaukee,Milwaukee
-﻿lac.wi.0137,﻿station,not recorded,English,,,,﻿Richland County,,﻿Har's Creek,,﻿WI,,46.541311,-87.398755,,,,,,,,,,,,,,1866,﻿,﻿,﻿Milwaukee,Milwaukee
+﻿lac.wi.0137,﻿station,not recorded,English,,,,﻿Richland County,,﻿Har's Creek,,﻿WI,,,,,,,,,,,,,,,,,1866,﻿,﻿,﻿Milwaukee,Milwaukee
 ﻿lac.wi.0079,﻿station,not recorded,English,,,,﻿Richland County,,﻿Melanchton Creek,﻿Yuba,﻿WI,,43.51803626,-90.35899805,,,,,,,,,,,,,,1866,﻿,﻿,﻿Milwaukee,Milwaukee
 ﻿lac.wi.0080,﻿station,not recorded,English,,,,﻿Richland County,,﻿Mullandy Creek,,﻿WI,,43.33332748,-90.46645551,,,,,,,,,,,,,,1866,﻿,﻿,﻿Milwaukee,Milwaukee
 ﻿lac.wi.0081,﻿station,not recorded,English,,,,﻿Richland County,,﻿Pine Creek,﻿Richland Center,﻿WI,,43.41008072,-90.57915495,,,,,,,,,,,,,,1866,﻿,﻿,﻿Milwaukee,Milwaukee
@@ -418,15 +418,15 @@
 ﻿mil.wi.0252,﻿station,not recorded,English,,,,﻿Rock County,﻿Rock County,﻿Spring Valley,﻿Spring Valley,﻿WI,,42.6583417,-89.3084495,,,,,,,,,,,,,,1866,﻿,﻿,﻿Milwaukee,Milwaukee
 ﻿mil.wi.0078,﻿station,not recorded,English,,,,﻿Rock County,﻿Rock County,﻿Footville,﻿Footville,﻿WI,,42.6753287,-89.2053097,,,,,,,,,,,,,,1866,﻿,﻿,﻿Milwaukee,Milwaukee
 ﻿mil.wi.0253,﻿station,not recorded,English,,,,﻿Rock County,,﻿Sugar River,﻿Brodhead,﻿WI,,42.636197,-89.386535,,,,,,,,,,,,,,1866,﻿,﻿,﻿Milwaukee,Milwaukee
-﻿lac.wi.0138,﻿station,not recorded,English,,,,﻿Sauk County,,﻿Bear Creek,,﻿WI,,46.541311,-87.398755,,,,,,,,,,,,,,1866,﻿,﻿,﻿Milwaukee,Milwaukee
-﻿lac.wi.0139,﻿station,not recorded,English,,,,﻿Sauk County,,﻿Marble Quarry,,﻿WI,,46.541311,-87.398755,,,,,,,,,,,,,,1866,﻿,﻿,﻿Milwaukee,Milwaukee
-﻿lac.wi.0140,﻿station,not recorded,English,,,,﻿Sauk County,,﻿Sugar Grove,,﻿WI,,46.541311,-87.398755,,,,,,,,,,,,,,1866,﻿,﻿,﻿Milwaukee,Milwaukee
+﻿lac.wi.0138,﻿station,not recorded,English,,,,﻿Sauk County,,﻿Bear Creek,,﻿WI,,,,,,,,,,,,,,,,,1866,﻿,﻿,﻿Milwaukee,Milwaukee
+﻿lac.wi.0139,﻿station,not recorded,English,,,,﻿Sauk County,,﻿Marble Quarry,,﻿WI,,,,,,,,,,,,,,,,,1866,﻿,﻿,﻿Milwaukee,Milwaukee
+﻿lac.wi.0140,﻿station,not recorded,English,,,,﻿Sauk County,,﻿Sugar Grove,,﻿WI,,,,,,,,,,,,,,,,,1866,﻿,﻿,﻿Milwaukee,Milwaukee
 ﻿mil.wi.0185,﻿station,not recorded,English,,,,﻿Sheboygan County,﻿Sheboygan County,﻿Rhine,﻿Rhine,﻿WI,,43.8162539,-88.0072532,,,,,,,,,,,,,,1866,﻿,﻿,﻿Milwaukee,Milwaukee
 ﻿lac.wi.0054,﻿station,not recorded,English,,,,﻿St. Croix County,,﻿Pleasant Valley,﻿Pleasant Valley,﻿WI,,44.91420523,-92.48579584,,,,,,,,,,,,,,1866,﻿,﻿,﻿Milwaukee,Milwaukee
 ﻿lac.wi.0077,﻿station,not recorded,English,,,,﻿St. Croix County,,﻿Bauen's Mills,,﻿WI,,45.0497844,-92.3875695,,,,,,,,,,,,,,1866,﻿,﻿,﻿Milwaukee,Milwaukee
 ﻿lac.wi.0057,﻿station,not recorded,English,,,,﻿Trempeleau County,,﻿Galesville,﻿Galesville,﻿WI,,44.08377532,-91.35846932,,,,,,,,,,,,,,1866,﻿,﻿,﻿Milwaukee,Milwaukee
-﻿lac.wi.0141,﻿station,not recorded,English,,,,﻿Trempeleau County,,﻿Hixton,,﻿WI,,46.541311,-87.398755,,,,,,,,,,,,,,1866,﻿,﻿,﻿Milwaukee,Milwaukee
-﻿lac.wi.0142,﻿station,not recorded,English,,,,﻿Trempeleau County,,﻿Montoville,,﻿WI,,46.541311,-87.398755,,,,,,,,,,,,,,1866,﻿,﻿,﻿Milwaukee,Milwaukee
+﻿lac.wi.0141,﻿station,not recorded,English,,,,﻿Trempeleau County,,﻿Hixton,,﻿WI,,,,,,,,,,,,,,,,,1866,﻿,﻿,﻿Milwaukee,Milwaukee
+﻿lac.wi.0142,﻿station,not recorded,English,,,,﻿Trempeleau County,,﻿Montoville,,﻿WI,,,,,,,,,,,,,,,,,1866,﻿,﻿,﻿Milwaukee,Milwaukee
 ﻿lac.wi.0056,﻿station,not recorded,English,,,,﻿Trempeleau County,,﻿Trempeleau City,﻿Trempealeau City,﻿WI,,44.0135266,-91.4157237,,,,,,,,,,,,,,1866,﻿,﻿,﻿Milwaukee,Milwaukee
 ﻿lac.wi.0078,﻿station,not recorded,English,,,,﻿Vernon County,,﻿Woodland,﻿Forest,﻿WI,,43.67912018,-90.50947674,,,,,,,,,,,,,,1866,﻿,﻿,﻿Milwaukee,Milwaukee
 ﻿mil.wi.0254,﻿station,not recorded,English,,,,﻿Waukesha County,﻿Waukesha County,﻿Delafield,﻿Delafield,﻿WI,,43.0599734,-88.4041759,,,,,,,,,,,,,,1866,﻿,﻿,﻿Milwaukee,Milwaukee
