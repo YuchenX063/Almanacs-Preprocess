@@ -355,8 +355,8 @@
 ﻿chi.il.0280,﻿convent,﻿Convent of the Sisters of St. Francis Assisium,English,,,,,,﻿Naperville,﻿Naperville,﻿IL,,41.74913135,-88.15428839,,,,,,,,,,﻿student,﻿150 pupils,,,1870,﻿,﻿,﻿Chicago,Chicago
 ﻿chi.il.0281,﻿convent,﻿Convent of the Sisters of St. Francis Assisium,English,,,,,,﻿Effingham,﻿Teutopolis,﻿IL,,39.13273335,-88.46989058,,,,,﻿Sister,﻿Mary Theresa,,﻿Superior,,﻿religious,﻿3 professed sisters,,,1870,﻿,﻿,﻿Chicago,Chicago
 ﻿chi.il.0281,﻿convent,﻿Convent of the Sisters of St. Francis Assisium,English,,,,,,﻿Effingham,﻿Teutopolis,﻿IL,,39.13273335,-88.46989058,,,,,,,,,,﻿student,﻿150 pupils,,,1870,﻿,﻿,﻿Chicago,Chicago
-﻿chi.il.0282,﻿school,﻿Cathedral School,English,﻿for girls,,,,,﻿Chicago,﻿Chicago,﻿IL,,41.89600177,-87.62763549,,,,,,,,,,﻿select school,﻿90,﻿Under the Sisters of Charity,,1870,﻿,﻿,﻿Chicago,Chicago
-﻿chi.il.0282,﻿school,﻿Cathedral School,English,﻿for girls,,,,,﻿Chicago,﻿Chicago,﻿IL,,41.89600177,-87.62763549,,,,,,,,,,﻿free,﻿230,﻿Under the Sisters of Charity,,1870,﻿,﻿,﻿Chicago,Chicago
+﻿chi.il.0282,﻿school,﻿Cathedral School,English,﻿for girls,,,,,﻿Chicago,﻿Chicago,﻿IL,,41.89600177,-87.62763549,,,,,,,,,,﻿student,"﻿select school, 90",﻿Under the Sisters of Charity,,1870,﻿,﻿,﻿Chicago,Chicago
+﻿chi.il.0282,﻿school,﻿Cathedral School,English,﻿for girls,,,,,﻿Chicago,﻿Chicago,﻿IL,,41.89600177,-87.62763549,,,,,,,,,,﻿student,"﻿free, 230",﻿Under the Sisters of Charity,,1870,﻿,﻿,﻿Chicago,Chicago
 ﻿chi.il.0283,﻿school,﻿Cathedral School,English,﻿for boys,﻿Corner of Cass and Chicago avenues,,,,﻿Chicago,﻿Chicago,﻿IL,,41.89671205,-87.62555666,,,,,,,,,,,,﻿Under the charge of Christian Brothers,,1870,﻿,﻿,﻿Chicago,Chicago
 ﻿chi.il.0284,﻿school,﻿St. Mary's School,English,﻿for boys,,,,,﻿Chicago,﻿Chicago,﻿IL,,41.9146514,-87.6716945,,,,,,,,,,﻿student,﻿600 pupils,﻿Under Christian Brothers,,1870,﻿,﻿,﻿Chicago,Chicago
 ﻿chi.il.0285,﻿school,﻿St. Mary's School,English,﻿for girls,,,,,﻿Chicago,﻿Chicago,﻿IL,,41.9146514,-87.6716945,,,,,,,,,,﻿student,﻿160 pupils,﻿Under Sisters of Mercy,,1870,﻿,﻿,﻿Chicago,Chicago

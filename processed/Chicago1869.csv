@@ -323,8 +323,8 @@
 ﻿chi.il.362,﻿convent,﻿Sisters of Notre Dame,English,,,,,,﻿Henry,,﻿IL,,,,,,,,,,,,,﻿religious,﻿1 postulant,,,1869,﻿,﻿,﻿Chicago,Chicago
 ﻿chi.il.363,﻿convent,﻿Sisters of Notre Dame,English,,,,,,﻿Kankakee,,,,,,,,,,﻿Sister,﻿Soeur St. Mélanie,,﻿Superior,,﻿religious,﻿3 professed sisters,,,1869,﻿,﻿,﻿Chicago,Chicago
 ﻿chi.il.0006_02,﻿convent,﻿Sisters of St. Dominic,English,﻿at Church of Immaculate Conception,,,,,,,,,,,,,,,,,,,,,,,,1869,﻿,﻿,﻿Chicago,Chicago
-﻿chi.il.0282,﻿school,﻿Cathedral School,English,﻿for girls,,,,,﻿Chicago,﻿La Salle,﻿IL,,﻿41.33869046,-89.09488745,,,,,,,,,,﻿select school,﻿90,﻿Under the Sisters of Charity,,1869,﻿,﻿,﻿Chicago,Chicago
-﻿chi.il.0282,﻿school,﻿Cathedral School,English,﻿for girls,,,,,﻿Chicago,﻿La Salle,﻿IL,,﻿41.33869046,-89.09488745,,,,,,,,,,﻿free,﻿230,﻿Under the Sisters of Charity,,1869,﻿,﻿,﻿Chicago,Chicago
+﻿chi.il.0282,﻿school,﻿Cathedral School,English,﻿for girls,,,,,﻿Chicago,﻿La Salle,﻿IL,,﻿41.33869046,-89.09488745,,,,,,,,,,﻿student,"﻿select school, 90",﻿Under the Sisters of Charity,,1869,﻿,﻿,﻿Chicago,Chicago
+﻿chi.il.0282,﻿school,﻿Cathedral School,English,﻿for girls,,,,,﻿Chicago,﻿La Salle,﻿IL,,﻿41.33869046,-89.09488745,,,,,,,,,,﻿student,"﻿free, 230",﻿Under the Sisters of Charity,,1869,﻿,﻿,﻿Chicago,Chicago
 ﻿chi.il.0008_03,﻿school,﻿Cathedral School,English,﻿for boys,﻿Corner of Cass and Chicago avenues,,,,﻿Chicago,﻿Waukegan,﻿IL,,﻿42.37370147,-87.8451929,,,,,,,,,,,,﻿Under the charge of Christian Brothers,,1869,﻿,﻿,﻿Chicago,Chicago
 ﻿chi.il.0284,﻿school,﻿St. Mary's School,English,﻿for boys,,,,,﻿Chicago,﻿Chicago,﻿IL,,﻿41.90207602,-87.6368849,,,,,,,,,,﻿student,﻿500 pupils,﻿Under Christian Brothers,,1869,﻿,﻿,﻿Chicago,Chicago
 ﻿chi.il.0285,﻿school,﻿St. Mary's School,English,﻿for girls,,,,,﻿Chicago,﻿Chicago,﻿IL,,﻿41.89600177,-87.62763549,,,,,,,,,,﻿student,﻿160 pupils,﻿Under Sisters of Mercy,,1869,﻿,﻿,﻿Chicago,Chicago
@@ -369,9 +369,9 @@
 ﻿chi.il.0324,﻿school,not recorded,English,﻿for boys and girls,﻿Parochial schools,,,,﻿Sterling,,,,,,,,,,,,,,,﻿student,﻿98 pupils,﻿Under lay teachers,,1869,﻿,﻿,﻿Chicago,Chicago
 ﻿chi.il.0325,﻿school,not recorded,English,﻿for boys and girls,﻿Parochial schools,,,,﻿Waukeegan,,,,,,,,,,,,,,,﻿student,﻿280,﻿Under lay teachers,,1869,﻿,﻿,﻿Chicago,Chicago
 ﻿chi.il.0326,﻿asylum,﻿Magdalen Asylum,English,,﻿North Market Street,,,,,,,,,,,,,,﻿Mother,﻿Mary,﻿of the Nativity,﻿Superior,,﻿layperson,﻿63 penitents,﻿Conducted by the Religious of the Good Shepherd,,1869,﻿,﻿,﻿Chicago,Chicago
-﻿chi.il.0326,﻿asylum,﻿Magdalen Asylum,English,,﻿North Market Street,,,,,,,,,,,,,,,,,,,﻿industrial school,﻿12 (students?),﻿Conducted by the Religious of the Good Shepherd,,1869,﻿,﻿,﻿Chicago,Chicago
-﻿chi.il.0327,﻿asylum,﻿St. Mary's and St. Joseph's Orphan Asylum,English,﻿for boys and girls,﻿Corner of North State and Superior streets,,,,,,,,,,,,,,,,,,,﻿number (of penitents?),﻿200,﻿Under the charge of the Sisters of St. Joseph,,1869,﻿,﻿,﻿Chicago,Chicago
-﻿chi.il.0328,﻿asylum,﻿German Orphan Asylum,English,,,,,,﻿Rose Hill,,,,,,,,,,,,,,,﻿number (of penitents?),﻿20,,,1869,﻿,﻿,﻿Chicago,Chicago
+﻿chi.il.0326,﻿asylum,﻿Magdalen Asylum,English,,﻿North Market Street,,,,,,,,,,,,,,,,,,,﻿student,﻿12 industrial school [students],﻿Conducted by the Religious of the Good Shepherd,,1869,﻿,﻿,﻿Chicago,Chicago
+﻿chi.il.0327,﻿asylum,﻿St. Mary's and St. Joseph's Orphan Asylum,English,﻿for boys and girls,﻿Corner of North State and Superior streets,,,,,,,,,,,,,,,,,,,﻿child,"﻿Number, 200",﻿Under the charge of the Sisters of St. Joseph,,1869,﻿,﻿,﻿Chicago,Chicago
+﻿chi.il.0328,﻿asylum,﻿German Orphan Asylum,English,,,,,,﻿Rose Hill,,,,,,,,,,,,,,,﻿child,"﻿Number, 20",,,1869,﻿,﻿,﻿Chicago,Chicago
 ﻿chi.il.0329,"﻿asylum, school",﻿Chicago Reform and Industrial School,English,﻿Chartered by the State Legislature.,,,,,﻿Situated in Bridgeport,,,,,,,,,,,,,,,,,﻿Conducted by the Christian Brothers,,1869,﻿,﻿,﻿Chicago,Chicago
 ﻿chi.il.0330,﻿hospital,﻿Mercy Hospital,English,"﻿New hospital completed. Cost $75,000.",﻿Corner of Calumet avenue and Twenty-sixth street,,,,,,,,,,,,,,﻿Mother,﻿M. Francis de Sales,,﻿Director,,﻿patient,﻿100 patients,﻿Under the charge of the Sisters of Mercy,,1869,﻿,﻿,﻿Chicago,Chicago
 ﻿chi.il.0332,﻿house,﻿House of Providence,English,,﻿Corner of Calumet avenue and Twenty-sixth street,,,,,,,,,,,,,,,,,,,﻿patient,﻿30 inmates,﻿In charge of the Sisters of Mercy,,1869,﻿,﻿,﻿Chicago,Chicago
