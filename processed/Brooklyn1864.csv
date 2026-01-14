@@ -35,7 +35,7 @@
 ﻿bro.ny.0020,﻿church,﻿St. Anne's,English,,﻿corner of Front and Gold streets,,﻿Brooklyn County,,﻿New York City,﻿New York City,﻿NY,,40.700161,-73.982923,,,,﻿bar_gleeson_001,﻿Rev.,﻿Bartholomew Gleeson,,,,,,,,1864,﻿,﻿,﻿Brooklyn,Brooklyn
 ﻿bro.ny.0021,﻿church,﻿Annunciation B. V. M.,﻿German,,﻿corner of N. 5th and 7th streets,,﻿Brooklyn County,,﻿New York City,﻿New York City,﻿NY,,40.669617,-73.983693,,,,,,,,,,,,,,1864,﻿,﻿,﻿Brooklyn,Brooklyn
 ﻿bro.ny.0027,﻿church,﻿B.V. of Mount Carmel,English,,,,﻿Queens County,,﻿Astoria,﻿Astoria,﻿NY,,40.770833,-73.923611,,,,﻿jam_phelan_001,﻿Rev.,﻿James Phelan,,,,,,,,1864,﻿,﻿,﻿Brooklyn,Brooklyn
-﻿bro.ny.0107,﻿church,not recorded,English,,,,﻿Queens County,﻿Suffolk County,﻿Cold Spring,﻿Cold Spring Harbor,﻿NY,,40.690793,-73.951982,,"﻿Attended by Rev. Jeremiah J. Crowley, of Penataquit",,,,,,,,,,,,1864,﻿,﻿,﻿Brooklyn,Brooklyn
+﻿bro.ny.0107,﻿church,not recorded,English,,,,﻿Queens County,﻿Suffolk County,﻿Cold Spring,﻿Cold Spring Harbor,﻿NY,,,,,"﻿Attended by Rev. Jeremiah J. Crowley, of Penataquit",,,,,,,,,,,,1864,﻿,﻿,﻿Brooklyn,Brooklyn
 ﻿bro.ny.0032,﻿church,﻿St. Malachy's,English,,,,,,﻿East New York,﻿East New York,﻿NY,,40.676953,-73.890667,,,,﻿p_creighton_001,﻿Rev.,﻿P. Creighton,,,,,,,,1864,﻿,﻿,﻿Brooklyn,Brooklyn
 ﻿bro.ny.0033,﻿church,﻿St. Michael's,﻿German,,,,,,﻿East New York,﻿East New York,﻿NY,,40.607625,-73.942896,,,,﻿mic_j_decker_002,﻿Rev.,﻿M. J. Decker,,,,,,,,1864,﻿,﻿,﻿Brooklyn,Brooklyn
 ﻿bro.ny.0034,﻿church,﻿Holy Cross,English,,,,﻿Kings County,,﻿Flatbush,﻿Flatbush,﻿NY,,40.650381,-73.953501,,,,﻿f_t_mcloughlin_001,﻿Rev.,﻿F. T. McLoughlin,,,,,,,,1864,﻿,﻿,﻿Brooklyn,Brooklyn
@@ -57,7 +57,7 @@
 ﻿bro.ny.0056,﻿church,﻿St. Michael's,English,,,,﻿,,﻿Smithtown,﻿Smithtown,﻿NY,,40.855505,-73.198247,﻿bro.ny.0042,﻿Attended from Islip,﻿once a month,,,,,,,,,,,1864,﻿,﻿,﻿Brooklyn,Brooklyn
 ﻿bro.ny.0057,﻿church,not recorded,English,,,,﻿Suffolk County,,﻿Southold,﻿Southold,﻿NY,,41.064822,-72.426196,﻿bro.ny.0054,﻿Attended from Sag Harbor,﻿once a month,,,,,,,,,,,1864,﻿,﻿,﻿Brooklyn,Brooklyn
 ﻿bro.ny.0058,﻿station,not recorded,English,,,,﻿,,﻿Southampton,﻿Southampton,﻿NY,,40.884267,-72.38953,﻿bro.ny.0054,﻿Attended occasionally from Sag Harbor,﻿occasionally,,,,,,,,,,,1864,﻿,﻿,﻿Brooklyn,Brooklyn
-﻿bro.ny.0103,﻿station,not recorded,English,,,,,,﻿Hermitage,,﻿NY,,40.690793,-73.951982,﻿bro.ny.0054,﻿Attended occasionally from Sag Harbor,﻿occasionally,,,,,,,,,,,1864,﻿,﻿,﻿Brooklyn,Brooklyn
+﻿bro.ny.0103,﻿station,not recorded,English,,,,,,﻿Hermitage,,﻿NY,,,,﻿bro.ny.0054,﻿Attended occasionally from Sag Harbor,﻿occasionally,,,,,,,,,,,1864,﻿,﻿,﻿Brooklyn,Brooklyn
 ﻿bro.ny.0059,﻿station,not recorded,English,,,,﻿,,﻿Cutchogue,﻿Cutchogue,﻿NY,,41.010656,-72.485086,﻿bro.ny.0054,﻿Attended occasionally from Sag Harbor,﻿occasionally,,,,,,,,,,,1864,﻿,﻿,﻿Brooklyn,Brooklyn
 ﻿bro.ny.0060,﻿station,not recorded,English,,,,﻿,,﻿Mattatuck,﻿Mattituck,﻿NY,,40.991212,-72.534255,﻿bro.ny.0054,﻿Attended occasionally from Sag Harbor,﻿occasionally,,,,,,,,,,,1864,﻿,﻿,﻿Brooklyn,Brooklyn
 ﻿bro.ny.0029,﻿church,﻿St. Fidelis,English,,,,﻿,,﻿Strattonport,,﻿NY,,40.785139,-73.844594,,,,﻿jos_huber_001,﻿Rev.,﻿Joseph Huber,,,,,,,,1864,﻿,﻿,﻿Brooklyn,Brooklyn
@@ -82,7 +82,7 @@
 ﻿bro.ny.0073_03,"﻿convent, school",﻿Convent and Boarding School of the Sisters of St. Joseph,English,,,,﻿Queens County,,﻿Flushing,,﻿NY,,40.764724,-73.830672,,,,,,,,,,﻿student,﻿32 pupils,﻿Sisters of St. Joseph,,1864,﻿,﻿,﻿Brooklyn,Brooklyn
 ﻿bro.ny.0070,﻿academy,﻿St. Mary's Academy for Young Ladies,English,﻿under the charge of the Sisters of St. Joseph,"﻿Grand street, near Graham avenue",,,,﻿Brooklyn,,﻿NY,,40.715653,-73.985078,,,,,,,,,,﻿student,﻿60 pupils,﻿Sisters of St. Joseph,,1864,﻿,﻿,﻿Brooklyn,Brooklyn
 ﻿bro.ny.0071,﻿academy,﻿St. Joseph's Academy for Young Ladies,English,﻿under the charge of the Sisters of St. Joseph,"﻿34 South-Third street, E.D.",,,,﻿Brooklyn,,﻿NY,,40.713701,-73.966822,,,,,,,,,,﻿student,﻿120 pupils,﻿Sisters of St. Joseph,,1864,﻿,﻿,﻿Brooklyn,Brooklyn
-﻿bro.ny.0116,﻿asylum,﻿Male Orphan Asylum,English,﻿temporary,﻿corner of Jay and Chapel streets,,,,﻿Brooklyn,,﻿NY,,40.690793,-73.951982,,,,,,,,,,,,,,1864,﻿,﻿,﻿Brooklyn,Brooklyn
+﻿bro.ny.0116,﻿asylum,﻿Male Orphan Asylum,English,﻿temporary,﻿corner of Jay and Chapel streets,,,,﻿Brooklyn,,﻿NY,,,,,,,,,,,,,,,,,1864,﻿,﻿,﻿Brooklyn,Brooklyn
 ﻿bro.ny.0079,﻿asylum,﻿Female Orphan Asylum,English,﻿under charge of the Sisters of Charity,﻿corner of Clinton and Congress streets,,,,﻿Brooklyn,,﻿NY,,40.688742,-73.997078,,,,,﻿Sister,﻿Constantia,,﻿Sr.-Servant,,﻿child,﻿484 girls,﻿Sisters of Charity,,1864,﻿,﻿,﻿Brooklyn,Brooklyn
 ﻿bro.ny.0079_02,﻿school,﻿Industrial School,English,﻿80 girls are steadily employed,﻿attached to the Female Orphan Asylum,,,,,﻿Brooklyn,,,40.688742,-73.997078,,,,,,,,,,,,﻿Sisters of Charity,,1864,﻿,﻿,﻿Brooklyn,Brooklyn
 ﻿bro.ny.0082,"﻿academy, monastery",﻿Monastery and Academy of the Brothers of the Third Order of St. Francis,English,,﻿22 East Baltic street,,,,﻿Brooklyn,,﻿NY,,40.688259,-74.001004,,,,,﻿Brother,﻿Paul,,﻿Superior,,﻿religious,﻿10 professed,﻿Brothers of the Third Order of St. Francis,,1864,﻿,﻿,﻿Brooklyn,Brooklyn
@@ -112,6 +112,6 @@
 ﻿bro.ny.0017_02,﻿school,﻿Our Lady of Mercy,English,﻿parish school; boys under Brothers of St. Francis,,,,,﻿New York City,,﻿NY,,40.701648,-73.942261,,,,,,,,,,﻿child,﻿200 girls,﻿Brothers of St. Francis,,1864,﻿,﻿,﻿Brooklyn,Brooklyn
 ﻿bro.ny.0035_02,﻿school,﻿St. Michael's,English,﻿under Sisters of St. Joseph,,,,,﻿Flushing,,﻿NY,,40.758432,-73.827502,,,,,,,,,,﻿child,﻿150 boys,﻿Sisters of St. Joseph,,1864,﻿,﻿,﻿Brooklyn,Brooklyn
 ﻿bro.ny.0035_02,﻿school,﻿St. Michael's,English,﻿under Sisters of St. Joseph,,,,,﻿Flushing,,﻿NY,,40.758432,-73.827502,,,,,,,,,,﻿child,﻿200 girls,﻿Sisters of St. Joseph,,1864,﻿,﻿,﻿Brooklyn,Brooklyn
-﻿bro.ny.0113,﻿school,not recorded,English,,,,,,﻿Winfield,,﻿NY,,40.690793,-73.951982,,,,,,,,,,﻿child,"﻿200 children at Winfield, Laurel Hill and Blissville",,,1864,﻿,﻿,﻿Brooklyn,Brooklyn
-﻿bro.ny.0114,﻿school,not recorded,English,,,,,,﻿Laurel Hill,,﻿NY,,40.690793,-73.951982,,,,,,,,,,﻿child,"﻿200 children at Winfield, Laurel Hill and Blissville",,,1864,﻿,﻿,﻿Brooklyn,Brooklyn
-﻿bro.ny.0115,﻿school,not recorded,English,,,,,,﻿Blissville,,﻿NY,,40.690793,-73.951982,,,,,,,,,,﻿child,"﻿200 children at Winfield, Laurel Hill and Blissville",,,1864,﻿,﻿,﻿Brooklyn,Brooklyn
+﻿bro.ny.0113,﻿school,not recorded,English,,,,,,﻿Winfield,,﻿NY,,,,,,,,,,,,,﻿child,"﻿200 children at Winfield, Laurel Hill and Blissville",,,1864,﻿,﻿,﻿Brooklyn,Brooklyn
+﻿bro.ny.0114,﻿school,not recorded,English,,,,,,﻿Laurel Hill,,﻿NY,,,,,,,,,,,,,﻿child,"﻿200 children at Winfield, Laurel Hill and Blissville",,,1864,﻿,﻿,﻿Brooklyn,Brooklyn
+﻿bro.ny.0115,﻿school,not recorded,English,,,,,,﻿Blissville,,﻿NY,,,,,,,,,,,,,﻿child,"﻿200 children at Winfield, Laurel Hill and Blissville",,,1864,﻿,﻿,﻿Brooklyn,Brooklyn

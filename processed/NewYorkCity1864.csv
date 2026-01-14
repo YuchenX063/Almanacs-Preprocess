@@ -78,7 +78,7 @@
 ﻿nyc.ny.0061_07.01,﻿chapel,not recorded,English,,"﻿St. Vincent's Hospital, 175 West Eleventh street",,,,﻿New York City,,﻿NY,,40.736681,-74.0008946,﻿nyc.ny.0060_02,﻿Attended from St. Francis Xavier's College,,,,,,,,,,,,1864,﻿,﻿,﻿New York,NewYorkCity
 ﻿nyc.ny.0001_02,﻿chapel,not recorded,English,﻿under the Sisters of Charity,﻿Central Park Hospital of St. Joseph,,,,﻿New York City,,﻿NY,,,,,,,﻿edw_mcglynn_001,﻿Rev.,﻿E. McGlynn,﻿D.D.,,,,,,,1864,﻿,﻿,﻿New York,NewYorkCity
 ﻿nyc.ny.0117,﻿church,﻿St. Denis',English,,,,﻿Dutchess County,,﻿Beekman,,﻿NY,,41.5976894,-73.7480072,﻿nyc.ny.0120,"﻿Attended by Rev. D. Sheehan, of Channingsville",,,,,,,,,,,,1864,﻿,﻿,﻿New York,NewYorkCity
-﻿nyc.ny.0008,﻿church,﻿St. Thomas',English,,,,﻿Orange County,,﻿Buttermilk Falls,,﻿NY,,40.723512,-73.995189,﻿nyc.ny.0123,﻿Attended by Rev. F. Caro,,,,,,,,,,,,1864,﻿,﻿,﻿New York,NewYorkCity
+﻿nyc.ny.0008,﻿church,﻿St. Thomas',English,,,,﻿Orange County,,﻿Buttermilk Falls,,﻿NY,,,,﻿nyc.ny.0123,﻿Attended by Rev. F. Caro,,,,,,,,,,,,1864,﻿,﻿,﻿New York,NewYorkCity
 ﻿nyc.ny.0366,﻿church,not recorded,English,,,,﻿Sullivan County,,﻿Callicoon,,﻿NY,,,,,﻿Attended by Rev. J. Raufeisen,,,,,,,,,,,,1864,﻿,﻿,﻿New York,NewYorkCity
 ﻿nyc.ny.0120,﻿church,﻿St. Mary's,English,,,,﻿Dutchess County,,﻿Channingsville,,﻿NY,,41.604152,-73.9232605,,,,﻿den_sheehan_001,﻿Rev.,﻿Denis Shehan,,,,,,,,1864,﻿,﻿,﻿New York,NewYorkCity
 ﻿nyc.ny.0121,﻿church,﻿St. Mary's,English,,﻿Staten Island,,﻿Richmond County,,﻿Clifton,,﻿NY,,40.6140881,-74.0724636,,,,﻿joh_lewis_001,﻿Rev.,﻿John Lewis,,,,,,,,1864,﻿,﻿,﻿New York,NewYorkCity
@@ -88,9 +88,9 @@
 ﻿nyc.ny.0128,﻿church,not recorded,English,,,,﻿Dutchess County,,﻿Dover Plains,,﻿NY,,41.7411,-73.57539,﻿nyc.ny.0126,"﻿Attended by Rev. C. Slevin, of Croton Falls",,,,,,,,,,,,1864,﻿,﻿,﻿New York,NewYorkCity
 ﻿nyc.ny.0130,﻿church,not recorded,English,﻿church not dedicated,,,﻿Ulster County,,﻿Ellenville,,﻿NY,,41.7170379,-74.3957099,,,,﻿dan_mugan_001,﻿Rev.,﻿Daniel Mugan,,,"﻿attends Bridgeville, Fallsborough, Mongaup Valley, Forrestburg, Liberty, Neversink, Claraville, Grahamville, Monticello, Parksville, and Lacaway",,,,,1864,﻿,﻿,﻿New York,NewYorkCity
 ﻿nyc.ny.0134,﻿church,not recorded,English,,﻿Matteawan,,﻿Dutchess County,,﻿Fishkill,,﻿NY,,41.5356492,-73.8990252,,,,﻿jam_coyle_001,﻿Rev.,﻿J. Coyle,,,,,,,,1864,﻿,﻿,﻿New York,NewYorkCity
-﻿nyc.ny.0009,﻿church,not recorded,English,,,,﻿Ulster County,,﻿Flag Quarries,,﻿NY,,40.723512,-73.995189,﻿nyc.ny.0180,﻿Attended from Rondout,,,,,,,,,,,,1864,﻿,﻿,﻿New York,NewYorkCity
+﻿nyc.ny.0009,﻿church,not recorded,English,,,,﻿Ulster County,,﻿Flag Quarries,,﻿NY,,,,﻿nyc.ny.0180,﻿Attended from Rondout,,,,,,,,,,,,1864,﻿,﻿,﻿New York,NewYorkCity
 ﻿nyc.ny.0135,﻿church,﻿Church of Our Lady,English,,,,﻿Westchester County,,﻿Fordham,,﻿NY,,41.0031621,-73.6695159,,,,﻿p_mcquade_001,﻿Rev.,﻿P. McQuade,﻿S.J.,,,,,,,1864,﻿,﻿,﻿New York,NewYorkCity
-﻿nyc.ny.0010,﻿church,﻿St. Francis de Sales,English,,﻿French Settlement,,﻿Delaware County,,,,﻿NY,,40.723512,-73.995189,﻿nyc.ny.0166,"﻿Attended by Rev. Joseph Roesch, of Obernburgh",,,,,,,,,,,,1864,﻿,﻿,﻿New York,NewYorkCity
+﻿nyc.ny.0010,﻿church,﻿St. Francis de Sales,English,,﻿French Settlement,,﻿Delaware County,,,,﻿NY,,,,﻿nyc.ny.0166,"﻿Attended by Rev. Joseph Roesch, of Obernburgh",,,,,,,,,,,,1864,﻿,﻿,﻿New York,NewYorkCity
 ﻿nyc.ny.0137,﻿church,﻿St. John's,English,,,,﻿Orange County,,﻿Goshen,,﻿NY,,41.4047421,-74.3231447,,,,﻿ben_j_ocallaghan_001,﻿Rev.,﻿B. O'Callaghan,,,,,,,,1864,﻿,﻿,﻿New York,NewYorkCity
 ﻿nyc.ny.0138,﻿church,not recorded,English,,,,﻿Orange County,,﻿Green Woods,,﻿NY,,41.4178628,-74.5600996,﻿nyc.ny.0170,"﻿Attended by Rev. John Quinn, of Piermont",,,,,,,,,,,,1864,﻿,﻿,﻿New York,NewYorkCity
 ﻿nyc.ny.0139,﻿church,﻿St. Matthew's,English,,,,﻿Westchester County,,﻿Hastings,,﻿NY,,41.0161901,-73.8346217,,,,﻿dan_oconnor_003,﻿Rev.,﻿D. O'Conner,,,,,,,,1864,﻿,﻿,﻿New York,NewYorkCity

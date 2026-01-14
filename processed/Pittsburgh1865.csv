@@ -67,11 +67,11 @@
 ﻿pit.pa.0058,﻿church,﻿St. John Gualbert's,English,,,,﻿Cambria County,,﻿Johnstown,﻿Johnstown,﻿PA,,40.32528,-78.915362,,,,﻿p_m_garvey_001,﻿Rev.,﻿P. M. Garvey,,﻿Rector,,,,,,1865,﻿,﻿,﻿Pittsburgh,Pittsburgh
 ﻿pit.pa.0059,﻿church,"﻿St. Joseph's, Immaculate Conception",﻿German,,,,﻿Cambria County,,﻿Johnstown,﻿Johnstown,﻿PA,,40.295565,-78.874443,,,,﻿val_lobmeyer_001,﻿Rev.,﻿Valentine Lobmayer,﻿O.S.B.,,,,,,,1865,﻿,﻿,﻿Pittsburgh,Pittsburgh
 ﻿pit.pa.0059,﻿church,"﻿St. Joseph's, Immaculate Conception",﻿German,,,,﻿Cambria County,,﻿Johnstown,﻿Johnstown,﻿PA,,40.295565,-78.874443,,,,﻿erh_vanino_002,﻿Rev.,﻿Erhard Vanino,,,,,,,,1865,﻿,﻿,﻿Pittsburgh,Pittsburgh
-﻿pit.pa.0157,﻿church,not recorded,English,,,,﻿Allegheny County,,﻿Kilbuck,,﻿PA,,41.408969,-75.662412,﻿pit.pa.0009,"﻿attended from St. Mary's, Allegheny",,,,,,,,,,,,1865,﻿,﻿,﻿Pittsburgh,Pittsburgh
+﻿pit.pa.0157,﻿church,not recorded,English,,,,﻿Allegheny County,,﻿Kilbuck,,﻿PA,,,,﻿pit.pa.0009,"﻿attended from St. Mary's, Allegheny",,,,,,,,,,,,1865,﻿,﻿,﻿Pittsburgh,Pittsburgh
 ﻿pit.pa.0060,﻿church,﻿St. Mary's,English,,,,﻿Armstrong County,,﻿Kittaning,﻿Kittanning,﻿PA,,40.827281,-79.544207,,,,﻿joh_scanlon_001,﻿Rev.,﻿J. Scanlon,,,,,,,,1865,﻿,﻿,﻿Pittsburgh,Pittsburgh
 ﻿pit.pa.0062,﻿church,﻿Holy Family,English,,,,﻿Westmoreland County,,﻿Latrobe,﻿Latrobe,﻿PA,,40.31464,-79.381807,,,,﻿jer_kearney_001,﻿Rev.,﻿Jerome Kearney,,,,,,,,1865,﻿,﻿,﻿Pittsburgh,Pittsburgh
 ﻿pit.pa.0063,﻿church,﻿St. Mary's,English,,,,﻿Allegheny County,,﻿Lawrenceville,﻿Lawrenceville,﻿PA,,40.469897,-79.955759,,,,﻿a_p_gibbs_001,﻿Rev.,﻿A. P. Gibbs,,,,,,,,1865,﻿,﻿,﻿Pittsburgh,Pittsburgh
-﻿pit.pa.0065,﻿church,not recorded,﻿German,﻿being built,,,﻿Allegheny County,,﻿Lawrenceville,,﻿PA,,40.265602,-79.124455,,,,﻿j_tamchina_001,﻿Rev.,﻿J. Tamchina,,,,,,,,1865,﻿,﻿,﻿Pittsburgh,Pittsburgh
+﻿pit.pa.0065,﻿church,not recorded,﻿German,﻿being built,,,﻿Allegheny County,,﻿Lawrenceville,,﻿PA,,,,,,,﻿j_tamchina_001,﻿Rev.,﻿J. Tamchina,,,,,,,,1865,﻿,﻿,﻿Pittsburgh,Pittsburgh
 ﻿pit.pa.0066,﻿church,﻿Most Holy Trinity,English,,,,﻿Westmoreland County,,﻿Ligonier,﻿Loretto,﻿PA,,40.265602,-79.124455,﻿pit.pa.0108,﻿attended from St. Vincent's Abbey,,,,,,,,,,,,1865,﻿,﻿,﻿Pittsburgh,Pittsburgh
 ﻿pit.pa.0067,﻿church,﻿St. Mary's,English,,,,﻿Cambria County,,﻿Loretto,,﻿PA,,40.504883,-78.633276,,,,﻿t_s_reynolds_001,﻿Rev.,﻿T. S. Reynolds,,﻿Rector,,,,,,1865,﻿,﻿,﻿Pittsburgh,Pittsburgh
 ﻿pit.pa.0067,﻿church,﻿St. Mary's,English,,,,﻿Cambria County,,﻿Loretto,,﻿PA,,40.504883,-78.633276,,,,﻿p_morgan_001,﻿Rev.,﻿P. Morgan,,﻿Assistant,,,,,,1865,﻿,﻿,﻿Pittsburgh,Pittsburgh
@@ -95,20 +95,20 @@
 ﻿pit.pa.0090,﻿church,﻿St. Joseph's,English,,,,﻿Allegheny County,,﻿Sharpsburgh,﻿Sharpsburgh,﻿PA,,,,,,,﻿w_nolan_001,﻿Rev.,﻿W. Nolan,,,,,,,,1865,﻿,﻿,﻿Pittsburgh,Pittsburgh
 ﻿pit.pa.0091,﻿church,﻿St. Mary's,﻿German,,,,﻿Allegheny County,,﻿Sharpsburgh,﻿Sharpsburgh,﻿PA,,40.494513,-79.92644,﻿pit.pa.0003,"﻿attended from St. Philomena's, Pittsburgh",,,,,,,,,,,,1865,﻿,﻿,﻿Pittsburgh,Pittsburgh
 ﻿pit.pa.0092,﻿church,﻿St. Patrick's,English,,"﻿(Adams P.O.,)",,﻿Armstrong County,,﻿Sugar Creek,﻿Sugar Creek Township,﻿PA,,40.505085,-79.936356,,,,﻿j_cody_001,﻿Rev.,﻿J. Cody,,﻿Rector,,,,,,1865,﻿,﻿,﻿Pittsburgh,Pittsburgh
-﻿pit.pa.0164,﻿church,﻿Immaculate Conception,English,,,,﻿Cambria County,,﻿Summerhill,﻿Summerhill,﻿PA,,41.408969,-75.662412,﻿pit.pa.0030,﻿Benedictines from Carrolltown,,,,,,,,,,,,1865,﻿,﻿,﻿Pittsburgh,Pittsburgh
+﻿pit.pa.0164,﻿church,﻿Immaculate Conception,English,,,,﻿Cambria County,,﻿Summerhill,﻿Summerhill,﻿PA,,,,﻿pit.pa.0030,﻿Benedictines from Carrolltown,,,,,,,,,,,,1865,﻿,﻿,﻿Pittsburgh,Pittsburgh
 ﻿pit.pa.0095,﻿church,﻿St. Aloysius',English,,,,﻿Cambria County,,﻿Summit,﻿Cresson,﻿PA,,40.457305,-78.575768,,,,﻿t_ryan_001,﻿Rev.,﻿T. Ryan,,﻿Rector,,,,,,1865,﻿,﻿,﻿Pittsburgh,Pittsburgh
 ﻿pit.pa.0096,﻿church,not recorded,English,,,,﻿Allegheny County,,﻿Tara Hill,﻿West End Village,﻿PA,,40.38951,-79.87532,,,,﻿w_nolan_001,﻿Rev.,﻿W. Nolan,,,,,,,,1865,﻿,﻿,﻿Pittsburgh,Pittsburgh
 ﻿pit.pa.0097,﻿church,﻿St. James',English,,,,﻿Allegheny County,,﻿Temperanceville,﻿Tyrone,﻿PA,,,,,,,﻿m_carroll_001,﻿Rev.,﻿M. Carroll,,,,,,,,1865,﻿,﻿,﻿Pittsburgh,Pittsburgh
 ﻿pit.pa.0155,﻿church,﻿St. Matthew's,English,,,,﻿Blair County,,﻿Tyrone,,﻿PA,,40.657222,-79.828611,,,,﻿j_c_farran_001,﻿Rev.,﻿J. C. Farran,,,,,,,,1865,﻿,﻿,﻿Pittsburgh,Pittsburgh
 ﻿pit.pa.0098,﻿church,﻿St. John's,English,,,,﻿Fayette County,,﻿Uniontown,﻿Uniontown,﻿PA,,40.673393,-78.242513,﻿pit.pa.0026,﻿attended from Brownville,,,,,,,,,,,,1865,﻿,﻿,﻿Pittsburgh,Pittsburgh
-﻿pit.pa.0158,﻿church,not recorded,English,,,,﻿Washington County,,﻿Upper Columbia,,﻿PA,,41.408969,-75.662412,﻿pit.pa.0043,"﻿attended by Rev. D. Kearney, Elizabeth",,,,,,,,,,,,1865,﻿,﻿,﻿Pittsburgh,Pittsburgh
+﻿pit.pa.0158,﻿church,not recorded,English,,,,﻿Washington County,,﻿Upper Columbia,,﻿PA,,,,﻿pit.pa.0043,"﻿attended by Rev. D. Kearney, Elizabeth",,,,,,,,,,,,1865,﻿,﻿,﻿Pittsburgh,Pittsburgh
 ﻿pit.pa.0100,﻿church,﻿Immaculate Conception,English,,,,﻿Washington County,,﻿Washington,﻿Washington,﻿PA,,40.506649,-79.835427,,,,﻿jas_tahaney_001,﻿Rev.,﻿J. Tahaney,,,,,,,,1865,﻿,﻿,﻿Pittsburgh,Pittsburgh
 ﻿pit.pa.0101,﻿church,﻿St. Anne's,English,,,,﻿Green County,,﻿Waynesburgh,﻿Waynesburg,﻿PA,,40.17396,-80.246171,﻿pit.pa.0100,﻿attended from Washington,,,,,,,,,,,,1865,﻿,﻿,﻿Pittsburgh,Pittsburgh
 ﻿pit.pa.0102,﻿church,﻿St. James',English,,,,﻿Washington County,,﻿West-Alexander,﻿West Alexander,﻿PA,,39.896144,-80.183639,﻿pit.pa.0100,﻿attended from Washington,,,,,,,,,,,,1865,﻿,﻿,﻿Pittsburgh,Pittsburgh
 ﻿pit.pa.0103,﻿church,﻿St. Alphonsus',English,,,,﻿Allegheny County,,﻿Wexford,﻿Wexford,﻿PA,,40.105073,-80.507847,,,,﻿j_m_brandstaetter_001,﻿Rev.,﻿J. M. Brandstaetter,,,,,,,,1865,﻿,﻿,﻿Pittsburgh,Pittsburgh
 ﻿pit.pa.0104,﻿church,﻿St. Bridget's,English,,,,﻿Somerset County,,﻿Wellesburgh,﻿Wellersburgh,﻿PA,,40.627496,-80.057241,,,,﻿p_brown_001,﻿Rev.,﻿P. Brown,,,"﻿Frostburgh, Md.",,,,,1865,﻿,﻿,﻿Pittsburgh,Pittsburgh
 ﻿pit.pa.0105,﻿church,﻿Immaculate Conception,English,,,,﻿Blair County,,﻿Williamsburgh,﻿Williamsburgh,﻿PA,,39.729731,-78.848499,,,,﻿joh_walsh_003,﻿Rev.,﻿J. Walsh,,,﻿Hollidaysburgh,,,,,1865,﻿,﻿,﻿Pittsburgh,Pittsburgh
-﻿pit.pa.0159,﻿church,not recorded,English,,,,﻿Washington County,,﻿Williamsport,,﻿PA,,41.408969,-75.662412,﻿pit.pa.0026,﻿attended from Brownsville,,,,,,,,,,,,1865,﻿,﻿,﻿Pittsburgh,Pittsburgh
+﻿pit.pa.0159,﻿church,not recorded,English,,,,﻿Washington County,,﻿Williamsport,,﻿PA,,,,﻿pit.pa.0026,﻿attended from Brownsville,,,,,,,,,,,,1865,﻿,﻿,﻿Pittsburgh,Pittsburgh
 ﻿pit.pa.0106,﻿church,not recorded,English,,,,﻿Westmoreland County,,﻿Youngstown,﻿Youngstown,﻿PA,,40.462017,-78.199732,,,,﻿bon_wimmer_001,﻿Right Rev.,﻿Boniface Wimmer,﻿O.S.B.,,,,,,,1865,﻿,﻿,﻿Pittsburgh,Pittsburgh
 ﻿pit.pa.0107,﻿seminary,﻿St. Michael's Theological and Preparatory Seminary,English,,"﻿near Pittsburgh, (Pittsburgh P.O.)",,,,﻿Glenwood,﻿Pittsburgh,﻿PA,,40.534825,-78.357685,,,,﻿jam_keogh_001,﻿Rev.,﻿James Keogh,﻿D.D.,﻿President,,,,,,1865,﻿,﻿,﻿Pittsburgh,Pittsburgh
 ﻿pit.pa.0107,﻿seminary,﻿St. Michael's Theological and Preparatory Seminary,English,,"﻿near Pittsburgh, (Pittsburgh P.O.)",,,,﻿Glenwood,﻿Pittsburgh,﻿PA,,40.534825,-78.357685,,,,﻿c_neeson_001,﻿Rev.,﻿C. Nisson,,﻿Professor,,,,,,1865,﻿,﻿,﻿Pittsburgh,Pittsburgh
@@ -120,7 +120,7 @@
 ﻿pit.pa.0122_03,﻿college,﻿St. Francis' College,English,﻿for Boys,,,,﻿Cambria County,,﻿Loretto,﻿PA,,40.292744,-79.401526,,,,﻿f_shea_001,﻿Rev.,﻿F. Shea,,,,,,,,1865,﻿,﻿,﻿Pittsburgh,Pittsburgh
 ﻿pit.pa.0123_02,﻿academy,﻿St. Xavier's Academy,English,﻿for Young Ladies,"﻿near Latrobe, (St. Vincent's P.O.)",,﻿Westmoreland County,,,,﻿PA,,,,,,,,﻿Sr.,﻿M. Liguori McCaffrey,,﻿Directress,,,,﻿conducted by the Sisters of Mercy,,1865,﻿,﻿,﻿Pittsburgh,Pittsburgh
 ﻿pit.pa.0095_02,﻿academy,﻿St. Aloysius' Academy,English,﻿for Young Ladies,,,﻿Cambria County,,﻿Loretto,﻿Loretto,﻿PA,,40.457305,-78.575768,,,,,﻿Sr.,﻿M. Agnes McCaffrey,,﻿Directress,,,,,,1865,﻿,﻿,﻿Pittsburgh,Pittsburgh
-﻿pit.pa.0156,﻿asylum,﻿St. Paul's R. C. Orphan Asylum,English,﻿for small Boys,"﻿near Birmingham, (Buchanan P.O.)",,,,,,﻿PA,,41.408969,-75.662412,,,,,﻿Sr.,﻿M. Gertrude Blake,,﻿Superior,,﻿child,﻿40 orphans,﻿under the care of the Sisters of Mercy,,1865,﻿,﻿,﻿Pittsburgh,Pittsburgh
+﻿pit.pa.0156,﻿asylum,﻿St. Paul's R. C. Orphan Asylum,English,﻿for small Boys,"﻿near Birmingham, (Buchanan P.O.)",,,,,,﻿PA,,,,,,,,﻿Sr.,﻿M. Gertrude Blake,,﻿Superior,,﻿child,﻿40 orphans,﻿under the care of the Sisters of Mercy,,1865,﻿,﻿,﻿Pittsburgh,Pittsburgh
 ﻿pit.pa.0124_02,﻿asylum,﻿St. Paul's R. C. Orphan Asylum,English,﻿for Girls,"﻿attached to St. Mary's Convent, Webster street",,,,﻿Pittsburgh,,﻿PA,,40.440911,-79.993964,,,,,﻿Sr.,﻿M. Cephas Lennon,,﻿Treasurer,,﻿child,﻿70 orphans,,,1865,﻿,﻿,﻿Pittsburgh,Pittsburgh
 ﻿pit.pa.0011_02,﻿asylum,﻿St. Joseph's Orphan Asylum,﻿German,,"﻿Troy Hill, near Allegheny City",,,,,,﻿PA,,40.460278,-79.986101,,,,,﻿Sr.,﻿M. Magdalen,,﻿Superior,,﻿child,﻿60 orphans,﻿Directed by the School Sisters of Notre Dame,,1865,﻿,﻿,﻿Pittsburgh,Pittsburgh
 ﻿pit.pa.0115,﻿hospital,﻿The Mercy Hospital,English,,,,,,﻿Pittsburgh,,﻿PA,,40.460278,-79.986101,,,,,﻿Sr.,﻿M. de Pazzi Russell,,﻿Superior,,﻿patient,﻿About 30 patients per week,﻿under the care of the Sisters of Mercy,,1865,﻿,﻿,﻿Pittsburgh,Pittsburgh
@@ -159,7 +159,7 @@
 ﻿pit.pa.0122,﻿monastery,﻿St. Francis' Monastery,English,﻿Principal House,,,﻿Cambria County,,﻿Loretto,,﻿PA,,40.292744,-79.401526,,,,﻿m_j_mitchell_001,﻿Rev.,﻿M. J. Mitchell,,﻿Ecclesiastical Superior,,﻿religious,﻿eighteen professed brothers,﻿Brothers of the Third Order of St. Francis.,,1865,﻿,﻿,﻿Pittsburgh,Pittsburgh
 ﻿pit.pa.0122,﻿monastery,﻿St. Francis' Monastery,English,﻿Principal House,,,﻿Cambria County,,﻿Loretto,,﻿PA,,40.292744,-79.401526,,,,,﻿Brother,﻿Laurence O'Donnell,,﻿Superior of the Order,,﻿religious,﻿three novices,﻿Brothers of the Third Order of St. Francis.,,1865,﻿,﻿,﻿Pittsburgh,Pittsburgh
 ﻿pit.pa.0029_02,﻿monastery,not recorded,English,,,,﻿Indiana County,,﻿Cameron's Bottom,,﻿PA,,40.594647,-78.915857,,,,,﻿Brother,﻿Giles Carroll,,﻿Superior,,﻿religious,﻿six professed brothers,﻿Brothers of the Third Order of St. Francis.,,1865,﻿,﻿,﻿Pittsburgh,Pittsburgh
-﻿pit.pa.0162,﻿house,not recorded,English,,,,,,﻿Pittsburgh,,﻿PA,,41.408969,-75.662412,,,,,﻿Brother,﻿Bernardine Rogers,,,,﻿religious,﻿eight professed brothers,﻿Brothers of the Third Order of St. Francis.,,1865,﻿,﻿,﻿Pittsburgh,Pittsburgh
+﻿pit.pa.0162,﻿house,not recorded,English,,,,,,﻿Pittsburgh,,﻿PA,,,,,,,,﻿Brother,﻿Bernardine Rogers,,,,﻿religious,﻿eight professed brothers,﻿Brothers of the Third Order of St. Francis.,,1865,﻿,﻿,﻿Pittsburgh,Pittsburgh
 ﻿pit.pa.0123,﻿convent,﻿St. Xavier's,English,﻿Mother House,"﻿near Latrobe, (St. Vincent's P.O.)",,﻿Westmoreland County,,,,﻿PA,,,,,,,﻿t_mullen_001,﻿Rev.,﻿T. Mullen,,﻿Ecclesiastical Superior,,,,﻿Sisters of Mercy,,1865,﻿,﻿,﻿Pittsburgh,Pittsburgh
 ﻿pit.pa.0123,﻿convent,﻿St. Xavier's,English,﻿Mother House,"﻿near Latrobe, (St. Vincent's P.O.)",,﻿Westmoreland County,,,,﻿PA,,,,,,,,﻿Sr.,﻿M. Rose Hostetter,,﻿Superior,,,,﻿Sisters of Mercy,,1865,﻿,﻿,﻿Pittsburgh,Pittsburgh
 ﻿pit.pa.0124,﻿convent,﻿St. Mary's Convent,English,,﻿Webster street,,,,﻿Pittsburgh,,﻿PA,,40.440911,-79.993964,,,,,﻿Sr.,﻿Mary Neri Bown,,﻿Superior,,,,﻿Sisters of Mercy,,1865,﻿,﻿,﻿Pittsburgh,Pittsburgh
@@ -186,8 +186,8 @@
 ﻿pit.pa.0147,﻿school,not recorded,﻿German,﻿school taught by lay teachers,,,,,﻿Butler,,﻿PA,,40.462712,-79.918123,,,,,,,,,,,,,,1865,﻿,﻿,﻿Pittsburgh,Pittsburgh
 ﻿pit.pa.0082_02,﻿school,﻿Our Lady Help of Christians,﻿German,﻿school taught by lay teachers,,,﻿Allegheny County,,﻿Robinson Township,﻿Rochester,﻿PA,,40.464096,-80.066653,,,,,,,,,,,,,,1865,﻿,﻿,﻿Pittsburgh,Pittsburgh
 ﻿pit.pa.0149,﻿school,not recorded,English,﻿school taught by lay teachers,,,,,﻿Blairsville,,﻿PA,,40.464096,-80.066653,,,,,,,,,,,,,,1865,﻿,﻿,﻿Pittsburgh,Pittsburgh
-﻿pit.pa.0160,﻿school,not recorded,English,﻿school taught by lay teachers,,,,,﻿Johnstown,,﻿PA,,41.408969,-75.662412,,,,,,,,,,,,,,1865,﻿,﻿,﻿Pittsburgh,Pittsburgh
+﻿pit.pa.0160,﻿school,not recorded,English,﻿school taught by lay teachers,,,,,﻿Johnstown,,﻿PA,,,,,,,,,,,,,,,,,1865,﻿,﻿,﻿Pittsburgh,Pittsburgh
 ﻿pit.pa.0150,﻿school,not recorded,English,﻿school taught by lay teachers,,,,,﻿Altoona,,﻿PA,,40.432626,-79.258078,,,,,,,,,,,,,,1865,﻿,﻿,﻿Pittsburgh,Pittsburgh
-﻿pit.pa.0161,﻿school,not recorded,English,﻿school taught by lay teachers,,,,,﻿Jefferson,,﻿PA,,41.408969,-75.662412,,,,,,,,,,,,,,1865,﻿,﻿,﻿Pittsburgh,Pittsburgh
+﻿pit.pa.0161,﻿school,not recorded,English,﻿school taught by lay teachers,,,,,﻿Jefferson,,﻿PA,,,,,,,,,,,,,,,,,1865,﻿,﻿,﻿Pittsburgh,Pittsburgh
 ﻿pit.pa.0151,﻿school,not recorded,English,﻿school taught by lay teachers,,,,,﻿Latrobe,,﻿PA,,40.515982,-78.403869,,,,,,,,,,,,,,1865,﻿,﻿,﻿Pittsburgh,Pittsburgh
 ﻿pit.pa.0152,﻿school,not recorded,English,﻿school taught by lay teachers,,,,,﻿St. Augustine,,﻿PA,,40.31464,-79.381807,,,,,,,,,,,,,,1865,﻿,﻿,﻿Pittsburgh,Pittsburgh

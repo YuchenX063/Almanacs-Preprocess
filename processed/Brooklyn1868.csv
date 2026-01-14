@@ -71,7 +71,7 @@
 ﻿bro.ny.0056,﻿church,﻿St. Michael's,English,,,,﻿,,﻿Smithtown,﻿Smithtown,﻿NY,,40.855505,-73.198247,﻿bro.ny.0040,﻿Attended from Huntington,﻿once a month,,,,,,,,,,,1868,﻿,﻿,﻿Brooklyn,Brooklyn
 ﻿bro.ny.0057,﻿church,not recorded,English,,,,﻿Suffolk County,,﻿Southold,﻿Southold,﻿NY,,41.064822,-72.426196,,,,﻿jos_brunemann_001,﻿Rev.,﻿Joseph Brunemann,﻿O.S.F.,,,,,,,1868,﻿,﻿,﻿Brooklyn,Brooklyn
 ﻿bro.ny.0058,﻿station,not recorded,English,,,,﻿,,﻿Southampton,﻿Southampton,﻿NY,,40.884267,-72.38953,﻿bro.ny.0057,﻿Attended occasionally from Southold,﻿occasionally,,,,,,,,,,,1868,﻿,﻿,﻿Brooklyn,Brooklyn
-﻿bro.ny.0103,﻿station,not recorded,English,,,,,,﻿Hermitage,,﻿NY,,40.690793,-73.951982,﻿bro.ny.0057,﻿Attended occasionally from Southold,﻿occasionally,,,,,,,,,,,1868,﻿,﻿,﻿Brooklyn,Brooklyn
+﻿bro.ny.0103,﻿station,not recorded,English,,,,,,﻿Hermitage,,﻿NY,,,,﻿bro.ny.0057,﻿Attended occasionally from Southold,﻿occasionally,,,,,,,,,,,1868,﻿,﻿,﻿Brooklyn,Brooklyn
 ﻿bro.ny.0059,﻿station,not recorded,English,,,,﻿,,﻿Cutchogue,﻿Cutchogue,﻿NY,,41.010656,-72.485086,﻿bro.ny.0057,﻿Attended occasionally from Southold,﻿occasionally,,,,,,,,,,,1868,﻿,﻿,﻿Brooklyn,Brooklyn
 ﻿bro.ny.0060,﻿station,not recorded,English,,,,﻿,,﻿Mattituck,﻿Mattituck,﻿NY,,40.991212,-72.534255,﻿bro.ny.0057,﻿Attended occasionally from Southold,﻿occasionally,,,,,,,,,,,1868,﻿,﻿,﻿Brooklyn,Brooklyn
 ﻿bro.ny.0061,﻿church,﻿St. Bridget's,English,,,,﻿Queens County,,﻿Westbury,﻿Westbury,﻿NY,,40.755656,-73.587627,,,,﻿jam_mcenroe_001,﻿Rev.,﻿James McEnroe,,,,,,,,1868,﻿,﻿,﻿Brooklyn,Brooklyn
@@ -91,9 +91,9 @@
 ﻿bro.ny.0072,﻿convent,﻿Convent of the Visitation,English,﻿Boarding academy for young ladies,"﻿Villa de Sales, L.I.",,,,﻿New Utrecht,,﻿NY,,40.61316,-73.995972,,,,,﻿Mother,﻿Mary Clotilda Smith,,﻿Superioress,,﻿student,"﻿pupils, 30",,,1868,﻿,﻿,﻿Brooklyn,Brooklyn
 ﻿bro.ny.0073_01,﻿convent,﻿St. Joseph's Convent,English,,﻿L.I.,,,,﻿Flushing,,﻿NY,,40.764724,-73.830672,,,,,﻿Mother,﻿Mary Baptista,,﻿Superioress,,,,,,1868,﻿,﻿,﻿Brooklyn,Brooklyn
 ﻿bro.ny.0073_02,﻿academy,﻿St. Joseph's Academy,English,﻿Under the direction of the Sisters of St. Joseph,,,,,﻿Flushing,,﻿NY,,40.764724,-73.830672,,,,,,,,,,﻿boarder,"﻿Number of boarders, 60",,,1868,﻿,﻿,﻿Brooklyn,Brooklyn
-﻿bro.ny.0104,﻿academy,﻿Female Academy,English,﻿Under direction of the Sisters of Charity,"﻿Warren street, near Clinton",,,,,,﻿NY,,40.690793,-73.951982,,,,,,,,,,﻿student,﻿80 pupils,,,1868,﻿,﻿,﻿Brooklyn,Brooklyn
-﻿bro.ny.0105,﻿academy,﻿St. Bonaventure's Academy,English,﻿In charge of the Franciscan Brothers,,,,,﻿Flushing,,﻿NY,,40.690793,-73.951982,,,,,,,,,,﻿boarder,"﻿Number of boarders, 40",,,1868,﻿,﻿,﻿Brooklyn,Brooklyn
-﻿bro.ny.0116,﻿asylum,﻿Male Orphan Asylum,English,﻿temporary,﻿corner of Jay and Chapel streets,,,,﻿Brooklyn,,﻿NY,,40.690793,-73.951982,,,,,,,,,,﻿child,﻿204 boys,,,1868,﻿,﻿,﻿Brooklyn,Brooklyn
+﻿bro.ny.0104,﻿academy,﻿Female Academy,English,﻿Under direction of the Sisters of Charity,"﻿Warren street, near Clinton",,,,,,﻿NY,,,,,,,,,,,,,﻿student,﻿80 pupils,,,1868,﻿,﻿,﻿Brooklyn,Brooklyn
+﻿bro.ny.0105,﻿academy,﻿St. Bonaventure's Academy,English,﻿In charge of the Franciscan Brothers,,,,,﻿Flushing,,﻿NY,,,,,,,,,,,,,﻿boarder,"﻿Number of boarders, 40",,,1868,﻿,﻿,﻿Brooklyn,Brooklyn
+﻿bro.ny.0116,﻿asylum,﻿Male Orphan Asylum,English,﻿temporary,﻿corner of Jay and Chapel streets,,,,﻿Brooklyn,,﻿NY,,,,,,,,,,,,,﻿child,﻿204 boys,,,1868,﻿,﻿,﻿Brooklyn,Brooklyn
 ﻿bro.ny.0078,﻿asylum,﻿New Male Orphan Asylum,English,﻿commenced,﻿corner of Albany and Wyckoff avenues,,,,﻿Brooklyn,,﻿NY,,40.699943,-73.911815,,,,,,,,,,,,,,1868,﻿,﻿,﻿Brooklyn,Brooklyn
 ﻿bro.ny.0079,﻿asylum,﻿Female Orphan Asylum,English,﻿Under charge of Sisters of Charity.  Industrial school attached.,﻿corner of Clinton and Congress streets,,,,﻿Brooklyn,,﻿NY,,40.688742,-73.997078,,,,,﻿Sister,﻿Constantia,,﻿Superior,,﻿child,﻿515 girls,,,1868,﻿,﻿,﻿Brooklyn,Brooklyn
 ﻿bro.ny.0007_05,﻿asylum,﻿Orphan Asylum,English,,﻿attached to the Church of Holy Trinity,,,,﻿Brooklyn,,﻿NY,,40.707174,-73.944918,,,,,,,,,,﻿child,﻿30 orphans,,,1868,﻿,﻿,﻿Brooklyn,Brooklyn

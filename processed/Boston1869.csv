@@ -157,7 +157,7 @@
 ﻿bos.ma.0122,﻿church,﻿St. Mary's,English,﻿(new church building),﻿(new church building),,,,﻿Milford,﻿Milford,﻿MA,,42.139858,-71.516305,,,,﻿p_cuddihy_001,﻿Rev.,﻿P. Cuddihy,,,,,,,,1869,﻿,﻿,﻿Boston,Boston
 ﻿bos.ma.0122,﻿church,﻿St. Mary's,English,﻿(new church building),﻿(new church building),,,,﻿Milford,﻿Milford,﻿MA,,42.139858,-71.516305,,,,﻿jam_mcdermott_001,﻿Rev.,﻿James McDermott,,,,,,,,1869,﻿,﻿,﻿Boston,Boston
 ﻿bos.ma.0123,﻿church,﻿St. Bridget's,English,,,,,,﻿Millbury,﻿Millbury,﻿MA,,42.192072,-71.761522,﻿bos.ma.0192,"﻿Attended from St. Ann's, Worcester",,,,,,,,,,,,1869,﻿,﻿,﻿Boston,Boston
-﻿bos.ma.0236,﻿church,not recorded,English,,,,,,,,,,44.475883,-73.212072,,,,﻿t_r_mcnulty_001,﻿Rev.,﻿T. R. McNulty,,,,,,,,1869,﻿,﻿,﻿Boston,Boston
+﻿bos.ma.0236,﻿church,not recorded,English,,,,,,,,,,,,,,,﻿t_r_mcnulty_001,﻿Rev.,﻿T. R. McNulty,,,,,,,,1869,﻿,﻿,﻿Boston,Boston
 ﻿bos.ma.0124,﻿church,﻿St. Patrick's,English,,,,,,﻿Monson,﻿Monson,﻿MA,,42.094738,-72.312934,﻿bos.ma.0138,﻿Attended from Palmer,,,,,,,,,,,,1869,﻿,﻿,﻿Boston,Boston
 ﻿bos.ma.0125,﻿church,not recorded,English,,,,,,﻿Nahant,﻿Nahant,﻿MA,,42.426563,-70.922279,﻿bos.ma.0113,﻿Attended from Lynn,,,,,,,,,,,,1869,﻿,﻿,﻿Boston,Boston
 ﻿bos.ma.0126,﻿church,not recorded,English,,,,,,﻿Nantucket,﻿Nantucket,﻿MA,,41.28394,-70.099989,﻿bos.ma.0086,﻿Attended from Harwich,,,,,,,,,,,,1869,﻿,﻿,﻿Boston,Boston
@@ -172,7 +172,7 @@
 ﻿bos.ma.0133,﻿church,not recorded,English,,,,,,﻿West Newton,﻿West Newton,﻿MA,,42.349795,-71.225053,﻿bos.ma.0179,﻿Attended from Waltham,,,,,,,,,,,,1869,﻿,﻿,﻿Boston,Boston
 ﻿bos.ma.0134,﻿church,﻿St. Mary's,English,,,,,,﻿Northampton,﻿Northampton,﻿MA,,42.337336,-72.652197,,,,﻿p_v_moyce_001,﻿Rev.,﻿P. V. Moyce,,,,,,,,1869,﻿,﻿,﻿Boston,Boston
 ﻿bos.ma.0135,﻿church,not recorded,English,,,,,,﻿Norton,﻿Norton,﻿MA,,41.96677,-71.186996,﻿bos.ma.0170,﻿Attended from Taunton,,,,,,,,,,,,1869,﻿,﻿,﻿Boston,Boston
-﻿bos.ma.0237,﻿church,﻿St. Francis',English,﻿(new church building),﻿(new church building),,,,﻿North-Adams,,﻿MA,,44.475883,-73.212072,,,,﻿cha_lynch_001,﻿Rev.,﻿Chas. Lynch,,,,,,,,1869,﻿,﻿,﻿Boston,Boston
+﻿bos.ma.0237,﻿church,﻿St. Francis',English,﻿(new church building),﻿(new church building),,,,﻿North-Adams,,﻿MA,,,,,,,﻿cha_lynch_001,﻿Rev.,﻿Chas. Lynch,,,,,,,,1869,﻿,﻿,﻿Boston,Boston
 ﻿bos.ma.0136,﻿church,not recorded,English,,,,,,﻿Otter River,﻿Otter River,﻿MA,,42.612743,-72.069036,,,,﻿wil_orr_001,﻿Rev.,﻿William Orr,,,,,,,,1869,﻿,﻿,﻿Boston,Boston
 ﻿bos.ma.0136,﻿church,not recorded,English,,,,,,﻿Otter River,﻿Otter River,﻿MA,,42.612743,-72.069036,,,,﻿m_x_carroll_001,﻿Rev.,﻿M. X. Carroll,,,,,,,,1869,﻿,﻿,﻿Boston,Boston
 ﻿bos.ma.0137,﻿church,﻿St. Roch's,English,,,,,,﻿Oxford,﻿Oxford,﻿MA,,42.118686,-71.864123,﻿bos.ma.0184,﻿Attended from Webster,,,,,,,,,,,,1869,﻿,﻿,﻿Boston,Boston
@@ -261,10 +261,10 @@
 ﻿bos.ma.0206,﻿convent,﻿St. Mary's Convent,English,,,,,,﻿Lawrence,﻿Lawrence,﻿MA,,42.7100858,-71.1665082,,,,,,,,,,,,"﻿Sisters of Notre Dame, in charge of the parochial schools",,1869,﻿,﻿,﻿Boston,Boston
 ﻿bos.ma.0207,﻿convent,﻿St. Joseph's Convent,English,,﻿South Boston,,,,﻿Boston,﻿Boston,﻿MA,,42.3345816,-71.0371981,,,,,,,,,,,,"﻿Sisters of Notre Dame, in charge of the parochial schools and the Sunday-school",,1869,﻿,﻿,﻿Boston,Boston
 ﻿bos.ma.0208,﻿convent,﻿St. Aloysius' Convent,English,,﻿East Boston,,,,﻿Boston,﻿Boston,﻿MA,,42.3800079,-71.0254241,,,,,,,,,,,,"﻿Sisters of Notre Dame, in charge of the parochial schools",,1869,﻿,﻿,﻿Boston,Boston
-﻿bos.ma.0238,﻿convent,﻿St. Mary's Convent,English,,,,,,﻿Boston,﻿Boston,﻿MA,,44.475883,-73.212072,,,,,,,,,,,,"﻿Sisters of Notre Dame, in charge of the parochial school for girls attatched to St. Mary's Church",,1869,﻿,﻿,﻿Boston,Boston
+﻿bos.ma.0238,﻿convent,﻿St. Mary's Convent,English,,,,,,﻿Boston,﻿Boston,﻿MA,,,,,,,,,,,,,,,"﻿Sisters of Notre Dame, in charge of the parochial school for girls attatched to St. Mary's Church",,1869,﻿,﻿,﻿Boston,Boston
 ﻿bos.ma.0211,﻿asylum,﻿St. Vincent's Orphan Asylum,English,,﻿Camden street,,,,﻿Boston,﻿Boston,﻿MA,,42.3383401,-71.0818672,,,,,﻿Sister,﻿Ann Alexis,,﻿Sister-Servant,,,,"﻿for girls, in charge of the Sisters of Charity",,1869,﻿,﻿,﻿Boston,Boston
 ﻿bos.ma.0212,﻿house,﻿House of the Angel Guardian,English,"﻿This institution receives orphans, homeless, friendless, or wayward boys","﻿General office, No. 2 North Square",,,,﻿Boston Highlands,﻿Boston Highlands,﻿MA,,42.3600825,-71.0588801,,,,﻿geo_f_haskins_001,﻿Rev.,﻿George F. Haskins,,﻿Rector,,,,,,1869,﻿,﻿,﻿Boston,Boston
-﻿bos.ma.0239,﻿asylum,﻿Looby Asylum,English,﻿for orphans and destitute children,,,,,﻿Salem,﻿Salem,﻿MA,,44.475883,-73.212072,,,,,,,,,,,,﻿In charge of the Gray Nuns,,1869,﻿,﻿,﻿Boston,Boston
+﻿bos.ma.0239,﻿asylum,﻿Looby Asylum,English,﻿for orphans and destitute children,,,,,﻿Salem,﻿Salem,﻿MA,,,,,,,,,,,,,,,﻿In charge of the Gray Nuns,,1869,﻿,﻿,﻿Boston,Boston
 ﻿bos.ma.0214,﻿house,﻿Home for Destitute Roman Catholic Children,English,"﻿(new Home to be built on Harrison Avenue). This is a temporary home for destitute or deserted children, from which they are soon adopted into good Catholic families.",﻿No. 10 Common street,,,,﻿Boston,﻿Boston,﻿MA,,42.3738605,-71.060156,,,,,﻿Sister,﻿Almida,,﻿Sister-Servant,,﻿religious,﻿3 Sisters of Charity,﻿In charge of 3 Sisters of Charity,,1869,﻿,﻿,﻿Boston,Boston
 ﻿bos.ma.0215,﻿asylum,﻿Orphan Asylum,English,,,,,,﻿Lawrence,﻿Lawrence,﻿MA,,42.7070354,-71.1631137,,,,,,,,,,﻿in charge of the gray nun,,,,1869,﻿,﻿,﻿Boston,Boston
 ﻿bos.ma.0216,﻿house,﻿House of the Good Shepherd,English,,﻿Shirly street,,,,﻿Boston Highlands,﻿Boston Highlands,﻿MA,,42.324657,-71.0696571,,,,,﻿Mother,﻿Mary of St. Aloysius,,﻿Superior,,,,,,1869,﻿,﻿,﻿Boston,Boston
@@ -291,8 +291,8 @@
 ﻿bos.ma.0151_03,﻿school,﻿Parochial School for Girls,English,﻿Parochial School for Girls,,,,,,﻿Salem,﻿MA,,42.5205117,-70.9051323,,,,,,,,,,﻿student,﻿400 pupils,﻿Sisters of Notre Dame,,1869,﻿,﻿,﻿Boston,Boston
 ﻿bos.ma.0152_02,﻿school,﻿Parochial School for Girls,English,﻿Parochial School for Girls,﻿Church of the Immaculate Conception,,,,﻿Salem,﻿Salem,﻿MA,,42.5197473,-70.8954626,,,,,,,,,,﻿religious,﻿14 Sisters of Notre Dame,﻿Sisters of Notre Dame,,1869,﻿,﻿,﻿Boston,Boston
 ﻿bos.ma.0152_02,﻿school,﻿Parochial School for Girls,English,﻿Parochial School for Girls,﻿Church of the Immaculate Conception,,,,﻿Salem,﻿Salem,﻿MA,,42.5197473,-70.8954626,,,,,,,,,,﻿student,﻿400 pupils,﻿Sisters of Notre Dame,,1869,﻿,﻿,﻿Boston,Boston
-﻿bos.ma.0240,﻿school,﻿Parochial School for Boys,English,﻿Parochial School for Boys,,,,,,,﻿MA,,44.475883,-73.212072,,,,,,,,,,﻿teacher,﻿3,,,1869,﻿,﻿,﻿Boston,Boston
-﻿bos.ma.0240,﻿school,﻿Parochial School for Boys,English,﻿Parochial School for Boys,,,,,,,﻿MA,,44.475883,-73.212072,,,,,,,,,,﻿student,﻿250,,,1869,﻿,﻿,﻿Boston,Boston
+﻿bos.ma.0240,﻿school,﻿Parochial School for Boys,English,﻿Parochial School for Boys,,,,,,,﻿MA,,,,,,,,,,,,,﻿teacher,﻿3,,,1869,﻿,﻿,﻿Boston,Boston
+﻿bos.ma.0240,﻿school,﻿Parochial School for Boys,English,﻿Parochial School for Boys,,,,,,,﻿MA,,,,,,,,,,,,,﻿student,﻿250,,,1869,﻿,﻿,﻿Boston,Boston
 ﻿bos.ma.0102_02,﻿school,﻿Parochial School for Girls,English,﻿Parochial School for Girls,﻿St. Mary's Church,,,,﻿Lawrence,﻿Lawrence,﻿MA,,42.7070354,-71.1631137,,,,,,,,,,﻿religious,﻿13 Sisters of Notre Dame,﻿Sisters of Notre Dame,,1869,﻿,﻿,﻿Boston,Boston
 ﻿bos.ma.0102_02,﻿school,﻿Parochial School for Girls,English,﻿Parochial School for Girls,﻿St. Mary's Church,,,,﻿Lawrence,﻿Lawrence,﻿MA,,42.7070354,-71.1631137,,,,,,,,,,﻿student,﻿500 day-scholars,﻿Sisters of Notre Dame,,1869,﻿,﻿,﻿Boston,Boston
 ﻿bos.ma.0102_02,﻿school,﻿Parochial School for Girls,English,﻿Parochial School for Girls,﻿St. Mary's Church,,,,﻿Lawrence,﻿Lawrence,﻿MA,,42.7070354,-71.1631137,,,,,,,,,,﻿student,﻿100 pupils of the evening school,﻿Sisters of Notre Dame,,1869,﻿,﻿,﻿Boston,Boston
