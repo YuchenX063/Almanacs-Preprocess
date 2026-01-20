@@ -121,7 +121,7 @@
 ﻿stp.mn.0072,﻿church,not recorded,English,,,,﻿Hennepin County,﻿Hennepin County,﻿Minneapolis,﻿Minneapolis,﻿MN,,44.977753,-93.265011,﻿stp.mn.0070,﻿Visited from St. Anthony,,,,,,,,,,,,1865,﻿,﻿,﻿St. Paul,StPaul
 ﻿stp.mn.0191,﻿church,not recorded,English,,,,﻿Wabashaw County,﻿Wabasha County,﻿Minneiska,﻿Minneiska,﻿MN,,44.194964,-91.871825,﻿stp.mn.0186,﻿Visited from Wabashaw,,,,,,,,,,,,1865,﻿,﻿,﻿St. Paul,StPaul
 ﻿stp.mn.0048,﻿church,not recorded,English,,,,﻿Blue Earth County,﻿Faribault County,﻿Minnesota Lake,﻿Minnesota Lake,﻿MN,,43.840965,-93.831085,﻿stp.mn.0012,﻿Visited from Mankato,,,,,,,,,,,,1865,﻿,﻿,﻿St. Paul,StPaul
-﻿stp.mn.0191,﻿church,﻿St. Boniface',English,,,,﻿Hennepin County,﻿Wabasha County,﻿Minnetresta,﻿Minneiska,﻿MN,,44.194964,-91.871825,,﻿Visisted from Waconia,,,,,,,,,,,,1865,﻿,﻿,﻿St. Paul,StPaul
+﻿stp.mn.0320,﻿church,﻿St. Boniface',English,,,,﻿Hennepin County,﻿Wabasha County,﻿Minnetresta,﻿Minneiska,﻿MN,,44.194964,-91.871825,,﻿Visisted from Waconia,,,,,,,,,,,,1865,﻿,﻿,﻿St. Paul,StPaul
 ﻿stp.mn.0099,﻿church,not recorded,English,,,,﻿Le Sueur County,﻿Le Sueur County,﻿Montgomery,﻿Montgomery,﻿MN,,44.438315,-93.58132,﻿stp.mn.0129,﻿Visited from Faribault,,,,,,,,,,,,1865,﻿,﻿,﻿St. Paul,StPaul
 ﻿stp.mn.0125,﻿church,not recorded,English,,,,﻿Olmsted County,﻿Olmstead County,﻿New-Haven,﻿New Haven Township,﻿MN,,44.161533,-92.599083,﻿stp.mn.0120,﻿Visited from Rochester,,,,,,,,,,,,1865,﻿,﻿,﻿St. Paul,StPaul
 ﻿stp.mn.0158,﻿church,﻿St. Nicholas',English,,,,﻿Scott County,﻿Scott County,﻿New-Market,﻿Elko New Market,﻿MN,,44.572523,-93.350476,,﻿Visited from New-Treves,,,,,,,,,,,,1865,﻿,﻿,﻿St. Paul,StPaul
@@ -153,9 +153,9 @@
 ﻿stp.mn.0123,﻿church,not recorded,English,,,,﻿Olmsted County,﻿Olmstead County,﻿Salem,﻿Salem Township,﻿MN,,43.9714,-92.599083,﻿stp.mn.0120,﻿Visited from Rochester,,,,,,,,,,,,1865,﻿,﻿,﻿St. Paul,StPaul
 ﻿stp.mn.0193,﻿church,not recorded,English,,,,﻿Wabashaw County,﻿Wabasha County,﻿Sand Prairie,﻿Kellogg,﻿MN,,44.351379,-91.973395,﻿stp.mn.0186,﻿Visited from Wabashaw,,,,,,,,,,,,1865,﻿,﻿,﻿St. Paul,StPaul
 ﻿stp.mn.0163,﻿church,not recorded,English,,,,﻿Le Sueur County,,﻿St. Scholastica,,﻿MN,,44.597317,-93.621463,,﻿Visited from New-Prague,,,,,,,,,,,,1865,﻿,﻿,﻿St. Paul,StPaul
-﻿stp.mn.0163,﻿church,﻿St. Mark's,English,,,,﻿Scott County,,﻿Shakopee,,﻿MN,,44.597317,-93.621463,,,,,﻿Rev.,﻿Benedict Heindl,﻿O.S.B.,,,,,,,1865,﻿,﻿,﻿St. Paul,StPaul
-﻿stp.mn.0163,﻿church,﻿St. Mark's,English,,,,﻿Scott County,,﻿Shakopee,,﻿MN,,44.597317,-93.621463,,,,,﻿Rev.,﻿Al. Berghold,,,,,,,,1865,﻿,﻿,﻿St. Paul,StPaul
-﻿stp.mn.0163,﻿church,﻿St. Patrick's,English,,,,﻿Rice County,,﻿Shieldsville,,﻿MN,,44.597317,-93.621463,,﻿Visited from Faribault,,,,,,,,,,,,1865,﻿,﻿,﻿St. Paul,StPaul
+﻿stp.mn.0149,﻿church,﻿St. Mark's,English,,,,﻿Scott County,,﻿Shakopee,,﻿MN,,,,,,,,﻿Rev.,﻿Benedict Heindl,﻿O.S.B.,,,,,,,1865,﻿,﻿,﻿St. Paul,StPaul
+﻿stp.mn.0149,﻿church,﻿St. Mark's,English,,,,﻿Scott County,,﻿Shakopee,,﻿MN,,,,,,,,﻿Rev.,﻿Al. Berghold,,,,,,,,1865,﻿,﻿,﻿St. Paul,StPaul
+﻿stp.mn.0149,﻿church,﻿St. Patrick's,English,,,,﻿Rice County,,﻿Shieldsville,,﻿MN,,,,,﻿Visited from Faribault,,,,,,,,,,,,1865,﻿,﻿,﻿St. Paul,StPaul
 ﻿stp.mn.0296,﻿church,not recorded,English,,,,﻿Dakota County,﻿Dakota County,﻿Spring Lake,,﻿MN,,,,﻿stp.mn.0032,﻿Visited from Hastings,,,,,,,,,,,,1865,﻿,﻿,﻿St. Paul,StPaul
 ﻿stp.mn.0203,﻿church,﻿St. Michael's,English,,,,﻿Washington County,﻿Washington County,﻿Stillwater,﻿Stillwater,﻿MN,,45.051158,-92.806301,,,,﻿tho_murray_001,﻿Rev.,﻿Thomas Murray,,,,,,,,1865,﻿,﻿,﻿St. Paul,StPaul
 ﻿stp.mn.0028,﻿church,not recorded,English,,,,﻿Chicago County,﻿Chisago County,﻿Sunrise,﻿Sunrise,﻿MN,,45.546905,-92.854936,﻿stp.mn.0203,﻿Visited from Stillwater,,,,,,,,,,,,1865,﻿,﻿,﻿St. Paul,StPaul
@@ -184,8 +184,8 @@
 ﻿stp.mn.0217_01,﻿mission,﻿Mission of Half-Breeds and Chippewas,English,﻿Indian Mission,﻿at Pembina,,,﻿Pembina County,,﻿Pembina,,,46.715817,-92.513266,,,,,﻿Rev.,﻿Père André,,,,,,,,1865,﻿,﻿,﻿St. Paul,StPaul
 ﻿stp.mn.0217_02,﻿mission,﻿Mission of Half-Breeds and Chippewas,English,﻿Indian Mission,"﻿at St. Joseph, Red River of the North",,,,,﻿Walhalla,,﻿ND,46.71581695,-92.51326606,,,,,﻿Rev.,﻿Père Germaine,,,,,,,,1865,﻿,﻿,﻿St. Paul,StPaul
 ﻿stp.mn.0217_02,﻿mission,﻿Mission of Half-Breeds and Chippewas,English,﻿Indian Mission,"﻿at St. Joseph, Red River of the North",,,,,﻿Walhalla,,,46.71581695,-92.51326606,,,,,﻿Rev.,﻿Père André,,,,,,,,1865,﻿,﻿,﻿St. Paul,StPaul
-﻿stp.mn.0218,﻿mission,﻿Mission of Fond du Lac,English,﻿Indian Mission,﻿near Superior City,,,﻿Douglas County,,,﻿MN,,46.715817,-92.513266,,"﻿Visited by Rev. John Chebul, of Bayfield, Wis.",,,,,,,,,,,,1865,﻿,﻿,﻿St. Paul,StPaul
-﻿stp.mn.0219,﻿mission,not recorded,English,﻿Indian Mission,﻿north shore of Lake Superior,,,﻿Cook County,﻿Grand Portage,﻿Grand Portage,﻿MN,,47.966214,-89.682798,,﻿Attended by the Jesuit Fathers at Fort William,,,,,,,,,,,,1865,﻿,﻿,﻿St. Paul,StPaul
+﻿stp.mn.0218,﻿mission,﻿Mission of Fond du Lac,English,﻿Indian Mission,﻿near Superior City,,,﻿Douglas County,,,﻿MN,,46.715817,-92.513266,,"﻿Visited by Rev. John Chebul, of Bayfield, Wis.",,,﻿Rev.,﻿John Chebul,,,,,,,,1865,﻿,﻿,﻿St. Paul,StPaul
+﻿stp.mn.0219,﻿mission,not recorded,English,﻿Indian Mission,﻿north shore of Lake Superior,,,﻿Cook County,﻿Grand Portage,﻿Grand Portage,﻿MN,,47.966214,-89.682798,,﻿Attended by the Jesuit Fathers at Fort William,,,,,,,,,,﻿Jesuit Fathers at Fort William,,1865,﻿,﻿,﻿St. Paul,StPaul
 ﻿stp.mn.0220,﻿seminary,﻿Preparatory Seminary,English,,,,,,﻿St. Paul,,﻿MN,,45.038877,-93.168849,,,,,,,,,,﻿student,﻿11 students,,,1865,﻿,﻿,﻿St. Paul,StPaul
 ﻿stp.mn.0228_03,﻿convent,﻿Independent Priory of the Order of St. Benedict,English,,,,﻿Stearns County,,﻿St. Cloud,,﻿MN,,45.579768,-94.393892,,,,,﻿Very Rev.,﻿Ottmar Wirz,﻿O.S.B.,﻿Prior,,﻿priest,﻿2 clerical students,,,1865,﻿,﻿,﻿St. Paul,StPaul
 ﻿stp.mn.0228_03,﻿convent,﻿Independent Priory of the Order of St. Benedict,English,,,,﻿Stearns County,,﻿St. Cloud,,﻿MN,,45.579768,-94.393892,,,,﻿ben_heindl_001,﻿Rev.,﻿Benedict Heindl,﻿O.S.B.,,,﻿layperson,﻿12 lay brothers,,,1865,﻿,﻿,﻿St. Paul,StPaul
@@ -200,7 +200,7 @@
 ﻿stp.mn.0228_03,"﻿convent, academy",﻿St. Joseph's Convent and Academy,English,,﻿St. Jospeh,,﻿Stearns County,,﻿St. Cloud,,﻿MN,,45.579768,-94.393892,,,,,﻿Sister,﻿Willibalda,,﻿Prioress,,﻿nun,﻿10 nuns,﻿Nuns of St. Benedict,,1865,﻿,﻿,﻿St. Paul,StPaul
 ﻿stp.mn.0228_03,"﻿convent, academy",﻿St. Joseph's Convent and Academy,English,,﻿St. Jospeh,,﻿Stearns County,,﻿St. Cloud,,﻿MN,,45.579768,-94.393892,,,,,,,,,,﻿novices,﻿4 novices,﻿Nuns of St. Benedict,,1865,﻿,﻿,﻿St. Paul,StPaul
 ﻿stp.mn.0228_03,"﻿convent, academy",﻿St. Joseph's Convent and Academy,English,,﻿St. Jospeh,,﻿Stearns County,,﻿St. Cloud,,﻿MN,,45.579768,-94.393892,,,,,,,,,,﻿postulants,﻿2 postulants,﻿Nuns of St. Benedict,,1865,﻿,﻿,﻿St. Paul,StPaul
-﻿stp.mn.0228_03,"﻿convent, academy",﻿St. Gertrude's Convent and Academy,English,,﻿St. Jospeh,,﻿Stearns County,,﻿Shakopee,,﻿MN,,45.579768,-94.393892,,,,,﻿Sister,﻿Maria Clara Vogel,,﻿Prioress,,﻿postulants,﻿2 postulants,﻿Nuns of St. Benedict,,1865,﻿,﻿,﻿St. Paul,StPaul
+﻿stp.mn.0227_04&0227_01,"﻿convent, academy",﻿St. Gertrude's Convent and Academy,English,,,,,,﻿Shakopee,,﻿MN,,,,,,,,﻿Sister,﻿Maria Clara Vogel,,﻿Prioress,,,,,,1865,﻿,﻿,﻿St. Paul,StPaul
 ﻿stp.mn.0225_02,﻿academy,﻿St. Joseph's Academy,English,﻿for young ladies,,,,,﻿St. Paul,,﻿MN,,44.949124,-93.115405,,,,,﻿Sister,﻿Stanislaus,,﻿Superior,,﻿professed sister,﻿8 professed sisters,﻿under the charge of the Sisters of St. Joseph,,1865,﻿,﻿,﻿St. Paul,StPaul
 ﻿stp.mn.0225_02,﻿academy,﻿St. Joseph's Academy,English,﻿for young ladies,,,,,﻿St. Paul,,﻿MN,,44.949124,-93.115405,,,,,,,,,,﻿novice,﻿7 novices,﻿under the charge of the Sisters of St. Joseph,,1865,﻿,﻿,﻿St. Paul,StPaul
 ﻿stp.mn.0305,﻿academy,﻿St. Mary's Female Academy,English,﻿Sisters have charge also of the Parish schools. 200 children,,,,,﻿St. Anthony's Falls,,﻿MN,,,,,,,,﻿Sister,﻿Mary Rosalia,,﻿Superior,,﻿sister,﻿4 sisters,﻿under the charge of the Sisters of St. Joseph,,1865,﻿,﻿,﻿St. Paul,StPaul

@@ -1,23 +1,23 @@
 ﻿instID,church_type,instName,language,instNote,placeName,region,county_orig,county_reg,city_orig,city_reg,state_orig,state_reg,latitude,longitude,attendingInstID,attendingChurch,attendingChurchFrequency,persID,persTitle,persName,persSuffix,persRole,persNote,memberType,member,affiliated,order,year,attendingPersID,attendingChurchNote,diocese,diocese_reg
 ﻿cin.oh.0001,﻿cathedral,﻿St. Peter's Cathedral,English,,,,,,﻿Cincinnati,,﻿OH,,,,,,,﻿joh_b_purcell_001,﻿Most Rev.,﻿J. B. Purcell,﻿D.D.,,,,,,,1864,﻿,﻿,﻿Cincinnati,Cincinnati
-﻿cin.oh.0001,﻿cathedral,﻿St. Peter's Cathedral,English,,,,,,﻿Cincinnati,,﻿OH,,,,,,,﻿s_h_rosecrans_002,﻿Rt. Rev.,﻿S. H. Rosecrans,﻿D.D.,,,,,,,1864,﻿,﻿,﻿Cincinnati,Cincinnati
-﻿cin.oh.0001,﻿cathedral,﻿St. Peter's Cathedral,English,,,,,,﻿Cincinnati,,﻿OH,,,,,,,﻿e_t_collins_001,﻿V. Rev.,﻿E. T. Collins,﻿V.G.,,,,,,,1864,﻿,﻿,﻿Cincinnati,Cincinnati
-﻿cin.oh.0001,﻿cathedral,﻿St. Peter's Cathedral,English,,,,,,﻿Cincinnati,,﻿OH,,,,,,,﻿e_parcell_001,﻿V. Rev.,﻿E. Parcell,﻿V.G.,,,,,,,1864,﻿,﻿,﻿Cincinnati,Cincinnati
-﻿cin.oh.0001,﻿cathedral,﻿St. Peter's Cathedral,English,,,,,,﻿Cincinnati,,﻿OH,,,,,,,﻿c_h_borgess_001,﻿Rev.,﻿C. H. Borgess,,,,,,,,1864,﻿,﻿,﻿Cincinnati,Cincinnati
-﻿cin.oh.0001,﻿cathedral,﻿St. Peter's Cathedral,English,,,,,,﻿Cincinnati,,﻿OH,,,,,,,﻿w_j_hally_001,﻿Rev.,﻿W. J. Hally,,,,,,,,1864,﻿,﻿,﻿Cincinnati,Cincinnati
-﻿cin.oh.0001,﻿church,﻿St. Francis Xavier's,English,,,,,,﻿Cincinnati,,﻿OH,,,,,,,﻿cha_driscol_001,﻿Rev.,﻿Charles Driscol,﻿S.J.,,,,,,,1864,﻿,﻿,﻿Cincinnati,Cincinnati
-﻿cin.oh.0001,﻿church,﻿St. Francis Xavier's,English,,,,,,﻿Cincinnati,,﻿OH,,,,,,,﻿joh_de-blieck_001,﻿Rev.,﻿John De Blieck,﻿S.J.,,,,,,,1864,﻿,﻿,﻿Cincinnati,Cincinnati
-﻿cin.oh.0001,﻿church,﻿St. Francis Xavier's,English,,,,,,﻿Cincinnati,,﻿OH,,,,,,,﻿f_acmal_001,﻿Rev.,﻿F. Acmal,﻿S.J.,,,,,,,1864,﻿,﻿,﻿Cincinnati,Cincinnati
-﻿cin.oh.0001,﻿church,﻿St. Francis Xavier's,English,,,,,,﻿Cincinnati,,﻿OH,,,,,,,﻿h_baselmans_001,﻿Rev.,﻿H. Baselmans,﻿S.J.,,,,,,,1864,﻿,﻿,﻿Cincinnati,Cincinnati
-﻿cin.oh.0001,﻿church,﻿St. Francis Xavier's,English,,,,,,﻿Cincinnati,,﻿OH,,,,,,,﻿p_a_nogues_002,﻿Rev.,﻿P. A. Nogues,﻿S.J.,,,,,,,1864,﻿,﻿,﻿Cincinnati,Cincinnati
-﻿cin.oh.0001,﻿church,﻿St. Francis Xavier's,English,,,,,,﻿Cincinnati,,﻿OH,,,,,,,﻿w_schmidt_002,﻿Rev.,﻿W. Schmidt,﻿S.J.,,,,,,,1864,﻿,﻿,﻿Cincinnati,Cincinnati
+﻿cin.oh.0001,﻿cathedral,﻿St. Peter's Cathedral,English,,,,,,﻿Cincinnati,,﻿OH,,,,,,,,﻿Rt. Rev.,﻿S. H. Rosecrans,﻿D.D.,,,,,,,1864,﻿,﻿,﻿Cincinnati,Cincinnati
+﻿cin.oh.0001,﻿cathedral,﻿St. Peter's Cathedral,English,,,,,,﻿Cincinnati,,﻿OH,,,,,,,,﻿V. Rev.,﻿E. T. Collins,﻿V.G.,,,,,,,1864,﻿,﻿,﻿Cincinnati,Cincinnati
+﻿cin.oh.0001,﻿cathedral,﻿St. Peter's Cathedral,English,,,,,,﻿Cincinnati,,﻿OH,,,,,,,,﻿V. Rev.,﻿E. Parcell,﻿V.G.,,,,,,,1864,﻿,﻿,﻿Cincinnati,Cincinnati
+﻿cin.oh.0001,﻿cathedral,﻿St. Peter's Cathedral,English,,,,,,﻿Cincinnati,,﻿OH,,,,,,,,﻿Rev.,﻿C. H. Borgess,,,,,,,,1864,﻿,﻿,﻿Cincinnati,Cincinnati
+﻿cin.oh.0001,﻿cathedral,﻿St. Peter's Cathedral,English,,,,,,﻿Cincinnati,,﻿OH,,,,,,,,﻿Rev.,﻿W. J. Hally,,,,,,,,1864,﻿,﻿,﻿Cincinnati,Cincinnati
+﻿cin.oh.0001,﻿church,﻿St. Francis Xavier's,English,,,,,,﻿Cincinnati,,﻿OH,,,,,,,,﻿Rev.,﻿Charles Driscol,﻿S.J.,,,,,,,1864,﻿,﻿,﻿Cincinnati,Cincinnati
+﻿cin.oh.0001,﻿church,﻿St. Francis Xavier's,English,,,,,,﻿Cincinnati,,﻿OH,,,,,,,,﻿Rev.,﻿John De Blieck,﻿S.J.,,,,,,,1864,﻿,﻿,﻿Cincinnati,Cincinnati
+﻿cin.oh.0001,﻿church,﻿St. Francis Xavier's,English,,,,,,﻿Cincinnati,,﻿OH,,,,,,,,﻿Rev.,﻿F. Acmal,﻿S.J.,,,,,,,1864,﻿,﻿,﻿Cincinnati,Cincinnati
+﻿cin.oh.0001,﻿church,﻿St. Francis Xavier's,English,,,,,,﻿Cincinnati,,﻿OH,,,,,,,,﻿Rev.,﻿H. Baselmans,﻿S.J.,,,,,,,1864,﻿,﻿,﻿Cincinnati,Cincinnati
+﻿cin.oh.0001,﻿church,﻿St. Francis Xavier's,English,,,,,,﻿Cincinnati,,﻿OH,,,,,,,,﻿Rev.,﻿P. A. Nogues,﻿S.J.,,,,,,,1864,﻿,﻿,﻿Cincinnati,Cincinnati
+﻿cin.oh.0001,﻿church,﻿St. Francis Xavier's,English,,,,,,﻿Cincinnati,,﻿OH,,,,,,,,﻿Rev.,﻿W. Schmidt,﻿S.J.,,,,,,,1864,﻿,﻿,﻿Cincinnati,Cincinnati
 ﻿cin.oh.0001,﻿church,﻿St. Francis Xavier's,English,,,,,,﻿Cincinnati,,﻿OH,,,,,,,﻿jos_zealand_001,﻿Rev.,﻿Jos. Zealand,﻿S.J.,,,,,,,1864,﻿,﻿,﻿Cincinnati,Cincinnati
-﻿cin.oh.0001,﻿church,﻿St. Francis Xavier's,English,,,,,,﻿Cincinnati,,﻿OH,,,,,,,﻿a_oneill_001,﻿Rev.,﻿A. O'Neill,﻿S.J.,,,,,,,1864,﻿,﻿,﻿Cincinnati,Cincinnati
+﻿cin.oh.0001,﻿church,﻿St. Francis Xavier's,English,,,,,,﻿Cincinnati,,﻿OH,,,,,,,,﻿Rev.,﻿A. O'Neill,﻿S.J.,,,,,,,1864,﻿,﻿,﻿Cincinnati,Cincinnati
 ﻿cin.oh.0003,﻿church,﻿St. Thomas's,English,,,,,,﻿Cincinnati,,﻿OH,,,,,﻿Attended from St. Xavier's,,,,,,,,,,,,1864,﻿,﻿,﻿Cincinnati,Cincinnati
-﻿cin.oh.0004,﻿church,﻿St. Patrick's,English,,,,,,﻿Cincinnati,,﻿OH,,,,,,,﻿ric_gilmore_001,﻿Rev.,﻿Richard Gilmore,,,,,,,,1864,﻿,﻿,﻿Cincinnati,Cincinnati
-﻿cin.oh.0004,﻿church,﻿St. Patrick's,English,,,,,,﻿Cincinnati,,﻿OH,,,,,,,﻿f_cubero_002,﻿Rev.,﻿F. Cubero,﻿O.S.D,,,,,,,1864,﻿,﻿,﻿Cincinnati,Cincinnati
-﻿cin.oh.0005,﻿church,﻿Holy Trinity's,﻿German,,,,,,﻿Cincinnati,,﻿OH,,,,,,,﻿b_hengehold_001,﻿Rev.,﻿B. Hengehold,,,,,,,,1864,﻿,﻿,﻿Cincinnati,Cincinnati
-﻿cin.oh.0005,﻿church,﻿Holy Trinity's,﻿German,,,,,,﻿Cincinnati,,﻿OH,,,,,,,﻿j_h_ridder_001,﻿Rev.,﻿J. H. Ridder,,,,,,,,1864,﻿,﻿,﻿Cincinnati,Cincinnati
-﻿cin.oh.0005,﻿church,﻿Holy Trinity's,﻿German,,,,,,﻿Cincinnati,,﻿OH,,,,,,,﻿ric_broering_001,﻿Rev.,﻿Rich. Broering,,,,,,,,1864,﻿,﻿,﻿Cincinnati,Cincinnati
-﻿cin.oh.0006,﻿church,﻿St. Mary's,﻿German,,,,,,﻿Cincinnati,,﻿OH,,,,,,,﻿j_b_elkmann_001,﻿Rev.,﻿J. B. Elkmann,,,,,,,,1864,﻿,﻿,﻿Cincinnati,Cincinnati
-﻿cin.oh.0006,﻿church,﻿St. Mary's,﻿German,,,,,,﻿Cincinnati,,﻿OH,,,,,,,﻿ger_uhling_001,﻿Rev.,﻿Gerhard Uhling,,,,,,,,1864,﻿,﻿,﻿Cincinnati,Cincinnati
+﻿cin.oh.0004,﻿church,﻿St. Patrick's,English,,,,,,﻿Cincinnati,,﻿OH,,,,,,,,﻿Rev.,﻿Richard Gilmore,,,,,,,,1864,﻿,﻿,﻿Cincinnati,Cincinnati
+﻿cin.oh.0004,﻿church,﻿St. Patrick's,English,,,,,,﻿Cincinnati,,﻿OH,,,,,,,,﻿Rev.,﻿F. Cubero,﻿O.S.D,,,,,,,1864,﻿,﻿,﻿Cincinnati,Cincinnati
+﻿cin.oh.0005,﻿church,﻿Holy Trinity's,﻿German,,,,,,﻿Cincinnati,,﻿OH,,,,,,,,﻿Rev.,﻿B. Hengehold,,,,,,,,1864,﻿,﻿,﻿Cincinnati,Cincinnati
+﻿cin.oh.0005,﻿church,﻿Holy Trinity's,﻿German,,,,,,﻿Cincinnati,,﻿OH,,,,,,,,﻿Rev.,﻿J. H. Ridder,,,,,,,,1864,﻿,﻿,﻿Cincinnati,Cincinnati
+﻿cin.oh.0005,﻿church,﻿Holy Trinity's,﻿German,,,,,,﻿Cincinnati,,﻿OH,,,,,,,,﻿Rev.,﻿Rich. Broering,,,,,,,,1864,﻿,﻿,﻿Cincinnati,Cincinnati
+﻿cin.oh.0006,﻿church,﻿St. Mary's,﻿German,,,,,,﻿Cincinnati,,﻿OH,,,,,,,,﻿Rev.,﻿J. B. Elkmann,,,,,,,,1864,﻿,﻿,﻿Cincinnati,Cincinnati
+﻿cin.oh.0006,﻿church,﻿St. Mary's,﻿German,,,,,,﻿Cincinnati,,﻿OH,,,,,,,,﻿Rev.,﻿Gerhard Uhling,,,,,,,,1864,﻿,﻿,﻿Cincinnati,Cincinnati

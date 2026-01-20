@@ -1,20 +1,20 @@
 ﻿instID,church_type,instName,language,instNote,placeName,region,county_orig,county_reg,city_orig,city_reg,state_orig,state_reg,latitude,longitude,attendingInstID,attendingChurch,attendingChurchFrequency,persID,persTitle,persName,persSuffix,persRole,persNote,memberType,member,affiliated,order,year,attendingPersID,attendingChurchNote,diocese,diocese_reg
-﻿cha.sc.0001,﻿cathedral,"﻿Cathedral Chapel, St. John the Baptist",English,,,,,,﻿Charleston,﻿Charleston,﻿SC,,32.776496,-79.934468,,,,﻿p_n_lynch_001,﻿Rt. Rev.,﻿P. N. Lynch,﻿D.D.,,,,,,,1867,﻿,﻿,﻿Charleston,Charleston
+﻿cha.sc.0001,﻿cathedral,"﻿Cathedral Chapel, St. John the Baptist",English,,,,,,﻿Charleston,﻿Charleston,﻿SC,,32.776496,-79.934468,,,,,﻿Rt. Rev.,﻿P. N. Lynch,﻿D.D.,,,,,,,1867,﻿,﻿,﻿Charleston,Charleston
 ﻿cha.sc.0001,﻿cathedral,"﻿Cathedral Chapel, St. John the Baptist",English,,,,,,﻿Charleston,﻿Charleston,﻿SC,,32.776496,-79.934468,,,,﻿tim_bermingham_001,﻿Very Rev.,﻿T. Bermingham,﻿D.D.,﻿Vicar-General,,,,,,1867,﻿,﻿,﻿Charleston,Charleston
-﻿cha.sc.0001,﻿cathedral,"﻿Cathedral Chapel, St. John the Baptist",English,,,,,,﻿Charleston,﻿Charleston,﻿SC,,32.776496,-79.934468,,,,﻿dan_j_quigley_001,﻿Rev.,﻿Dan'l J. Quigley,,,,,,,,1867,﻿,﻿,﻿Charleston,Charleston
+﻿cha.sc.0001,﻿cathedral,"﻿Cathedral Chapel, St. John the Baptist",English,,,,,,﻿Charleston,﻿Charleston,﻿SC,,32.776496,-79.934468,,,,,﻿Rev.,﻿Dan'l J. Quigley,,,,,,,,1867,﻿,﻿,﻿Charleston,Charleston
 ﻿cha.sc.0002,﻿church,﻿St. Mary's,English,,﻿Hasell street,,,,﻿Charleston,﻿Charleston,﻿SC,,32.7818,-79.932825,,,,﻿ric_s_baker_001,﻿Very Rev.,﻿R. S. Baker,,,,,,,,1867,﻿,﻿,﻿Charleston,Charleston
 ﻿cha.sc.0002,﻿church,﻿St. Mary's,English,,﻿Hasell street,,,,﻿Charleston,﻿Charleston,﻿SC,,32.7818,-79.932825,,,,﻿p_ryan_001,﻿Rev.,﻿P. Ryan,﻿D.D.,,,,,,,1867,﻿,﻿,﻿Charleston,Charleston
-﻿cha.sc.0003,﻿church,﻿St. Patrick's,English,,,,,,﻿Charleston,﻿Charleston,﻿SC,,32.788225,-79.940392,,,,﻿joh_moore_001,﻿Rev.,﻿John Moore,﻿D.D.,,,,,,,1867,﻿,﻿,﻿Charleston,Charleston
+﻿cha.sc.0003,﻿church,﻿St. Patrick's,English,,,,,,﻿Charleston,﻿Charleston,﻿SC,,32.788225,-79.940392,,,,,﻿Rev.,﻿John Moore,﻿D.D.,,,,,,,1867,﻿,﻿,﻿Charleston,Charleston
 ﻿cha.sc.0003,﻿church,﻿St. Patrick's,English,,,,,,﻿Charleston,﻿Charleston,﻿SC,,32.788225,-79.940392,,,,﻿joh_o_schachte_001,﻿Rev.,﻿John Schachte,,,﻿1870 includes middle initial O.,,,,,1867,﻿,﻿,﻿Charleston,Charleston
-﻿cha.sc.0004,﻿church,﻿St. Joseph's,English,,,,,,﻿Charleston,﻿Charleston,﻿SC,,32.784352,-79.946823,,,,﻿cha_j_croghan_001,﻿Rev.,﻿Charles J. Croghan,,,,,,,,1867,﻿,﻿,﻿Charleston,Charleston
-﻿cha.sc.0005,﻿church,﻿St. Paul's,﻿German,,,,,,﻿Charleston,﻿Charleston,﻿SC,,32.928229,-79.855916,,,,﻿fra_j_shadler_001,﻿Rev.,﻿Francis J. Shadler,,,,,,,,1867,﻿,﻿,﻿Charleston,Charleston
+﻿cha.sc.0004,﻿church,﻿St. Joseph's,English,,,,,,﻿Charleston,﻿Charleston,﻿SC,,32.784352,-79.946823,,,,,﻿Rev.,﻿Charles J. Croghan,,,,,,,,1867,﻿,﻿,﻿Charleston,Charleston
+﻿cha.sc.0005,﻿church,﻿St. Paul's,﻿German,,,,,,﻿Charleston,﻿Charleston,﻿SC,,32.928229,-79.855916,,,,,﻿Rev.,﻿Francis J. Shadler,,,,,,,,1867,﻿,﻿,﻿Charleston,Charleston
 ﻿cha.sc.0006,﻿church,not recorded,﻿African,﻿African Church,,,,,﻿Charleston,﻿Charleston,﻿SC,,32.81442,-80.048753,,,,,,﻿----- ------,,,"﻿full name ""Aloysius"" listed 1968-70.",,,,,1867,﻿,﻿,﻿Charleston,Charleston
-﻿cha.sc.0043,﻿chapel,﻿Chapel of Sisters of Mercy,English,,,,,,﻿Charleston,﻿Charleston,﻿SC,,33.564031,-81.724663,,,,﻿tho_a_flynn_001,﻿Rev.,﻿Thos. A. Flynn,,,,,,,,1867,﻿,﻿,﻿Charleston,Charleston
+﻿cha.sc.0043,﻿chapel,﻿Chapel of Sisters of Mercy,English,,,,,,﻿Charleston,﻿Charleston,﻿SC,,33.564031,-81.724663,,,,,﻿Rev.,﻿Thos. A. Flynn,,,,,,,,1867,﻿,﻿,﻿Charleston,Charleston
 ﻿cha.sc.0023,﻿church,﻿St. Peter's,English,,,,,,﻿Beaufort,﻿Beaufort,﻿SC,,32.216316,-80.752608,,,,﻿j_p_oconnell_001,﻿Rev.,﻿Joseph P. O'Connell,﻿D.D.,,,,,,,1867,﻿,﻿,﻿Charleston,Charleston
 ﻿cha.sc.0024,﻿church,not recorded,English,,,,,,﻿Hilton Head,﻿Hilton Head,﻿SC,,32.22412,-80.713623,,,,﻿j_p_oconnell_001,﻿Rev.,﻿Joseph P. O'Connell,﻿D.D.,,,,,,,1867,﻿,﻿,﻿Charleston,Charleston
 ﻿cha.sc.0025,﻿church,﻿St. Peter's,English,,,,,,﻿Columbia,﻿Columbia,﻿SC,,34.704292,-81.214445,,,,﻿j_j_oconnell_001,﻿Rev.,﻿Jeremiah J. O'Connell,,,"﻿referred to as ""J. J. O'Connell"" 1869-70",,,,,1867,﻿,﻿,﻿Charleston,Charleston
 ﻿cha.sc.0035,﻿church,﻿St. Peter's,English,,,,,,﻿Cheraw,﻿Cheraw,﻿SC,,34.697604,-79.886644,,,,﻿joh_cullinane_001,﻿Rev.,﻿J. Cullinane,,,﻿John Cullinane in 1869,,,,,1867,﻿,﻿,﻿Charleston,Charleston
-﻿cha.sc.0034,﻿church,not recorded,English,,,,,,﻿Sumter,﻿Sumter,﻿SC,,34.005267,-81.037633,,,,﻿aug_f_mcneal_001,﻿Rev.,﻿Augustin F. McNeal,,,﻿Augustus F. McNeal in 1869,,,,,1867,﻿,﻿,﻿Charleston,Charleston
+﻿cha.sc.0034,﻿church,not recorded,English,,,,,,﻿Sumter,﻿Sumter,﻿SC,,34.005267,-81.037633,,,,,﻿Rev.,﻿Augustin F. McNeal,,,﻿Augustus F. McNeal in 1869,,,,,1867,﻿,﻿,﻿Charleston,Charleston
 ﻿cha.sc.0021,﻿church,﻿St. Mary's,English,﻿name changes in 1870,,,,,﻿Edgefield,﻿Edgefield,﻿SC,,33.790431,-81.930357,,,,﻿wm_a_merriwether_001,﻿Rev.,﻿Wm. A. Meriwether,,,,,,,,1867,﻿,﻿,﻿Charleston,Charleston
 ﻿cha.sc.0048,﻿church,﻿St. Philip's,English,,,,,,﻿Walterboro,﻿Walterboro,﻿SC,,,,﻿cha.sc.0001,﻿Attended from Charleston,,,,,,,,,,,,1867,﻿,﻿,﻿Charleston,Charleston
 ﻿cha.sc.0044,﻿church,﻿St. Andrew's,English,,,,,,﻿Barnwell,﻿Barnwell,﻿SC,,32.777233,-79.934259,﻿cha.sc.0001,﻿Attended from Charleston,,,,,,,,,,,,1867,﻿,﻿,﻿Charleston,Charleston
