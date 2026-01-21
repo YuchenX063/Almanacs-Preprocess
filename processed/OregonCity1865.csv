@@ -1,8 +1,8 @@
 ﻿instID,church_type,instName,language,instNote,placeName,region,county_orig,county_reg,city_orig,city_reg,state_orig,state_reg,latitude,longitude,attendingInstID,attendingChurch,attendingChurchFrequency,persID,persTitle,persName,persSuffix,persRole,persNote,memberType,member,affiliated,order,year,attendingPersID,attendingChurchNote,diocese,diocese_reg
-﻿ore.or.0001,﻿cathedral,﻿Cathedral of the Immaculate Conception,English,﻿blessed in 1852,,,,,﻿Portland,﻿Portland,﻿OR,,45.523698,-122.689059,,,,,﻿Most Rev.,﻿F. N. Blanchet,,,,,,,,1865,﻿,﻿,﻿Oregon City,OregonCity
-﻿ore.or.0001,﻿cathedral,﻿Cathedral of the Immaculate Conception,English,﻿blessed in 1852,,,,,﻿Portland,﻿Portland,﻿OR,,45.523698,-122.689059,,,,,﻿Very Rev.,﻿John F. Fierens,,﻿Rector,,,,,,1865,﻿,﻿,﻿Oregon City,OregonCity
-﻿ore.or.0001,﻿cathedral,﻿Cathedral of the Immaculate Conception,English,﻿blessed in 1852,,,,,﻿Portland,﻿Portland,﻿OR,,45.523698,-122.689059,,,,,﻿Rev.,﻿Charles Tierney,,﻿Assistant,,,,,,1865,﻿,﻿,﻿Oregon City,OregonCity
-﻿ore.or.0001,﻿cathedral,﻿Cathedral of the Immaculate Conception,English,﻿blessed in 1852,,,,,﻿Portland,﻿Portland,﻿OR,,45.523698,-122.689059,,,,,﻿Rev.,﻿Lewis Piette,,﻿Chaplain of the Sisters,,,,,,1865,﻿,﻿,﻿Oregon City,OregonCity
+﻿ore.or.0001,﻿cathedral,﻿Cathedral of the Immaculate Conception,English,﻿blessed in 1852,,,,,﻿Portland,﻿Portland,﻿OR,,45.523698,-122.689059,,,,﻿f_n_blanchet_001,﻿Most Rev.,﻿F. N. Blanchet,,,,,,,,1865,﻿,﻿,﻿Oregon City,OregonCity
+﻿ore.or.0001,﻿cathedral,﻿Cathedral of the Immaculate Conception,English,﻿blessed in 1852,,,,,﻿Portland,﻿Portland,﻿OR,,45.523698,-122.689059,,,,﻿joh_f_fierens_001,﻿Very Rev.,﻿John F. Fierens,,﻿Rector,,,,,,1865,﻿,﻿,﻿Oregon City,OregonCity
+﻿ore.or.0001,﻿cathedral,﻿Cathedral of the Immaculate Conception,English,﻿blessed in 1852,,,,,﻿Portland,﻿Portland,﻿OR,,45.523698,-122.689059,,,,﻿cha_tierney_001,﻿Rev.,﻿Charles Tierney,,﻿Assistant,,,,,,1865,﻿,﻿,﻿Oregon City,OregonCity
+﻿ore.or.0001,﻿cathedral,﻿Cathedral of the Immaculate Conception,English,﻿blessed in 1852,,,,,﻿Portland,﻿Portland,﻿OR,,45.523698,-122.689059,,,,﻿lew_piette_001,﻿Rev.,﻿Lewis Piette,,﻿Chaplain of the Sisters,,,,,,1865,﻿,﻿,﻿Oregon City,OregonCity
 ﻿ore.or.0002,﻿church,﻿Sacred Heart's Church,English,﻿1846,,,,,﻿Oregon City,﻿Oregon City,﻿OR,,45.35561,-122.605853,﻿ore.or.0001,﻿Attended from Portland,,,,,,,,,,,,1865,﻿,﻿,﻿Oregon City,OregonCity
 ﻿ore.or.0003,﻿church,﻿St. John the Baptist's Church,English,"﻿blessed July 24, 1864",,,,,﻿Milwaukee,﻿Milwaukee,﻿OR,,45.442619,-122.63984,﻿ore.or.0002,﻿Attended from Portland,,,,,,,,,,,,1865,﻿,﻿,﻿Oregon City,OregonCity
 ﻿ore.or.0007,﻿church,not recorded,English,,,,﻿Washington County,,﻿Hillboro,﻿Hillsboro,﻿OR,,45.520134,-122.989849,﻿ore.or.0001,﻿attended from Portland,,,,,,,,,,,,1865,﻿,﻿,﻿Oregon City,OregonCity
@@ -15,9 +15,9 @@
 ﻿ore.or.0013,﻿church,not recorded,English,﻿1847,,﻿French Prairie,﻿Marion County,,﻿St. Louis,﻿St. Louis,﻿OR,,45.123267,-122.942632,,,,﻿bar_delorme_001,﻿Very Rev.,﻿B. Delorme,,﻿V.G. Pastor,,,,,,1865,﻿,﻿,﻿Oregon City,OregonCity
 ﻿ore.or.0013,﻿church,not recorded,English,﻿1847,,﻿French Prairie,﻿Marion County,,﻿St. Louis,﻿St. Louis,﻿OR,,45.123267,-122.942632,,,,﻿a_libar_001,﻿Rev.,﻿A. Lebas,,﻿Assistant,,,,,,1865,﻿,﻿,﻿Oregon City,OregonCity
 ﻿ore.or.0005,﻿church,not recorded,English,,,,,,﻿Molala,﻿Molalla,﻿OR,,45.147544,-122.577126,﻿ore.or.0002,﻿attended from St. Louis,,,,,,,,,,,,1865,﻿,﻿,﻿Oregon City,OregonCity
-﻿ore.or.0015,﻿church,not recorded,English,,,﻿French Prairie,﻿Marion County,,﻿St. Paul,,﻿OR,,45.262342,-122.840374,﻿ore.or.0014,,,,﻿Rev.,﻿John F. Malo,,﻿Pastor,,,,,,1865,﻿,﻿,﻿Oregon City,OregonCity
+﻿ore.or.0015,﻿church,not recorded,English,,,﻿French Prairie,﻿Marion County,,﻿St. Paul,,﻿OR,,45.262342,-122.840374,﻿ore.or.0014,,,﻿joh_f_malo_001,﻿Rev.,﻿John F. Malo,,﻿Pastor,,,,,,1865,﻿,﻿,﻿Oregon City,OregonCity
 ﻿ore.or.0083,﻿church,not recorded,English,,,,,,﻿Butteville,﻿Butteville,﻿OR,,,,﻿ore.or.0015,﻿attended from St. Paul,,,,,,,,,,,,1865,﻿,﻿,﻿Oregon City,OregonCity
-﻿ore.or.0017,﻿church,﻿St. John the Evangelist,English,"﻿blessed April 10, 1864",,,,,﻿Salem,﻿Salem,﻿OR,,44.942898,-123.035096,,,,,﻿Rev.,﻿Sebastian Goens,,﻿Pastor,,,,,,1865,﻿,﻿,﻿Oregon City,OregonCity
+﻿ore.or.0017,﻿church,﻿St. John the Evangelist,English,"﻿blessed April 10, 1864",,,,,﻿Salem,﻿Salem,﻿OR,,44.942898,-123.035096,,,,﻿seb_goens_001,﻿Rev.,﻿Sebastian Goens,,﻿Pastor,,,,,,1865,﻿,﻿,﻿Oregon City,OregonCity
 ﻿ore.or.0025,﻿church,﻿St. Mary's Church,English,"﻿blessed Feb. 17th, 1861",,,,,﻿Corvallis,﻿Corvallis,﻿OR,,44.572976,-123.278457,,﻿attended from Salem,,,,,,﻿Pastor,,,,,,1865,﻿,﻿,﻿Oregon City,OregonCity
 ﻿ore.or.0026,﻿church,not recorded,English,,,,,,﻿Albany,﻿Albany,﻿OR,,44.636511,-123.105928,﻿ore.or.0025,﻿attended from Salem,,,,,,,,,,,,1865,﻿,﻿,﻿Oregon City,OregonCity
 ﻿ore.or.0033,﻿church,not recorded,English,,,,,,﻿Fort Hoskins,﻿Fort Hoskins,﻿OR,,44.616971,-124.020727,﻿ore.or.0025,﻿attended from Salem,,,,,,,,,,,,1865,﻿,﻿,﻿Oregon City,OregonCity
@@ -36,7 +36,7 @@
 ﻿ore.or.0041,﻿church,not recorded,English,,,,,,﻿Empire City,﻿Coos Bay,﻿OR,,43.367221,-124.213132,﻿ore.or.0015,﻿Attended from Portland,,,,,,,,,,,,1865,﻿,﻿,﻿Oregon City,OregonCity
 ﻿ore.or.0043,﻿church,not recorded,English,,,,,,﻿Port Oxford,﻿Port Oxford,﻿OR,,43.804133,-120.554201,﻿ore.or.0015,﻿Attended from Portland,,,,,,,,,,,,1865,﻿,﻿,﻿Oregon City,OregonCity
 ﻿ore.or.0042,﻿church,not recorded,English,,,"﻿on the Pacific Coast, at the mouth of the Rouge River",,,﻿Ellenburgh,,﻿OR,,,,,,,,,,,,,,,,,1865,﻿,﻿,﻿Oregon City,OregonCity
-﻿ore.or.0045,﻿church,﻿St. Joseph's,English,"﻿July 10th, 1859",,,,,﻿Jacksonville,﻿Jacksonville,﻿OR,,42.313458,-122.966986,,,,,﻿Rev.,﻿F. X. Blanchet,,﻿Pastor,,,,,,1865,﻿,﻿,﻿Oregon City,OregonCity
+﻿ore.or.0045,﻿church,﻿St. Joseph's,English,"﻿July 10th, 1859",,,,,﻿Jacksonville,﻿Jacksonville,﻿OR,,42.313458,-122.966986,,,,﻿f_x_blanchet_001,﻿Rev.,﻿F. X. Blanchet,,﻿Pastor,,,,,,1865,﻿,﻿,﻿Oregon City,OregonCity
 ﻿ore.or.0046,﻿church,﻿St. Patrick's,English,"﻿March 17th, 1864",,,,,﻿Allen Gulch,,﻿OR,,42.344757,-123.456874,﻿ore.or.0045,﻿attended from Jacksonville,,,,,,,,,,,,1865,﻿,﻿,﻿Oregon City,OregonCity
 ﻿ore.or.0048,﻿church,not recorded,English,,,,,,﻿Kerbyville,﻿Kerby,﻿OR,,42.440125,-122.926155,﻿ore.or.0045,﻿attended from Jacksonville,,,,,,,,,,,,1865,﻿,﻿,﻿Oregon City,OregonCity
 ﻿ore.or.0047,﻿church,not recorded,English,,,,,,﻿Waldo,﻿Waldo,﻿OR,,43.804133,-120.554201,﻿ore.or.0045,﻿attended from Jacksonville,,,,,,,,,,,,1865,﻿,﻿,﻿Oregon City,OregonCity
@@ -49,11 +49,11 @@
 ﻿ore.or.0022,﻿church,not recorded,English,,,,,,﻿Dayton,﻿Dayton,﻿OR,,45.220824,-123.075579,﻿ore.or.0018,﻿attended from St. Michael,,,,,,,,,,,,1865,﻿,﻿,﻿Oregon City,OregonCity
 ﻿ore.or.0023,﻿church,not recorded,English,,﻿Siletz Indian Reservation,,,,,,﻿OR,,44.721784,-123.920113,﻿ore.or.0018,﻿attended from St. Michael,,,,,,,,,,,,1865,﻿,﻿,﻿Oregon City,OregonCity
 ﻿ore.or.0024,﻿church,not recorded,English,,,﻿on the coast,,,﻿Yaquina City,﻿Yaquina City,﻿OR,,44.381889,-123.597067,﻿ore.or.0018,﻿attended from St. Michael,,,,,,,,,,,,1865,﻿,﻿,﻿Oregon City,OregonCity
-﻿ore.or.0051,﻿church,﻿St. Peter's,English,"﻿1848, 1856 new one, Dec. 22d, 1861",,,,,﻿Dalles City,﻿City of the Dalles,﻿OR,,45.601772,-121.184843,,,,,﻿Rev.,﻿G. Adolphe Vermersch,,﻿Pastor,,,,,,1865,﻿,﻿,﻿Oregon City,OregonCity
+﻿ore.or.0051,﻿church,﻿St. Peter's,English,"﻿1848, 1856 new one, Dec. 22d, 1861",,,,,﻿Dalles City,﻿City of the Dalles,﻿OR,,45.601772,-121.184843,,,,﻿g_a_vermersch_001,﻿Rev.,﻿G. Adolphe Vermersch,,﻿Pastor,,,,,,1865,﻿,﻿,﻿Oregon City,OregonCity
 ﻿ore.or.0054,﻿church,not recorded,English,,﻿The Indian Reservation of Warm Springs,,,,,,﻿OR,,43.804133,-120.554201,﻿ore.or.0051,﻿attended from Dalles City,,,,,,,,,,,,1865,﻿,﻿,﻿Oregon City,OregonCity
-﻿ore.or.0062,﻿church,﻿St. Andrew's Church,English,﻿blessed Oct. 1864,﻿on the southern branch of John Day,,,,﻿Canyon City,﻿Canyon City,﻿OR,,44.3896,-118.950231,,,,,﻿Rev.,﻿Leopold Dieleman,,﻿Pastor,,,,,,1865,﻿,﻿,﻿Oregon City,OregonCity
+﻿ore.or.0062,﻿church,﻿St. Andrew's Church,English,﻿blessed Oct. 1864,﻿on the southern branch of John Day,,,,﻿Canyon City,﻿Canyon City,﻿OR,,44.3896,-118.950231,,,,﻿leo_dieleman_001,﻿Rev.,﻿Leopold Dieleman,,﻿Pastor,,,,,,1865,﻿,﻿,﻿Oregon City,OregonCity
 ﻿ore.or.0071,﻿church,not recorded,English,,,,,,﻿Granite City,﻿Granite City,﻿OR,,43.804133,-120.554201,﻿ore.or.0062,﻿attended from Canyon City,,,,,,,,,,,,1865,﻿,﻿,﻿Oregon City,OregonCity
-﻿ore.or.0058,﻿mission,not recorded,English,﻿no church,﻿Umatilla Indian Reservation,,,,,,﻿OR,,45.670408,-118.68359,,,,,﻿Rev.,﻿Giorda,﻿S.J.,﻿Superior of the Mission of the Rocky Mountains,﻿Will take charge of that mission in January 1865,,,,,1865,﻿,﻿,﻿Oregon City,OregonCity
+﻿ore.or.0058,﻿mission,not recorded,English,﻿no church,﻿Umatilla Indian Reservation,,,,,,﻿OR,,45.670408,-118.68359,,,,﻿giorda_001,﻿Rev.,﻿Giorda,﻿S.J.,﻿Superior of the Mission of the Rocky Mountains,﻿Will take charge of that mission in January 1865,,,,,1865,﻿,﻿,﻿Oregon City,OregonCity
 ﻿boi.id.0009,﻿church,not recorded,English,,﻿on Grand Bend River,,,,﻿La Grande City,,﻿ID,,,,﻿ore.or.0058,﻿attended from Umatilla Indian Reservation,,,,,,,,,,,,1865,﻿,﻿,﻿Oregon City,OregonCity
 ﻿ore.or.0060,﻿church,not recorded,English,,﻿on Powder River,,,,﻿Auburn,,﻿OR,,44.693804,-117.931859,﻿ore.or.0058,﻿attended from Umatilla Indian Reservation,,,,,,,,,,,,1865,﻿,﻿,﻿Oregon City,OregonCity
 ﻿boi.id.0001,﻿church,﻿St. Joseph's,English,"﻿Nov. 15th, 1863",﻿on Boise River,,,,﻿Idaho City,﻿Idaho City,﻿ID,,,,,,,﻿z_poulin_001,﻿Rev.,﻿A. Z. Poulin,,﻿Pastor,,,,,,1865,﻿,﻿,﻿Oregon City,OregonCity

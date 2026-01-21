@@ -1,21 +1,21 @@
 ﻿instID,church_type,instName,language,instNote,placeName,region,county_orig,county_reg,city_orig,city_reg,state_orig,state_reg,latitude,longitude,attendingInstID,attendingChurch,attendingChurchFrequency,persID,persTitle,persName,persSuffix,persRole,persNote,memberType,member,affiliated,order,year,attendingPersID,attendingChurchNote,diocese,diocese_reg
-﻿cha.sc.0001,﻿cathedral,﻿Finbar's Cathedral,English,,,,,,﻿Charleston,﻿Charleston,﻿SC,,32.776496,-79.934468,,,,,﻿Rt. Rev.,﻿P. N. Lynch,﻿D.D.,,,,,,,1864,﻿,﻿,﻿Charleston,Charleston
-﻿cha.sc.0001,﻿cathedral,﻿Finbar's Cathedral,English,,,,,,﻿Charleston,﻿Charleston,﻿SC,,32.776496,-79.934468,,,,,﻿Rev.,﻿T. J. Sullivan,,,,,,,,1864,﻿,﻿,﻿Charleston,Charleston
-﻿cha.sc.0001,﻿cathedral,﻿Finbar's Cathedral,English,,,,,,﻿Charleston,﻿Charleston,﻿SC,,32.776496,-79.934468,,,,,﻿Rev.,﻿J. A. Corcoran,﻿D.D.,,,,,,,1864,﻿,﻿,﻿Charleston,Charleston
-﻿cha.sc.0001,﻿cathedral,﻿Finbar's Cathedral,English,,,,,,﻿Charleston,﻿Charleston,﻿SC,,32.776496,-79.934468,,,,,﻿Rev.,﻿L. Fillion,,,,,,,,1864,﻿,﻿,﻿Charleston,Charleston
-﻿cha.sc.0001,﻿cathedral,﻿Finbar's Cathedral,English,,,,,,﻿Charleston,﻿Charleston,﻿SC,,32.776496,-79.934468,,,,,﻿Rev.,﻿Felix J. Carr,,,,,,,,1864,﻿,﻿,﻿Charleston,Charleston
+﻿cha.sc.0001,﻿cathedral,﻿Finbar's Cathedral,English,,,,,,﻿Charleston,﻿Charleston,﻿SC,,32.776496,-79.934468,,,,﻿p_n_lynch_001,﻿Rt. Rev.,﻿P. N. Lynch,﻿D.D.,,,,,,,1864,﻿,﻿,﻿Charleston,Charleston
+﻿cha.sc.0001,﻿cathedral,﻿Finbar's Cathedral,English,,,,,,﻿Charleston,﻿Charleston,﻿SC,,32.776496,-79.934468,,,,﻿t_j_sullivan_001,﻿Rev.,﻿T. J. Sullivan,,,,,,,,1864,﻿,﻿,﻿Charleston,Charleston
+﻿cha.sc.0001,﻿cathedral,﻿Finbar's Cathedral,English,,,,,,﻿Charleston,﻿Charleston,﻿SC,,32.776496,-79.934468,,,,﻿j_a_corcoran_001,﻿Rev.,﻿J. A. Corcoran,﻿D.D.,,,,,,,1864,﻿,﻿,﻿Charleston,Charleston
+﻿cha.sc.0001,﻿cathedral,﻿Finbar's Cathedral,English,,,,,,﻿Charleston,﻿Charleston,﻿SC,,32.776496,-79.934468,,,,﻿l_fillion_001,﻿Rev.,﻿L. Fillion,,,,,,,,1864,﻿,﻿,﻿Charleston,Charleston
+﻿cha.sc.0001,﻿cathedral,﻿Finbar's Cathedral,English,,,,,,﻿Charleston,﻿Charleston,﻿SC,,32.776496,-79.934468,,,,﻿fel_j_carr_001,﻿Rev.,﻿Felix J. Carr,,,,,,,,1864,﻿,﻿,﻿Charleston,Charleston
 ﻿cha.sc.0002,﻿church,﻿St. Mary's,English,,,,,,﻿Charleston,﻿Charleston,﻿SC,,32.7818,-79.932825,,,,﻿ric_s_baker_001,﻿Rev.,﻿R. S. Baker,,,,,,,,1864,﻿,﻿,﻿Charleston,Charleston
 ﻿cha.sc.0002,﻿church,﻿St. Mary's,English,,,,,,﻿Charleston,﻿Charleston,﻿SC,,32.7818,-79.932825,,,,﻿p_ryan_002,﻿Rev.,﻿P. Bryan,﻿D.D.,,,,,,,1864,﻿,﻿,﻿Charleston,Charleston
-﻿cha.sc.0003,﻿church,﻿St. Patrick's,English,,,,,,﻿Charleston,﻿Charleston,﻿SC,,32.788225,-79.940392,,,,,﻿Rev.,﻿P. O'Neill,﻿D.D.,,,,,,,1864,﻿,﻿,﻿Charleston,Charleston
+﻿cha.sc.0003,﻿church,﻿St. Patrick's,English,,,,,,﻿Charleston,﻿Charleston,﻿SC,,32.788225,-79.940392,,,,﻿p_oneill_002,﻿Rev.,﻿P. O'Neill,﻿D.D.,,,,,,,1864,﻿,﻿,﻿Charleston,Charleston
 ﻿cha.sc.0049,﻿church,not recorded,English,,,,,,﻿Abbeville,﻿Abbeville,﻿SC,,,,﻿sav.ga.0003,"﻿Attended from Augusta, Ga.",,,,,,,﻿1870 includes middle initial O.,,,,,1864,﻿,﻿,﻿Charleston,Charleston
-﻿cha.sc.0044,﻿church,﻿St. Andrew's,English,,,,,,﻿Bairnewall,﻿Barnwell,﻿SC,,32.777233,-79.934259,,,,﻿tim_bermingham_001,﻿Rev.,﻿T. Bermingham,,,,,,,,1864,﻿,﻿,﻿Charleston,Charleston
-﻿cha.sc.0023,﻿church,﻿St. Peter's,English,,,,,,﻿Beaufort,﻿Beaufort,﻿SC,,32.216316,-80.752608,﻿cha.sc.0001,﻿Attended from the Cathedral,,,,,,,,,,,,1864,﻿,﻿,﻿Charleston,Charleston
+﻿cha.sc.0044,﻿church,﻿St. Andrew's,English,,,,,,﻿Bairnewall,﻿Barnwell,﻿SC,,32.790971,-79.9323,,,,﻿tim_bermingham_001,﻿Rev.,﻿T. Bermingham,,,,,,,,1864,﻿,﻿,﻿Charleston,Charleston
+﻿cha.sc.0023,﻿church,﻿St. Peter's,English,,,,,,﻿Beaufort,﻿Beaufort,﻿SC,,32.439429,-80.670543,﻿cha.sc.0001,﻿Attended from the Cathedral,,,,,,,,,,,,1864,﻿,﻿,﻿Charleston,Charleston
 ﻿cha.sc.0050,﻿church,not recorded,English,,,,,,﻿Camden,,﻿SC,,,,﻿cha.sc.0025,"﻿Attended from Columbia, S.C.",,,,,,,,,,,,1864,﻿,﻿,﻿Charleston,Charleston
-﻿cha.sc.0035,﻿church,﻿St. Peter's,English,,,,,,﻿Cheraw,﻿Cheraw,﻿SC,,34.697604,-79.886644,,,,,﻿Rev.,﻿J. Cullinane,,,﻿John Cullinane in 1869,,,,,1864,﻿,﻿,﻿Charleston,Charleston
+﻿cha.sc.0035,﻿church,﻿St. Peter's,English,,,,,,﻿Cheraw,﻿Cheraw,﻿SC,,34.693371,-79.89188,,,,﻿j_cullinane_001,﻿Rev.,﻿J. Cullinane,,,﻿John Cullinane in 1869,,,,,1864,﻿,﻿,﻿Charleston,Charleston
 ﻿cha.sc.0051,﻿church,not recorded,English,,,,,,﻿Chester,﻿Chester,﻿SC,,,,,,,﻿aug_f_mcneal_001,﻿Rev.,﻿Aug. McNeall,,,,,,,,1864,﻿,﻿,﻿Charleston,Charleston
-﻿cha.sc.0025,﻿church,﻿St. Joseph's,English,,,,,,﻿Columbia,﻿Columbia,﻿SC,,34.704292,-81.214445,,,,,﻿Rev.,﻿J. J. O'Connell,,,"﻿referred to as ""J. J. O'Connell"" 1869-70",,,,,1864,﻿,﻿,﻿Charleston,Charleston
-﻿cha.sc.0025,﻿church,﻿St. Joseph's,English,,,,,,﻿Columbia,﻿Columbia,﻿SC,,34.704292,-81.214445,,,,,,﻿L. J. O'Connell,,,,,,,,1864,﻿,﻿,﻿Charleston,Charleston
-﻿cha.sc.0025,﻿church,﻿St. Joseph's,English,,,,,,﻿Columbia,﻿Columbia,﻿SC,,34.704292,-81.214445,,,,﻿j_p_oconnell_001,,﻿Joseph P. O'Connell,﻿D.D.,,,,,,,1864,﻿,﻿,﻿Charleston,Charleston
+﻿cha.sc.0025,﻿church,﻿St. Joseph's,English,,,,,,﻿Columbia,﻿Columbia,﻿SC,,34.005607,-81.038007,,,,﻿j_j_oconnell_001,﻿Rev.,﻿J. J. O'Connell,,,"﻿referred to as ""J. J. O'Connell"" 1869-70",,,,,1864,﻿,﻿,﻿Charleston,Charleston
+﻿cha.sc.0025,﻿church,﻿St. Joseph's,English,,,,,,﻿Columbia,﻿Columbia,﻿SC,,34.005607,-81.038007,,,,,,﻿L. J. O'Connell,,,,,,,,1864,﻿,﻿,﻿Charleston,Charleston
+﻿cha.sc.0025,﻿church,﻿St. Joseph's,English,,,,,,﻿Columbia,﻿Columbia,﻿SC,,34.005607,-81.038007,,,,﻿j_p_oconnell_001,,﻿Joseph P. O'Connell,﻿D.D.,,,,,,,1864,﻿,﻿,﻿Charleston,Charleston
 ﻿cha.sc.0021,﻿church,not recorded,English,,,,,,﻿Edgefield,﻿Edgefield,﻿SC,,33.790431,-81.930357,,,,﻿tim_bermingham_001,﻿Rev.,﻿Timothy Bermingham,,,,,,,,1864,﻿,﻿,﻿Charleston,Charleston
 ﻿cha.sc.0052,﻿church,not recorded,English,,,,,,﻿Port Johnson,﻿Fort Johnson,﻿SC,,,,﻿cha.sc.0001,﻿Attended from the Cathedral,,,,,,,,,,,,1864,﻿,﻿,﻿Charleston,Charleston
 ﻿cha.sc.0076,﻿church,not recorded,English,,,,,,﻿Fort Sumter,,﻿SC,,,,﻿cha.sc.0001,﻿Attended from the Cathedral,,,,,,,,,,,,1864,﻿,﻿,﻿Charleston,Charleston
@@ -23,7 +23,7 @@
 ﻿cha.sc.0053,﻿church,not recorded,English,,,,,,﻿Graniteville,,﻿SC,,,,,,,﻿tim_bermingham_001,﻿Rev.,﻿T. Bermingham,,,,,,,,1864,﻿,﻿,﻿Charleston,Charleston
 ﻿cha.sc.0054,﻿church,not recorded,English,,,,,,﻿Hutchinson's Island,,﻿SC,,,,﻿cha.sc.0001,﻿Attended from Charleston,,,,,,,,,,,,1864,﻿,﻿,﻿Charleston,Charleston
 ﻿cha.sc.0055,﻿church,not recorded,English,,,,,,﻿Lancaster,﻿Lancaster,﻿SC,,,,﻿cha.sc.0051,﻿attended from Chester,,,,,,,,,,,,1864,﻿,﻿,﻿Charleston,Charleston
-﻿cha.sc.0007,﻿church,﻿St. John Baptist,English,,﻿Moultrieville,,,,﻿Sullivan's Island,﻿Sullivan's Island,﻿SC,,32.760733,-79.858492,,,,,﻿Rev.,﻿J. A. Corcoran,﻿D.D.,,,,,,,1864,﻿,﻿,﻿Charleston,Charleston
+﻿cha.sc.0007,﻿church,﻿St. John Baptist,English,,﻿Moultrieville,,,,﻿Sullivan's Island,﻿Sullivan's Island,﻿SC,,32.760733,-79.858492,,,,﻿j_a_corcoran_001,﻿Rev.,﻿J. A. Corcoran,﻿D.D.,,,,,,,1864,﻿,﻿,﻿Charleston,Charleston
 ﻿cha.sc.0045,﻿church,not recorded,English,,,,,,﻿Newberry,﻿Newberry,﻿SC,,,,﻿cha.sc.0025,﻿Attended from Columbia,,,,,,,,,,,,1864,﻿,﻿,﻿Charleston,Charleston
 ﻿cha.sc.0056,﻿church,not recorded,English,,,,,,﻿Orangeburgh,﻿Orangeburg,﻿SC,,,,,,,﻿tim_bermingham_001,﻿Rev.,﻿T. Bermingham,,,,,,,,1864,﻿,﻿,﻿Charleston,Charleston
 ﻿cha.sc.0057,﻿church,not recorded,English,,,,,,﻿Ridgeville,﻿Ridgeville,﻿SC,,,,﻿cha.sc.0001,"﻿Attended from Charleston, S.C.",,,,,,,,,,,,1864,﻿,﻿,﻿Charleston,Charleston
@@ -31,13 +31,13 @@
 ﻿cha.sc.0059,﻿church,﻿St. Lawrence,English,,﻿Charlestown Dist.,,,,﻿Sumterville,﻿Sumter,﻿SC,,,,﻿cha.sc.0025,﻿Attended from Columbia,,,,,,,,,,,,1864,﻿,﻿,﻿Charleston,Charleston
 ﻿cha.sc.0071,﻿church,not recorded,English,,,,,,﻿Unionville,﻿Union,﻿SC,,,,﻿cha.sc.0051,﻿Attended from Chester,,,,,,,,,,,,1864,﻿,﻿,﻿Charleston,Charleston
 ﻿cha.sc.0072,﻿church,not recorded,English,,,,,,﻿Vancluse,﻿Vancluse,﻿SC,,,,,,,﻿tim_bermingham_001,﻿Rev.,﻿T. Bermingham,,,,,,,,1864,﻿,﻿,﻿Charleston,Charleston
-﻿cha.sc.0060,﻿church,﻿St. Philip's,English,,,,,,﻿Walterboro,﻿Walterboro,﻿SC,,,,,,,,﻿Rev.,﻿F. J. Carr,,,,,,,,1864,﻿,﻿,﻿Charleston,Charleston
+﻿cha.sc.0060,﻿church,﻿St. Philip's,English,,,,,,﻿Walterboro,﻿Walterboro,﻿SC,,,,,,,﻿f_j_carr_001,﻿Rev.,﻿F. J. Carr,,,,,,,,1864,﻿,﻿,﻿Charleston,Charleston
 ﻿cha.sc.0073,﻿church,not recorded,English,,,,,,﻿Winnsboro,,﻿SC,,,,﻿cha.sc.0025,﻿attended from Columbia,,,,,,,,,,,,1864,﻿,﻿,﻿Charleston,Charleston
 ﻿cha.sc.0074,﻿church,not recorded,English,,,,,,﻿Yorkville,,﻿SC,,,,﻿cha.sc.0025,﻿attended from Columbia,,,,,,,,,,,,1864,﻿,﻿,﻿Charleston,Charleston
 ﻿ral.nc.0011,﻿church,﻿St. Peter's,English,,,,﻿Mecklenburg County,﻿Mecklenburg County,﻿Charlotte,﻿Charlotte,﻿NC,,35.167851,-80.728246,,,,﻿aug_f_mcneal_001,﻿Rev.,﻿Aug. F. McNeall,,,,,,,,1864,﻿,﻿,﻿Charleston,Charleston
 ﻿cha.sc.0061,﻿church,not recorded,English,,,,,,﻿Concord,,﻿NC,,,,﻿ral.nc.0011,﻿attended from Charlotte,,,,,,,,,,,,1864,﻿,﻿,﻿Charleston,Charleston
-﻿cha.sc.0062,﻿church,not recorded,English,,,,﻿Chatham County,,﻿Coalmines,,﻿NC,,,,,,,,﻿Rev.,﻿Thomas Quigley,,,,,,,,1864,﻿,﻿,﻿Charleston,Charleston
-﻿ral.nc.0005,﻿church,﻿St. Patrick's,English,,,,﻿Chowan County,﻿Chowan County,﻿Edenton,﻿Edenton,﻿NC,,36.062787,-76.608034,,,,,﻿Rev.,﻿Charles J. Croghan,,,,,,,,1864,﻿,﻿,﻿Charleston,Charleston
+﻿cha.sc.0062,﻿church,not recorded,English,,,,﻿Chatham County,,﻿Coalmines,,﻿NC,,,,,,,﻿tho_quigley_001,﻿Rev.,﻿Thomas Quigley,,,,,,,,1864,﻿,﻿,﻿Charleston,Charleston
+﻿ral.nc.0005,﻿church,﻿St. Patrick's,English,,,,﻿Chowan County,﻿Chowan County,﻿Edenton,﻿Edenton,﻿NC,,36.062787,-76.608034,,,,﻿cha_j_croghan_001,﻿Rev.,﻿Charles J. Croghan,,,,,,,,1864,﻿,﻿,﻿Charleston,Charleston
 ﻿ral.nc.0002,﻿church,not recorded,English,,,,﻿Cumberland County,﻿Cumberland County,﻿Fayetteville,﻿Fayetteville,﻿NC,,35.052367,-78.878377,,,,﻿tho_quigley_001,﻿Rev.,﻿Thomas Quigley,,,,,,,,1864,﻿,﻿,﻿Charleston,Charleston
 ﻿cha.sc.0075,﻿church,not recorded,English,,,,,,﻿Greenfield,,﻿NC,,,,﻿cha.sc.0069,"﻿attended from Washington, N.C.",,,,,,,,,,,,1864,﻿,﻿,﻿Charleston,Charleston
 ﻿cha.sc.0063,﻿church,not recorded,English,,,,,,﻿Greenwood,﻿Trent Woods,﻿NC,,,,﻿cha.sc.0069,"﻿attended from Washington, N.C.",,,,,,,,,,,,1864,﻿,﻿,﻿Charleston,Charleston
@@ -45,14 +45,14 @@
 ﻿cha.sc.0064,﻿church,not recorded,English,,,,,,﻿Scotland Neck,﻿Scotland Neck,﻿NC,,,,﻿cha.sc.0069,"﻿attended from Washington, N.C.",,,,,,,,,,,,1864,﻿,﻿,﻿Charleston,Charleston
 ﻿ral.nc.0004,﻿church,﻿St. Paul's,English,,,,﻿Craven County,﻿Craven County,﻿Newbern,﻿New Bern,﻿NC,,35.084562,-77.068022,,,,﻿cha_j_croghan_001,﻿Rev.,﻿Charles J. Croghan,,,,,,,,1864,﻿,﻿,﻿Charleston,Charleston
 ﻿cha.sc.0065,﻿church,not recorded,English,,,,,,﻿Plymouth,,﻿NC,,,,﻿cha.sc.0069,﻿attended from Washington.,,,,,,,,,,,,1864,﻿,﻿,﻿Charleston,Charleston
-﻿ral.nc.0018,﻿church,﻿St. John the Baptist,English,,,,﻿Wake County,﻿Wake County,﻿Raleigh,﻿Raleigh,﻿NC,,35.590716,-78.600607,,,,,﻿Rev.,﻿Thomas Quigley,,,,,,,,1864,﻿,﻿,﻿Charleston,Charleston
+﻿ral.nc.0018,﻿church,﻿St. John the Baptist,English,,,,﻿Wake County,﻿Wake County,﻿Raleigh,﻿Raleigh,﻿NC,,35.590716,-78.600607,,,,﻿tho_quigley_001,﻿Rev.,﻿Thomas Quigley,,,,,,,,1864,﻿,﻿,﻿Charleston,Charleston
 ﻿cha.sc.0066,﻿church,﻿St. Joseph's,English,,,,﻿Gaston County,,,,﻿NC,,,,,,,﻿aug_f_mcneal_001,﻿Rev.,﻿Aug. F. Neall,,,,,,,,1864,﻿,﻿,﻿Charleston,Charleston
 ﻿cha.sc.0067,﻿church,﻿St. Mary's,English,,,,,,,,﻿NC,,,,,,,﻿aug_f_mcneal_001,﻿Rev.,﻿Aug. F. Neall,,,,,,,,1864,﻿,﻿,﻿Charleston,Charleston
 ﻿cha.sc.0068,﻿church,not recorded,English,,,,﻿Brunswick County,,﻿Smithville,﻿Smithfield,﻿NC,,,,﻿ral.nc.0001,﻿attended from Wilmington,,,,,,,,,,,,1864,﻿,﻿,﻿Charleston,Charleston
 ﻿cha.sc.0069,﻿church,﻿St. John Evangelist,English,,,,﻿Beaufort County,,﻿Washington,,﻿NC,,,,,,,﻿cha_j_croghan_001,﻿Rev.,﻿C. J. Crogan,,,,,,,,1864,﻿,﻿,﻿Charleston,Charleston
 ﻿ral.nc.0001,﻿church,﻿St. Thomas,English,,,,﻿New-Hanover County,﻿New Hanover County,﻿Wilmington,﻿Wilmington,﻿NC,,34.318265,-77.774334,,,,﻿tho_murphy_001,﻿Rev.,﻿Thomas Murphy,,,,,,,,1864,﻿,﻿,﻿Charleston,Charleston
 ﻿cha.sc.0070,﻿seminary,﻿Seminary of St. John the Baptist,English,,,,,,﻿Charleston,,﻿NC,,,,,,,,,,,,,,,,,1864,﻿,﻿,﻿Charleston,Charleston
-﻿cha.sc.0038,﻿convent,﻿Convent and Academy,English,,,,,,﻿Charleston,﻿Charleston,﻿SC,,32.783316,-79.931966,,,,,﻿Mother,﻿Theresa Barry,,﻿Superior,,,,﻿directed by the Sisters of Our Lady of Mercy,,1864,﻿,﻿,﻿Charleston,Charleston
-﻿cha.sc.0037,﻿convent,﻿Convent and Academy of the Ursulines,English,,,,,,﻿Colombia,,﻿NC,,32.777702,-79.933436,,,,﻿m_b_lynch_001,﻿Madame,﻿M. Baptiste Lynch,,﻿Lady Superior,,,,,,1864,﻿,﻿,﻿Charleston,Charleston
-﻿cha.sc.0040,﻿female orphan asylum,﻿Orphan Asylum and Girls' Free School,English,,,,,,﻿Charleston,﻿Charleston,﻿SC,,32.759246,-79.857854,,,,,,,,,,,,﻿directed by the Sisters of Our Lady of Mercy,,1864,﻿,﻿,﻿Charleston,Charleston
-﻿cha.sc.0041,﻿male orphan asylum,﻿Male Orphan Asylum,English,,,,,,﻿Charleston,﻿Charleston,﻿SC,,32.790971,-79.9323,,,,,,,,,,,,,,1864,﻿,﻿,﻿Charleston,Charleston
+﻿cha.sc.0038,﻿convent,﻿Convent and Academy,English,,,,,,﻿Charleston,﻿Charleston,﻿SC,,32.777702,-79.933436,,,,,﻿Mother,﻿Theresa Barry,,﻿Superior,,,,﻿directed by the Sisters of Our Lady of Mercy,,1864,﻿,﻿,﻿Charleston,Charleston
+﻿cha.sc.0037,﻿convent,﻿Convent and Academy of the Ursulines,English,,,,,,﻿Colombia,,﻿NC,,34.005267,-81.037633,,,,﻿m_b_lynch_001,﻿Madame,﻿M. Baptiste Lynch,,﻿Lady Superior,,,,,,1864,﻿,﻿,﻿Charleston,Charleston
+﻿cha.sc.0040,﻿female orphan asylum,﻿Orphan Asylum and Girls' Free School,English,,,,,,﻿Charleston,﻿Charleston,﻿SC,,32.788386,-79.953305,,,,,,,,,,,,﻿directed by the Sisters of Our Lady of Mercy,,1864,﻿,﻿,﻿Charleston,Charleston
+﻿cha.sc.0041,﻿male orphan asylum,﻿Male Orphan Asylum,English,,,,,,﻿Charleston,﻿Charleston,﻿SC,,32.787973,-79.949416,,,,,,,,,,,,,,1864,﻿,﻿,﻿Charleston,Charleston
