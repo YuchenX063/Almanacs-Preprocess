@@ -4,9 +4,9 @@
 ﻿vin.in.0002,﻿church,﻿St. John the Baptist,﻿German,,,,﻿Knox County,,﻿Vincennes,﻿Vincennes,﻿IN,,38.677269,-87.5286325,,,,﻿aeg_merz_001,﻿Rev.,﻿A. E. Mertz,,,,,,,,1867,﻿,﻿,﻿Vincennes,Vincennes
 ﻿vin.in.0004,﻿church,not recorded,English,,,,﻿Marion County,,﻿Augusta,﻿Pike Township,﻿IN,,39.8817723,-86.2598229,﻿vin.in.0064,﻿Attended from Indianapolis,,,,,,,,,,,,1867,﻿,﻿,﻿Vincennes,Vincennes
 ﻿vin.in.0005,﻿church,﻿Immaculate Conception,English,,,,﻿Dearborn County,,﻿Aurora,﻿Aurora,﻿IN,,39.0570022,-84.9013402,,,,﻿j_klein_001,﻿Rev.,﻿J. Klein,,,,,,,,1867,﻿,﻿,﻿Vincennes,Vincennes
-﻿vin.in.0007,﻿church,﻿St. Stephen's,English,,,,﻿Putnam County,,﻿Bainbridge,﻿Bainbridge,﻿IN,,39.761157,-86.8119523,,"﻿Attended from Crawfordsville by Rev. C. J. Maugin, of the diocese of Fort Wayne",,,,,,,,,,,,1867,﻿,﻿,﻿Vincennes,Vincennes
-﻿vin.in.0009,﻿church,﻿St. Vincent of Paul,English,﻿church building,,,﻿Lawrence County,,﻿Bedford,﻿Bedford,﻿IN,,38.8518863,-86.4996546,,"﻿Attended from Crawfordsville by Rev. C. J. Maugin, of the diocese of Fort Wayne",,,,,,,,,,,,1867,﻿,﻿,﻿Vincennes,Vincennes
-﻿vin.in.0010,﻿church,﻿St. Charles Borromeo,English,,,,﻿Monroe County,,﻿Bloomington,﻿Bloomington,﻿IN,,39.1636091,-86.5075991,,"﻿Attended from Crawfordsville by Rev. C. J. Maugin, of the diocese of Fort Wayne",,,,,,,,,,,,1867,﻿,﻿,﻿Vincennes,Vincennes
+﻿vin.in.0007,﻿church,﻿St. Stephen's,English,,,,﻿Putnam County,,﻿Bainbridge,﻿Bainbridge,﻿IN,,39.761157,-86.8119523,﻿for.in.0030,"﻿Attended from Crawfordsville by Rev. C. J. Maugin, of the diocese of Fort Wayne",,﻿cha_maugin_001,﻿Rev.,﻿C. J. Maugin,,,﻿of the diocese of Fort Wayne,,,,,1867,﻿,﻿,﻿Vincennes,Vincennes
+﻿vin.in.0009,﻿church,﻿St. Vincent of Paul,English,﻿church building,,,﻿Lawrence County,,﻿Bedford,﻿Bedford,﻿IN,,38.8518863,-86.4996546,﻿for.in.0030,"﻿Attended from Crawfordsville by Rev. C. J. Maugin, of the diocese of Fort Wayne",,﻿cha_maugin_001,﻿Rev.,﻿C. J. Maugin,,,﻿of the diocese of Fort Wayne,,,,,1867,﻿,﻿,﻿Vincennes,Vincennes
+﻿vin.in.0010,﻿church,﻿St. Charles Borromeo,English,,,,﻿Monroe County,,﻿Bloomington,﻿Bloomington,﻿IN,,39.1636091,-86.5075991,﻿for.in.0030,"﻿Attended from Crawfordsville by Rev. C. J. Maugin, of the diocese of Fort Wayne",,﻿cha_maugin_001,﻿Rev.,﻿C. J. Maugin,,,﻿of the diocese of Fort Wayne,,,,,1867,﻿,﻿,﻿Vincennes,Vincennes
 ﻿vin.in.0014,﻿church,not recorded,English,﻿no church,,,﻿Clay County,,﻿Brazil,﻿Brazil,﻿IN,,39.523652,-87.1250154,﻿vin.in.0164,﻿Attended from Terre Haute,﻿Occasionally,,,,,,,,,,,1867,﻿,﻿,﻿Vincennes,Vincennes
 ﻿vin.in.0016,﻿church,﻿St. Michael's,English,,,,﻿Franklin County,,﻿Brookville,﻿Brookville,﻿IN,,39.4168087,-85.0130729,,,,﻿j_h_ostlandenberg_001,﻿Rev.,﻿J. H. Ostlandenberg,,,,,,,,1867,﻿,﻿,﻿Vincennes,Vincennes
 ﻿vin.in.0011,﻿church,﻿St. Patrick's,English,,,,﻿Vanderburg County,,﻿Blue Grass,﻿Evansville,﻿IN,,37.9524318,-87.4936936,﻿vin.in.0036,﻿Attended from Evansville,,,,,,,,,,,,1867,﻿,﻿,﻿Vincennes,Vincennes
@@ -18,7 +18,7 @@
 ﻿vin.in.0024,﻿church,﻿St. John the Baptist,English,,,,﻿Perry County,,﻿Cassidy's Settlement,﻿Leopold,﻿IN,,38.1095739,-86.6107106,﻿vin.in.0076,﻿Attended from Leopold,,,,,,,,,,,,1867,﻿,﻿,﻿Vincennes,Vincennes
 ﻿vin.in.0028,﻿church,not recorded,English,,,,﻿Clarke County,﻿Clark County,﻿Charleston,﻿Charlestown,﻿IN,,38.45312,-85.6702406,﻿vin.in.0081,﻿Attended from Madison,,,,,,,,,,,,1867,﻿,﻿,﻿Vincennes,Vincennes
 ﻿vin.in.0025,﻿church,﻿St. Celestine,English,,,,﻿Dubois County,,﻿Celestine,﻿Celestine,﻿IN,,38.38303,-86.77654,,,,﻿b_bruning_001,﻿Rev.,﻿B. Bruning,,,,,,,,1867,﻿,﻿,﻿Vincennes,Vincennes
-﻿vin.in.0029,﻿church,not recorded,English,﻿no church,,,﻿Putnam County,,﻿Cloverdale,﻿Cloverdale,﻿IN,,39.5147682,-86.7938968,,﻿Attended from Crawfordsville,,,,,,,,,,,,1867,﻿,﻿,﻿Vincennes,Vincennes
+﻿vin.in.0029,﻿church,not recorded,English,﻿no church,,,﻿Putnam County,,﻿Cloverdale,﻿Cloverdale,﻿IN,,39.5147682,-86.7938968,﻿for.in.0030,﻿Attended from Crawfordsville,,,,,,,,,,,,1867,﻿,﻿,﻿Vincennes,Vincennes
 ﻿vin.in.0030,﻿church,﻿St. Bartholomew's,English,,,,﻿Bartholomew County,,﻿Columbus,﻿Columbus,﻿IN,,39.2291885,-85.9117508,,,,﻿wh_orem_001,﻿Rev.,﻿W.H. Orem,,,,,,,,1867,﻿,﻿,﻿Vincennes,Vincennes
 ﻿vin.in.0031,﻿church,﻿St. Gabriel's,English,,,,﻿Fayette County,,﻿Connersville,﻿Connersville,﻿IN,,39.6467157,-85.137988,,,,﻿h_peters_001,﻿Rev.,﻿H. Peters,,,,,,,,1867,﻿,﻿,﻿Vincennes,Vincennes
 ﻿vin.in.0032,﻿church,﻿St. Mary's of the River,English,,,,﻿Perry County,,﻿Derby,﻿Derby,﻿IN,,38.0159043,-86.6611083,﻿vin.in.0076,﻿Attended from Leopold,,,,,,,,,,,,1867,﻿,﻿,﻿Vincennes,Vincennes
@@ -26,14 +26,14 @@
 ﻿vin.in.0036,﻿church,﻿Assumption,English,,,,﻿Vanderburgh County,,﻿Evansville,﻿Evansville,﻿IN,,37.9715592,-87.5710898,,,,﻿p_mcdermott_001,﻿Rev.,﻿P. McDermott,,,,,,,,1867,﻿,﻿,﻿Vincennes,Vincennes
 ﻿vin.in.0037,﻿church,﻿Holy Trinity,﻿German,,,,﻿Vanderburgh County,,﻿Evansville,﻿Evansville,﻿IN,,37.9875213,-87.5370938,,,,﻿f_kutassi_001,﻿Rev.,﻿F. Kutassi,,,,,,,,1867,﻿,﻿,﻿Vincennes,Vincennes
 ﻿vin.in.0037,﻿church,﻿Holy Trinity,﻿German,,,,﻿Vanderburgh County,,﻿Evansville,﻿Evansville,﻿IN,,37.9875213,-87.5370938,,,,﻿f_viefhaus_001,﻿Rev.,﻿F. Viefhaus,,,,,,,,1867,﻿,﻿,﻿Vincennes,Vincennes
-﻿vin.in.0040,﻿church,﻿St. Rose,English,,,,﻿Knox County,,﻿Faux Chenal,﻿Vincennes,﻿IN,,38.677269,-87.5286325,,﻿Attended from St. Francisville,,,,,,,,,,,,1867,﻿,﻿,﻿Vincennes,Vincennes
+﻿vin.in.0040,﻿church,﻿St. Rose,English,,,,﻿Knox County,,﻿Faux Chenal,﻿Vincennes,﻿IN,,38.677269,-87.5286325,﻿alt.il.0104,﻿Attended from St. Francisville,,,,,,,,,,,,1867,﻿,﻿,﻿Vincennes,Vincennes
 ﻿vin.in.0039,﻿church,not recorded,English,﻿no church,,,﻿Vigo County,,﻿Farmersburgh,﻿Farmersburg,﻿IN,,39.2486513,-87.3819634,﻿vin.in.0164,﻿Attended from Terre Haute,﻿occasionally,,,,,,,,,,,1867,﻿,﻿,﻿Vincennes,Vincennes
 ﻿vin.in.0041,﻿church,﻿St. Ferdinand,English,,,,﻿Dubois County,,﻿Ferdinand,﻿Ferdinand,﻿IN,,38.2233116,-86.8606467,,,,﻿p_j_foffa_001,﻿Rev.,﻿P. John Chrysostome Foffa,﻿O.S.B.,,,,,,,1867,﻿,﻿,﻿Vincennes,Vincennes
 ﻿vin.in.0047,﻿church,﻿St. Boniface's,English,,,,﻿Spencer County,,﻿Fulda,﻿Fulda,﻿IN,,38.111421,-86.835678,﻿vin.in.0150,﻿Attended from St. Meinrad,,,,,,,,,,,,1867,﻿,﻿,﻿Vincennes,Vincennes
 ﻿vin.in.0045,﻿church,not recorded,English,,,,﻿Johnson County,,﻿Franklin,﻿Franklin,﻿IN,,39.482654,-86.0773996,﻿vin.in.0064,﻿Attended from Indianapolis,,,,,,,,,,,,1867,﻿,﻿,﻿Vincennes,Vincennes
 ﻿vin.in.0046,﻿church,﻿St. Ann's,English,,,,﻿Spencer County,,﻿French Island,﻿Rockport,﻿IN,,37.8831055,-87.0494408,﻿vin.in.0150,﻿Attended from St. Meinrad,,,,,,,,,,,,1867,﻿,﻿,﻿Vincennes,Vincennes
-﻿vin.in.0048,﻿church,not recorded,English,﻿no church,,,﻿Owen County,,﻿Gosport,﻿Gosport,﻿IN,,39.3508793,-86.6669472,,"﻿Attended by Rev. Ch. J. Maugin, from Crawfordsville, Diocese Fort Wayne",,,,,,,,,,,,1867,﻿,﻿,﻿Vincennes,Vincennes
-﻿vin.in.0050,﻿church,﻿St. Benedict's,English,,,,﻿Putnam County,,﻿Greencastle,﻿Greencastle,﻿IN,,39.6444898,-86.8647316,,"﻿Attended from Crawfordsville, Montgomery County",,,,,,,,,,,,1867,﻿,﻿,﻿Vincennes,Vincennes
+﻿vin.in.0048,﻿church,not recorded,English,﻿no church,,,﻿Owen County,,﻿Gosport,﻿Gosport,﻿IN,,39.3508793,-86.6669472,﻿for.in.0030,"﻿Attended by Rev. Ch. J. Maugin, from Crawfordsville, Diocese Fort Wayne",,﻿cha_maugin_001,﻿Rev.,﻿Ch. J. Maugin,,,﻿of the diocese of Fort Wayne,,,,,1867,﻿,﻿,﻿Vincennes,Vincennes
+﻿vin.in.0050,﻿church,﻿St. Benedict's,English,,,,﻿Putnam County,,﻿Greencastle,﻿Greencastle,﻿IN,,39.6444898,-86.8647316,﻿for.in.0030,"﻿Attended from Crawfordsville, Montgomery County",,,,,,,,,,,,1867,﻿,﻿,﻿Vincennes,Vincennes
 ﻿vin.in.0054,﻿church,not recorded,English,,,,﻿Floyd County,,﻿Greenville,﻿Greenville,﻿IN,,38.3725644,-85.9863593,﻿vin.in.0138,"﻿Attended from St. John's, Clark County",,,,,,,,,,,,1867,﻿,﻿,﻿Vincennes,Vincennes
 ﻿vin.in.0052,﻿church,not recorded,English,,,,﻿Hancock County,,﻿Greenfield,﻿Greenfield,﻿IN,,39.785043,-85.7694226,﻿vin.in.0020,﻿Attended from Cambridge City,,,,,,,,,,,,1867,﻿,﻿,﻿Vincennes,Vincennes
 ﻿vin.in.0056,﻿church,not recorded,English,,,,﻿Wayne County,,﻿Hagerstown,﻿Hagerstown,﻿IN,,39.9111576,-85.1616315,,﻿Attended from Richmond,,,,,,,,,,,,1867,﻿,﻿,﻿Vincennes,Vincennes
@@ -86,9 +86,9 @@
 ﻿vin.in.0221,﻿church,not recorded,English,,,,﻿Switzerland County,,﻿Patriot,,,,,,﻿vin.in.0005,﻿Attended from Aurora,,,,,,,,,,,,1867,﻿,﻿,﻿Vincennes,Vincennes
 ﻿vin.in.0222,﻿church,﻿St. Nicholas',English,,,,﻿Ripley County (Spades P.O.),,﻿Pipe Creek,,,,,,,,,﻿f_w_pepersack_001,﻿Rev.,﻿F. Pepersack,,,,,,,,1867,﻿,﻿,﻿Vincennes,Vincennes
 ﻿vin.in.0110,﻿church,not recorded,English,,,,﻿Pike County,,﻿Petersburgh,﻿Petersburg,﻿IN,,38.4919935,-87.2786244,﻿vin.in.0069,﻿Attended from Jasper,,,,,,,,,,,,1867,﻿,﻿,﻿Vincennes,Vincennes
-﻿vin.in.0114,﻿church,not recorded,English,,,,﻿Putnam County,,﻿Putnamville,﻿Putnamsville,﻿IN,,39.5742119,-86.8652874,,﻿Attended from Crawfordsville (Diocese of Fort Wayne),,,,,,,,,,,,1867,﻿,﻿,﻿Vincennes,Vincennes
+﻿vin.in.0114,﻿church,not recorded,English,,,,﻿Putnam County,,﻿Putnamville,﻿Putnamsville,﻿IN,,39.5742119,-86.8652874,﻿for.in.0030,﻿Attended from Crawfordsville (Diocese of Fort Wayne),,,,,,,,,,,,1867,﻿,﻿,﻿Vincennes,Vincennes
 ﻿vin.in.0115,﻿church,﻿St. Thomas',English,,,,﻿Knox County,,﻿Queret's Prairie,﻿Halterville,﻿IN,,38.586111,-87.562222,﻿vin.in.0232,﻿Attended from Vincennes Male Orphan Asylum,,,,,,,,,,,,1867,﻿,﻿,﻿Vincennes,Vincennes
-﻿vin.in.0223,﻿church,not recorded,English,,,,﻿Owen County,,﻿Quincy,,,,,,,﻿Attended from Crawfordsville,,,,,,,,,,,,1867,﻿,﻿,﻿Vincennes,Vincennes
+﻿vin.in.0223,﻿church,not recorded,English,,,,﻿Owen County,,﻿Quincy,,,,,,﻿for.in.0030,﻿Attended from Crawfordsville,,,,,,,,,,,,1867,﻿,﻿,﻿Vincennes,Vincennes
 ﻿vin.in.0119,﻿church,﻿St. Andrew's,﻿German,,,,﻿Wayne County,,﻿Richmond,﻿Richmond,﻿IN,,39.8289369,-84.8902382,,,,﻿b_h_sepe_001,﻿Rev.,﻿B. H. Sepe,,,,,,,,1867,﻿,﻿,﻿Vincennes,Vincennes
 ﻿vin.in.0118,﻿church,﻿St. Mary's,English,,,,﻿Wayne County,,﻿Richmond,﻿Richmond,﻿IN,,39.831092,-84.892174,,,,﻿j_m_villars_001,﻿Rev.,﻿J. M. Villars,,,,,,,,1867,﻿,﻿,﻿Vincennes,Vincennes
 ﻿vin.in.0120,﻿church,﻿St. Bernhard's,English,,,,﻿Spencer County,,﻿Rockport,﻿Rockport,﻿IN,,37.8831055,-87.0494408,﻿vin.in.0150,﻿Attended from St. Meinrad's,,,,,,,,,,,,1867,﻿,﻿,﻿Vincennes,Vincennes
@@ -98,7 +98,7 @@
 ﻿vin.in.0125,﻿church,﻿St. Patrick's,English,,,,﻿Jennings County,,﻿Scipio,﻿Scipio,﻿IN,,39.078988,-85.7188168,﻿vin.in.0018,﻿Attended from Buena Vista,,,,,,,,,,,,1867,﻿,﻿,﻿Vincennes,Vincennes
 ﻿vin.in.0124,﻿church,﻿St. Mary's,English,﻿Brick church,,,﻿Washington County,,﻿Salem,﻿Salem,﻿IN,,38.6744747,-86.1751759,,"﻿Attended from St. Joseph's, Clarke County",,,,,,,,,,,,1867,﻿,﻿,﻿Vincennes,Vincennes
 ﻿vin.in.0126,﻿church,﻿St. Ambrose,English,,,,﻿Jackson County,,﻿Seymour,﻿Seymour,﻿IN,,38.9550509,-85.8885116,,,,﻿phi_doyle_001,﻿Rev.,﻿Ph. Doyle,,,,,,,,1867,﻿,﻿,﻿Vincennes,Vincennes
-﻿vin.in.0224,﻿church,not recorded,English,﻿church building,,,﻿Monroe County,,﻿Steinerville,,,,,,,﻿Attended from Crawfordsville,,,,,,,,,,,,1867,﻿,﻿,﻿Vincennes,Vincennes
+﻿vin.in.0224,﻿church,not recorded,English,﻿church building,,,﻿Monroe County,,﻿Steinerville,,,,,,﻿for.in.0030,﻿Attended from Crawfordsville,,,,,,,,,,,,1867,﻿,﻿,﻿Vincennes,Vincennes
 ﻿vin.in.0131,﻿church,﻿St. Ann's,English,﻿Tripton P. O.,,,﻿Jennings County,,,,﻿IN,,38.9914998,-85.684578,,,,﻿j_m_missi_001,﻿Rev.,﻿M. Missi,,,,,,,,1867,﻿,﻿,﻿Vincennes,Vincennes
 ﻿vin.in.0225,﻿church,﻿St. Anthony's,English,,"﻿Morris Station P.O., Ripley County",,﻿Ripley County,,﻿Springfield,,,,,,,,,﻿rom_weinzaepflen_001,﻿Rev.,﻿Roman Weinzaepflen,,,,,,,,1867,﻿,﻿,﻿Vincennes,Vincennes
 ﻿vin.in.0132,﻿church,﻿St. Anthony's,English,﻿Ferdinand P. O.,,,﻿Dubois County,,,,﻿IN,,38.2994989,-86.8730503,,,,﻿j_meisler_001,﻿Rev.,﻿J. Meisler,,,,,,,,1867,﻿,﻿,﻿Vincennes,Vincennes
@@ -119,7 +119,7 @@
 ﻿vin.in.0150,﻿church,﻿St. Meinrad,English,,,,﻿Spencer County,,,,﻿IN,,38.1710794,-86.8091951,,,,﻿p_m_marty_001,﻿Very Rev.,﻿M. Marty,﻿O.S.B.,,,,,,,1867,﻿,﻿,﻿Vincennes,Vincennes
 ﻿vin.in.0154,﻿church,﻿St. Peter's,English,,,,﻿Franklin County,,,,﻿IN,,39.321667,-85.031667,,,,﻿p_l_osdecar_001,﻿Rev.,﻿L. Osredkar,﻿O.S.F.,,,,,,,1867,﻿,﻿,﻿Vincennes,Vincennes
 ﻿vin.in.0227,﻿church,﻿St. Peter's,English,,﻿Montgomery Station P.O.,,﻿Daviess County,,,,,,,,,,,﻿bar_piers_001,﻿Rev.,﻿B. Piers,,,,,,,,1867,﻿,﻿,﻿Vincennes,Vincennes
-﻿vin.in.0152,﻿church,﻿St. Patrick's,English,,,,﻿Daviess County,,,,﻿IN,,38.7020241,-87.1422895,,﻿Attended from St. Peter's,,,,,,,,,,,,1867,﻿,﻿,﻿Vincennes,Vincennes
+﻿vin.in.0152,﻿church,﻿St. Patrick's,English,,,,﻿Daviess County,,,,﻿IN,,38.7020241,-87.1422895,﻿vin.in.0227,﻿Attended from St. Peter's,,,,,,,,,,,,1867,﻿,﻿,﻿Vincennes,Vincennes
 ﻿vin.in.0157,﻿church,﻿St. Philip's,English,,﻿Evansville P.O.,,﻿Posey County,,,,﻿IN,,38.0069266,-87.7167926,,,,﻿j_distel_001,﻿Rev.,﻿J. Diestel,,,,,,,,1867,﻿,﻿,﻿Vincennes,Vincennes
 ﻿vin.in.0229,﻿church,﻿St. Vincent's,English,,﻿Prescott P.O.,,﻿Shelby County,,,,,,,,,,,﻿p_j_gillig_001,﻿Rev.,﻿P. J. Gillig,,,,,,,,1867,﻿,﻿,﻿Vincennes,Vincennes
 ﻿vin.in.0159,﻿church,﻿St. Wendel,English,,,,,﻿Posey County,,,﻿IN,,38.1092728,-87.7023453,,,,﻿f_andres_001,﻿Rev.,﻿F. Andres,,,,,,,,1867,﻿,﻿,﻿Vincennes,Vincennes
@@ -134,7 +134,7 @@
 ﻿vin.in.0171,﻿church,﻿St. Simon's,English,,,,,﻿Daviess County,﻿Washington,﻿Washington,﻿IN,,38.6610959,-87.1821709,,,,﻿joh_gueguen_001,﻿Rev.,﻿John Gueguen,,,,,,,,1867,﻿,﻿,﻿Vincennes,Vincennes
 ﻿vin.in.0173,﻿church,﻿St. Philomena's,English,,,,,﻿Franklin County,﻿Wolf Creek,﻿Brookville,﻿IN,,39.391492,-85.048533,﻿vin.in.0016,﻿Attended from Brookville,,,,,,,,,,,,1867,﻿,﻿,﻿Vincennes,Vincennes
 ﻿vin.in.0174,﻿church,﻿St. Rupert's,English,,,,,﻿Warwick County,﻿Yankeetown,﻿Yankeetown,﻿IN,,37.938651,-87.270646,﻿vin.in.0150,﻿Attended from St. Meinrad's,,,,,,,,,,,,1867,﻿,﻿,﻿Vincennes,Vincennes
-﻿vin.in.0175,﻿church,﻿St. Martin's,English,,,,,﻿Dearborn County,﻿Yorkville,﻿Yorkville,﻿IN,,39.203838,-84.966797,,﻿Attended from St. John's,,,,,,,,,,,,1867,﻿,﻿,﻿Vincennes,Vincennes
+﻿vin.in.0175,﻿church,﻿St. Martin's,English,,,,,﻿Dearborn County,﻿Yorkville,﻿Yorkville,﻿IN,,39.203838,-84.966797,﻿vin.in.0218,﻿Attended from St. John's,,,,,,,,,,,,1867,﻿,﻿,﻿Vincennes,Vincennes
 ﻿vin.in.0176,﻿convent,﻿St. Meinrad's Benedictine Convent,English,﻿the same Fathers have here also charge of the students of the Diocesan Seminary,,,,,﻿Spencer,,﻿IN,,38.1710794,-86.8091951,,,,﻿p_m_marty_001,﻿Very Rev.,﻿P. Martin Marty,﻿O.S.B.,﻿Prior,,,﻿several clerical and lay brothers.,﻿The Benedictine Fathers,,1867,﻿,﻿,﻿Vincennes,Vincennes
 ﻿vin.in.0176,﻿convent,﻿St. Meinrad's Benedictine Convent,English,﻿the same Fathers have here also charge of the students of the Diocesan Seminary,,,,,﻿Spencer,,﻿IN,,38.1710794,-86.8091951,,,,﻿p_b_oconnor_001,﻿Very Rev.,﻿P. Bede O'Connor,﻿O.S.B.,﻿Vicar-General and Chancellor of the Diocese,,,﻿several clerical and lay brothers.,﻿The Benedictine Fathers,,1867,﻿,﻿,﻿Vincennes,Vincennes
 ﻿vin.in.0176,﻿convent,﻿St. Meinrad's Benedictine Convent,English,﻿the same Fathers have here also charge of the students of the Diocesan Seminary,,,,,﻿Spencer,,﻿IN,,38.1710794,-86.8091951,,,,﻿joh_c_foffa_001,﻿Rev. P.,﻿John Chrysostome Foffa,﻿O.S.B.,﻿Pastor of Ferdinand,,,﻿several clerical and lay brothers.,﻿The Benedictine Fathers,,1867,﻿,﻿,﻿Vincennes,Vincennes
