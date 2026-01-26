@@ -1,30 +1,30 @@
 ﻿instID,church_type,instName,language,instNote,placeName,region,county_orig,county_reg,city_orig,city_reg,state_orig,state_reg,latitude,longitude,attendingInstID,attendingChurch,attendingChurchFrequency,persID,persTitle,persName,persSuffix,persRole,persNote,memberType,member,affiliated,order,year,attendingPersID,attendingChurchNote,diocese,diocese_reg
 ﻿gre.wi.0001,﻿cathedral,﻿St. Mary's,English,﻿temporary Cathedral,,,,﻿Brown County,﻿City of Green Bay,﻿Green Bay,﻿WI,,44.511672,-88.01211,,,,﻿melcher_001,﻿Rt. Rev.,﻿Joseph Melcher,﻿D.D.,,,,,,,1869,﻿,﻿,﻿Green Bay,GreenBay
-﻿gre.wi.0001,﻿cathedral,﻿St. Mary's,English,﻿temporary Cathedral,,,,﻿Brown County,﻿City of Green Bay,﻿Green Bay,﻿WI,,44.511672,-88.01211,,,,﻿f_x_pfaller_001,﻿Rev.,﻿F. X. Pfaller,,,,,,,,1869,﻿,﻿,﻿Green Bay,GreenBay
+﻿gre.wi.0001,﻿cathedral,﻿St. Mary's,English,﻿temporary Cathedral,,,,﻿Brown County,﻿City of Green Bay,﻿Green Bay,﻿WI,,44.511672,-88.01211,,,,,﻿Rev.,﻿F. X. Pfaller,,,,,,,,1869,﻿,﻿,﻿Green Bay,GreenBay
 ﻿gre.wi.0002,﻿church,﻿St. John's,﻿French,,,,,﻿Brown County,﻿City of Green Bay,﻿Green Bay,﻿WI,,44.508686,-88.015212,,,,﻿h_hoffen_001,﻿Rev.,﻿Hippolite Hoffen,,,,,,,,1869,﻿,﻿,﻿Green Bay,GreenBay
 ﻿gre.wi.0003,﻿church,﻿St. Willibrod's,﻿Dutch,,,,,﻿Brown County,﻿City of Green Bay,﻿Green Bay,﻿WI,,44.512206,-88.015222,,,,﻿h_hoffen_001,﻿Rev.,﻿Hippolite Hoffen,,,,,,,,1869,﻿,﻿,﻿Green Bay,GreenBay
-﻿gre.wi.0004,﻿church,﻿St. Patrick's,English,,﻿Fort Howard,,,﻿Brown County,﻿City of Green Bay,﻿Green Bay,﻿WI,,44.522186,-88.020831,,,,﻿f_mcdonnell_001,﻿Rev.,﻿F. McDonnell,,,,,,,,1869,﻿,﻿,﻿Green Bay,GreenBay
+﻿gre.wi.0004,﻿church,﻿St. Patrick's,English,,﻿Fort Howard,,,﻿Brown County,﻿City of Green Bay,﻿Green Bay,﻿WI,,44.522186,-88.020831,,,,,﻿Rev.,﻿F. McDonnell,,,,,,,,1869,﻿,﻿,﻿Green Bay,GreenBay
 ﻿gre.wi.0005,﻿church,﻿St. Mary's,English,,,,﻿Outagamie County,﻿Outagamie County,﻿Appleton,﻿Appleton,﻿WI,,44.259257,-88.413329,,,,﻿e_walsh_001,﻿Rev.,﻿Ed. Walsh,,,,,,,,1869,﻿,﻿,﻿Green Bay,GreenBay
 ﻿gre.wi.0006,﻿church,not recorded,English,﻿Church not yet dedicated,,,,﻿Outagamie County,﻿Appleton,﻿Appleton,﻿WI,,44.261132,-88.41061,﻿gre.wi.0018,﻿visted from Menasha,,,,,,,,,,,,1869,﻿,﻿,﻿Green Bay,GreenBay
-﻿gre.wi.0008,﻿church,﻿St. Augustin's,English,,,,﻿Calumet County,﻿Calumet County,﻿Chilton,﻿Chilton,﻿WI,,44.028936,-88.166224,,,,﻿fra_c_shraudenback_001,﻿Rev.,﻿Francis C. Shraudenback,,,,,,,,1869,﻿,﻿,﻿Green Bay,GreenBay
-﻿gre.wi.0009,﻿church,﻿St. Francis Xavier's,English,,,,﻿Brown County,﻿Brown County,﻿De Pere,﻿De Pere,﻿WI,,44.447494,-88.05865,,,,﻿w_a_verboort_001,﻿Rev.,﻿W. A. Verboort,,,,,,,,1869,﻿,﻿,﻿Green Bay,GreenBay
-﻿gre.wi.0010,﻿church,﻿St. Nicolas',English,,,,﻿Outagamie County,﻿Outagamie County,﻿Freedom,﻿Freedom,﻿WI,,44.386111,-88.288056,,,,﻿w_wilkens_001,﻿Rev.,﻿W. Wilkens,,,,,,,,1869,﻿,﻿,﻿Green Bay,GreenBay
-﻿gre.wi.0011,﻿church,﻿Holy Cross,English,,,,﻿Wood County,﻿Wood County,﻿Grand Rapids,﻿Grand Rapids,﻿WI,,44.380134,-89.756769,,,,﻿f_gleeson_001,﻿Rev.,﻿F. Gleeson,,,,,,,,1869,﻿,﻿,﻿Green Bay,GreenBay
+﻿gre.wi.0008,﻿church,﻿St. Augustin's,English,,,,﻿Calumet County,﻿Calumet County,﻿Chilton,﻿Chilton,﻿WI,,44.028936,-88.166224,,,,,﻿Rev.,﻿Francis C. Shraudenback,,,,,,,,1869,﻿,﻿,﻿Green Bay,GreenBay
+﻿gre.wi.0009,﻿church,﻿St. Francis Xavier's,English,,,,﻿Brown County,﻿Brown County,﻿De Pere,﻿De Pere,﻿WI,,44.447494,-88.05865,,,,,﻿Rev.,﻿W. A. Verboort,,,,,,,,1869,﻿,﻿,﻿Green Bay,GreenBay
+﻿gre.wi.0010,﻿church,﻿St. Nicolas',English,,,,﻿Outagamie County,﻿Outagamie County,﻿Freedom,﻿Freedom,﻿WI,,44.386111,-88.288056,,,,,﻿Rev.,﻿W. Wilkens,,,,,,,,1869,﻿,﻿,﻿Green Bay,GreenBay
+﻿gre.wi.0011,﻿church,﻿Holy Cross,English,,,,﻿Wood County,﻿Wood County,﻿Grand Rapids,﻿Grand Rapids,﻿WI,,44.380134,-89.756769,,,,,﻿Rev.,﻿F. Gleeson,,,,,,,,1869,﻿,﻿,﻿Green Bay,GreenBay
 ﻿gre.wi.0013,﻿church,﻿St. Francis',English,,,,﻿Brown County,﻿Brown County,﻿Hollandtown,﻿Hollandtown,﻿WI,,44.249757,-88.176623,,,,﻿b_de-goey_001,﻿Rev.,﻿Bonventura de Goey,,,,,,,,1869,﻿,﻿,﻿Green Bay,GreenBay
-﻿gre.wi.0014,﻿church,﻿St. Michael's,English,,﻿Mission of the Menominee tribe,,﻿Shawano County,﻿Menominee County,﻿Keshina,﻿Keshena,﻿WI,,45.030475,-88.74777,,,,﻿caj_krauthahn_001,﻿Rev.,﻿Caj. Krauthahn,﻿O.C.,,,,,,,1869,﻿,﻿,﻿Green Bay,GreenBay
+﻿gre.wi.0014,﻿church,﻿St. Michael's,English,,﻿Mission of the Menominee tribe,,﻿Shawano County,﻿Menominee County,﻿Keshina,﻿Keshena,﻿WI,,45.030475,-88.74777,,,,,﻿Rev.,﻿Caj. Krauthahn,﻿O.C.,,,,,,,1869,﻿,﻿,﻿Green Bay,GreenBay
 ﻿gre.wi.0015,﻿church,﻿Holy Rosary,English,,,,﻿Kewaunee County,﻿Kewaunee County,﻿Kewaunee,﻿Kewaunee,﻿WI,,44.457712,-87.50662,,,,﻿j_maly_001,﻿Rev.,﻿Joseph Maly,,,,,,,,1869,﻿,﻿,﻿Green Bay,GreenBay
-﻿gre.wi.0016,﻿church,﻿St. Ann's,English,,,,﻿Manitowoc County,﻿Manitowoc County,﻿Kossuth,﻿Kossuth,﻿WI,,44.206988,-87.756651,,,,﻿e_henzler_001,﻿Rev.,﻿E. Henzler,,,,,,,,1869,﻿,﻿,﻿Green Bay,GreenBay
-﻿gre.wi.0017,﻿church,﻿St. John Nep.,English,,,,﻿Outagamie County,﻿Outagamie County,﻿Little Chute,﻿Little Chute,﻿WI,,44.278276,-88.314417,,,,﻿a_g_verberk_001,﻿Rev.,﻿A. G. Verberk,,,,,,,,1869,﻿,﻿,﻿Green Bay,GreenBay
-﻿gre.wi.0018,﻿church,﻿St. Mary's,English,,,,﻿Winnebago County,﻿Winnebago County,﻿Menasha,﻿Menasha,﻿WI,,44.204037,-88.443403,,,,﻿f_uhlemeyer_001,﻿Rev.,﻿F. Uhlemeyer,,,,,,,,1869,﻿,﻿,﻿Green Bay,GreenBay
-﻿gre.wi.0020,﻿church,﻿St. Patrick's,English,,,,﻿Manitowoc County,﻿Manitowoc County,﻿Maple Grove,﻿Maple Grove,﻿WI,,44.188884,-87.923628,,,,﻿w_mahony_001,﻿Rev.,﻿W. Mahony,,,,,,,,1869,﻿,﻿,﻿Green Bay,GreenBay
-﻿gre.wi.0021,﻿church,﻿Gethsemane Church,English,,,,﻿Marquette County,﻿Marquette County,﻿Montella,﻿Montello,﻿WI,,43.794961,-89.318268,,,,﻿m_monaghan_001,﻿Rev.,﻿M. Monaghan,,,,,,,,1869,﻿,﻿,﻿Green Bay,GreenBay
-﻿gre.wi.0022,﻿church,﻿St. Kilian's,English,,,,﻿Brown County,﻿Brown County,﻿New Franken,﻿New Franken,﻿WI,,44.53103,-87.825846,,,,﻿w_boden_001,﻿Rev.,﻿W. Boden,,,,,,,,1869,﻿,﻿,﻿Green Bay,GreenBay
-﻿gre.wi.0024,﻿church,﻿St. Peter's,English,,,,﻿Oconto County,﻿Oconto County,﻿Oconto,﻿Oconto,﻿WI,,44.887571,-87.883319,,,,﻿l_mazeaud_001,﻿Rev.,﻿L. Mazeaud,,,,,,,,1869,﻿,﻿,﻿Green Bay,GreenBay
-﻿gre.wi.0025,﻿church,﻿St. Peter's,English,,,,﻿Winnebago County,﻿Winnebago County,﻿Oshkosh,﻿Oshkosh,﻿WI,,44.019711,-88.544474,,,,﻿g_r_hermon_001,﻿Rev.,﻿G. R. Hermon,,,,,,,,1869,﻿,﻿,﻿Green Bay,GreenBay
-﻿gre.wi.0026,﻿church,﻿St. Mary's,English,,,,﻿Winnebago County,﻿Winnebago County,﻿Oshkosh,﻿Oshkosh,﻿WI,,44.012364,-88.619724,,,,﻿a_leitner_001,﻿Rev.,﻿A. Leitner,,,,,,,,1869,﻿,﻿,﻿Green Bay,GreenBay
-﻿gre.wi.0027,﻿church,﻿Immaculate Conception,English,,,,﻿Columbia County,﻿Columbia County,﻿Portage City,﻿Portage,﻿WI,,43.538915,-89.464551,,,,﻿tho_keenan_002,﻿Rev.,﻿Thomas Keenan,,,,,,,,1869,﻿,﻿,﻿Green Bay,GreenBay
+﻿gre.wi.0016,﻿church,﻿St. Ann's,English,,,,﻿Manitowoc County,﻿Manitowoc County,﻿Kossuth,﻿Kossuth,﻿WI,,44.206988,-87.756651,,,,,﻿Rev.,﻿E. Henzler,,,,,,,,1869,﻿,﻿,﻿Green Bay,GreenBay
+﻿gre.wi.0017,﻿church,﻿St. John Nep.,English,,,,﻿Outagamie County,﻿Outagamie County,﻿Little Chute,﻿Little Chute,﻿WI,,44.278276,-88.314417,,,,,﻿Rev.,﻿A. G. Verberk,,,,,,,,1869,﻿,﻿,﻿Green Bay,GreenBay
+﻿gre.wi.0018,﻿church,﻿St. Mary's,English,,,,﻿Winnebago County,﻿Winnebago County,﻿Menasha,﻿Menasha,﻿WI,,44.204037,-88.443403,,,,,﻿Rev.,﻿F. Uhlemeyer,,,,,,,,1869,﻿,﻿,﻿Green Bay,GreenBay
+﻿gre.wi.0020,﻿church,﻿St. Patrick's,English,,,,﻿Manitowoc County,﻿Manitowoc County,﻿Maple Grove,﻿Maple Grove,﻿WI,,44.188884,-87.923628,,,,,﻿Rev.,﻿W. Mahony,,,,,,,,1869,﻿,﻿,﻿Green Bay,GreenBay
+﻿gre.wi.0021,﻿church,﻿Gethsemane Church,English,,,,﻿Marquette County,﻿Marquette County,﻿Montella,﻿Montello,﻿WI,,43.794961,-89.318268,,,,,﻿Rev.,﻿M. Monaghan,,,,,,,,1869,﻿,﻿,﻿Green Bay,GreenBay
+﻿gre.wi.0022,﻿church,﻿St. Kilian's,English,,,,﻿Brown County,﻿Brown County,﻿New Franken,﻿New Franken,﻿WI,,44.53103,-87.825846,,,,,﻿Rev.,﻿W. Boden,,,,,,,,1869,﻿,﻿,﻿Green Bay,GreenBay
+﻿gre.wi.0024,﻿church,﻿St. Peter's,English,,,,﻿Oconto County,﻿Oconto County,﻿Oconto,﻿Oconto,﻿WI,,44.887571,-87.883319,,,,,﻿Rev.,﻿L. Mazeaud,,,,,,,,1869,﻿,﻿,﻿Green Bay,GreenBay
+﻿gre.wi.0025,﻿church,﻿St. Peter's,English,,,,﻿Winnebago County,﻿Winnebago County,﻿Oshkosh,﻿Oshkosh,﻿WI,,44.019711,-88.544474,,,,,﻿Rev.,﻿G. R. Hermon,,,,,,,,1869,﻿,﻿,﻿Green Bay,GreenBay
+﻿gre.wi.0026,﻿church,﻿St. Mary's,English,,,,﻿Winnebago County,﻿Winnebago County,﻿Oshkosh,﻿Oshkosh,﻿WI,,44.012364,-88.619724,,,,,﻿Rev.,﻿A. Leitner,,,,,,,,1869,﻿,﻿,﻿Green Bay,GreenBay
+﻿gre.wi.0027,﻿church,﻿Immaculate Conception,English,,,,﻿Columbia County,﻿Columbia County,﻿Portage City,﻿Portage,﻿WI,,43.538915,-89.464551,,,,,﻿Rev.,﻿Thomas Keenan,,,,,,,,1869,﻿,﻿,﻿Green Bay,GreenBay
 ﻿gre.wi.0029,﻿church,﻿St. Joseph's,English,,,,﻿Brown County,﻿Brown County,﻿Robinsonville,﻿Champion,﻿WI,,44.482213,-88.012871,,,,﻿p_crud_001,﻿Rev.,﻿Phil. Crud,,,,,,,,1869,﻿,﻿,﻿Green Bay,GreenBay
-﻿gre.wi.0031,﻿church,﻿St. Stephen's,English,,,,﻿Portage County,﻿Portage County,﻿Stevens Point,﻿Stevens Point,﻿WI,,44.527046,-89.553282,,,,﻿m_schwebach_001,﻿Rev.,﻿M. Schwebach,,,,,,,,1869,﻿,﻿,﻿Green Bay,GreenBay
+﻿gre.wi.0031,﻿church,﻿St. Stephen's,English,,,,﻿Portage County,﻿Portage County,﻿Stevens Point,﻿Stevens Point,﻿WI,,44.527046,-89.553282,,,,,﻿Rev.,﻿M. Schwebach,,,,,,,,1869,﻿,﻿,﻿Green Bay,GreenBay
 ﻿gre.wi.0032,﻿church,﻿St. Luke's,English,,,,﻿Manitowoc County,﻿Manitowoc County,﻿Two Rivers,﻿Two Rivers,﻿WI,,44.149952,-87.567108,,,,﻿j_gauché_001,﻿Rev.,﻿Jacob Gauché,,,,,,,,1869,﻿,﻿,﻿Green Bay,GreenBay
 ﻿gre.wi.0033,﻿church,﻿Invention of the Holy Cross,English,,,,﻿Brown County,﻿Brown County,﻿Wequiock,﻿Wequiock,﻿WI,,44.553625,-87.889262,,,,﻿edw_daems_001,﻿Rev.,﻿E. Daems,﻿O.S.C.,,,,,,,1869,﻿,﻿,﻿Green Bay,GreenBay
 ﻿gre.wi.0034,﻿station,not recorded,English,,,,,,﻿Ahnepee,﻿Algoma,﻿WI,,44.612241,-87.432807,,,"﻿Visited either monthly, or, for want of priests, occasionally",,,,,,,,,,,1869,﻿,﻿,﻿Green Bay,GreenBay
