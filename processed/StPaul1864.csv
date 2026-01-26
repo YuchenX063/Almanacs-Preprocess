@@ -147,7 +147,7 @@
 ﻿stp.mn.0188,﻿church,﻿Church of ---,English,,,,﻿Wabashaw County,﻿Wabasha County,﻿West Albany,﻿West Albany,﻿MN,,44.301356,-92.285454,﻿stp.mn.0186,﻿Visited from Wabashaw,,,,,,,,,,,,1864,﻿,﻿,﻿St. Paul,StPaul
 ﻿stp.mn.0119,﻿church,not recorded,English,,,,﻿Nicollet County,﻿Nicollet County,﻿West Newton,,﻿MN,,44.403576,-94.541814,﻿stp.mn.0012,﻿Visited from Mankato,,,,,,,,,,,,1864,﻿,﻿,﻿St. Paul,StPaul
 ﻿stp.mn.0300,﻿church,not recorded,English,,﻿White Water,,﻿Winona County,﻿Winona County,,,﻿MN,,,,﻿stp.mn.0196,﻿Visited from Winona,,,,,,,,,,,,1864,﻿,﻿,﻿St. Paul,StPaul
-﻿stp.mn.0363,﻿church,﻿St. Thomas',English,,,,﻿Winona County,﻿Winona County,﻿Winona,﻿Winona,﻿MN,,,,,,,,﻿Rev.,﻿M. Prendergast,,,,,,,,1864,﻿,﻿,﻿St. Paul,StPaul
+﻿stp.mn.0363,﻿church,﻿St. Thomas',English,,,,﻿Winona County,﻿Winona County,﻿Winona,﻿Winona,﻿MN,,,,,,,﻿m_prendergast_002,﻿Rev.,﻿M. Prendergast,,,,,,,,1864,﻿,﻿,﻿St. Paul,StPaul
 ﻿stp.mn.0196,﻿church,﻿St. Joseph's,﻿German,,,,﻿Winona County,﻿Winona County,﻿Winona,﻿Winona,﻿MN,,44.055391,-91.666352,,﻿Visited from Caledonia,,,,,,,,,,,,1864,﻿,﻿,﻿St. Paul,StPaul
 ﻿stp.mn.0301,﻿church,not recorded,English,,﻿Wizard Grove,,﻿Faribault County,﻿Faribault County,,,﻿MN,,,,﻿stp.mn.0012,﻿Visited from Mankato,,,,,,,,,,,,1864,﻿,﻿,﻿St. Paul,StPaul
 ﻿stp.mn.0364,﻿church,not recorded,English,,,,﻿Sibley County,,﻿Washington Lake,,﻿MN,,,,,﻿Visited from Henderson,,,,,,,,,,,,1864,﻿,﻿,﻿St. Paul,StPaul
@@ -156,7 +156,7 @@
 ﻿stp.mn.0025,﻿church,﻿Young America,English,,,,﻿Carver County,﻿Carver County,,﻿Norwood Young American,﻿MN,,44.780929,-93.912913,,﻿Visited from Wakonia,,,,,,,,,,,,1864,﻿,﻿,﻿St. Paul,StPaul
 ﻿stp.mn.0366,﻿church,not recorded,English,,,,﻿Houston County,,﻿Yucatan,,﻿MN,,,,,﻿Visited from Caledonia,,,,,,,,,,,,1864,﻿,﻿,﻿St. Paul,StPaul
 ﻿stp.mn.0210,﻿mission,﻿Chippeway Indians,English,﻿Indian Mission; under the charge of Rev. Francis Pierze,"﻿near Mille Lacs, Leach Lake, and Cass Lake",,,,,,﻿MN,,46.073744,-93.661115,,,,,,,,,,,,,,1864,﻿,﻿,﻿St. Paul,StPaul
-﻿stp.mn.0214_stp.mn.0216,﻿mission,﻿Mission of Chippeways,English,﻿Indian Mission,"﻿near Sandy Lake, and Under Mississippi",,,,,,﻿MN,,47.380648,-94.603114,,,,,﻿Rev.,﻿Anthony Gaess,,,,,,,,1864,﻿,﻿,﻿St. Paul,StPaul
+﻿stp.mn.0214_stp.mn.0216,﻿mission,﻿Mission of Chippeways,English,﻿Indian Mission,"﻿near Sandy Lake, and Under Mississippi",,,,,,﻿MN,,47.380648,-94.603114,,,,﻿ant_gaess_001,﻿Rev.,﻿Anthony Gaess,,,,,,,,1864,﻿,﻿,﻿St. Paul,StPaul
 ﻿stp.mn.0217_01,﻿mission,﻿Mission of Half-Breeds and Chippewas,English,﻿Indian Mission,﻿at Pembina,,,﻿Pembina County,,﻿Pembina,,﻿ND,46.715817,-92.513266,,,,﻿pèr_germaine_001,﻿Rev.,﻿Père Germaine,,,,,,,,1864,﻿,﻿,﻿St. Paul,StPaul
 ﻿stp.mn.0217_01,﻿mission,﻿Mission of Half-Breeds and Chippewas,English,﻿Indian Mission,﻿at Pembina,,,﻿Pembina County,,﻿Pembina,,,46.715817,-92.513266,,,,﻿pèr_andré_001,﻿Rev.,﻿Père Andrè,,,,,,,,1864,﻿,﻿,﻿St. Paul,StPaul
 ﻿stp.mn.0217_02,﻿mission,﻿Mission of Half-Breeds and Chippewas,English,﻿Indian Mission,"﻿at St. Joseph, Red River of the North",,,,,﻿Walhalla,,﻿ND,46.71581695,-92.51326606,,,,﻿pèr_germaine_001,﻿Rev.,﻿Père Germaine,,,,,,,,1864,﻿,﻿,﻿St. Paul,StPaul
