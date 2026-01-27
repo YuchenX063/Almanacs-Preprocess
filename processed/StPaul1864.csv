@@ -119,8 +119,8 @@
 ﻿stp.mn.0299,﻿church,not recorded,English,,,,﻿Nicollet County,﻿Nicollet County,﻿Swan Lake,,﻿MN,,,,,﻿Visited from Maukato,,,,,,,,,,,,1864,﻿,﻿,﻿St. Paul,StPaul
 ﻿stp.mn.0337,﻿church,not recorded,English,,,,﻿Rice County,,﻿Shieldsville,,﻿MN,,,,,﻿Visited from Faribault,,,,,,,,,,,,1864,﻿,﻿,﻿St. Paul,StPaul
 ﻿stp.mn.0360,﻿church,not recorded,English,,,,﻿Waseca County,,﻿Silver Lake,,﻿MN,,,,,﻿Visited from Faribault,,,,,,,,,,,,1864,﻿,﻿,﻿St. Paul,StPaul
-﻿stp.mn.0156,﻿church,﻿Purification B.V.,English,,,,﻿Scott County,﻿Scott County,﻿St. Mary,﻿Marystown,﻿MN,,44.720796,-93.541343,﻿stp.mn.0149,﻿Visited from Shakopee,,,,,,,,,,,,1864,﻿,﻿,﻿St. Paul,StPaul
-﻿stp.mn.0361,﻿church,﻿St. Joseph's,English,,,,,,,,,,,,,﻿Visited from New Prague,,,,,,,,,,,,1864,﻿,﻿,﻿St. Paul,StPaul
+﻿stp.mn.0156,﻿church,﻿Purification B.V.,English,,,,﻿Scott County,﻿Scott County,﻿St. Mary's,﻿Marystown,﻿MN,,44.720796,-93.541343,﻿stp.mn.0149,﻿Visited from Shakopee,,,,,,,,,,,,1864,﻿,﻿,﻿St. Paul,StPaul
+﻿stp.mn.0361,﻿church,﻿St. Joseph's,English,,,,﻿Scott County,,﻿St. Mary's,,,,,,,﻿Visited from New Prague,,,,,,,,,,,,1864,﻿,﻿,﻿St. Paul,StPaul
 ﻿stp.mn.0253,﻿church,not recorded,English,,,,﻿Le Sueur County,﻿Le Sueur County,﻿St. John,,﻿MN,,,,,﻿Visited from New Prague,,,,,,,,,,,,1864,﻿,﻿,﻿St. Paul,StPaul
 ﻿stp.mn.0095,﻿church,not recorded,English,,,,﻿Le Sueur County,﻿Le Sueur County,﻿St. Henry,﻿Sharon Township,﻿MN,,44.429111,-93.845173,,﻿Visiting from New Prague,,,,,,,,,,,,1864,﻿,﻿,﻿St. Paul,StPaul
 ﻿stp.mn.0070,﻿church,﻿St. Anthony's,English,,,,﻿Hennepin County,﻿Hennepin County,﻿St. Anthony's Falls,﻿St. Anthony,﻿MN,,45.020891,-93.509457,,,,﻿joh_mcdermott_002,﻿Rev.,﻿John McDermott,,,,,,,,1864,﻿,﻿,﻿St. Paul,StPaul
@@ -134,7 +134,7 @@
 ﻿stp.mn.0022,﻿church,﻿St. Bernard,English,,,,﻿Carver County,﻿Carver County,﻿Benton,﻿Benton Township,﻿MN,,44.767274,-93.845173,,﻿Visited from Wakonia,,,,,,,,,,,,1864,﻿,﻿,﻿St. Paul,StPaul
 ﻿stp.mn.0320,﻿church,﻿St. Boniface,English,,,,﻿Hennepin County,﻿Wabasha County,,﻿Minneiska,﻿MN,,44.194964,-91.871825,,﻿Visited from St. Michael's,,,,,,,,,,,,1864,﻿,﻿,﻿St. Paul,StPaul
 ﻿stp.mn.0174,﻿church,﻿St. Michael's,English,,,,﻿Wright County,﻿Wright County,﻿St. Michael's,﻿Frankfort Township,﻿MN,,45.15382,-94.019094,,,,﻿mag_mayr_001,﻿Rev.,﻿Magnus Mayr,,,,,,,,1864,﻿,﻿,﻿St. Paul,StPaul
-﻿stp.mn.0362,﻿church,﻿St. John Evang,English,,,,﻿Sibley County,,,,﻿MN,,,,,﻿Visited from Henderson,,,,,,,,,,,,1864,﻿,﻿,﻿St. Paul,StPaul
+﻿stp.mn.0362,﻿church,﻿St. John Evang.,English,,,,﻿Sibley County,,,,﻿MN,,,,,﻿Visited from Henderson,,,,,,,,,,,,1864,﻿,﻿,﻿St. Paul,StPaul
 ﻿stp.mn.0162,﻿church,not recorded,English,,,,﻿Scott County,﻿Scott County,﻿St. Joseph,﻿Sand Creek Township,﻿MN,,44.664019,-93.561026,,﻿Visited from Shakopee,,,,,,,,,,,,1864,﻿,﻿,﻿St. Paul,StPaul
 ﻿stp.mn.0163,﻿church,not recorded,English,,,,﻿Le Sueur County,,﻿St. Scholastica,,﻿MN,,44.597317,-93.621463,,﻿Visited from New Prague,,,,,,,,,,,,1864,﻿,﻿,﻿St. Paul,StPaul
 ﻿stp.mn.0182,﻿church,﻿Nativity B.V.,English,,,,﻿Waseca County,﻿Waseca County,﻿St. Mary,﻿St. Mary's,﻿MN,,44.058436,-93.601521,﻿stp.mn.0129,﻿Visited from Faribault,,,,,,,,,,,,1864,﻿,﻿,﻿St. Paul,StPaul
@@ -175,9 +175,9 @@
 ﻿stp.mn.0228_03,﻿convent,﻿Independent Priory of the Order of St. Benedict,English,,,,﻿Stearns County,,﻿St. Cloud,,﻿MN,,45.579768,-94.393892,,,,﻿mei_stukenkemper_001,﻿Rev.,﻿Mainulph Stuckenkemper,﻿O.S.B.,,,﻿layperson,﻿12 lay brothers,,,1864,﻿,﻿,﻿St. Paul,StPaul
 ﻿stp.mn.0228_03,﻿convent,﻿Independent Priory of the Order of St. Benedict,English,,,,﻿Stearns County,,﻿St. Cloud,,﻿MN,,45.579768,-94.393892,,,,﻿mat_stüremberg_001,﻿Rev.,﻿Matthew Stürenburg,﻿O.S.B.,,,﻿layperson,﻿12 lay brothers,,,1864,﻿,﻿,﻿St. Paul,StPaul
 ﻿stp.mn.0228_03,﻿convent,﻿Independent Priory of the Order of St. Benedict,English,,,,﻿Stearns County,,﻿St. Cloud,,﻿MN,,45.579768,-94.393892,,,,﻿bru_m_riess_001,﻿Rev.,﻿Bruno Riess,﻿O.S.B.,,,﻿layperson,﻿12 lay brothers,,,1864,﻿,﻿,﻿St. Paul,StPaul
-﻿stp.mn.0334,"﻿convent, academy",﻿St. Joseph's Convent and Academy,English,,﻿St. Jospeh,,﻿Stearns County,,,,﻿MN,,,,,,,,﻿Sister,﻿Willibalda,,﻿Prioress,,﻿nun,﻿10 nuns,﻿Nuns of St. Benedict,,1864,﻿,﻿,﻿St. Paul,StPaul
-﻿stp.mn.0334,"﻿convent, academy",﻿St. Joseph's Convent and Academy,English,,﻿St. Jospeh,,﻿Stearns County,,,,﻿MN,,,,,,,,,,,,,﻿novices,﻿4 novices,﻿Nuns of St. Benedict,,1864,﻿,﻿,﻿St. Paul,StPaul
-﻿stp.mn.0334,"﻿convent, academy",﻿St. Joseph's Convent and Academy,English,,﻿St. Jospeh,,﻿Stearns County,,,,﻿MN,,,,,,,,,,,,,﻿postulants,﻿2 postulants,﻿Nuns of St. Benedict,,1864,﻿,﻿,﻿St. Paul,StPaul
+﻿stp.mn.0140_02&0140_03,"﻿convent, academy",﻿St. Joseph's Convent and Academy,English,,﻿St. Jospeh,,﻿Stearns County,,,,﻿MN,,,,,,,,﻿Sister,﻿Willibalda,,﻿Prioress,,﻿nun,﻿10 nuns,﻿Nuns of St. Benedict,,1864,﻿,﻿,﻿St. Paul,StPaul
+﻿stp.mn.0140_02&0140_03,"﻿convent, academy",﻿St. Joseph's Convent and Academy,English,,﻿St. Jospeh,,﻿Stearns County,,,,﻿MN,,,,,,,,,,,,,﻿novices,﻿4 novices,﻿Nuns of St. Benedict,,1864,﻿,﻿,﻿St. Paul,StPaul
+﻿stp.mn.0140_02&0140_03,"﻿convent, academy",﻿St. Joseph's Convent and Academy,English,,﻿St. Jospeh,,﻿Stearns County,,,,﻿MN,,,,,,,,,,,,,﻿postulants,﻿2 postulants,﻿Nuns of St. Benedict,,1864,﻿,﻿,﻿St. Paul,StPaul
 ﻿stp.mn.0227_04&0227_01,"﻿convent, academy",﻿St. Gertrude's Convent and Academy,English,,,,,,﻿Shakopee,,﻿MN,,,,,,,,﻿Sister,﻿Maria Clara Vogel,,﻿Prioress,,,,,,1864,﻿,﻿,﻿St. Paul,StPaul
 ﻿stp.mn.0225_02,﻿academy,﻿St. Joseph's Academy,English,﻿for young ladies; A fine stone edifice has been just completed.,,,,,﻿St. Paul,,﻿MN,,44.949124,-93.115405,,,,,﻿Sister,﻿Stanislaus,,﻿Superior,,﻿professed sister,﻿8 professed sisters,﻿under the charge of the Sisters of St. Joseph,,1864,﻿,﻿,﻿St. Paul,StPaul
 ﻿stp.mn.0225_02,﻿academy,﻿St. Joseph's Academy,English,﻿for young ladies; A fine stone edifice has been just completed.,,,,,﻿St. Paul,,﻿MN,,44.949124,-93.115405,,,,,,,,,,﻿novice,﻿7 novices,﻿under the charge of the Sisters of St. Joseph,,1864,﻿,﻿,﻿St. Paul,StPaul
