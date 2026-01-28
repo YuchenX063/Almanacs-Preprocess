@@ -1,0 +1,113 @@
+﻿instID,church_type,instName,language,instNote,placeName,region,county_orig,county_reg,city_orig,city_reg,state_orig,state_reg,latitude,longitude,attendingInstID,attendingChurch,attendingChurchFrequency,persID,persTitle,persName,persSuffix,persRole,persNote,memberType,member,affiliated,order,year,attendingPersID,attendingChurchNote,diocese,diocese_reg
+﻿phi.pa.0005,﻿cathedral,﻿St. Mary's,English,,,,,﻿Philadelphia County,﻿Philidelphia,﻿Philidelphia,﻿PA,﻿PA,39.94564287,-75.14856313,,,,﻿edw_barron_901,﻿Very Rev.,﻿Edward Barron,﻿D.D.,﻿Pastor,,,,,,1840,﻿,﻿,Philadelphia,Philadelphia
+﻿phi.pa.0005,﻿cathedral,﻿St. Mary's,English,,,,,﻿Philadelphia County,﻿Philidelphia,﻿Philidelphia,﻿PA,,39.94564287,-75.14856313,,,,﻿cha_j_carter_901,﻿Rev.,﻿Charles J. Carter,,﻿Assistant,,,,,,1840,﻿,﻿,Philadelphia,Philadelphia
+﻿phi.pa.0005,﻿cathedral,﻿St. Mary's,English,,,,,﻿Philadelphia County,﻿Philidelphia,﻿Philidelphia,﻿PA,,39.94564287,-75.14856313,,,,﻿joh_p_dunn_901,﻿Rev.,﻿John P. Dunn,,﻿Assistant,,,,,,1840,﻿,﻿,Philadelphia,Philadelphia
+﻿phi.pa.0006,﻿church,﻿St. Joseph's,English,,,,,﻿Philadelphia County,﻿Philidelphia,﻿Philidelphia,﻿PA,﻿PA,39.94655372,-75.1475707,,,,,﻿Rev.,﻿Peter Havermans,﻿S. J.,,,,,,,1840,﻿,﻿,Philadelphia,Philadelphia
+﻿phi.pa.0006,﻿church,﻿St. Joseph's,English,,,,,﻿Philadelphia County,﻿Philidelphia,﻿Philidelphia,﻿PA,,39.94655372,-75.1475707,,,,﻿fel_j_barbelin_001,﻿Rev.,﻿Felix Barbelin,﻿S. J.,,,,,,,1840,﻿,﻿,Philadelphia,Philadelphia
+﻿phi.pa.0007,﻿church,﻿St. Augustin's,English,,,,,﻿Philadelphia County,﻿Philidelphia,﻿Philidelphia,﻿PA,﻿PA,39.95552714,-75.1465845,,,,,﻿Rev.,﻿P. Moriarty,﻿D. D.,,,,,,,1840,﻿,﻿,Philadelphia,Philadelphia
+﻿phi.pa.0007,﻿church,﻿St. Augustin's,English,,,,,﻿Philadelphia County,﻿Philidelphia,﻿Philidelphia,﻿PA,,39.95552714,-75.1465845,,,,﻿tho_kyle_901,﻿Rev.,﻿Thomas Kyle,,,,,,,,1840,﻿,﻿,Philadelphia,Philadelphia
+﻿phi.pa.0009,﻿church,﻿Holy Trinity,English,,,,,﻿Philadelphia County,﻿Philadelphia,﻿Philidelphia,﻿PA,﻿PA,39.9455084,-75.15189463,,,,﻿oth_borgess_901,﻿Rev.,﻿Otho Borgess,,﻿Pastor,,,,,,1840,﻿,﻿,Philadelphia,Philadelphia
+﻿phi.pa.0004,﻿church,﻿St. John Evang.,English,,,,,﻿Philadelphia County,﻿Philidelphia,﻿Philidelphia,﻿PA,﻿PA,39.95126954,-75.16138096,,,,﻿fra_x_gartland_901,﻿Rev.,﻿Francis X. Gartland,,﻿Pastor,,,,,,1840,﻿,﻿,Philadelphia,Philadelphia
+﻿phi.pa.0004,﻿church,﻿St. John Evang.,English,,,,,﻿Philadelphia County,﻿Philidelphia,﻿Philidelphia,﻿PA,,39.95126954,-75.16138096,,,,﻿edw_sourin_901,﻿Rev.,﻿Edward Sourin,,,,,,,,1840,﻿,﻿,Philadelphia,Philadelphia
+﻿phi.pa.0010,﻿church,﻿St. Michael's,English,,,,,,﻿Philadelphia,﻿Philadelphia,﻿PA,﻿PA,39.97389081,-75.13848967,,,,﻿ter_j_donaghue_901,﻿Rev.,﻿Terence J. Donaghue,,﻿Pastor,,,,,,1840,﻿,﻿,Philadelphia,Philadelphia
+﻿phi.pa.0010,﻿church,﻿St. Michael's,English,,,,,,﻿Philadelphia,﻿Philadelphia,﻿PA,,39.97389081,-75.13848967,,,,﻿wil_whelan_901,﻿Rev.,﻿W. Whelan,,,,,,,,1840,﻿,﻿,Philadelphia,Philadelphia
+﻿pit.pa.0014,﻿church,﻿SS. Peter and Paul,English,,,,,,﻿Beaver,,﻿PA,,,,,,﻿last Sunday in the month,,﻿Rev.,﻿Edward F. Garland,,,,,,,,1840,﻿,﻿,Philadelphia,Philadelphia
+﻿pit.pa.0015,﻿church,﻿St. Thomas',English,,,,,﻿Bedford County,﻿Bedford,﻿Bedford,﻿PA,﻿PA,40.01766654,-78.50151808,,,﻿two Sundays in the month,﻿tho_heyden_901,﻿Rev.,﻿Thomas Heyden,,,,,,,,1840,﻿,﻿,Philadelphia,Philadelphia
+﻿har.pa.0041,﻿church,﻿St. John Evangelist,English,,,,,﻿Centre County,﻿Bellefonte,﻿Bellefonte,﻿PA,﻿PA,40.91081367,-77.77627962,,,﻿twice a month,,﻿Rev.,﻿Timothy Flanagan,,,,,,,,1840,﻿,﻿,Philadelphia,Philadelphia
+﻿pit.pa.0019,﻿church,﻿SS. Simon and Jude,English,,,,,﻿Indiana County,﻿Blairsville,﻿Blairsville,﻿PA,﻿PA,40.43263075,-79.25841066,,,﻿twice a month,﻿jam_a_stillinger_001,﻿Rev.,﻿J. A. Stillinger,,,,,,,,1840,﻿,﻿,Philadelphia,Philadelphia
+﻿pit.pa.0026,﻿church,﻿St. Peter's,English,,,,,﻿Fayette County,﻿Brownsville,﻿Brownsville,﻿PA,﻿PA,40.0226438,-79.87755123,,,﻿twice a month,﻿mic_gallagher_901,﻿Rev.,﻿M. Gallagher,,,,,,,,1840,﻿,﻿,Philadelphia,Philadelphia
+﻿pit.pa.9001,﻿church,﻿St. Peter's,English,,,,,,﻿Butler,,﻿PA,,,,,,﻿3d Sunday,﻿jos_cody_901,﻿Rev.,﻿Joseph Cody,,,"﻿dwelling at Sugar Creek township, Armstrong county",,,,,1840,﻿,﻿,Philadelphia,Philadelphia
+﻿pit.pa.0029,﻿church,﻿St. Patrick's,English,,,,,﻿Indiana County,﻿Cameron's Bottom,﻿Heilwood,﻿PA,﻿PA,40.59448682,-78.91594783,,,﻿once a month,﻿ter_mcgirr_901,﻿Rev.,﻿Terrence McGirr,,,,,,,,1840,﻿,﻿,Philadelphia,Philadelphia
+﻿har.pa.0038,﻿church,﻿St. Patrick's,English,,,,,﻿Cumberland County,﻿Carlisle,﻿Carlisle,﻿PA,﻿PA,40.17501599,-77.20259339,,,﻿once a month,﻿p_maher_902,﻿Rev.,﻿P. Maher,,,﻿Dw. at Harrisburg,,,,,1840,﻿,﻿,Philadelphia,Philadelphia
+﻿scr.pa.0020,﻿church,﻿St. Rose of Lima,English,,,,,﻿Lackawanna County,﻿Carbondale,﻿Carbondale,﻿PA,﻿PA,41.57188219,-75.5011599,,,﻿three times a month,﻿h_fitzsimmons_901,﻿Rev.,﻿H. Fitzsimmons,,,,,,,,1840,﻿,﻿,Philadelphia,Philadelphia
+﻿phi.pa.9000,﻿church,﻿Christ's Church,English,,,,,﻿Franklin County,﻿Chambersburg,﻿Chambersburg,﻿PA,﻿PA,,,,,,﻿jam_a_miller_901,﻿Rev.,﻿J. A. Miller,,,,,,,,1840,﻿,﻿,Philadelphia,Philadelphia
+﻿phi.pa.9000,﻿church,﻿St. Philip's,English,,﻿Chartier's Creek,,,﻿Franklin County,﻿Chambersburg,﻿Chambersburg,﻿PA,,,,,,﻿occasionally,﻿edw_f_garland_901,﻿Rev.,﻿Edward F. Garland,,,,,,,,1840,﻿,﻿,Philadelphia,Philadelphia
+﻿phi.pa.9008,﻿church,﻿St. Basil's,English,,,,,,﻿Cherry Township,,﻿PA,,,,,﻿,,﻿joh_v_oreilly_901,﻿Rev.,﻿J. V. O'Reilly,,,,,,,,1840,﻿,﻿,Philadelphia,Philadelphia
+﻿erie.pa.0015,﻿church,﻿St. Francis of Assissium,English,,,,,﻿Clearfield County,﻿Clearfield,﻿Clearfield,﻿PA,﻿PA,41.01913824,-78.43912405,,,﻿once in two months,,﻿Rev.,﻿Tim. Flanagan,,,,,,,,1840,﻿,﻿,Philadelphia,Philadelphia
+﻿har.pa.0010,﻿church,﻿St. Peter's,English,,,,,﻿Lancaster County,﻿Columbia,﻿Columbia,﻿PA,﻿PA,40.02957203,-76.50186656,,,﻿twice a month,﻿ber_keenan_001,﻿Rev.,﻿B. Keenan,,,,,,,,1840,﻿,﻿,Philadelphia,Philadelphia
+﻿har.pa.0023,﻿church,﻿Sacred Heart,English,,,,﻿Adams County,﻿Adams County,﻿Conewago,﻿Conewago,﻿PA,﻿PA,39.81875756,-77.03791245,,,,﻿mat_leken_901,﻿Rev.,﻿Matthew Leken,﻿S.J.,,,,,,,1840,﻿,﻿,Philadelphia,Philadelphia
+﻿har.pa.0023,﻿church,﻿Sacred Heart,English,,,,﻿Adams County,﻿Adams County,﻿Conewago,﻿Conewago,﻿PA,,39.81875756,-77.03791245,,,,﻿mic_dougherty_902,﻿Rev.,﻿Michael Dougherty,﻿S. J.,,,,,,,1840,﻿,﻿,Philadelphia,Philadelphia
+﻿pit.pa.9007,﻿church,﻿St. Philip Beniti,English,,﻿Cussewago Creek,,﻿Crawford County,,,,﻿PA,,,,,,﻿once in five weeks,﻿ber_mccabe_901,﻿Rev.,﻿Bernard McCabe,,,,,,,,1840,﻿,﻿,Philadelphia,Philadelphia
+﻿phi.pa.9001,﻿church,﻿Mount Carmel,English,,,,﻿Westmoreland County,,﻿Derry Township,,﻿PA,,,,,,﻿occasionally,﻿jam_a_stillinger_001,﻿Rev.,﻿J. A. Stillinger,,,,,,,,1840,﻿,﻿,Philadelphia,Philadelphia
+﻿phi.pa.9001,﻿church,﻿St. Malachy's,English,,﻿Doe Run,,﻿Westmoreland County,,﻿Derry Township,,﻿PA,,,,,,﻿once a month,,﻿Rev.,﻿Wm. Loughran,,,,,,,,1840,﻿,﻿,Philadelphia,Philadelphia
+﻿phi.pa.0110,﻿church,﻿St. Bernard's,English,,,,,,﻿Easton,,﻿PA,,,,,,﻿2d Sunday,﻿jam_maloney_901,﻿Rev.,﻿James Maloney,,,,,,,,1840,﻿,﻿,Philadelphia,Philadelphia
+﻿pit.pa.0042,﻿church,﻿St. Patrick's,English,,,,,﻿Cambria County,﻿Ebensburg,﻿Ebensburg,﻿PA,﻿PA,40.48878598,-78.7264887,,,﻿once a month,﻿pet_lemke_901,﻿Rev.,﻿P. Lemke,,,﻿dwelling at Hart's Sleeping-Place,,,,,1840,﻿,﻿,Philadelphia,Philadelphia
+﻿har.pa.0015,﻿church,﻿St. Peter's,English,,,,,﻿Lancaster County,﻿Elizabethtown,﻿Elizabethtown,﻿PA,﻿PA,40.1500281,-76.60378334,,,﻿once a month,﻿p_maher_902,﻿Rev.,﻿P. Maher,,,,,,,,1840,﻿,﻿,Philadelphia,Philadelphia
+﻿phi.pa.9009,﻿chapel,not recorded,English,,,,,,﻿Erie,,﻿PA,,,,,,﻿1st Sunday,,﻿Rev.,﻿B. McCabe,,,,,,,,1840,﻿,﻿,Philadelphia,Philadelphia
+﻿pit.pa.0046,﻿church,﻿St. Mary's,English,,,,,﻿Armstrong County,﻿Freeport,﻿Freeport,﻿PA,﻿PA,40.67408336,-79.68331684,,,﻿1st Sunday,﻿jos_cody_901,﻿Rev.,﻿J. Cody,,,,,,,,1840,﻿,﻿,Philadelphia,Philadelphia
+﻿scr.pa.0088,﻿church,﻿St. Francis Xavier's,English,,,,,﻿Susquehanna County,﻿Friendvsville,﻿Friendvsville,﻿PA,﻿PA,41.91814506,-76.04796095,,,﻿1st Sunday,﻿joh_v_oreilly_901,﻿Rev.,﻿John V. O'Reilly,,,,,,,,1840,﻿,﻿,Philadelphia,Philadelphia
+﻿har.pa.0029,﻿church,﻿St. Francis Xavier's,English,,,,,﻿Adams County,﻿Gettysburg,﻿Gettysburg,﻿PA,﻿PA,39.8287621,-77.2319783,,,﻿once a month,﻿m_dougherty_902,﻿Rev.,﻿M. Dougherty,,,,,,,,1840,﻿,﻿,Philadelphia,Philadelphia
+﻿phi.pa.0048,﻿church,﻿Most Holy Sacrament,English,,,,,﻿Berks County,﻿Goshenhoppen,﻿Bally,﻿PA,﻿PA,40.39776372,-75.58118476,,,,﻿aug_balli_902,﻿Rev.,﻿Augustus Balli,﻿S. J.,,,,,,,1840,﻿,﻿,Philadelphia,Philadelphia
+﻿phi.pa.0048,﻿church,﻿Most Holy Sacrament,English,,,,,﻿Berks County,﻿Goshenhoppen,﻿Bally,﻿PA,,40.39776372,-75.58118476,,,,﻿fra_varin_901,﻿Rev.,﻿Francis Varin,,,,,,,,1840,﻿,﻿,Philadelphia,Philadelphia
+﻿pit.pa.0050,﻿church,﻿St. John Bap.,English,,﻿Harman's Bottom,,,﻿Somerset County,,﻿New Baltimore,﻿PA,﻿PA,39.98369025,-78.77549355,,,﻿once a month,﻿tho_heyden_901,﻿Rev.,﻿T. Heyden,,,,,,,,1840,﻿,﻿,Philadelphia,Philadelphia
+﻿har.pa.0001,﻿church,﻿St. Patrick's,English,,,,,﻿Dauphin County,﻿Harrisburg,﻿Harrisburg,﻿PA,﻿PA,40.26360912,-76.88657527,,,﻿twice a month,﻿p_maher_902,﻿Rev.,﻿P. Maher,,,,,,,,1840,﻿,﻿,Philadelphia,Philadelphia
+﻿har.pa.0001,﻿church,﻿St. Patrick's,English,,,,,﻿Dauphin County,﻿Harrisburg,﻿Harrisburg,﻿PA,,40.26360912,-76.88657527,,,,,﻿Rev.,﻿Wm. Loughran,,,,,,,,1840,﻿,﻿,Philadelphia,Philadelphia
+﻿phi.pa.9002,﻿church,﻿St. Dennis,English,,,,,,﻿Harford Township,,﻿PA,,,,,,﻿2d and 4th Sunday,,﻿Rev.,﻿Wm. Loughran,,,,,,,,1840,﻿,﻿,Philadelphia,Philadelphia
+﻿pit.pa.0051,﻿church,﻿St. Joseph's,English,,,,,﻿Cambria County,﻿Hart's Sleeping Place,﻿Patton,﻿PA,﻿PA,40.63333701,-78.70814978,,,﻿twice a month,﻿pet_lemke_901,﻿Rev.,﻿P. Lemke,,,,,,,,1840,﻿,﻿,Philadelphia,Philadelphia
+﻿phi.pa.0055,﻿church,﻿St. John Bap.,English,,,,,﻿Bucks County,﻿Haycock,﻿Ottsville,﻿PA,﻿PA,40.49964127,-75.20502565,,,﻿1st Sunday,﻿j_maloney_901,﻿Rev.,﻿J. Maloney,,,,,,,,1840,﻿,﻿,Philadelphia,Philadelphia
+﻿pit.pa.0054,﻿church,﻿Holy Trinity,English,,,,,﻿Huntingdon County,﻿Huntingdon,﻿Huntingdon,﻿PA,﻿PA,40.48607692,-78.01301671,,,﻿once in two months,﻿jam_bradley_901,﻿Rev.,﻿James Bradley,,,,,,,,1840,﻿,﻿,Philadelphia,Philadelphia
+﻿pit.pa.0058,﻿church,﻿St. John Gualbert's,English,,,,,,﻿Johnstown,,﻿PA,,,,,,﻿3d Sunday,,﻿Rev.,﻿P. Rattigan,,,,,,,,1840,﻿,﻿,Philadelphia,Philadelphia
+﻿har.pa.0008,﻿church,﻿St. Mary's,English,,,,,﻿Lancaster County,﻿Lancaster,﻿Lancaster,﻿PA,﻿PA,40.0359609,-76.30695166,,,,﻿ber_keenan_001,﻿Rev.,﻿Bernard Keenan,,,,,,,,1840,﻿,﻿,Philadelphia,Philadelphia
+﻿har.pa.0039,﻿church,﻿All Saints,English,,,,,﻿Mifflin County,﻿Lewistown,﻿Lewistown,﻿PA,﻿PA,40.60023008,-77.5731348,,,﻿once a month,,﻿Rev.,﻿T. Flanagan,,,,,,,,1840,﻿,﻿,Philadelphia,Philadelphia
+﻿har.pa.0025,﻿church,﻿St. Aloysius,English,,,,,﻿Adams County,﻿Littlestown,﻿Littlestown,﻿PA,﻿PA,39.74342361,-77.0880942,,,﻿twice a month,﻿m_dougherty_902,﻿Rev.,﻿M. Dougherty,,,,,,,,1840,﻿,﻿,Philadelphia,Philadelphia
+﻿har.pa.0017,﻿church,﻿St. Patrick's,English,,,,,﻿York County,﻿Little York,﻿York,﻿PA,﻿PA,39.95832062,-76.72761145,,,,﻿p_rafferty_902,﻿Rev.,﻿P. Rafferty,,,,,,,,1840,﻿,﻿,Philadelphia,Philadelphia
+﻿pit.pa.9002,﻿church,﻿St. Michael's,English,,,,,﻿Cambria County,﻿Loretto,﻿Loretto,﻿PA,﻿PA,40.50249152,-78.63033998,,,﻿constantly,,﻿Rev.,﻿D. A. Gallit,,,,,,,,1840,﻿,﻿,Philadelphia,Philadelphia
+﻿har.pa.0005,﻿church,﻿St. Mary's,English,,,,,﻿Lebanon County,﻿Lebanon,﻿Lebanon,﻿PA,﻿PA,40.33962838,-76.42426687,,,﻿occasionally,﻿p_maher_902,﻿Rev.,﻿P. Maher,,,,,,,,1840,﻿,﻿,Philadelphia,Philadelphia
+﻿cle.oh.0100,﻿church,not recorded,English,,,,,,﻿Massillon,﻿Massillon,﻿PA,﻿OH,,,,,,,,,,,﻿Vacant,,,,,1840,﻿,﻿,Philadelphia,Philadelphia
+﻿phi.pa.0036,﻿church,﻿St. John Bap.,English,,,,,﻿Philadelphia County,﻿Manayunk,﻿Philadelphia,﻿PA,﻿PA,40.02488645,-75.22006133,,,﻿constantly,﻿d_mulholland_902,﻿Rev.,﻿D. Mulholland,,,,,,,,1840,﻿,﻿,Philadelphia,Philadelphia
+﻿phi.pa.0036,﻿church,﻿St. Hippolytus',English,,,,,﻿Philadelphia County,﻿Meadville,﻿Philadelphia,﻿PA,,40.02488645,-75.22006133,,,﻿once in five weeks,,﻿Rev.,﻿B. McCabe,,,,,,,,1840,﻿,﻿,Philadelphia,Philadelphia
+﻿har.pa.0058,﻿church,﻿St. Joseph's,English,,,,,﻿Northumberland County,﻿Milton,﻿Milton,﻿PA,﻿PA,41.02061259,-76.85129446,,,﻿twice a month,﻿edw_magennis_902,﻿Rev.,﻿Edward Magennis,,,,,,,,1840,﻿,﻿,Philadelphia,Philadelphia
+﻿har.pa.0058,﻿chapel,﻿St. Joseph's,English,,﻿McSherry's town,,,﻿Northumberland County,﻿Milton,﻿Milton,﻿PA,,41.02061259,-76.85129446,,﻿from Conewago,,,,,,,,,,,,1840,﻿,﻿,Philadelphia,Philadelphia
+﻿har.pa.0058,﻿chapel,﻿St. Joseph's,English,﻿Temporary chapel,﻿McSherry's town,,,﻿Northumberland County,﻿Monongahela City,﻿Monongahela,﻿PA,﻿PA,41.02061259,-76.85129446,,,﻿once a month,﻿mic_gallagher_901,﻿Rev.,﻿M. Gallagher,,,,,,,,1840,﻿,﻿,Philadelphia,Philadelphia
+﻿scr.pa.0028,﻿church,﻿St. Juliana,English,,﻿Mount Pleasant Township,,,,,,﻿PA,,,,,,﻿once a month,﻿h_fitzsimmons_901,﻿Rev.,﻿H. Fitzsimmons,,,,,,,,1840,﻿,﻿,Philadelphia,Philadelphia
+﻿pit.pa.9003,﻿church,﻿St. Ignatius,English,,,,,,﻿Mountain Church,,﻿PA,,,,,,﻿4th Sunday,﻿mic_dougherty_902,﻿Rev.,﻿Michael Dougherty,,,,,,,,1840,﻿,﻿,Philadelphia,Philadelphia
+﻿pit.pa.9003,﻿church,﻿St. Patrick's,English,,,,,,﻿Norristown,,﻿PA,,,,,,﻿twice a month,,﻿Rev.,﻿M. O'Connor,,,,,,,,1840,﻿,﻿,Philadelphia,Philadelphia
+﻿pit.pa.0078,﻿church,﻿St. Patrick's,English,,,,,﻿Blair County,﻿Newry,﻿Newry,﻿PA,﻿PA,40.39262199,-78.43296699,,,﻿constantly,﻿jam_bradley_901,﻿Rev.,﻿James Bradley,,,,,,,,1840,﻿,﻿,Philadelphia,Philadelphia
+﻿erie.pa.0131,﻿church,﻿St. Stephen of Hungary,English,,﻿Oil Creek,,,,,﻿Oil City,﻿PA,,,,,,﻿once in five weeks,﻿b_mccabe_901,﻿Rev.,﻿B. McCabe,,,,,,,,1840,﻿,﻿,Philadelphia,Philadelphia
+﻿har.pa.0021,﻿church,not recorded,English,﻿a private chapel,,,,﻿York County,﻿Paradise,﻿Paradise,﻿PA,﻿PA,,,,,,﻿j_w_beschter_902,﻿Rev.,﻿J. W. Beschter,﻿S. J.,,,,,,,1840,﻿,﻿,Philadelphia,Philadelphia
+﻿har.pa.0034,﻿church,﻿St. Ferdinand's,English,,,,,﻿Franklin County,﻿Path Valley,﻿Willow Hill,﻿PA,﻿PA,40.2135368,-77.70637758,,,﻿once a month,﻿tho_heyden_901,﻿Rev.,﻿Thomas Heyden,,,,,,,,1840,﻿,﻿,Philadelphia,Philadelphia
+﻿har.pa.0034,﻿chapel,﻿chapel of St. Mary's,English,﻿attached to College Retreat,﻿Pigeon Hill,,,﻿Franklin County,﻿Path Valley,﻿Willow Hill,﻿PA,,40.2135368,-77.70637758,,,,,,,,,,,,,,1840,﻿,﻿,Philadelphia,Philadelphia
+﻿har.pa.0034,﻿church,﻿St. Mary's,English,﻿attached to College Retreat,﻿Pine Creek,,,﻿Franklin County,﻿Path Valley,﻿Willow Hill,﻿PA,,40.2135368,-77.70637758,,,﻿occasionally,,﻿Very Rev.,﻿Joseph Prost,,,,,,,,1840,﻿,﻿,Philadelphia,Philadelphia
+﻿pit.pa.0001,﻿church,﻿St. Paul's,English,,,,,﻿Allegheny County,﻿Pittsburg,﻿Pittsburg,﻿PA,﻿PA,40.44783415,-79.94997296,,,,﻿joh_oreilly_902,﻿Rev.,﻿John O'Reilly,﻿Pastor,,,,,,,1840,﻿,﻿,Philadelphia,Philadelphia
+﻿pit.pa.0001,﻿church,﻿St. Paul's,English,,,,,﻿Allegheny County,﻿Pittsburg,﻿Pittsburg,﻿PA,,40.44783415,-79.94997296,,,,﻿edw_f_garland_901,﻿Rev.,﻿Ed. F. Garland,﻿Asst.,,,,,,,1840,﻿,﻿,Philadelphia,Philadelphia
+﻿pit.pa.0002,﻿church,﻿St. Patrick's,English,,,,,﻿Allegheny County,﻿Pittsburg,﻿Pittsburg,﻿PA,﻿PA,40.44954473,-79.985124,,,,,﻿Very Rev.,﻿Joseph Prost,,,,,,,,1840,﻿,﻿,Philadelphia,Philadelphia
+﻿pit.pa.0002,﻿chapel,﻿St. Patrick's,﻿German,﻿Closed,,,,﻿Allegheny County,﻿Pittsburg,﻿Pittsburg,﻿PA,,40.44954473,-79.985124,,,,,,,,,,,,,,1840,﻿,﻿,Philadelphia,Philadelphia
+﻿phi.pa.0119,﻿church,﻿St. Patrick's,English,,,,,﻿Schuylkill County,﻿Pottsville,﻿Pottsville,﻿PA,﻿PA,40.68308469,-76.19720629,,,,﻿edw_magennis_902,﻿Rev.,﻿Edward Magennis,,,,,,,,1840,﻿,﻿,Philadelphia,Philadelphia
+﻿phi.pa.0043,﻿church,﻿St. Peter's,English,,,,,﻿Berks County,﻿Reading,﻿Reading,﻿PA,﻿PA,40.33004804,-75.92859369,,,﻿constantly,,﻿Rev.,﻿F. Marshall,,,﻿Vacant,,,,,1840,﻿,﻿,Philadelphia,Philadelphia
+﻿pit.pa.9008,﻿church,﻿St. Nicholas Tolent,English,,,,,,﻿Red Bank,﻿Redbank Township,﻿PA,,,,,,﻿4th Sunday,﻿jos_cody_901,﻿Rev.,﻿J. Cody,,,,,,,,1840,﻿,﻿,Philadelphia,Philadelphia
+﻿pit.pa.9008,﻿church,﻿St. Nicholas Tolent,English,﻿church not ded.,,,,,﻿Shanoquen,﻿Redbank Township,﻿PA,,,,,,,,﻿Rev.,﻿E. Magennis,,,,,,,,1840,﻿,﻿,Philadelphia,Philadelphia
+﻿pit.pa.9008,﻿church,﻿St. Michael's,English,﻿church not ded.,,,,,﻿Shippenville,﻿Redbank Township,﻿PA,,,,,,,,,,,,﻿Vacant,,,,,1840,﻿,﻿,Philadelphia,Philadelphia
+﻿scr.pa.0081,﻿church,﻿St. Augustin's,English,,,,,﻿Susquehanna County,﻿Silver Lake,﻿Brackney,﻿PA,﻿PA,41.96504028,-75.95388103,,,﻿last Sunday,,﻿Rev.,﻿O'Reilly,,,,,,,,1840,﻿,﻿,Philadelphia,Philadelphia
+﻿scr.pa.0081,﻿church,﻿St. Augustin's,English,,﻿Sugar Creek township,,,﻿Susquehanna County,﻿Armstrong County,﻿Brackney,﻿PA,,41.96504028,-75.95388103,,,﻿2d Sunday,﻿jos_cody_901,﻿Rev.,﻿Joseph Cody,,,,,,,,1840,﻿,﻿,Philadelphia,Philadelphia
+﻿phi.pa.0129,﻿church,﻿St. Jerom's,English,,,,,,﻿Tamaqua,,﻿PA,,40.7973112,-75.9693707,,,﻿3d Sunday,﻿j_maloney_901,﻿Rev.,﻿J. Maloney,,,,,,,,1840,﻿,﻿,Philadelphia,Philadelphia
+﻿har.pa.0033,﻿church,﻿St. Andrew's,English,,,,﻿Franklin County,,﻿Waynesburg,,﻿PA,,,,,,﻿once a month,,﻿Rev.,﻿P. Borgna,,,,,,,,1840,﻿,﻿,Philadelphia,Philadelphia
+﻿pit.pa.0101,﻿church,﻿St. Anne,English,,,,﻿Green County,﻿Greene County,﻿Waynesburg,﻿Waynesburg,﻿PA,﻿PA,39.89621361,-80.18363432,,,﻿once in two months,﻿mic_gallagher_901,﻿Rev.,﻿M. Gallagher,,,,,,,,1840,﻿,﻿,Philadelphia,Philadelphia
+﻿phi.pa.0070,﻿church,﻿Christ Church,English,,,,,﻿Chester County,﻿West Chester,﻿West Chester,﻿PA,﻿PA,39.95928452,-75.60872375,,,﻿1st and 3d Sunday,,﻿Rev.,﻿P. Donahoe,,,﻿Dw. at Philadelphia,,,,,1840,﻿,﻿,Philadelphia,Philadelphia
+﻿phi.pa.0070,﻿church,﻿Christ Church,English,,,,﻿Warren County,﻿Chester County,﻿West Chester,﻿West Chester,﻿PA,,39.95928452,-75.60872375,,,﻿occasionally,,﻿Rev.,﻿B. McCabe,,,,,,,,1840,﻿,﻿,Philadelphia,Philadelphia
+﻿pit.pa.0106,﻿church,﻿St. Vincent of Paul,English,,,,,,﻿Youngstown,,﻿PA,,,,,,﻿twice a month,﻿jam_a_stillinger_001,﻿Rev.,﻿J. A. Stillinger,,,,,,,,1840,﻿,﻿,Philadelphia,Philadelphia
+﻿wil.de.0001,﻿church,﻿St. Peter's,English,,,,,﻿New Castle County,﻿Wilmington,﻿Wilmington,﻿DE,﻿DE,39.744655,-75.5483909,,,,﻿pat_kenny_901,﻿Rev.,﻿Patrick Kenny,,,,,,,,1840,﻿,﻿,Philadelphia,Philadelphia
+﻿wil.de.0001,﻿church,﻿St. Peter's,English,,,,,﻿New Castle County,﻿Wilmington,﻿Wilmington,﻿DE,,39.744655,-75.5483909,,,,﻿pat_reilly_902,﻿Rev.,﻿Patrick Reilly,,,,,,,,1840,﻿,﻿,Philadelphia,Philadelphia
+﻿wil.de.0006,﻿church,﻿St. Mary's,English,,,,,﻿New Castle County,﻿Coffee Run,﻿Hockessin,﻿DE,﻿DE,39.7690811,-75.6616973,,,﻿twice a month,﻿pat_kenny_901,﻿Rev.,﻿P. Kenny,,,,,,,,1840,﻿,﻿,Philadelphia,Philadelphia
+﻿wil.de.0007,﻿church,﻿St. Peter's,English,,,,,﻿New Castle County,﻿New Castle,﻿New Castle,﻿DE,﻿DE,39.6625154,-75.5646843,,,﻿once a month,﻿p_reilly_902,﻿Rev.,﻿P. Reilly,,,,,,,,1840,﻿,﻿,Philadelphia,Philadelphia
+﻿new.nj.9000,﻿church,﻿B. Virgin of the Assumption,English,,,,,﻿Atlantic County,﻿Pleasant Mills,﻿Mullica Township,﻿NJ,﻿NJ,39.63816024,-74.64656862,,,﻿1st Sunday,,﻿Rev.,﻿Wm. Loughran,,,,,,,,1840,﻿,﻿,Philadelphia,Philadelphia
+﻿new.nj.0102,﻿church,﻿St. John Bap,English,,,,,﻿Mercer County,﻿Trenton,﻿Trenton,﻿NJ,﻿NJ,40.19908625,-74.7582005,,,﻿constantly,﻿d_magorien_901,﻿Rev.,﻿D. Magorien,,,,,,,,1840,﻿,﻿,Philadelphia,Philadelphia
+﻿phi.pa.0144_02,﻿seminary,﻿Theological Seminary of St. Charles Borromeo,English,﻿Incorporated in 1838,,,,,﻿Philadelphia,,﻿PA,,,,,,,,﻿Rev.,﻿Michael O'Connor,﻿D. D.,﻿President,,﻿student,﻿12 students,,,1840,﻿,﻿,Philadelphia,Philadelphia
+﻿phi.pa.0144_02,﻿seminary,﻿Theological Seminary of St. Charles Borromeo,English,﻿Incorporated in 1838,,,,,﻿Philadelphia,,﻿PA,,,,,,,﻿edw_sourin_901,﻿Rev.,﻿Edward Sourin,﻿Prof. of Scripture,,,﻿student,﻿12 students,,,1840,﻿,﻿,Philadelphia,Philadelphia
+﻿phi.pa.0144_02,﻿seminary,﻿St. Mary's Seminary for Boys,English,﻿Incorporated in 1838,,,,,﻿Wilmington,,﻿DE,,,,,,,﻿p_reilly_902,﻿Rev.,﻿P. Reilly,,,,﻿student,﻿12 students,,,1840,﻿,﻿,Philadelphia,Philadelphia
+﻿wil.de.0001_91,﻿boarding academy,﻿St. Peter's Boarding School for Young Ladies,English,,﻿Quaker Hill,,,,﻿Wilmington,,﻿DE,,,,,,,,,,,,,﻿teacher,﻿varies from twenty to thirty,﻿Sisters of Charity,,1840,﻿,﻿,Philadelphia,Philadelphia
+﻿wil.de.0001_91,﻿school,﻿St. John's Baptist's School,English,,﻿Quaker Hill,,,,﻿M'Sherrystown,,﻿PA,,,,,,,,,,,,,﻿sisters,﻿3 sisters,﻿Sisters of Charity,,1840,﻿,﻿,Philadelphia,Philadelphia
+﻿wil.de.0001_91,﻿school,﻿St. John's Baptist's School,English,,﻿Quaker Hill,,,,﻿M'Sherrystown,,﻿PA,,,,,,,,,,,,,﻿boarders,﻿20 boarders,﻿Sisters of Charity,,1840,﻿,﻿,Philadelphia,Philadelphia
+﻿wil.de.0001_91,﻿school,﻿St. John's Baptist's School,English,,﻿Quaker Hill,,,,﻿M'Sherrystown,,﻿PA,,,,,,,,,,,,,﻿day scholars,﻿20 day scholars,﻿Sisters of Charity,,1840,﻿,﻿,Philadelphia,Philadelphia
+﻿phi.pa.0255,﻿asylum,﻿St. Joseph's Female Orphan Asylum,English,,,,,,﻿Philadelphia,,﻿PA,,,,,,,,,,,,,﻿child,﻿60 orphans,﻿Sisters of Charity,,1840,﻿,﻿,Philadelphia,Philadelphia
+﻿phi.pa.0255,﻿asylum,﻿St. Joseph's Female Orphan Asylum,English,,,,,,﻿Philadelphia,,﻿PA,,,,,,,,,,,,,﻿sisters,﻿5 sisters,﻿Sisters of Charity,,1840,﻿,﻿,Philadelphia,Philadelphia
+﻿phi.pa.0028_02,﻿asylum,﻿St. John's Male Orphan Asylum,English,,,,,,﻿Philadelphia,,﻿PA,,,,,,,,,,,,,﻿child,﻿60 boys,﻿Sisters of Charity,,1840,﻿,﻿,Philadelphia,Philadelphia
+﻿phi.pa.0004_93,﻿day school,﻿St. John's Day School for Boys,English,,,,,,﻿Philadelphia,,﻿PA,,,,,,,,,,,,,﻿scholars,﻿40 scholars,﻿Sisters of Charity,,1840,﻿,﻿,Philadelphia,Philadelphia
+﻿phi.pa.0004_93,﻿day school,﻿St. John's Day School for Girls,English,,,,,,﻿Philadelphia,,﻿PA,,,,,,,,,,,,,﻿scholars,﻿about 80 scholars,﻿Sisters of Charity,,1840,﻿,﻿,Philadelphia,Philadelphia
+﻿phi.pa.0004_93,﻿school,﻿St. Mary's Free School,English,,,,,,﻿Philadelphia,,﻿PA,,,,,,,,,,,,,﻿scholars,﻿220 scholars,﻿Sisters of Charity,,1840,﻿,﻿,Philadelphia,Philadelphia
+﻿phi.pa.0004_93,﻿school,﻿St. Mary's Free School,English,,,,,,﻿Philadelphia,,﻿PA,,,,,,,,,,,,,﻿sisters,﻿3 sisters,﻿Sisters of Charity,,1840,﻿,﻿,Philadelphia,Philadelphia
+﻿phi.pa.0004_93,﻿asylum,﻿St. Paul's Orphan Asylum,English,,,,,,﻿Pittsburg,,﻿PA,,,,,,,,,,,,,﻿female orphans,﻿12 female orphans,﻿Sisters of Charity,,1840,﻿,﻿,Philadelphia,Philadelphia
+﻿phi.pa.0004_93,﻿asylum,﻿St. Paul's Orphan Asylum,English,,,,,,﻿Pittsburg,,﻿PA,,,,,,,,,,,,,﻿sisters,﻿4 sisters,﻿Sisters of Charity,,1840,﻿,﻿,Philadelphia,Philadelphia
+﻿phi.pa.9007,﻿school,﻿St. Paul's School,English,,,,,,﻿Pittsburg,,﻿PA,,,,,,,,,,,,,﻿scholars,﻿120 scholars,﻿Sisters of Charity,,1840,﻿,﻿,Philadelphia,Philadelphia
+﻿phi.pa.9007,﻿school,﻿St. Paul's School,English,,,,,,﻿Pittsburg,,﻿PA,,,,,,,,,,,,,﻿sisters,﻿4 sisters,﻿Sisters of Charity,,1840,﻿,﻿,Philadelphia,Philadelphia
+﻿phi.pa.9007,﻿asylum,﻿St. Paul's School,English,,,,,,﻿Wilmington,,﻿DE,,,,,,,,,,,,,﻿sisters,﻿4 sisters,﻿Sisters of Charity,,1840,﻿,﻿,Philadelphia,Philadelphia
+﻿phi.pa.9007,﻿day school,﻿St. Paul's School,English,,,,,,﻿Wilmington,,﻿DE,,,,,,,,,,,,,﻿sisters,﻿4 sisters,﻿Sisters of Charity,,1840,﻿,﻿,Philadelphia,Philadelphia
