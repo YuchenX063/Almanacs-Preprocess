@@ -7,9 +7,9 @@
 ﻿stp.mn.0002,﻿church,﻿Assumption Church,﻿German,﻿Mass at seven and ten A.M. Vespers at three P.M.,"﻿Ninth street, between St. Peter and Vine streets",,,﻿Ramsey County,﻿St. Paul,﻿St. Paul,﻿MN,,44.948525,-93.099707,,,,﻿cle_staub_001,﻿Rev.,﻿Clement Staub,﻿O.S.B.,,,,,,,1864,﻿,﻿,﻿St. Paul,StPaul
 ﻿stp.mn.0002,﻿church,﻿Assumption Church,﻿German,﻿Mass at seven and ten A.M. Vespers at three P.M.,"﻿Ninth street, between St. Peter and Vine streets",,,﻿Ramsey County,﻿St. Paul,﻿St. Paul,﻿MN,,44.948525,-93.099707,,,,﻿ebe_gahr_002,﻿Rev.,﻿Eberhard Gahr,﻿O.S.B.,,,,,,,1864,﻿,﻿,﻿St. Paul,StPaul
 ﻿stp.mn.0070,﻿church,﻿St. Anthony of Padua,English,,,,﻿Hennepin County,﻿Hennepin County,﻿St. Anthony Falls,﻿St. Anthony,﻿MN,,45.020891,-93.509457,,,,﻿joh_mcdermott_002,﻿Rev.,﻿John McDermott,,,,,,,,1864,﻿,﻿,﻿St. Paul,StPaul
-﻿stp.mn.0071,﻿church,﻿Church of St. Boniface,﻿German,,,,﻿Hennepin County,﻿Hennepin County,﻿St. Anthony,﻿St. Anthony,﻿MN,,45.020557,-93.217933,,﻿Visited from St. Anthony,,,,,,,,,,,,1864,﻿,﻿,﻿St. Paul,StPaul
-﻿stp.mn.0008,﻿church,not recorded,English,,,,﻿Anoka County,﻿Anoka County,﻿Anoka,﻿Anoka,﻿MN,,45.199199,-93.38274,,﻿Visited from St. Anthony,,,,,,,,,,,,1864,﻿,﻿,﻿St. Paul,StPaul
-﻿stp.mn.0322,﻿church,﻿St. Augustin,English,,,,﻿Stearns County,,﻿Augusta,,﻿MN,,,,,﻿Visited from St. Cloud,,,,,,,,,,,,1864,﻿,﻿,﻿St. Paul,StPaul
+﻿stp.mn.0071,﻿church,﻿Church of St. Boniface,﻿German,,,,﻿Hennepin County,﻿Hennepin County,﻿St. Anthony,﻿St. Anthony,﻿MN,,45.020557,-93.217933,﻿stp.mn.0070,﻿Visited from St. Anthony,,,,,,,,,,,,1864,﻿,﻿,﻿St. Paul,StPaul
+﻿stp.mn.0008,﻿church,not recorded,English,,,,﻿Anoka County,﻿Anoka County,﻿Anoka,﻿Anoka,﻿MN,,45.199199,-93.38274,﻿stp.mn.0070,﻿Visited from St. Anthony,,,,,,,,,,,,1864,﻿,﻿,﻿St. Paul,StPaul
+﻿stp.mn.0322,﻿church,﻿St. Augustin,English,,,,﻿Stearns County,,﻿Augusta,,﻿MN,,,,﻿stp.mn.0138,﻿Visited from St. Cloud,,,,,,,,,,,,1864,﻿,﻿,﻿St. Paul,StPaul
 ﻿stp.mn.0102,﻿church,not recorded,English,,,,﻿Mower County,﻿Mower County,﻿Austin,﻿Austin,﻿MN,,43.670039,-92.980759,,﻿Visited from Preston,,,,,,,,,,,,1864,﻿,﻿,﻿St. Paul,StPaul
 ﻿stp.mn.0151,﻿church,﻿St. Martin's,English,,,,﻿Scott County,﻿Scott County,﻿Belle Paine,﻿Belle Plaine,﻿MN,,44.623041,-93.768404,,﻿Visited from New-Prague,,,,,,,,,,,,1864,﻿,﻿,﻿St. Paul,StPaul
 ﻿stp.mn.0335,﻿church,not recorded,English,,,,﻿Benton County,,﻿Belle Prairie,﻿Belle Prairie,﻿MN,,,,,﻿Visited from Crow Wing,,,,,,,,,,,,1864,﻿,﻿,﻿St. Paul,StPaul
@@ -22,7 +22,7 @@
 ﻿stp.mn.0339,﻿church,not recorded,English,,,,﻿Goodhue County,,﻿Buroak Spring,,﻿MN,,,,,﻿Visited from Wabashaw,,,,,,,,,,,,1864,﻿,﻿,﻿St. Paul,StPaul
 ﻿stp.mn.0082,﻿church,﻿St. Patrick's,English,,,,﻿Hennepin County,﻿Hennepin County,﻿Cahill Settlement,﻿Edina,﻿MN,,44.910693,-93.349751,﻿stp.mn.0070,﻿Visited from St. Anthony,,,,,,,,,,,,1864,﻿,﻿,﻿St. Paul,StPaul
 ﻿stp.mn.0083,﻿church,﻿Church of St. ---,English,,,,﻿Houston County,﻿Houston County,﻿Caledonia,﻿Caledonia,﻿MN,,43.640156,-91.495225,,,,﻿e_essing_001,﻿Rev.,﻿Edward Essing,,,,,,,,1864,﻿,﻿,﻿St. Paul,StPaul
-﻿stp.mn.0340,﻿church,not recorded,English,,,,﻿Anoka County,,﻿Cedar Grove,,﻿MN,,,,,﻿Visited from St. Anthony,,,,,,,,,,,,1864,﻿,﻿,﻿St. Paul,StPaul
+﻿stp.mn.0340,﻿church,not recorded,English,,,,﻿Anoka County,,﻿Cedar Grove,,﻿MN,,,,﻿stp.mn.0070,﻿Visited from St. Anthony,,,,,,,,,,,,1864,﻿,﻿,﻿St. Paul,StPaul
 ﻿stp.mn.0154,﻿church,not recorded,English,,,,﻿Dakota County,,﻿Cedar Lake,﻿Cedar Lake Township,﻿MN,,44.595251,-93.50183,﻿stp.mn.0153,﻿Visited from New-Prague,,,,,,,,,,,,1864,﻿,﻿,﻿St. Paul,StPaul
 ﻿stp.mn.0325,﻿church,﻿Church of St. ---,English,,,,﻿Ramsey County,,﻿Centerville,,﻿MN,,,,,﻿Visited from Little Canada,,,,,,,,,,,,1864,﻿,﻿,﻿St. Paul,StPaul
 ﻿stp.mn.0020,﻿church,﻿Guardian Angels,English,,,,﻿Carver County,﻿Carver County,﻿Chaska,﻿Chaska,﻿MN,,44.78516,-93.602783,,﻿Visited from Wakonia,,,,,,,,,,,,1864,﻿,﻿,﻿St. Paul,StPaul
@@ -78,7 +78,7 @@
 ﻿stp.mn.0114,﻿church,not recorded,English,,,,﻿Morrison County,﻿Morrison County,﻿Little Falls,﻿Little Falls,﻿MN,,45.980556,-94.369444,,﻿Visited from Crow-Wing,,,,,,,,,,,,1864,﻿,﻿,﻿St. Paul,StPaul
 ﻿stp.mn.0012,﻿church,﻿St. Philip,English,,,,﻿Blue Earth County,﻿Blue Earth County,﻿Mankato,﻿Mankato,﻿MN,,44.163578,-93.9994,,,,﻿v_sommereisen_001,﻿Rev.,﻿V. Sommerieson,,,,,,,,1864,﻿,﻿,﻿St. Paul,StPaul
 ﻿stp.mn.0206,﻿church,not recorded,English,,,,﻿Washington County,﻿Washington County,﻿Malone Settlement,﻿Cottage Grove,﻿MN,,44.756915,-92.820045,﻿stp.mn.0203,﻿Visited from Stillwater,,,,,,,,,,,,1864,﻿,﻿,﻿St. Paul,StPaul
-﻿stp.mn.0081,﻿church,not recorded,English,,,,﻿Hennepin County,﻿Hennepin County,﻿Maple Grove,﻿Maple Grove,﻿MN,,45.072464,-93.455788,,﻿Visited from St. Anthony,,,,,,,,,,,,1864,﻿,﻿,﻿St. Paul,StPaul
+﻿stp.mn.0081,﻿church,not recorded,English,,,,﻿Hennepin County,﻿Hennepin County,﻿Maple Grove,﻿Maple Grove,﻿MN,,45.072464,-93.455788,﻿stp.mn.0070,﻿Visited from St. Anthony,,,,,,,,,,,,1864,﻿,﻿,﻿St. Paul,StPaul
 ﻿stp.mn.0286,﻿church,not recorded,English,,﻿Marine Mills,,﻿Washington County,﻿Washington County,,,﻿MN,,,,﻿stp.mn.0203,﻿Visited from Stillwater,,,,,,,,,,,,1864,﻿,﻿,﻿St. Paul,StPaul
 ﻿stp.mn.0354,﻿church,not recorded,English,,,,﻿Wright County,,﻿Marysville,,﻿MN,,,,,﻿Visited from St. Michael's,,,,,,,,,,,,1864,﻿,﻿,﻿St. Paul,StPaul
 ﻿stp.mn.0094,﻿church,﻿St. Patrick,English,,,,﻿Le Sueur County,﻿Le Sueur County,﻿Marysburgh,﻿Marysburg,﻿MN,,44.240245,-93.816897,﻿stp.mn.0012,﻿Visited from Mankato,,,,,,,,,,,,1864,﻿,﻿,﻿St. Paul,StPaul

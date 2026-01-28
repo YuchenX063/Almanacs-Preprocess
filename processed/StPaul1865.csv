@@ -8,7 +8,7 @@
 ﻿stp.mn.0002,﻿church,﻿Assumption Church,﻿German,﻿Mass at seven and ten A.M. Vespers at three P.M.,"﻿Ninth street, between St. Peter and Vine streets",,,﻿Ramsey County,﻿St. Paul,﻿St. Paul,﻿MN,,44.948525,-93.099707,,,,﻿ebe_gahr_002,﻿Rev.,﻿Eberhard Gahr,﻿O.S.B.,,,,,,,1865,﻿,﻿,﻿St. Paul,StPaul
 ﻿stp.mn.0321,﻿chapel,﻿Chapel of St. Joseph's Academy,English,,,,,﻿Ramsey County,﻿St. Paul,﻿St. Paul,﻿MN,,,,,,,﻿dem_marogna_001,﻿Very Rev.,﻿Demetrius Marogna,﻿O.S.B.,,,,,,,1865,﻿,﻿,﻿St. Paul,StPaul
 ﻿stp.mn.0103,﻿church,﻿St. John's,English,,,,﻿Mower County,﻿Mower County,﻿Adamstown,﻿Adams,﻿MN,,43.565244,-92.71935,﻿stp.mn.0129,﻿Visited from Faribault,,,,,,,,,,,,1865,﻿,﻿,﻿St. Paul,StPaul
-﻿stp.mn.0008,﻿church,not recorded,English,,,,﻿Anoka County,﻿Anoka County,﻿Anoka,﻿Anoka,﻿MN,,45.199199,-93.38274,,﻿Visited from St. Anthony,,,,,,,,,,,,1865,﻿,﻿,﻿St. Paul,StPaul
+﻿stp.mn.0008,﻿church,not recorded,English,,,,﻿Anoka County,﻿Anoka County,﻿Anoka,﻿Anoka,﻿MN,,45.199199,-93.38274,﻿stp.mn.0070,﻿Visited from St. Anthony,,,,,,,,,,,,1865,﻿,﻿,﻿St. Paul,StPaul
 ﻿stp.mn.0070,﻿church,﻿St. Anthony of Padua,English,,,,﻿Hennepin County,﻿Hennepin County,﻿St. Anthony's Falls,﻿St. Anthony,﻿MN,,45.020891,-93.509457,,,,﻿joh_mcdermott_002,﻿Rev.,﻿Jno McDermott,,,,,,,,1865,﻿,﻿,﻿St. Paul,StPaul
 ﻿stp.mn.0071,﻿church,﻿St. Boniface,﻿German,,,,﻿Hennepin County,﻿Hennepin County,﻿St. Anthony's Falls,﻿St. Anthony,﻿MN,,45.020557,-93.217933,,﻿Visited from Frankfort,,,,,,,,,,,,1865,﻿,﻿,﻿St. Paul,StPaul
 ﻿stp.mn.0169,﻿church,not recorded,English,,,,﻿Sibley County,﻿Sibley County,﻿Arlington,﻿Arlington,﻿MN,,44.608297,-94.080528,﻿stp.mn.0164,﻿Visited from Henderson,,,,,,,,,,,,1865,﻿,﻿,﻿St. Paul,StPaul
@@ -29,7 +29,7 @@
 ﻿stp.mn.0083,﻿church,﻿St. John Baptist,English,,,,﻿Houston County,﻿Houston County,﻿Caledonia,﻿Caledonia,﻿MN,,43.640156,-91.495225,,,,﻿e_essing_001,﻿Rev.,﻿E. Essing,,,,,,,,1865,﻿,﻿,﻿St. Paul,StPaul
 ﻿stp.mn.0069,﻿church,﻿Church of ----,English,,,,﻿Goodhue County,﻿Goodhue County,﻿Cannon Falls,﻿Cannon Falls,﻿MN,,44.505218,-92.906315,﻿stp.mn.0035,﻿Visited from New-Treves,,,,,,,,,,,,1865,﻿,﻿,﻿St. Paul,StPaul
 ﻿stp.mn.0324,﻿church,﻿Church of ----,English,,,,﻿Fillmore County,,﻿Carroltown,,﻿MN,,,,,﻿Visited from Rochester,,,,,,,,,,,,1865,﻿,﻿,﻿St. Paul,StPaul
-﻿stp.mn.0268,﻿church,not recorded,English,,,,﻿Anoka County,﻿Anoka County,﻿Cedar Creek,,﻿MN,,,,,﻿Visited from St. Anthony,,,,,,,,,,,,1865,﻿,﻿,﻿St. Paul,StPaul
+﻿stp.mn.0268,﻿church,not recorded,English,,,,﻿Anoka County,﻿Anoka County,﻿Cedar Creek,,﻿MN,,,,﻿stp.mn.0070,﻿Visited from St. Anthony,,,,,,,,,,,,1865,﻿,﻿,﻿St. Paul,StPaul
 ﻿stp.mn.0154,﻿church,not recorded,English,,,,﻿Dakota County,,﻿Cedar Lake,﻿Cedar Lake Township,﻿MN,,44.595251,-93.50183,﻿stp.mn.0153,﻿Visited from New-Prague,,,,,,,,,,,,1865,﻿,﻿,﻿St. Paul,StPaul
 ﻿stp.mn.0009,﻿church,not recorded,English,,,,﻿Anoka County,﻿Anoka County,﻿Centreville,﻿Centerville,﻿MN,,45.163548,-93.058028,﻿stp.mn.0007,﻿Visited from Little Canada,,,,,,,,,,,,1865,﻿,﻿,﻿St. Paul,StPaul
 ﻿stp.mn.0325,﻿church,not recorded,English,,,,﻿Wabashaw County,,﻿Centreville,﻿Centerville,﻿MN,,,,,﻿Visited from Wabashaw,,,,,,,,,,,,1865,﻿,﻿,﻿St. Paul,StPaul
